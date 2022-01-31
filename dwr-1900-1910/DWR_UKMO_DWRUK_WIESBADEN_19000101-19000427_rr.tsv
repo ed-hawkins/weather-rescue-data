@@ -1,0 +1,127 @@
+SEF	0.2.0
+ID	DWRUK_WIESBADEN
+Name	Wiesbaden
+Lat	50.08
+Lon	8.24
+Alt	
+Source	DWR_UKMO
+Link	
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1900	1	1	7	0	p1day	1.02	orig=0.04in
+1900	1	2	7	0	p1day	0	orig=0.0in
+1900	1	3	7	0	p1day	7.11	orig=0.28in
+1900	1	4	7	0	p1day	8.89	orig=0.35in
+1900	1	5	7	0	p1day	0	orig=0.0in
+1900	1	6	7	0	p1day	0	orig=0.0in
+1900	1	7	7	0	p1day	0	orig=0.0in
+1900	1	8	7	0	p1day	0	orig=0.0in
+1900	1	9	7	0	p1day	0	orig=0.0in
+1900	1	10	7	0	p1day	10.92	orig=0.43in
+1900	1	11	7	0	p1day	5.08	orig=0.2in
+1900	1	12	7	0	p1day	0	orig=0.0in
+1900	1	13	7	0	p1day	0	orig=0.0in
+1900	1	14	7	0	p1day	0	orig=0.0in
+1900	1	15	7	0	p1day	0	orig=0.0in
+1900	1	17	7	0	p1day	6.1	orig=0.24in
+1900	1	18	7	0	p1day	6.1	orig=0.24in
+1900	1	19	7	0	p1day	0	orig=0.0in
+1900	1	20	7	0	p1day	0	orig=0.0in
+1900	1	21	7	0	p1day	11.94	orig=0.47in
+1900	1	22	7	0	p1day	9.91	orig=0.39in
+1900	1	23	7	0	p1day	0	orig=0.0in
+1900	1	24	7	0	p1day	0	orig=0.0in
+1900	1	25	7	0	p1day	5.08	orig=0.2in
+1900	1	26	7	0	p1day	3.05	orig=0.12in
+1900	1	27	7	0	p1day	2.03	orig=0.08in
+1900	1	28	7	0	p1day	7.11	orig=0.28in
+1900	1	29	7	0	p1day	6.1	orig=0.24in
+1900	1	30	7	0	p1day	3.05	orig=0.12in
+1900	1	31	7	0	p1day	3.05	orig=0.12in
+1900	2	1	7	0	p1day	1.02	orig=0.04in
+1900	2	2	7	0	p1day	0	orig=0.0in
+1900	2	3	7	0	p1day	0	orig=0.0in
+1900	2	4	7	0	p1day	0	orig=0.0in
+1900	2	5	7	0	p1day	1.02	orig=0.04in
+1900	2	6	7	0	p1day	0	orig=0.0in
+1900	2	7	7	0	p1day	3.05	orig=0.12in
+1900	2	8	7	0	p1day	0	orig=0.0in
+1900	2	9	7	0	p1day	0	orig=0.0in
+1900	2	10	7	0	p1day	0	orig=0.0in
+1900	2	11	7	0	p1day	0	orig=0.0in
+1900	2	12	7	0	p1day	2.03	orig=0.08in
+1900	2	13	7	0	p1day	1.02	orig=0.04in
+1900	2	14	7	0	p1day	11.94	orig=0.47in
+1900	2	15	7	0	p1day	0	orig=0.0in
+1900	2	16	7	0	p1day	7.11	orig=0.28in
+1900	2	17	7	0	p1day	4.06	orig=0.16in
+1900	2	18	7	0	p1day	0	orig=0.0in
+1900	2	19	7	0	p1day	1.02	orig=0.04in
+1900	2	20	7	0	p1day	6.1	orig=0.24in
+1900	2	21	7	0	p1day	4.06	orig=0.16in
+1900	2	22	7	0	p1day	1.02	orig=0.04in
+1900	2	23	7	0	p1day	1.02	orig=0.04in
+1900	2	24	7	0	p1day	4.06	orig=0.16in
+1900	2	26	7	0	p1day	0	orig=0.0in
+1900	2	27	7	0	p1day	1.02	orig=0.04in
+1900	2	28	7	0	p1day	0	orig=0.0in
+1900	3	1	7	0	p1day	0	orig=0.0in
+1900	3	2	7	0	p1day	0	orig=0.0in
+1900	3	3	7	0	p1day	0	orig=0.0in
+1900	3	4	7	0	p1day	0	orig=0.0in
+1900	3	5	7	0	p1day	0	orig=0.0in
+1900	3	6	7	0	p1day	0	orig=0.0in
+1900	3	7	7	0	p1day	0	orig=0.0in
+1900	3	8	7	0	p1day	0	orig=0.0in
+1900	3	9	7	0	p1day	0	orig=0.0in
+1900	3	10	7	0	p1day	0	orig=0.0in
+1900	3	11	7	0	p1day	0	orig=0.0in
+1900	3	12	7	0	p1day	0	orig=0.0in
+1900	3	13	7	0	p1day	0	orig=0.0in
+1900	3	14	7	0	p1day	2.03	orig=0.08in
+1900	3	15	7	0	p1day	2.03	orig=0.08in
+1900	3	17	7	0	p1day	4.06	orig=0.16in
+1900	3	18	7	0	p1day	4.06	orig=0.16in
+1900	3	19	7	0	p1day	0	orig=0.0in
+1900	3	20	7	0	p1day	0	orig=0.0in
+1900	3	21	7	0	p1day	0	orig=0.0in
+1900	3	22	7	0	p1day	0	orig=0.0in
+1900	3	23	7	0	p1day	3.05	orig=0.12in
+1900	3	24	7	0	p1day	8.13	orig=0.32in
+1900	3	25	7	0	p1day	2.03	orig=0.08in
+1900	3	26	7	0	p1day	0	orig=0.0in
+1900	3	27	7	0	p1day	0	orig=0.0in
+1900	3	28	7	0	p1day	2.03	orig=0.08in
+1900	3	29	7	0	p1day	0	orig=0.0in
+1900	3	30	7	0	p1day	0	orig=0.0in
+1900	3	31	7	0	p1day	0	orig=0.0in
+1900	4	1	7	0	p1day	0	orig=0.0in
+1900	4	2	7	0	p1day	0	orig=0.0in
+1900	4	3	7	0	p1day	0	orig=0.0in
+1900	4	4	7	0	p1day	3.05	orig=0.12in
+1900	4	5	7	0	p1day	8.89	orig=0.35in
+1900	4	6	7	0	p1day	0	orig=0.0in
+1900	4	7	7	0	p1day	0	orig=0.0in
+1900	4	8	7	0	p1day	1.02	orig=0.04in
+1900	4	9	7	0	p1day	0	orig=0.0in
+1900	4	10	7	0	p1day	0	orig=0.0in
+1900	4	11	7	0	p1day	0	orig=0.0in
+1900	4	12	7	0	p1day	2.03	orig=0.08in
+1900	4	13	7	0	p1day	1.02	orig=0.04in
+1900	4	14	7	0	p1day	7.11	orig=0.28in
+1900	4	15	7	0	p1day	0	orig=0.0in
+1900	4	16	7	0	p1day	0	orig=0.0in
+1900	4	17	7	0	p1day	0	orig=0.0in
+1900	4	18	7	0	p1day	0	orig=0.0in
+1900	4	19	7	0	p1day	0	orig=0.0in
+1900	4	20	7	0	p1day	0	orig=0.0in
+1900	4	21	7	0	p1day	0	orig=0.0in
+1900	4	22	7	0	p1day	0	orig=0.0in
+1900	4	23	7	0	p1day	0	orig=0.0in
+1900	4	24	7	0	p1day	0	orig=0.0in
+1900	4	25	7	0	p1day	0	orig=0.0in
+1900	4	26	7	0	p1day	0	orig=0.0in
+1900	4	27	7	0	p1day	0	orig=0.0in

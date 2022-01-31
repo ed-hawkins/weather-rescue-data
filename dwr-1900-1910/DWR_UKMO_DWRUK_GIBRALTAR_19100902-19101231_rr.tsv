@@ -1,0 +1,72 @@
+SEF	0.2.0						
+ID	DWRUK_GIBRALTAR						
+Name	Gibraltar						
+Lat	36.134349						
+Lon	-5.353805						
+Alt	14.6						
+Source	DWR_UKMO						
+Link							
+Vbl	rr						
+Stat	sum						
+Units	mm						
+Meta							
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1910	9	2	7	0	p1day	0	orig=0.0in
+1910	10	1	7	0	p1day	12.7	orig=0.5in
+1910	10	2	7	0	p1day	0	orig=0.0in
+1910	10	16	7	0	p1day	0	orig=0.0in
+1910	10	27	7	0	p1day	28.19	orig=1.11in
+1910	10	30	7	0	p1day	8.13	orig=0.32in
+1910	10	31	7	0	p1day	3.05	orig=0.12in
+1910	11	1	7	0	p1day	0	orig=0.0in
+1910	11	5	7	0	p1day	8.89	orig=0.35in
+1910	11	6	7	0	p1day	0	orig=0.0in
+1910	11	7	7	0	p1day	0	orig=0.0in
+1910	11	8	7	0	p1day	0	orig=0.0in
+1910	11	9	7	0	p1day	1.78	orig=0.07in
+1910	11	10	7	0	p1day	0	orig=0.0in
+1910	11	11	7	0	p1day	0	orig=0.0in
+1910	11	12	7	0	p1day	0	orig=0.0in
+1910	11	14	7	0	p1day	0	orig=0.0in
+1910	11	15	7	0	p1day	0	orig=0.0in
+1910	11	16	7	0	p1day	0	orig=0.0in
+1910	11	17	7	0	p1day	0	orig=0.0in
+1910	11	18	7	0	p1day	0	orig=0.0in
+1910	11	19	7	0	p1day	0	orig=0.0in
+1910	11	20	7	0	p1day	0	orig=0.0in
+1910	11	21	7	0	p1day	0	orig=0.0in
+1910	11	23	7	0	p1day	0	orig=0.0in
+1910	11	24	7	0	p1day	0	orig=0.0in
+1910	11	25	7	0	p1day	0	orig=0.0in
+1910	11	26	7	0	p1day	0	orig=0.0in
+1910	11	27	7	0	p1day	0	orig=0.0in
+1910	11	28	7	0	p1day	0	orig=0.0in
+1910	11	29	7	0	p1day	0	orig=0.0in
+1910	11	30	7	0	p1day	7.11	orig=0.28in
+1910	12	1	7	0	p1day	0	orig=0.0in
+1910	12	2	7	0	p1day	0	orig=0.0in
+1910	12	3	7	0	p1day	0	orig=0.0in
+1910	12	4	7	0	p1day	10.16	orig=0.4in
+1910	12	5	7	0	p1day	110.49	orig=4.35in
+1910	12	6	7	0	p1day	35.05	orig=1.38in
+1910	12	7	7	0	p1day	0	orig=0.0in
+1910	12	8	7	0	p1day	8.64	orig=0.34in
+1910	12	9	7	0	p1day	27.94	orig=1.1in
+1910	12	10	7	0	p1day	6.1	orig=0.24in
+1910	12	11	7	0	p1day	15.75	orig=0.62in
+1910	12	12	7	0	p1day	0	orig=0.0in
+1910	12	13	7	0	p1day	0	orig=0.0in
+1910	12	14	7	0	p1day	8.38	orig=0.33in
+1910	12	15	7	0	p1day	0	orig=0.0in
+1910	12	16	7	0	p1day	0	orig=0.0in
+1910	12	17	7	0	p1day	0	orig=0.0in
+1910	12	18	7	0	p1day	0	orig=0.0in
+1910	12	19	7	0	p1day	0	orig=0.0in
+1910	12	20	7	0	p1day	0	orig=0.0in
+1910	12	21	7	0	p1day	0	orig=0.0in
+1910	12	22	7	0	p1day	0	orig=0.0in
+1910	12	26	7	0	p1day	0	orig=0.0in
+1910	12	27	7	0	p1day	0	orig=0.0in
+1910	12	28	7	0	p1day	0	orig=0.0in
+1910	12	29	7	0	p1day	0	orig=0.0in
+1910	12	31	7	0	p1day	0	orig=0.0in

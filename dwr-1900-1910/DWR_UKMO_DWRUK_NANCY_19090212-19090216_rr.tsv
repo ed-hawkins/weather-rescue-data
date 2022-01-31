@@ -1,0 +1,18 @@
+SEF	0.2.0
+ID	DWRUK_NANCY
+Name	Nancy
+Lat	48.69
+Lon	6.18
+Alt	
+Source	DWR_UKMO
+Link	
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1909	2	12	6	51	p1day	0	orig=0.0in
+1909	2	13	6	51	p1day	0	orig=0.0in
+1909	2	14	6	51	p1day	0	orig=0.0in
+1909	2	15	6	51	p1day	0	orig=0.0in
+1909	2	16	6	51	p1day	0	orig=0.0in
