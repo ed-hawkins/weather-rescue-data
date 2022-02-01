@@ -20,8 +20,8 @@ iceland: from Trausti Jonsson
 
 italy: from various sources
 
-uk-midas: extraction of all pressure observations from Met Office MIDAS database
-
 reading: data from two stations in Reading
 
 scilly: processed data transcribed by Edward Hanna
+
+uk-midas: extraction of all pressure observations from Met Office MIDAS database
