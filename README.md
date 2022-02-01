@@ -2,6 +2,8 @@
 
 ## Repository for data files released due to historical weather observation recovery activities
 
+australia: from Linden Ashcroft
+
 ben-nevis-project: from Hawkins et al. 2019
 
 channel-islands: reprocessing of ISPDv4 stations on Jersey
@@ -14,7 +16,11 @@ dwr-1919-1960: from Hawkins et al. 2022
 
 emulate-project: reprocessing of data from Rob Allan
 
-midas: extraction of all pressure observations from Met Office MIDAS database
+iceland: from Trausti Jonsson
+
+italy: from various sources
+
+uk-midas: extraction of all pressure observations from Met Office MIDAS database
 
 reading: data from two stations in Reading
 
