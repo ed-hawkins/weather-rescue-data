@@ -1,0 +1,13 @@
+SEF	1.0.0
+ID	Kyritz
+Name	Kyritz
+Lat	52.9333
+Lon	12.4167
+Alt	48.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 02794
+Year	Month	Day	Hour	Minute	Period	Value	Meta
