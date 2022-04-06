@@ -6,7 +6,7 @@ australia: from Linden Ashcroft
 
 ben-nevis-project: from Hawkins et al. 2019
 
-channel-islands: reprocessing of ISPDv4 stations on Jersey from data provided by Frank Le Blanc
+channel-islands: reprocessing of ISPDv4 stations on Jersey from data provided by Frank Le Blancq
 
 durham: from Burt 2021
 
