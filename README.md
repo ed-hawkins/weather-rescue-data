@@ -2,7 +2,7 @@
 
 ## Repository for data files released due to historical weather observation recovery activities
 
-australia: from Linden Ashcroft
+australia: from Linden Ashcroft (Melbourne)
 
 ben-nevis-project: from Hawkins et al. 2019
 
@@ -27,3 +27,5 @@ reading: data from two stations in Reading provided by Roger Brugge
 scilly: processed data transcribed by Edward Hanna
 
 uk-midas: extraction of all pressure observations from Met Office MIDAS database by Ed Hawkins
+
+ukraine: spreadsheets from Skrynyk et al. https://doi.org/10.1002/gdj3.108
