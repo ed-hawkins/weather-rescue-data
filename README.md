@@ -22,10 +22,10 @@ iceland: data processed from files provided by Trausti Jonsson
 
 italy: from various sources
 
+norway: extracted from frost.met.no by Ed Hawkins
+
 reading: data from two stations in Reading provided by Roger Brugge
 
 scilly: processed data transcribed by Edward Hanna
 
 uk-midas: extraction of all pressure observations from Met Office MIDAS database by Ed Hawkins
-
-ukraine: spreadsheets from Skrynyk et al. https://doi.org/10.1002/gdj3.108
