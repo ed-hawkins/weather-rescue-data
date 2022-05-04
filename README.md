@@ -10,9 +10,9 @@ channel-islands: reprocessing of ISPDv4 stations on Jersey from data provided by
 
 durham: from Burt 2021
 
-dwr-1900-1910: from Craig & Hawkins 2020
+dwr-1900-1910: UK Daily Weather Reports data from Craig & Hawkins 2020
 
-dwr-1919-1960: from Hawkins et al. 2022
+dwr-1919-1960: UK Daily Weather Reports data from Hawkins et al. 2022
 
 emulate-project: reprocessing of data from Rob Allan
 
