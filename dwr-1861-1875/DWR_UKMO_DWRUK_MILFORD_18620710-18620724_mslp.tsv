@@ -1,0 +1,26 @@
+SEF	1.0.0
+ID	DWRUK_MILFORD
+Name	Milford Haven
+Lat	51.71
+Lon	-5.04
+Alt	
+Source	DWR_UKMO
+Link	
+Vbl	mslp
+Stat	point
+Units	hPa
+Meta	PTC=Y|PGC=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1862	7	10	8	0	0	1010.498776	orig=29.84inHg
+1862	7	11	8	0	0	1015.917	orig=?30.0inHg
+1862	7	12	8	0	0	998.98505	orig=?29.5inHg
+1862	7	14	8	0	0	1009.482859	orig=?29.81inHg
+1862	7	15	8	0	0	1007.789664	orig=29.76inHg
+1862	7	16	8	0	0	1008.805581	orig=29.79inHg
+1862	7	17	8	0	0	1010.160137	orig=29.83inHg
+1862	7	18	8	0	0	1013.546527	orig=29.93inHg
+1862	7	19	8	0	0	1011.853332	orig=29.88inHg
+1862	7	21	8	0	0	1025.060253	orig=30.27inHg
+1862	7	22	8	0	0	1024.382975	orig=30.25inHg
+1862	7	23	8	0	0	1015.917	orig=30.0inHg
+1862	7	24	8	0	0	1014.562444	orig=29.96inHg

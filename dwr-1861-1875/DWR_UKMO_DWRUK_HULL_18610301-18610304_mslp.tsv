@@ -1,0 +1,16 @@
+SEF	1.0.0
+ID	DWRUK_HULL
+Name	Hull
+Lat	53.74
+Lon	-0.34
+Alt	
+Source	DWR_UKMO
+Link	
+Vbl	mslp
+Stat	point
+Units	hPa
+Meta	PTC=Y|PGC=N
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1861	3	1	8	0	0	1000.000967	orig=29.53inHg
+1861	3	2	8	0	0	1006.773747	orig=29.73inHg
+1861	3	4	8	0	0	1008.805581	orig=29.79inHg

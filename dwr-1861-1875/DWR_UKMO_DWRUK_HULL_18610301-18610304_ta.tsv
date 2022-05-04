@@ -1,0 +1,16 @@
+SEF	1.0.0
+ID	DWRUK_HULL
+Name	Hull
+Lat	53.74
+Lon	-0.34
+Alt	
+Source	DWR_UKMO
+Link	
+Vbl	ta
+Stat	point
+Units	C
+Meta	
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1861	3	1	8	0	0	5.55555555556	orig=42F
+1861	3	2	8	0	0	3.88888888889	orig=39F
+1861	3	4	8	0	0	3.33333333333	orig=38F
