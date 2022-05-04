@@ -28,4 +28,6 @@ reading: data from two stations in Reading provided by Roger Brugge
 
 scilly: processed data transcribed by Edward Hanna
 
+sweden: extracted from SMHI Open Data portal by Ed Hawkins
+
 uk-midas: extraction of all pressure observations from Met Office MIDAS database by Ed Hawkins
