@@ -30,4 +30,8 @@ scilly: processed data transcribed by Edward Hanna
 
 sweden: extracted from SMHI Open Data portal by Ed Hawkins
 
+switzerland-chimes: direct from Brugnara et al. 2020 (https://github.com/ybrugnara/CHIMES)
+
+uk-1903: various files focussed on UK data from 1903 by Ed Hawkins
+
 uk-midas: extraction of all pressure observations from Met Office MIDAS database by Ed Hawkins

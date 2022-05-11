@@ -1,0 +1,101 @@
+SEF	0.2.0
+ID	BE01_Bern_Koch
+Name	Bern
+Lat	46.94812
+Lon	7.45196
+Alt	534
+Source	CHIMES
+Link	https://doi.org/10.5194/cp-15-1345-2019
+Vbl	p
+Stat	mean
+Units	hPa
+Meta	Observer=Johann Rudolf Koch|PTC=Y|PGC=Y
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1855	6	2	11	30	7day	944.4	orig=708.4mm|orig.time=weekly mean 12pm
+1855	6	2	15	30	7day	944.4	orig=708.4mm|orig.time=weekly mean 4pm
+1855	6	2	7	30	7day	945.1	orig=708.9mm|orig.time=weekly mean 8am
+1855	6	2	19	30	7day	944.6	orig=708.5mm|orig.time=weekly mean 8pm
+1855	6	9	11	30	7day	952.3	orig=714.3mm|orig.time=weekly mean 12pm
+1855	6	9	15	30	7day	952.0	orig=714.1mm|orig.time=weekly mean 4pm
+1855	6	9	7	30	7day	952.7	orig=714.6mm|orig.time=weekly mean 8am
+1855	6	9	19	30	7day	952.6	orig=714.5mm|orig.time=weekly mean 8pm
+1855	6	16	11	30	7day	949.0	orig=711.8mm|orig.time=weekly mean 12pm
+1855	6	16	15	30	7day	947.8	orig=710.9mm|orig.time=weekly mean 4pm
+1855	6	16	7	30	7day	950.0	orig=712.6mm|orig.time=weekly mean 8am
+1855	6	16	19	30	7day	947.9	orig=711mm|orig.time=weekly mean 8pm
+1855	6	23	11	30	7day	951.5	orig=713.7mm|orig.time=weekly mean 12pm
+1855	6	23	15	30	7day	951.6	orig=713.8mm|orig.time=weekly mean 4pm
+1855	6	23	7	30	7day	950.7	orig=713.1mm|orig.time=weekly mean 8am
+1855	6	23	19	30	7day	951.9	orig=714mm|orig.time=weekly mean 8pm
+1855	6	30	11	30	7day	958.2	orig=718.7mm|orig.time=weekly mean 12pm
+1855	6	30	15	30	7day	958.3	orig=718.8mm|orig.time=weekly mean 4pm
+1855	6	30	7	30	7day	958.3	orig=718.8mm|orig.time=weekly mean 8am
+1855	6	30	19	30	7day	958.3	orig=718.8mm|orig.time=weekly mean 8pm
+1855	7	7	11	30	7day	956.3	orig=717.3mm|orig.time=weekly mean 12pm
+1855	7	7	15	30	7day	955.1	orig=716.4mm|orig.time=weekly mean 4pm
+1855	7	7	7	30	7day	956.7	orig=717.6mm|orig.time=weekly mean 8am
+1855	7	7	19	30	7day	954.8	orig=716.2mm|orig.time=weekly mean 8pm
+1855	7	14	11	30	7day	948.8	orig=711.7mm|orig.time=weekly mean 12pm
+1855	7	14	15	30	7day	947.9	orig=711mm|orig.time=weekly mean 4pm
+1855	7	14	7	30	7day	949.2	orig=712mm|orig.time=weekly mean 8am
+1855	7	14	19	30	7day	948.6	orig=711.5mm|orig.time=weekly mean 8pm
+1855	7	21	11	30	7day	950.6	orig=713mm|orig.time=weekly mean 12pm
+1855	7	21	15	30	7day	950.0	orig=712.6mm|orig.time=weekly mean 4pm
+1855	7	21	7	30	7day	950.4	orig=712.9mm|orig.time=weekly mean 8am
+1855	7	21	19	30	7day	950.4	orig=712.9mm|orig.time=weekly mean 8pm
+1855	7	28	11	30	7day	951.1	orig=713.4mm|orig.time=weekly mean 12pm
+1855	7	28	15	30	7day	950.0	orig=712.6mm|orig.time=weekly mean 4pm
+1855	7	28	7	30	7day	951.8	orig=713.9mm|orig.time=weekly mean 8am
+1855	7	28	19	30	7day	951.0	orig=713.3mm|orig.time=weekly mean 8pm
+1855	9	1	11	30	7day	955.0	orig=716.3mm|orig.time=weekly mean 12pm
+1855	9	1	15	30	7day	954.4	orig=715.9mm|orig.time=weekly mean 4pm
+1855	9	1	7	30	7day	955.8	orig=716.9mm|orig.time=weekly mean 8am
+1855	9	1	19	30	7day	954.8	orig=716.2mm|orig.time=weekly mean 8pm
+1855	9	8	11	30	7day	951.4	orig=713.6mm|orig.time=weekly mean 12pm
+1855	9	8	15	30	7day	951.1	orig=713.4mm|orig.time=weekly mean 4pm
+1855	9	8	7	30	7day	950.6	orig=713mm|orig.time=weekly mean 8am
+1855	9	8	19	30	7day	951.9	orig=714mm|orig.time=weekly mean 8pm
+1855	9	15	11	30	7day	951.9	orig=714mm|orig.time=weekly mean 12pm
+1855	9	15	15	30	7day	951.9	orig=714mm|orig.time=weekly mean 4pm
+1855	9	15	7	30	7day	952.6	orig=714.5mm|orig.time=weekly mean 8am
+1855	9	15	19	30	7day	952.2	orig=714.2mm|orig.time=weekly mean 8pm
+1855	9	22	11	30	7day	954.7	orig=716.1mm|orig.time=weekly mean 12pm
+1855	9	22	15	30	7day	954.0	orig=715.6mm|orig.time=weekly mean 4pm
+1855	9	22	7	30	7day	954.6	orig=716mm|orig.time=weekly mean 8am
+1855	9	22	19	30	7day	954.6	orig=716mm|orig.time=weekly mean 8pm
+1855	9	29	11	30	7day	955.5	orig=716.7mm|orig.time=weekly mean 12pm
+1855	9	29	15	30	7day	954.2	orig=715.7mm|orig.time=weekly mean 4pm
+1855	9	29	7	30	7day	956.2	orig=717.2mm|orig.time=weekly mean 8am
+1855	9	29	19	30	7day	954.4	orig=715.9mm|orig.time=weekly mean 8pm
+1855	10	6	11	30	7day	945.0	orig=708.8mm|orig.time=weekly mean 12pm
+1855	10	6	15	30	7day	944.2	orig=708.2mm|orig.time=weekly mean 4pm
+1855	10	6	7	30	7day	945.0	orig=708.8mm|orig.time=weekly mean 8am
+1855	10	6	19	30	7day	945.5	orig=709.2mm|orig.time=weekly mean 8pm
+1855	10	13	11	30	7day	946.4	orig=709.9mm|orig.time=weekly mean 12pm
+1855	10	13	15	30	7day	945.5	orig=709.2mm|orig.time=weekly mean 4pm
+1855	10	13	7	30	7day	946.3	orig=709.8mm|orig.time=weekly mean 8am
+1855	10	13	19	30	7day	947.4	orig=710.6mm|orig.time=weekly mean 8pm
+1855	10	20	11	30	7day	949.4	orig=712.1mm|orig.time=weekly mean 12pm
+1855	10	20	15	30	7day	950.0	orig=712.6mm|orig.time=weekly mean 4pm
+1855	10	20	7	30	7day	949.4	orig=712.1mm|orig.time=weekly mean 8am
+1855	10	20	19	30	7day	950.6	orig=713mm|orig.time=weekly mean 8pm
+1855	10	27	11	30	7day	953.0	orig=714.8mm|orig.time=weekly mean 12pm
+1855	10	27	15	30	7day	951.4	orig=713.6mm|orig.time=weekly mean 4pm
+1855	10	27	7	30	7day	954.3	orig=715.8mm|orig.time=weekly mean 8am
+1855	10	27	19	30	7day	951.2	orig=713.5mm|orig.time=weekly mean 8pm
+1855	11	3	11	30	7day	935.9	orig=702mm|orig.time=weekly mean 12pm
+1855	11	3	15	30	7day	936.8	orig=702.7mm|orig.time=weekly mean 4pm
+1855	11	3	7	30	7day	935.6	orig=701.8mm|orig.time=weekly mean 8am
+1855	11	3	19	30	7day	937.6	orig=703.3mm|orig.time=weekly mean 8pm
+1855	11	10	11	30	7day	951.8	orig=713.9mm|orig.time=weekly mean 12pm
+1855	11	10	15	30	7day	952.0	orig=714.1mm|orig.time=weekly mean 4pm
+1855	11	10	7	30	7day	951.8	orig=713.9mm|orig.time=weekly mean 8am
+1855	11	10	19	30	7day	952.8	orig=714.7mm|orig.time=weekly mean 8pm
+1855	11	17	11	30	7day	952.7	orig=714.6mm|orig.time=weekly mean 12pm
+1855	11	17	15	30	7day	952.3	orig=714.3mm|orig.time=weekly mean 4pm
+1855	11	17	7	30	7day	953.0	orig=714.8mm|orig.time=weekly mean 8am
+1855	11	17	19	30	7day	953.0	orig=714.8mm|orig.time=weekly mean 8pm
+1855	11	24	11	30	7day	947.8	orig=710.9mm|orig.time=weekly mean 12pm
+1855	11	24	15	30	7day	947.8	orig=710.9mm|orig.time=weekly mean 4pm
+1855	11	24	7	30	7day	948.3	orig=711.3mm|orig.time=weekly mean 8am
+1855	11	24	19	30	7day	947.5	orig=710.7mm|orig.time=weekly mean 8pm

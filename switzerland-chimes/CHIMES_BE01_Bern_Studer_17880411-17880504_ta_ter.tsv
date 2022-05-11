@@ -1,0 +1,53 @@
+SEF	0.2.0
+ID	BE01_Bern_Studer
+Name	Bern
+Lat	46.94812
+Lon	7.45196
+Alt	534
+Source	CHIMES
+Link	https://doi.org/10.5194/cp-15-1345-2019
+Vbl	ta
+Stat	point
+Units	C
+Meta	Observer=Samuel Studer
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1788	4	11	21	15	0	10.6	orig=8.5R|orig.time=09:45:00
+1788	4	12	21	15	0	10.6	orig=8.5R|orig.time=09:45:00
+1788	4	13	5	30	0	 3.1	orig=2.5R|orig.time=06:00:00
+1788	4	13	21	30	0	12.8	orig=10.25R|orig.time=10:00:00
+1788	4	14	6	45	0	 7.2	orig=5.75R|orig.time=07:15:00
+1788	4	14	21	15	0	11.9	orig=9.5R|orig.time=09:45:00
+1788	4	15	13	0	0	17.5	orig=14R|orig.time=01:30:00
+1788	4	15	21	45	0	10.0	orig=8R|orig.time=10:15:00
+1788	4	16	6	30	0	 7.5	orig=6R|orig.time=07:00:00
+1788	4	18	21	30	0	 9.4	orig=7.5R|orig.time=10:00:00
+1788	4	19	7	0	0	 7.8	orig=6.25R|orig.time=07:30:00
+1788	4	19	12	15	0	17.5	orig=14R|orig.time=12:45:00
+1788	4	19	21	15	0	12.5	orig=10R|orig.time=09:45:00
+1788	4	20	22	0	0	12.2	orig=9.75R|orig.time=10:30:00
+1788	4	21	12	30	0	21.2	orig=17R|orig.time=01:00:00
+1788	4	22	7	0	0	15.0	orig=12R|orig.time=07:30:00
+1788	4	22	12	30	0	18.8	orig=15R|orig.time=01:00:00
+1788	4	22	21	15	0	 6.9	orig=5.5R|orig.time=09:45:00
+1788	4	23	6	45	0	 8.1	orig=6.5R|orig.time=07:15:00
+1788	4	23	12	30	0	 9.4	orig=7.5R|orig.time=01:00:00
+1788	4	23	22	0	0	 6.2	orig=5R|orig.time=10:30:00
+1788	4	24	6	15	0	 5.6	orig=4.5R|orig.time=06:45:00
+1788	4	24	12	30	0	15.6	orig=12.5R|orig.time=01:00:00
+1788	4	28	6	15	0	 6.2	orig=5R|orig.time=06:45:00
+1788	4	28	21	30	0	11.2	orig=9R|orig.time=10:00:00
+1788	4	29	7	30	0	10.0	orig=8R|orig.time=08:00:00
+1788	4	29	13	0	0	21.2	orig=17R|orig.time=01:30:00
+1788	4	29	21	45	0	13.8	orig=11R|orig.time=10:15:00
+1788	4	30	6	15	0	 8.8	orig=7R|orig.time=06:45:00
+1788	4	30	12	45	0	23.8	orig=19R|orig.time=01:15:00
+1788	4	30	22	45	0	 9.4	orig=7.5R|orig.time=11:15:00
+1788	5	1	6	45	0	11.9	orig=9.5R|orig.time=07:15:00
+1788	5	1	12	30	0	21.9	orig=17.5R|orig.time=01:00:00
+1788	5	1	21	30	0	 9.4	orig=7.5R|orig.time=10:00:00
+1788	5	2	6	30	0	 8.4	orig=6.75R|orig.time=07:00:00
+1788	5	2	12	30	0	20.6	orig=16.5R|orig.time=01:00:00
+1788	5	2	21	30	0	10.9	orig=8.75R|orig.time=10:00:00
+1788	5	3	6	45	0	 9.1	orig=7.25R|orig.time=07:15:00
+1788	5	3	21	30	0	10.6	orig=8.5R|orig.time=10:00:00
+1788	5	4	5	30	0	 7.5	orig=6R|orig.time=06:00:00

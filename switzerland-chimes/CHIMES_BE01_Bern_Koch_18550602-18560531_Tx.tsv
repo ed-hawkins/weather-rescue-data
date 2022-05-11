@@ -1,0 +1,209 @@
+SEF	0.2.0
+ID	BE01_Bern_Koch
+Name	Bern
+Lat	46.94812
+Lon	7.45196
+Alt	534
+Source	CHIMES
+Link	https://doi.org/10.5194/cp-15-1345-2019
+Vbl	Tx
+Stat	maximum
+Units	C
+Meta	Observer=Johann Rudolf Koch
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1855	6	2	NA	NA	7day	22.9	orig=22.9C|orig.time=weekly maximum
+1855	6	9	NA	NA	7day	26.1	orig=26.1C|orig.time=weekly maximum
+1855	6	16	NA	NA	7day	24.3	orig=24.3C|orig.time=weekly maximum
+1855	6	23	NA	NA	7day	16.9	orig=16.9C|orig.time=weekly maximum
+1855	6	30	NA	NA	7day	24.5	orig=24.5C|orig.time=weekly maximum
+1855	7	7	NA	NA	7day	23.5	orig=23.5C|orig.time=weekly maximum
+1855	7	14	NA	NA	7day	24.3	orig=24.3C|orig.time=weekly maximum
+1855	7	21	NA	NA	7day	22.8	orig=22.8C|orig.time=weekly maximum
+1855	7	28	NA	NA	7day	22.6	orig=22.6C|orig.time=weekly maximum
+1855	8	4	NA	NA	7day	23.5	orig=23.5C|orig.time=weekly maximum
+1855	8	11	NA	NA	7day	25.2	orig=25.2C|orig.time=weekly maximum
+1855	8	18	NA	NA	7day	25.3	orig=25.3C|orig.time=weekly maximum
+1855	8	25	NA	NA	7day	29.8	orig=29.8C|orig.time=weekly maximum
+1855	8	25	NA	NA	p1day	29.8	orig=29.8C|orig.time=NA
+1855	8	26	NA	NA	p1day	27.4	orig=27.4C|orig.time=NA
+1855	9	1	NA	NA	7day	27.4	orig=27.4C|orig.time=weekly maximum
+1855	9	8	NA	NA	7day	22.9	orig=22.9C|orig.time=weekly maximum
+1855	9	15	NA	NA	7day	22.4	orig=22.4C|orig.time=weekly maximum
+1855	9	22	NA	NA	7day	20.5	orig=20.5C|orig.time=weekly maximum
+1855	9	29	NA	NA	7day	22.5	orig=22.5C|orig.time=weekly maximum
+1855	10	6	NA	NA	7day	19.9	orig=19.9C|orig.time=weekly maximum
+1855	10	13	NA	NA	7day	18.8	orig=18.8C|orig.time=weekly maximum
+1855	10	27	NA	NA	7day	18.6	orig=18.6C|orig.time=weekly maximum
+1855	11	3	NA	NA	7day	17.8	orig=17.8C|orig.time=weekly maximum
+1855	11	10	NA	NA	7day	13.5	orig=13.5C|orig.time=weekly maximum
+1855	11	17	NA	NA	7day	11.7	orig=11.7C|orig.time=weekly maximum
+1855	11	24	NA	NA	7day	10.1	orig=10.1C|orig.time=weekly maximum
+1855	12	1	NA	NA	p1day	 6.9	orig=6.9C|orig.time=NA
+1855	12	2	NA	NA	p1day	 7.0	orig=7C|orig.time=NA
+1855	12	3	NA	NA	p1day	 4.0	orig=4C|orig.time=NA
+1855	12	4	NA	NA	p1day	 2.9	orig=2.9C|orig.time=NA
+1855	12	5	NA	NA	p1day	 4.0	orig=4C|orig.time=NA
+1855	12	6	NA	NA	p1day	 7.3	orig=7.3C|orig.time=NA
+1855	12	7	NA	NA	p1day	 7.0	orig=7C|orig.time=NA
+1855	12	8	NA	NA	p1day	 5.3	orig=5.3C|orig.time=NA
+1855	12	9	NA	NA	p1day	 3.6	orig=3.6C|orig.time=NA
+1855	12	10	NA	NA	p1day	 2.9	orig=2.9C|orig.time=NA
+1855	12	11	NA	NA	p1day	-2.0	orig=-2C|orig.time=NA
+1855	12	12	NA	NA	p1day	-2.8	orig=-2.8C|orig.time=NA
+1855	12	13	NA	NA	p1day	-1.6	orig=-1.6C|orig.time=NA
+1855	12	14	NA	NA	p1day	-3.0	orig=-3C|orig.time=NA
+1855	12	15	NA	NA	p1day	 5.6	orig=5.6C|orig.time=NA
+1855	12	16	NA	NA	p1day	 3.0	orig=3C|orig.time=NA
+1855	12	17	NA	NA	p1day	-0.9	orig=-0.9C|orig.time=NA
+1855	12	18	NA	NA	p1day	 3.0	orig=3C|orig.time=NA
+1855	12	19	NA	NA	p1day	-3.4	orig=-3.4C|orig.time=NA
+1855	12	20	NA	NA	p1day	-5.3	orig=-5.3C|orig.time=NA
+1855	12	21	NA	NA	p1day	-6.8	orig=-6.8C|orig.time=NA
+1855	12	22	NA	NA	p1day	 1.2	orig=1.2C|orig.time=NA
+1855	12	23	NA	NA	p1day	-0.5	orig=-0.5C|orig.time=NA
+1855	12	24	NA	NA	p1day	 4.6	orig=4.6C|orig.time=NA
+1855	12	25	NA	NA	p1day	 5.5	orig=5.5C|orig.time=NA
+1855	12	26	NA	NA	p1day	 6.7	orig=6.7C|orig.time=NA
+1855	12	27	NA	NA	p1day	 6.0	orig=6C|orig.time=NA
+1855	12	28	NA	NA	p1day	 3.5	orig=3.5C|orig.time=NA
+1855	12	30	NA	NA	p1day	 5.0	orig=5C|orig.time=NA
+1855	12	31	NA	NA	p1day	 5.0	orig=5C|orig.time=NA
+1856	1	1	NA	NA	p1day	 4.0	orig=4C|orig.time=NA
+1856	1	2	NA	NA	p1day	 3.2	orig=3.2C|orig.time=NA
+1856	1	3	NA	NA	p1day	 3.1	orig=3.1C|orig.time=NA
+1856	1	4	NA	NA	p1day	 5.7	orig=5.7C|orig.time=NA
+1856	1	5	NA	NA	p1day	 4.4	orig=4.4C|orig.time=NA
+1856	1	6	NA	NA	p1day	 3.7	orig=3.7C|orig.time=NA
+1856	1	7	NA	NA	p1day	 3.7	orig=3.7C|orig.time=NA
+1856	1	8	NA	NA	p1day	 6.5	orig=6.5C|orig.time=NA
+1856	1	9	NA	NA	p1day	 6.5	orig=6.5C|orig.time=NA
+1856	1	10	NA	NA	p1day	 3.9	orig=3.9C|orig.time=NA
+1856	1	11	NA	NA	p1day	 7.3	orig=7.3C|orig.time=NA
+1856	1	12	NA	NA	p1day	 3.8	orig=3.8C|orig.time=NA
+1856	1	14	NA	NA	p1day	-2.9	orig=-2.9C|orig.time=NA
+1856	1	15	NA	NA	p1day	 3.9	orig=3.9C|orig.time=NA
+1856	1	16	NA	NA	p1day	 7.5	orig=7.5C|orig.time=NA
+1856	1	17	NA	NA	p1day	 4.5	orig=4.5C|orig.time=NA
+1856	1	18	NA	NA	p1day	 8.1	orig=8.1C|orig.time=NA
+1856	1	19	NA	NA	p1day	 4.3	orig=4.3C|orig.time=NA
+1856	1	20	NA	NA	p1day	 9.3	orig=9.3C|orig.time=NA
+1856	1	21	NA	NA	p1day	 9.7	orig=9.7C|orig.time=NA
+1856	1	22	NA	NA	p1day	10.8	orig=10.8C|orig.time=NA
+1856	1	23	NA	NA	p1day	11.5	orig=11.5C|orig.time=NA
+1856	1	24	NA	NA	p1day	10.3	orig=10.3C|orig.time=NA
+1856	1	25	NA	NA	p1day	 9.8	orig=9.8C|orig.time=NA
+1856	1	26	NA	NA	p1day	10.6	orig=10.6C|orig.time=NA
+1856	1	27	NA	NA	p1day	 6.5	orig=6.5C|orig.time=NA
+1856	1	28	NA	NA	p1day	 8.3	orig=8.3C|orig.time=NA
+1856	1	29	NA	NA	p1day	 8.8	orig=8.8C|orig.time=NA
+1856	2	1	NA	NA	p1day	 3.9	orig=3.9C|orig.time=NA
+1856	2	2	NA	NA	p1day	 3.5	orig=3.5C|orig.time=NA
+1856	2	3	NA	NA	p1day	 0.3	orig=0.3C|orig.time=NA
+1856	2	6	NA	NA	p1day	 6.2	orig=6.2C|orig.time=NA
+1856	2	7	NA	NA	p1day	 9.3	orig=9.3C|orig.time=NA
+1856	2	8	NA	NA	p1day	10.8	orig=10.8C|orig.time=NA
+1856	2	9	NA	NA	p1day	12.5	orig=12.5C|orig.time=NA
+1856	2	10	NA	NA	p1day	12.6	orig=12.6C|orig.time=NA
+1856	2	11	NA	NA	p1day	12.2	orig=12.2C|orig.time=NA
+1856	2	12	NA	NA	p1day	12.7	orig=12.7C|orig.time=NA
+1856	2	13	NA	NA	p1day	13.1	orig=13.1C|orig.time=NA
+1856	2	14	NA	NA	p1day	13.0	orig=13C|orig.time=NA
+1856	2	15	NA	NA	p1day	 8.6	orig=8.6C|orig.time=NA
+1856	2	16	NA	NA	p1day	 9.0	orig=9C|orig.time=NA
+1856	2	17	NA	NA	p1day	 7.2	orig=7.2C|orig.time=NA
+1856	2	18	NA	NA	p1day	 7.9	orig=7.9C|orig.time=NA
+1856	2	19	NA	NA	p1day	10.4	orig=10.4C|orig.time=NA
+1856	2	20	NA	NA	p1day	 9.0	orig=9C|orig.time=NA
+1856	2	21	NA	NA	p1day	 7.4	orig=7.4C|orig.time=NA
+1856	2	22	NA	NA	p1day	 5.6	orig=5.6C|orig.time=NA
+1856	2	23	NA	NA	p1day	 7.0	orig=7C|orig.time=NA
+1856	2	24	NA	NA	p1day	11.2	orig=11.2C|orig.time=NA
+1856	2	25	NA	NA	p1day	11.0	orig=11C|orig.time=NA
+1856	2	26	NA	NA	p1day	12.0	orig=12C|orig.time=NA
+1856	2	27	NA	NA	p1day	11.8	orig=11.8C|orig.time=NA
+1856	2	28	NA	NA	p1day	10.0	orig=10C|orig.time=NA
+1856	2	29	NA	NA	p1day	11.8	orig=11.8C|orig.time=NA
+1856	3	1	NA	NA	p1day	10.3	orig=10.3C|orig.time=NA
+1856	3	2	NA	NA	p1day	 8.7	orig=8.7C|orig.time=NA
+1856	3	3	NA	NA	p1day	 7.0	orig=7C|orig.time=NA
+1856	3	4	NA	NA	p1day	11.3	orig=11.3C|orig.time=NA
+1856	3	5	NA	NA	p1day	 9.0	orig=9C|orig.time=NA
+1856	3	7	NA	NA	p1day	 5.2	orig=5.2C|orig.time=NA
+1856	3	8	NA	NA	p1day	 7.7	orig=7.7C|orig.time=NA
+1856	3	9	NA	NA	p1day	 9.5	orig=9.5C|orig.time=NA
+1856	3	10	NA	NA	p1day	10.9	orig=10.9C|orig.time=NA
+1856	3	11	NA	NA	p1day	10.8	orig=10.8C|orig.time=NA
+1856	3	12	NA	NA	p1day	10.8	orig=10.8C|orig.time=NA
+1856	3	13	NA	NA	p1day	 7.5	orig=7.5C|orig.time=NA
+1856	3	14	NA	NA	p1day	10.6	orig=10.6C|orig.time=NA
+1856	3	15	NA	NA	p1day	12.2	orig=12.2C|orig.time=NA
+1856	3	16	NA	NA	p1day	11.9	orig=11.9C|orig.time=NA
+1856	3	17	NA	NA	p1day	 9.0	orig=9C|orig.time=NA
+1856	3	18	NA	NA	p1day	10.3	orig=10.3C|orig.time=NA
+1856	3	19	NA	NA	p1day	14.7	orig=14.7C|orig.time=NA
+1856	3	20	NA	NA	p1day	15.3	orig=15.3C|orig.time=NA
+1856	3	21	NA	NA	p1day	11.3	orig=11.3C|orig.time=NA
+1856	3	22	NA	NA	p1day	11.5	orig=11.5C|orig.time=NA
+1856	3	23	NA	NA	p1day	10.9	orig=10.9C|orig.time=NA
+1856	3	24	NA	NA	p1day	13.5	orig=13.5C|orig.time=NA
+1856	3	25	NA	NA	p1day	14.5	orig=14.5C|orig.time=NA
+1856	3	26	NA	NA	p1day	14.0	orig=14C|orig.time=NA
+1856	3	27	NA	NA	p1day	13.7	orig=13.7C|orig.time=NA
+1856	3	28	NA	NA	p1day	13.0	orig=13C|orig.time=NA
+1856	3	30	NA	NA	p1day	11.4	orig=11.4C|orig.time=NA
+1856	3	31	NA	NA	p1day	11.6	orig=11.6C|orig.time=NA
+1856	4	1	NA	NA	p1day	13.4	orig=13.4C|orig.time=NA
+1856	4	2	NA	NA	p1day	16.0	orig=16C|orig.time=NA
+1856	4	3	NA	NA	p1day	15.1	orig=15.1C|orig.time=NA
+1856	4	4	NA	NA	p1day	14.7	orig=14.7C|orig.time=NA
+1856	4	5	NA	NA	p1day	10.5	orig=10.5C|orig.time=NA
+1856	4	6	NA	NA	p1day	13.0	orig=13C|orig.time=NA
+1856	4	7	NA	NA	p1day	11.8	orig=11.8C|orig.time=NA
+1856	4	8	NA	NA	p1day	14.5	orig=14.5C|orig.time=NA
+1856	4	9	NA	NA	p1day	11.8	orig=11.8C|orig.time=NA
+1856	4	10	NA	NA	p1day	11.7	orig=11.7C|orig.time=NA
+1856	4	11	NA	NA	p1day	16.6	orig=16.6C|orig.time=NA
+1856	4	13	NA	NA	p1day	18.0	orig=18C|orig.time=NA
+1856	4	14	NA	NA	p1day	18.3	orig=18.3C|orig.time=NA
+1856	4	15	NA	NA	p1day	12.0	orig=12C|orig.time=NA
+1856	4	16	NA	NA	p1day	12.4	orig=12.4C|orig.time=NA
+1856	4	17	NA	NA	p1day	12.5	orig=12.5C|orig.time=NA
+1856	4	18	NA	NA	p1day	16.9	orig=16.9C|orig.time=NA
+1856	4	19	NA	NA	p1day	16.7	orig=16.7C|orig.time=NA
+1856	4	20	NA	NA	p1day	16.3	orig=16.3C|orig.time=NA
+1856	4	21	NA	NA	p1day	16.1	orig=16.1C|orig.time=NA
+1856	4	22	NA	NA	p1day	18.2	orig=18.2C|orig.time=NA
+1856	4	25	NA	NA	p1day	19.9	orig=19.9C|orig.time=NA
+1856	4	26	NA	NA	p1day	20.5	orig=20.5C|orig.time=NA
+1856	4	27	NA	NA	p1day	18.5	orig=18.5C|orig.time=NA
+1856	4	28	NA	NA	p1day	16.2	orig=16.2C|orig.time=NA
+1856	4	29	NA	NA	p1day	16.4	orig=16.4C|orig.time=NA
+1856	4	30	NA	NA	p1day	15.3	orig=15.3C|orig.time=NA
+1856	5	1	NA	NA	p1day	10.9	orig=10.9C|orig.time=NA
+1856	5	2	NA	NA	p1day	10.3	orig=10.3C|orig.time=NA
+1856	5	3	NA	NA	p1day	 8.5	orig=8.5C|orig.time=NA
+1856	5	4	NA	NA	p1day	10.1	orig=10.1C|orig.time=NA
+1856	5	6	NA	NA	p1day	13.2	orig=13.2C|orig.time=NA
+1856	5	7	NA	NA	p1day	11.7	orig=11.7C|orig.time=NA
+1856	5	8	NA	NA	p1day	11.9	orig=11.9C|orig.time=NA
+1856	5	9	NA	NA	p1day	11.1	orig=11.1C|orig.time=NA
+1856	5	10	NA	NA	p1day	12.0	orig=12C|orig.time=NA
+1856	5	11	NA	NA	p1day	16.0	orig=16C|orig.time=NA
+1856	5	12	NA	NA	p1day	13.8	orig=13.8C|orig.time=NA
+1856	5	13	NA	NA	p1day	18.3	orig=18.3C|orig.time=NA
+1856	5	14	NA	NA	p1day	16.0	orig=16C|orig.time=NA
+1856	5	15	NA	NA	p1day	15.7	orig=15.7C|orig.time=NA
+1856	5	16	NA	NA	p1day	13.4	orig=13.4C|orig.time=NA
+1856	5	17	NA	NA	p1day	16.2	orig=16.2C|orig.time=NA
+1856	5	19	NA	NA	p1day	18.4	orig=18.4C|orig.time=NA
+1856	5	20	NA	NA	p1day	20.1	orig=20.1C|orig.time=NA
+1856	5	21	NA	NA	p1day	21.7	orig=21.7C|orig.time=NA
+1856	5	23	NA	NA	p1day	18.3	orig=18.3C|orig.time=NA
+1856	5	24	NA	NA	p1day	13.7	orig=13.7C|orig.time=NA
+1856	5	25	NA	NA	p1day	18.2	orig=18.2C|orig.time=NA
+1856	5	26	NA	NA	p1day	20.2	orig=20.2C|orig.time=NA
+1856	5	27	NA	NA	p1day	22.4	orig=22.4C|orig.time=NA
+1856	5	28	NA	NA	p1day	20.7	orig=20.7C|orig.time=NA
+1856	5	29	NA	NA	p1day	20.3	orig=20.3C|orig.time=NA
+1856	5	30	NA	NA	p1day	22.0	orig=22C|orig.time=NA
+1856	5	31	NA	NA	p1day	17.1	orig=17.1C|orig.time=NA

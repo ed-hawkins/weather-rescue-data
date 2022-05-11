@@ -1,0 +1,74 @@
+SEF	0.2.0
+ID	GR02_Bevers_Bovelin
+Name	Bever
+Lat	46.55309
+Lon	9.89009
+Alt	1708
+Source	CHIMES
+Link	https://doi.org/10.5194/cp-15-1345-2019
+Vbl	Tn
+Stat	minimum
+Units	C
+Meta	Observer=Melchior Bovelin
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1836	6	1	NA	NA	p1day	-2.7	orig=-2.2R|orig.time=NA
+1836	6	2	NA	NA	p1day	 0.2	orig=0.2R|orig.time=NA
+1836	6	3	NA	NA	p1day	 4.0	orig=3.2R|orig.time=NA
+1836	6	4	NA	NA	p1day	 1.8	orig=1.5R|orig.time=NA
+1836	6	5	NA	NA	p1day	 2.7	orig=2.2R|orig.time=NA
+1836	6	6	NA	NA	p1day	 2.8	orig=2.3R|orig.time=NA
+1836	6	7	NA	NA	p1day	 0.0	orig=0.0R|orig.time=NA
+1836	6	8	NA	NA	p1day	 0.0	orig=0.0R|orig.time=NA
+1836	6	9	NA	NA	p1day	 1.2	orig=1.0R|orig.time=NA
+1836	6	10	NA	NA	p1day	-1.8	orig=-1.5R|orig.time=NA
+1836	6	11	NA	NA	p1day	 2.0	orig=1.7R|orig.time=NA
+1836	6	12	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	6	13	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	6	14	NA	NA	p1day	-4.3	orig=-3.5R|orig.time=NA
+1836	6	15	NA	NA	p1day	 2.0	orig=1.7R|orig.time=NA
+1836	6	16	NA	NA	p1day	 4.0	orig=3.2R|orig.time=NA
+1836	6	17	NA	NA	p1day	 8.8	orig=7.0R|orig.time=NA
+1836	6	18	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	6	19	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	6	20	NA	NA	p1day	 4.0	orig=3.2R|orig.time=NA
+1836	6	21	NA	NA	p1day	 3.2	orig=2.7R|orig.time=NA
+1836	6	22	NA	NA	p1day	 0.2	orig=0.2R|orig.time=NA
+1836	6	23	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	6	24	NA	NA	p1day	 5.2	orig=4.2R|orig.time=NA
+1836	6	25	NA	NA	p1day	 4.6	orig=3.8R|orig.time=NA
+1836	6	26	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	6	27	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	6	28	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	6	29	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	6	30	NA	NA	p1day	 4.5	orig=3.7R|orig.time=NA
+1836	7	1	NA	NA	p1day	 5.0	orig=4.0R|orig.time=NA
+1836	7	2	NA	NA	p1day	 4.6	orig=3.8R|orig.time=NA
+1836	7	3	NA	NA	p1day	 4.6	orig=3.8R|orig.time=NA
+1836	7	4	NA	NA	p1day	 6.2	orig=5.0R|orig.time=NA
+1836	7	5	NA	NA	p1day	 5.3	orig=4.3R|orig.time=NA
+1836	7	6	NA	NA	p1day	 5.0	orig=4.0R|orig.time=NA
+1836	7	7	NA	NA	p1day	 5.3	orig=4.3R|orig.time=NA
+1836	7	8	NA	NA	p1day	 5.3	orig=4.3R|orig.time=NA
+1836	7	9	NA	NA	p1day	 5.5	orig=4.5R|orig.time=NA
+1836	7	10	NA	NA	p1day	 6.2	orig=5.0R|orig.time=NA
+1836	7	11	NA	NA	p1day	 6.2	orig=5.0R|orig.time=NA
+1836	7	12	NA	NA	p1day	 5.3	orig=4.3R|orig.time=NA
+1836	7	13	NA	NA	p1day	 5.0	orig=4.0R|orig.time=NA
+1836	7	14	NA	NA	p1day	 5.2	orig=4.2R|orig.time=NA
+1836	7	15	NA	NA	p1day	 5.0	orig=4.0R|orig.time=NA
+1836	7	16	NA	NA	p1day	 5.2	orig=4.2R|orig.time=NA
+1836	7	17	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	7	18	NA	NA	p1day	 4.5	orig=3.7R|orig.time=NA
+1836	7	19	NA	NA	p1day	 4.6	orig=3.8R|orig.time=NA
+1836	7	20	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	7	21	NA	NA	p1day	11.2	orig=9.0R|orig.time=NA
+1836	7	22	NA	NA	p1day	 1.8	orig=1.5R|orig.time=NA
+1836	7	23	NA	NA	p1day	 0.5	orig=0.5R|orig.time=NA
+1836	7	24	NA	NA	p1day	 2.5	orig=2.0R|orig.time=NA
+1836	7	25	NA	NA	p1day	 5.2	orig=4.2R|orig.time=NA
+1836	7	26	NA	NA	p1day	 5.0	orig=4.0R|orig.time=NA
+1836	7	27	NA	NA	p1day	-3.0	orig=-2.5R|orig.time=NA
+1836	7	28	NA	NA	p1day	 0.5	orig=0.5R|orig.time=NA
+1836	7	29	NA	NA	p1day	 3.8	orig=3.0R|orig.time=NA
+1836	7	30	NA	NA	p1day	 4.3	orig=3.5R|orig.time=NA
+1836	7	31	NA	NA	p1day	 4.5	orig=3.7R|orig.time=NA

@@ -1,0 +1,117 @@
+SEF	0.2.0
+ID	BE01_Bern_Koch
+Name	Bern
+Lat	46.94812
+Lon	7.45196
+Alt	534
+Source	CHIMES
+Link	https://doi.org/10.5194/cp-15-1345-2019
+Vbl	ta
+Stat	mean
+Units	C
+Meta	Observer=Johann Rudolf Koch
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1855	6	2	11	30	7day	18.5	orig=18.5C|orig.time=weekly mean 12pm
+1855	6	2	15	30	7day	18.7	orig=18.7C|orig.time=weekly mean 4pm
+1855	6	2	7	30	7day	15.5	orig=15.5C|orig.time=weekly mean 8am
+1855	6	2	19	30	7day	16.1	orig=16.1C|orig.time=weekly mean 8pm
+1855	6	9	11	30	7day	21.2	orig=21.2C|orig.time=weekly mean 12pm
+1855	6	9	15	30	7day	21.4	orig=21.4C|orig.time=weekly mean 4pm
+1855	6	9	7	30	7day	17.6	orig=17.6C|orig.time=weekly mean 8am
+1855	6	9	19	30	7day	19.3	orig=19.3C|orig.time=weekly mean 8pm
+1855	6	16	11	30	7day	20.9	orig=20.9C|orig.time=weekly mean 12pm
+1855	6	16	15	30	7day	21.3	orig=21.3C|orig.time=weekly mean 4pm
+1855	6	16	7	30	7day	17.2	orig=17.2C|orig.time=weekly mean 8am
+1855	6	16	19	30	7day	18.8	orig=18.8C|orig.time=weekly mean 8pm
+1855	6	23	11	30	7day	13.3	orig=13.3C|orig.time=weekly mean 12pm
+1855	6	23	15	30	7day	13.0	orig=13C|orig.time=weekly mean 4pm
+1855	6	23	7	30	7day	11.2	orig=11.2C|orig.time=weekly mean 8am
+1855	6	23	19	30	7day	11.8	orig=11.8C|orig.time=weekly mean 8pm
+1855	6	30	11	30	7day	18.3	orig=18.3C|orig.time=weekly mean 12pm
+1855	6	30	15	30	7day	19.2	orig=19.2C|orig.time=weekly mean 4pm
+1855	6	30	7	30	7day	14.7	orig=14.7C|orig.time=weekly mean 8am
+1855	6	30	19	30	7day	16.7	orig=16.7C|orig.time=weekly mean 8pm
+1855	7	7	11	30	7day	21.2	orig=21.2C|orig.time=weekly mean 12pm
+1855	7	7	15	30	7day	21.3	orig=21.3C|orig.time=weekly mean 4pm
+1855	7	7	7	30	7day	17.7	orig=17.7C|orig.time=weekly mean 8am
+1855	7	7	19	30	7day	18.7	orig=18.7C|orig.time=weekly mean 8pm
+1855	7	14	11	30	7day	21.0	orig=21C|orig.time=weekly mean 12pm
+1855	7	14	15	30	7day	21.8	orig=21.8C|orig.time=weekly mean 4pm
+1855	7	14	7	30	7day	18.0	orig=18C|orig.time=weekly mean 8am
+1855	7	14	19	30	7day	18.9	orig=18.9C|orig.time=weekly mean 8pm
+1855	7	21	11	30	7day	18.7	orig=18.7C|orig.time=weekly mean 12pm
+1855	7	21	15	30	7day	19.2	orig=19.2C|orig.time=weekly mean 4pm
+1855	7	21	7	30	7day	17.1	orig=17.1C|orig.time=weekly mean 8am
+1855	7	21	19	30	7day	15.9	orig=15.9C|orig.time=weekly mean 8pm
+1855	7	28	11	30	7day	19.4	orig=19.4C|orig.time=weekly mean 12pm
+1855	7	28	15	30	7day	19.7	orig=19.7C|orig.time=weekly mean 4pm
+1855	7	28	7	30	7day	15.9	orig=15.9C|orig.time=weekly mean 8am
+1855	7	28	19	30	7day	17.0	orig=17C|orig.time=weekly mean 8pm
+1855	8	4	11	30	7day	21.1	orig=21.1C|orig.time=weekly mean 12pm
+1855	8	4	15	30	7day	21.4	orig=21.4C|orig.time=weekly mean 4pm
+1855	8	4	7	30	7day	18.9	orig=18.9C|orig.time=weekly mean 8am
+1855	8	4	19	30	7day	21.4	orig=21.4C|orig.time=weekly mean 8pm
+1855	8	11	11	30	7day	19.2	orig=19.2C|orig.time=weekly mean 12pm
+1855	8	11	15	30	7day	19.4	orig=19.4C|orig.time=weekly mean 4pm
+1855	8	11	7	30	7day	16.6	orig=16.6C|orig.time=weekly mean 8am
+1855	8	11	19	30	7day	17.6	orig=17.6C|orig.time=weekly mean 8pm
+1855	8	18	11	30	7day	19.9	orig=19.9C|orig.time=weekly mean 12pm
+1855	8	18	15	30	7day	20.0	orig=20C|orig.time=weekly mean 4pm
+1855	8	18	7	30	7day	15.9	orig=15.9C|orig.time=weekly mean 8am
+1855	8	18	19	30	7day	17.5	orig=17.5C|orig.time=weekly mean 8pm
+1855	8	25	11	30	7day	24.1	orig=24.1C|orig.time=weekly mean 12pm
+1855	8	25	15	30	7day	24.6	orig=24.6C|orig.time=weekly mean 4pm
+1855	8	25	7	30	7day	19.5	orig=19.5C|orig.time=weekly mean 8am
+1855	8	25	19	30	7day	22.6	orig=22.6C|orig.time=weekly mean 8pm
+1855	9	1	11	30	7day	24.4	orig=24.4C|orig.time=weekly mean 12pm
+1855	9	1	15	30	7day	23.1	orig=23.1C|orig.time=weekly mean 4pm
+1855	9	1	7	30	7day	18.9	orig=18.9C|orig.time=weekly mean 8am
+1855	9	1	19	30	7day	21.0	orig=21C|orig.time=weekly mean 8pm
+1855	9	8	11	30	7day	16.3	orig=16.3C|orig.time=weekly mean 12pm
+1855	9	8	15	30	7day	19.0	orig=19C|orig.time=weekly mean 4pm
+1855	9	8	7	30	7day	15.2	orig=15.2C|orig.time=weekly mean 8am
+1855	9	8	19	30	7day	15.9	orig=15.9C|orig.time=weekly mean 8pm
+1855	9	15	11	30	7day	18.8	orig=18.8C|orig.time=weekly mean 12pm
+1855	9	15	15	30	7day	19.2	orig=19.2C|orig.time=weekly mean 4pm
+1855	9	15	7	30	7day	16.0	orig=16C|orig.time=weekly mean 8am
+1855	9	15	19	30	7day	16.9	orig=16.9C|orig.time=weekly mean 8pm
+1855	9	22	11	30	7day	17.6	orig=17.6C|orig.time=weekly mean 12pm
+1855	9	22	15	30	7day	18.7	orig=18.7C|orig.time=weekly mean 4pm
+1855	9	22	7	30	7day	13.6	orig=13.6C|orig.time=weekly mean 8am
+1855	9	22	19	30	7day	16.4	orig=16.4C|orig.time=weekly mean 8pm
+1855	9	29	11	30	7day	17.3	orig=17.3C|orig.time=weekly mean 12pm
+1855	9	29	15	30	7day	17.6	orig=17.6C|orig.time=weekly mean 4pm
+1855	9	29	7	30	7day	14.5	orig=14.5C|orig.time=weekly mean 8am
+1855	9	29	19	30	7day	14.4	orig=14.4C|orig.time=weekly mean 8pm
+1855	10	6	11	30	7day	16.7	orig=16.7C|orig.time=weekly mean 12pm
+1855	10	6	15	30	7day	15.8	orig=15.8C|orig.time=weekly mean 4pm
+1855	10	6	7	30	7day	13.6	orig=13.6C|orig.time=weekly mean 8am
+1855	10	6	19	30	7day	13.5	orig=13.5C|orig.time=weekly mean 8pm
+1855	10	13	11	30	7day	15.0	orig=15C|orig.time=weekly mean 12pm
+1855	10	13	15	30	7day	14.4	orig=14.4C|orig.time=weekly mean 4pm
+1855	10	13	7	30	7day	12.1	orig=12.1C|orig.time=weekly mean 8am
+1855	10	13	19	30	7day	12.3	orig=12.3C|orig.time=weekly mean 8pm
+1855	10	20	11	30	7day	13.6	orig=13.6C|orig.time=weekly mean 12pm
+1855	10	20	15	30	7day	13.7	orig=13.7C|orig.time=weekly mean 4pm
+1855	10	20	7	30	7day	10.7	orig=10.7C|orig.time=weekly mean 8am
+1855	10	20	19	30	7day	12.1	orig=12.1C|orig.time=weekly mean 8pm
+1855	10	27	11	30	7day	14.4	orig=14.4C|orig.time=weekly mean 12pm
+1855	10	27	15	30	7day	15.3	orig=15.3C|orig.time=weekly mean 4pm
+1855	10	27	7	30	7day	10.1	orig=10.1C|orig.time=weekly mean 8am
+1855	10	27	19	30	7day	12.1	orig=12.1C|orig.time=weekly mean 8pm
+1855	11	3	11	30	7day	11.0	orig=11C|orig.time=weekly mean 12pm
+1855	11	3	15	30	7day	 9.6	orig=9.6C|orig.time=weekly mean 4pm
+1855	11	3	7	30	7day	 8.5	orig=8.5C|orig.time=weekly mean 8am
+1855	11	3	19	30	7day	 8.0	orig=8C|orig.time=weekly mean 8pm
+1855	11	10	11	30	7day	 8.5	orig=8.5C|orig.time=weekly mean 12pm
+1855	11	10	15	30	7day	 6.5	orig=6.5C|orig.time=weekly mean 4pm
+1855	11	10	7	30	7day	 3.7	orig=3.7C|orig.time=weekly mean 8am
+1855	11	10	19	30	7day	 4.7	orig=4.7C|orig.time=weekly mean 8pm
+1855	11	17	11	30	7day	 6.8	orig=6.8C|orig.time=weekly mean 12pm
+1855	11	17	15	30	7day	 6.6	orig=6.6C|orig.time=weekly mean 4pm
+1855	11	17	7	30	7day	 4.3	orig=4.3C|orig.time=weekly mean 8am
+1855	11	17	19	30	7day	 5.8	orig=5.8C|orig.time=weekly mean 8pm
+1855	11	24	11	30	7day	 7.3	orig=7.3C|orig.time=weekly mean 12pm
+1855	11	24	15	30	7day	 6.9	orig=6.9C|orig.time=weekly mean 4pm
+1855	11	24	7	30	7day	 5.0	orig=5C|orig.time=weekly mean 8am
+1855	11	24	19	30	7day	 6.2	orig=6.2C|orig.time=weekly mean 8pm
