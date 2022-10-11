@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	SG01_StGallen
 Name	St. Gallen
 Lat	47.4245
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Daniel Meyer,Naturforschende Gesellschaft St. Gallen|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Daniel Meyer,Naturforschende Gesellschaft St. Gallen|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1813	1	1	7	10	0	940.5	orig=26.08Pin|orig.time=sunrise|atb=3.2R
 1813	1	1	15	46	0	940.7	orig=26.09Pin|orig.time=sunset|atb=4R

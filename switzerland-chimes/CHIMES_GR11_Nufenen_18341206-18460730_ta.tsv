@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	GR11_Nufenen
 Name	Nufenen
 Lat	46.5395
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Johann Friedrich Felix|QC software=dataresqc v0.1.2
+Meta	Observer=Johann Friedrich Felix|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1834	12	6	8	23	0	-1.8	orig=-1.4R|orig.time=9
 1834	12	6	11	23	0	3	orig=2.4R|orig.time=12

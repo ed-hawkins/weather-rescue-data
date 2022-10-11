@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	FR01_Fribourg
 Name	Fribourg
 Lat	46.807
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	Tx
 Stat	maximum
 Units	C
-Meta	Observer=Jean Baptiste Wiere|QC software=dataresqc v0.1.2
+Meta	Observer=Jean Baptiste Wiere|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1829	1	1	NA	NA	p1day	0.6	orig=0.50R|orig.time=NA
 1829	1	2	NA	NA	p1day	1.2	orig=1.00R|orig.time=NA

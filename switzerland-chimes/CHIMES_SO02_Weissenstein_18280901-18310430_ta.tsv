@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	SO02_Weissenstein
 Name	Weissenstein
 Lat	47.25193
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Zschokke|QC software=dataresqc v0.1.2
+Meta	Observer=Zschokke|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1828	9	1	8	29	0	10	orig=8R|orig.time=9.0
 1828	9	1	11	29	0	12.5	orig=10R|orig.time=12.0

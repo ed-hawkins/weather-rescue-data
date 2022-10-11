@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH03_Winterthur_Unknown
 Name	Winterthur
 Lat	47.496
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Unknown|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Unknown|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1808	7	1	5	25	0	968.8	orig=26.10.0.125Pin|orig.time=6|PTC=N
 1808	7	1	7	25	0	968.8	orig=26.10.0.125Pin|orig.time=8|PTC=N

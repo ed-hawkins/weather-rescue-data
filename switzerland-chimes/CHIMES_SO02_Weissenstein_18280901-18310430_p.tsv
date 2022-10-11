@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	SO02_Weissenstein
 Name	Weissenstein
 Lat	47.25193
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Zschokke|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Zschokke|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1828	9	1	8	29	0	868	orig=24.1.4Pin|orig.time=9.0|atb=11R
 1828	9	1	11	29	0	868.6	orig=24.1.6Pin|orig.time=12.0|atb=11R

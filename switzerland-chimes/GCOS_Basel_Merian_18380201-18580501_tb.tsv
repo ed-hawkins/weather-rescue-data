@@ -1,0 +1,204 @@
+SEF	1.0.0
+ID	Basel_Merian
+Name	Basel
+Lat	47.55543
+Lon	7.59152
+Alt	282
+Source	GCOS
+Link	NA
+Vbl	tb
+Stat	point
+Units	C
+Meta	Observer=Merian | Address=Münsterplatz 12
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1838	2	1	11	29	0	-3.2	orig.time=12:00|orig=-2.6R
+1838	2	3	12	14	0	-6.2	orig.time=12:45|orig=-5.0R
+1838	2	4	12	9	0	-6.2	orig.time=12:40|orig=-5.0R
+1838	2	5	12	14	0	-6.5	orig.time=12:45|orig=-5.2R
+1838	2	6	12	39	0	-5.9	orig.time=1:10|orig=-4.7R
+1838	2	8	11	29	0	-1.2	orig.time=12:00|orig=-1.0R
+1838	2	14	11	44	0	-6.5	orig.time=12:15|orig=-5.2R
+1838	2	15	11	29	0	-6.5	orig.time=12:00|orig=-5.2R
+1838	2	18	11	59	0	-1.6	orig.time=12:30|orig=-1.3R
+1838	2	19	11	29	0	0.1	orig.time=12:00|orig= 0.1R
+1838	2	20	11	29	0	-1.8	orig.time=12:00|orig=-1.4R
+1838	2	21	11	59	0	2.5	orig.time=12:30|orig= 2.0R
+1838	2	22	12	9	0	2.8	orig.time=12:40|orig= 2.2R
+1838	2	23	12	4	0	4.6	orig.time=12:35|orig= 3.7R
+1838	2	24	12	14	0	2.9	orig.time=12:45|orig= 2.3R
+1838	2	25	12	19	0	4	orig.time=12:50|orig= 3.2R
+1838	2	27	11	29	0	5.1	orig.time=12:00|orig= 4.1R
+1838	3	2	12	14	0	4	orig.time=12:45|orig= 3.2R
+1838	3	4	11	49	0	6.5	orig.time=12:20|orig= 5.2R
+1838	3	5	12	9	0	9.6	orig.time=12:40|orig= 7.7R
+1838	3	7	12	14	0	7.2	orig.time=12:45|orig= 5.8R
+1838	3	10	11	29	0	2.8	orig.time=12:00|orig= 2.2R
+1838	3	11	12	4	0	0	orig.time=12:35|orig= 0.0R
+1838	3	13	11	44	0	2.8	orig.time=12:15|orig= 2.2R
+1838	3	14	11	44	0	5.9	orig.time=12:15|orig= 4.7R
+1838	3	15	11	49	0	11.4	orig.time=12:20|orig= 9.1R
+1838	3	16	12	9	0	7.2	orig.time=12:40|orig= 5.8R
+1838	3	17	11	29	0	3.5	orig.time=12:00|orig= 2.8R
+1838	3	18	11	59	0	1	orig.time=12:30|orig= 0.8R
+1838	3	19	11	59	0	2.2	orig.time=12:30|orig= 1.8R
+1838	3	20	12	29	0	9.4	orig.time=1:00|orig= 7.5R
+1838	3	22	12	14	0	1.2	orig.time=12:45|orig= 1.0R
+1838	3	23	12	14	0	4.9	orig.time=12:45|orig= 3.9R
+1838	3	24	11	59	0	6.2	orig.time=12:30|orig= 5.0R
+1838	3	25	11	44	0	6	orig.time=12:15|orig= 4.8R
+1838	3	27	12	9	0	6.2	orig.time=12:40|orig= 5.0R
+1838	3	28	12	4	0	4.8	orig.time=12:35|orig= 3.8R
+1838	3	30	12	14	0	4.6	orig.time=12:45|orig= 3.7R
+1838	3	31	12	14	0	6.9	orig.time=12:45|orig= 5.5R
+1838	4	1	12	19	0	2.1	orig.time=12:50|orig= 1.7R
+1838	4	3	12	9	0	4	orig.time=12:40|orig= 3.2R
+1838	4	4	11	29	0	3.9	orig.time=12:00|orig= 3.1R
+1838	4	5	11	49	0	7.5	orig.time=12:20|orig= 6.0R
+1838	4	6	11	59	0	13.9	orig.time=12:30|orig=11.1R
+1838	4	7	11	49	0	9	orig.time=12:20|orig= 7.2R
+1838	4	8	8	29	0	1	orig.time=9:00|orig= 0.8R
+1838	4	9	11	39	0	9.4	orig.time=12:10|orig= 7.5R
+1838	4	12	12	9	0	15	orig.time=12:40|orig=12.0R
+1838	4	15	12	9	0	7.1	orig.time=12:40|orig= 5.7R
+1838	4	22	12	19	0	6.6	orig.time=12:50|orig= 5.3R
+1838	4	23	12	9	0	12.2	orig.time=12:40|orig= 9.8R
+1838	4	25	12	9	0	9.6	orig.time=12:40|orig= 7.7R
+1838	4	26	11	59	0	13	orig.time=12:30|orig=10.4R
+1838	4	29	11	44	0	2.9	orig.time=12:15|orig= 2.3R
+1838	7	5	11	29	0	20.5	orig.time=12:00|orig=16.4R
+1838	7	6	11	59	0	23.8	orig.time=12:30|orig=19.0R
+1838	7	11	12	19	0	22.5	orig.time=12:50|orig=18.0R
+1838	7	12	12	9	0	26.6	orig.time=12:40|orig=21.3R
+1838	7	18	11	59	0	23.5	orig.time=12:30|orig=18.8R
+1838	7	19	12	9	0	19.6	orig.time=12:40|orig=15.7R
+1838	7	22	11	44	0	15.4	orig.time=12:15|orig=12.3R
+1838	7	26	11	44	0	15.2	orig.time=12:15|orig=12.2R
+1838	9	2	11	39	0	15.9	orig.time=12:10|orig=12.7R
+1838	9	3	11	44	0	17.5	orig.time=12:15|orig=14.0R
+1838	9	4	12	9	0	20.5	orig.time=12:40|orig=16.4R
+1838	9	6	11	59	0	21.9	orig.time=12:30|orig=17.5R
+1838	9	8	11	29	0	19.1	orig.time=12:00|orig=15.3R
+1838	10	7	12	29	0	11.9	orig.time=1:00|orig= 9.5R
+1838	10	21	12	19	0	15.5	orig.time=12:50|orig=12.4R
+1838	10	22	12	14	0	11.9	orig.time=12:45|orig= 9.5R
+1838	10	23	11	59	0	10.6	orig.time=12:30|orig= 8.5R
+1838	10	25	12	9	0	9.9	orig.time=12:40|orig= 7.9R
+1838	11	8	11	54	0	8.8	orig.time=12:25|orig= 7.0R
+1838	11	18	11	29	0	7.5	orig.time=12:00|orig= 6.0R
+1838	12	9	12	14	0	0	orig.time=12:45|orig= 0.0R
+1838	12	30	11	59	0	-1.9	orig.time=12:30|orig=-1.5R
+1839	2	1	11	29	0	-8.1	orig.time=12:00|orig=-6.5R
+1839	2	2	12	29	0	-7.5	orig.time=1:00|orig=-6.0R
+1839	3	15	12	29	0	6.5	orig.time=1:00|orig= 5.2R
+1839	3	17	12	14	0	8.8	orig.time=12:45|orig= 7.0R
+1839	3	24	12	14	0	13.6	orig.time=12:45|orig=10.9R
+1839	5	8	11	29	0	21.2	orig.time=12:00|orig=17.0R
+1839	5	19	11	29	0	13	orig.time=12:00|orig=10.4R
+1839	5	30	11	59	0	19.6	orig.time=12:30|orig=15.7R
+1839	9	1	11	39	0	13.1	orig.time=12:10|orig=10.5R
+1839	9	2	11	29	0	12.5	orig.time=12:00|orig=10.0R
+1839	9	8	11	49	0	19.1	orig.time=12:20|orig=15.3R
+1839	9	14	11	59	0	12.8	orig.time=12:30|orig=10.2R
+1839	9	17	12	14	0	12.1	orig.time=12:45|orig= 9.7R
+1839	10	20	12	9	0	10	orig.time=12:40|orig= 8.0R
+1840	5	3	11	29	0	16.4	orig.time=12:00|orig=13.1R
+1840	5	24	11	29	0	13.2	orig.time=12:00|orig=10.6R
+1840	8	17	11	59	0	19	orig.time=12:30|orig=15.2R
+1840	8	19	11	49	0	12.2	orig.time=12:20|orig= 9.8R
+1840	8	21	12	29	0	19.1	orig.time=1:00|orig=15.3R
+1840	8	22	11	59	0	19.2	orig.time=12:30|orig=15.4R
+1840	8	28	12	29	0	23.5	orig.time=1:00|orig=18.8R
+1840	8	29	12	29	0	19.2	orig.time=1:00|orig=15.4R
+1840	12	29	11	39	0	-10.6	orig.time=12:10|orig=-8.5R
+1841	6	6	11	59	0	10.9	orig.time=12:30|orig= 8.7R
+1841	7	4	12	19	0	19.1	orig.time=12:50|orig=15.3R
+1841	7	16	8	29	0	13.8	orig.time=9:00|orig=11.0R
+1841	7	16	11	29	0	14	orig.time=12:00|orig=11.2R
+1841	7	16	14	49	0	14.9	orig.time=3:20|orig=11.9R
+1841	7	16	20	14	0	14.5	orig.time=8:45|orig=11.6R
+1841	7	17	6	44	0	13.1	orig.time=7:15|orig=10.5R
+1841	7	17	7	29	0	14.2	orig.time=8:00|orig=11.4R
+1841	7	17	11	29	0	16.1	orig.time=12:00|orig=12.9R
+1841	7	17	14	29	0	17.5	orig.time=3:00|orig=14.0R
+1841	7	18	6	49	0	15.2	orig.time=7:20|orig=12.2R
+1841	7	18	8	29	0	18.8	orig.time=9:00|orig=15.0R
+1841	7	18	11	29	0	15.6	orig.time=12:00|orig=12.5R
+1841	7	18	15	14	0	14.8	orig.time=3:45|orig=11.8R
+1841	7	19	6	39	0	13.1	orig.time=7:10|orig=10.5R
+1841	7	19	8	29	0	13.9	orig.time=9:00|orig=11.1R
+1841	7	19	11	29	0	15.1	orig.time=12:00|orig=12.1R
+1841	7	19	14	44	0	15.2	orig.time=3:15|orig=12.2R
+1841	7	20	6	59	0	13.9	orig.time=7:30|orig=11.1R
+1841	7	20	8	29	0	15.1	orig.time=9:00|orig=12.1R
+1841	7	20	11	29	0	16.1	orig.time=12:00|orig=12.9R
+1841	7	20	14	44	0	16.1	orig.time=3:15|orig=12.9R
+1841	7	21	6	49	0	15.5	orig.time=7:20|orig=12.4R
+1841	7	21	7	29	0	15.9	orig.time=8:00|orig=12.7R
+1841	7	21	11	29	0	18.6	orig.time=12:00|orig=14.9R
+1841	7	21	14	29	0	20.1	orig.time=3:00|orig=16.1R
+1841	7	22	6	44	0	13.9	orig.time=7:15|orig=11.1R
+1841	7	22	8	39	0	14.8	orig.time=9:10|orig=11.8R
+1841	7	22	11	29	0	15.8	orig.time=12:00|orig=12.6R
+1841	7	22	14	29	0	15.4	orig.time=3:00|orig=12.3R
+1841	7	23	6	44	0	12.4	orig.time=7:15|orig= 9.9R
+1841	7	23	8	29	0	12.6	orig.time=9:00|orig=10.1R
+1841	7	23	11	29	0	12.9	orig.time=12:00|orig=10.3R
+1841	7	23	14	29	0	12.5	orig.time=3:00|orig=10.0R
+1841	8	9	11	29	0	17.9	orig.time=12:00|orig=14.3R
+1841	8	9	14	44	0	17.2	orig.time=3:15|orig=13.8R
+1841	8	10	7	14	0	13.4	orig.time=7:45|orig=10.7R
+1841	8	10	8	44	0	13.6	orig.time=9:15|orig=10.9R
+1841	8	10	11	59	0	14.1	orig.time=12:30|orig=11.3R
+1841	8	10	14	59	0	13.8	orig.time=3:30|orig=11.0R
+1841	8	11	6	54	0	12.2	orig.time=7:25|orig= 9.8R
+1841	8	11	7	29	0	12.8	orig.time=8:00|orig=10.2R
+1841	8	11	11	29	0	15.5	orig.time=12:00|orig=12.4R
+1841	8	11	14	54	0	17.4	orig.time=3:25|orig=13.9R
+1841	8	12	6	49	0	11.9	orig.time=7:20|orig= 9.5R
+1841	8	12	8	14	0	11.1	orig.time=8:45|orig= 8.9R
+1841	8	12	11	29	0	11.5	orig.time=12:00|orig= 9.2R
+1841	8	12	14	29	0	11.5	orig.time=3:00|orig= 9.2R
+1841	8	13	7	19	0	9.9	orig.time=7:50|orig= 7.9R
+1841	8	13	8	29	0	12.1	orig.time=9:00|orig= 9.7R
+1841	8	13	11	29	0	12	orig.time=12:00|orig= 9.6R
+1841	8	13	14	29	0	13	orig.time=3:00|orig=10.4R
+1841	8	14	6	39	0	11	orig.time=7:10|orig= 8.8R
+1841	8	14	7	29	0	12.5	orig.time=8:00|orig=10.0R
+1841	8	14	12	4	0	16.9	orig.time=12:35|orig=13.5R
+1841	8	14	14	44	0	17.5	orig.time=3:15|orig=14.0R
+1841	8	17	6	59	0	13.1	orig.time=7:30|orig=10.5R
+1841	8	17	8	29	0	14.6	orig.time=9:00|orig=11.7R
+1841	8	17	11	39	0	14.9	orig.time=12:10|orig=11.9R
+1841	8	17	14	49	0	15.8	orig.time=3:20|orig=12.6R
+1841	8	17	20	29	0	13.1	orig.time=9:00|orig=10.5R
+1841	8	18	6	29	0	11.1	orig.time=7:00|orig= 8.9R
+1841	8	18	7	29	0	13.1	orig.time=8:00|orig=10.5R
+1841	8	18	12	29	0	15.9	orig.time=1:00|orig=12.7R
+1841	8	18	14	39	0	16.1	orig.time=3:10|orig=12.9R
+1841	8	18	20	29	0	16.2	orig.time=9:00|orig=13.0R
+1841	8	19	6	29	0	13.6	orig.time=7:00|orig=10.9R
+1841	8	19	8	29	0	15.8	orig.time=9:00|orig=12.6R
+1841	8	19	12	29	0	17	orig.time=1:00|orig=13.6R
+1841	8	19	14	29	0	18.2	orig.time=3:00|orig=14.6R
+1841	8	19	20	29	0	15	orig.time=9:00|orig=12.0R
+1841	8	20	6	29	0	13.1	orig.time=7:00|orig=10.5R
+1841	8	20	7	59	0	14.6	orig.time=8:30|orig=11.7R
+1841	8	20	13	9	0	18.4	orig.time=1:40|orig=14.7R
+1841	8	20	13	59	0	18.6	orig.time=2:30|orig=14.9R
+1841	8	20	22	29	0	16	orig.time=11:00|orig=12.8R
+1841	9	13	6	29	0	13.5	orig.time=7:00|orig=10.8R
+1841	11	11	11	44	0	4.5	orig.time=12:15|orig= 3.6R
+1857	5	12	6	29	0	14.9	orig.time=7:00|orig=11.9R
+1857	7	9	14	29	0	21	orig.time=3:00|orig=16.8R
+1857	7	27	20	29	0	26.5	orig.time=9:00|orig=21.2R
+1857	8	1	20	29	0	25.5	orig.time=9:00|orig=20.4R
+1857	8	2	20	29	0	25.5	orig.time=9:00|orig=20.4R
+1857	8	3	20	29	0	26.8	orig.time=9:00|orig=21.4R
+1857	8	4	20	29	0	26.6	orig.time=9:00|orig=21.3R
+1857	8	5	20	29	0	20.9	orig.time=9:00|orig=16.7R
+1857	8	6	20	29	0	19.2	orig.time=9:00|orig=15.4R
+1857	8	7	20	29	0	19	orig.time=9:00|orig=15.2R
+1857	8	8	20	29	0	19.1	orig.time=9:00|orig=15.3R
+1857	8	9	20	29	0	18.1	orig.time=9:00|orig=14.5R
+1857	8	10	20	29	0	17.9	orig.time=9:00|orig=14.3R
+1858	5	1	20	29	0	6.2	orig.time=9:00|orig= 5.0R

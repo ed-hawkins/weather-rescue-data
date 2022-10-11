@@ -1,8 +1,8 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH01_Zurich_Bruegger
 Name	Zürich
-Lat	47.371
-Lon	8.534
+Lat	47.371011
+Lon	8.533664
 Alt	420
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019

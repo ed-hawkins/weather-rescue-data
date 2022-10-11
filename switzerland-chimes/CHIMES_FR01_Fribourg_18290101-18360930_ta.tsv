@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	FR01_Fribourg
 Name	Fribourg
 Lat	46.807
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Jean Baptiste Wiere|QC software=dataresqc v0.1.2
+Meta	Observer=Jean Baptiste Wiere|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1829	1	1	8	31	0	0	orig=0.00R|orig.time=9
 1829	1	1	14	31	0	0.4	orig=0.3R|orig.time=15
@@ -2302,7 +2302,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1831	4	15	14	31	0	13	orig=10.4R|orig.time=15
 1831	4	16	8	31	0	8.5	orig=6.8R|orig.time=9
 1831	4	16	11	31	0	10.9	orig=8.7R|orig.time=12
-1831	4	16	14	31	0	12.7	orig=10.12R|orig.time=15
+1831	4	16	14	31	0	12.6	orig=10.12R|orig.time=15
 1831	4	17	8	31	0	8.4	orig=6.7R|orig.time=9
 1831	4	17	11	31	0	11.5	orig=9.2R|orig.time=12
 1831	4	17	14	31	0	10.1	orig=8.1R|orig.time=15

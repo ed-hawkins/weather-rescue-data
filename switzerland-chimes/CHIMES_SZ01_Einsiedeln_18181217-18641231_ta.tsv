@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	SZ01_Einsiedeln
 Name	Einsiedeln
 Lat	47.12671
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Bernhard Foresti,Pius Regli, Raphael Kuhn|QC software=dataresqc v0.1.2
+Meta	Observer=Bernhard Foresti,Pius Regli, Raphael Kuhn|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1818	12	17	NA	NA	0	-8.8	orig=-7R|orig.time=NA
 1818	12	18	NA	NA	0	-13.8	orig=-11R|orig.time=NA

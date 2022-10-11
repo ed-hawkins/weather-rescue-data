@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	AG01_Aarau_Bronner
 Name	Aarau
 Lat	47.393
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Franz Xaver Bronner|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Franz Xaver Bronner|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1826	4	1	8	27	0	983.1	orig=27.3.7Pin|orig.time=9.0|atb=11.3R
 1826	4	1	11	27	0	982.5	orig=27.3.5Pin|orig.time=12.0|atb=11.4R

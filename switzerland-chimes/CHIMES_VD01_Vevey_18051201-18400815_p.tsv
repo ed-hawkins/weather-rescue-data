@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	VD01_Vevey
 Name	Vevey
 Lat	46.46015
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Nicod-Delon|PTC=N|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Nicod-Delon|PTC=N|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1805	12	1	8	32	0	963.1	orig=26.8.25Pin|orig.time=9
 1805	12	1	20	32	0	954.1	orig=26.5.25Pin|orig.time=9
@@ -4836,8 +4836,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1813	8	30	20	32	0	972.7	orig=26.11.5Pin|orig.time=21:00:00
 1813	8	31	6	32	0	972.7	orig=26.11.5Pin|orig.time=07:00:00
 1813	9	1	5	32	0	960.6	orig=26.7.5Pin|orig.time=06:00:00
+1813	9	1	7	32	0	974.4	orig=27.0.0Pin|orig.time=08:00:00
 1813	9	1	20	32	0	960.6	orig=26.7.5Pin|orig.time=21:00:00
-1813	9	1	NA	NA	0	974.4	orig=27.0.0Pin|orig.time=NA
 1813	9	2	5	32	0	960.6	orig=26.7.5Pin|orig.time=06:00:00
 1813	9	2	21	32	0	970.2	orig=26.10.7Pin|orig.time=22:00:00
 1813	9	3	5	32	0	979.9	orig=27.1.10Pin|orig.time=06:00:00
@@ -5712,8 +5712,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1814	11	9	7	2	0	963.1	orig=26.8.3Pin|orig.time=07:30:00
 1814	11	9	21	2	0	970.9	orig=26.10.10Pin|orig.time=21:30:00
 1814	11	10	7	32	0	974.7	orig=27.0.1Pin|orig.time=08:00:00
+1814	11	10	13	2	0	978	orig=27.1.2Pin|orig.time=13:30:00
 1814	11	10	20	47	0	982.4	orig=27.2.8Pin|orig.time=21:15:00
-1814	11	10	NA	NA	0	978	orig=27.1.2Pin|orig.time=NA
 1814	11	11	7	32	0	987.7	orig=27.4.5Pin|orig.time=08:00:00
 1814	11	11	22	2	0	988.4	orig=27.4.8Pin|orig.time=22:30:00
 1814	11	12	7	32	0	985.2	orig=27.3.7Pin|orig.time=08:00:00
@@ -5957,8 +5957,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1815	3	9	14	2	0	968.7	orig=26.10.1Pin|orig.time=14:30:00
 1815	3	9	21	17	0	967.1	orig=26.9.7Pin|orig.time=21:45:00
 1815	3	10	9	2	0	957.4	orig=26.6.4Pin|orig.time=09:30:00
+1815	3	10	14	2	0	957.9	orig=26.6.5Pin|orig.time=14:30:00
 1815	3	10	21	32	0	960.5	orig=26.7.4.5Pin|orig.time=22:00:00
-1815	3	10	NA	NA	0	957.9	orig=26.6.5Pin|orig.time=NA
 1815	3	11	7	2	0	955.6	orig=26.5.9Pin|orig.time=07:30:00
 1815	3	11	21	32	0	969.6	orig=26.10.5Pin|orig.time=22:00:00
 1815	3	12	6	2	0	971.9	orig=26.11.2Pin|orig.time=06:30:00
@@ -6086,8 +6086,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1815	5	14	6	32	0	970.7	orig=26.10.9Pin|orig.time=07:00:00
 1815	5	14	20	32	0	970.7	orig=26.10.9Pin|orig.time=21:00:00
 1815	5	15	8	2	0	970.7	orig=26.10.9Pin|orig.time=08:30:00
+1815	5	15	13	32	0	967.2	orig=26.9.6Pin|orig.time=14:00:00
 1815	5	15	21	17	0	967.6	orig=26.9.9Pin|orig.time=21:45:00
-1815	5	15	NA	NA	0	967.2	orig=26.9.6Pin|orig.time=NA
 1815	5	16	6	32	0	971.4	orig=26.11.0Pin|orig.time=07:00:00
 1815	5	16	20	32	0	973.2	orig=26.11.7Pin|orig.time=21:00:00
 1815	5	17	6	32	0	974.9	orig=27.0.2Pin|orig.time=07:00:00
@@ -6915,8 +6915,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1816	7	5	6	32	0	973.7	orig=26.11.9Pin|orig.time=07:00:00
 1816	7	5	23	32	0	974.4	orig=27.0.0Pin|orig.time=00:00:00
 1816	7	6	7	32	0	975.4	orig=27.0.4Pin|orig.time=08:00:00
+1816	7	6	15	2	0	974.7	orig=27.0.1Pin|orig.time=15:30:00
 1816	7	6	22	32	0	974.7	orig=27.0.1Pin|orig.time=23:00:00
-1816	7	6	NA	NA	0	974.7	orig=27.0.1Pin|orig.time=NA
 1816	7	7	7	32	0	974.4	orig=27.0.0Pin|orig.time=08:00:00
 1816	7	7	22	2	0	969	orig=26.10.2.5Pin|orig.time=22:30:00
 1816	7	8	7	32	0	970.3	orig=26.10.7.5Pin|orig.time=08:00:00
@@ -7132,8 +7132,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1816	10	23	7	32	0	974.7	orig=27.0.1Pin|orig.time=08:00:00
 1816	10	23	21	32	0	975.4	orig=27.0.4Pin|orig.time=22:00:00
 1816	10	24	7	47	0	975.4	orig=27.0.4Pin|orig.time=08:15:00
+1816	10	24	12	32	0	974.4	orig=27.0.0Pin|orig.time=13:00:00
 1816	10	24	21	32	0	974.4	orig=27.0.0Pin|orig.time=22:00:00
-1816	10	24	NA	NA	0	974.4	orig=27.0.0Pin|orig.time=NA
 1816	10	25	8	2	0	972.7	orig=26.11.5Pin|orig.time=08:30:00
 1816	10	25	21	2	0	970.7	orig=26.10.9Pin|orig.time=21:30:00
 1816	10	26	7	2	0	971.5	orig=26.11.0.5Pin|orig.time=07:30:00
@@ -7294,8 +7294,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1817	1	11	7	47	0	987.4	orig=27.4.4Pin|orig.time=08:15:00
 1817	1	11	22	2	0	983.4	orig=27.3.0Pin|orig.time=22:30:00
 1817	1	12	7	47	0	981.7	orig=27.2.5Pin|orig.time=08:15:00
+1817	1	12	12	2	0	977.4	orig=27.1.0Pin|orig.time=12:30:00
 1817	1	12	21	47	0	979.7	orig=27.1.9Pin|orig.time=22:15:00
-1817	1	12	NA	NA	0	977.4	orig=27.1.0Pin|orig.time=NA
 1817	1	13	8	47	0	975.4	orig=27.0.4Pin|orig.time=09:15:00
 1817	1	13	21	17	0	971.4	orig=26.11.0Pin|orig.time=21:45:00
 1817	1	14	8	47	0	969.6	orig=26.10.5Pin|orig.time=09:15:00
@@ -7355,8 +7355,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1817	2	10	8	32	0	988.7	orig=27.4.9Pin|orig.time=09:00:00
 1817	2	10	22	17	0	981.7	orig=27.2.5Pin|orig.time=22:45:00
 1817	2	11	7	32	0	975.9	orig=27.0.6Pin|orig.time=08:00:00
+1817	2	11	12	2	0	974.4	orig=27.0.0Pin|orig.time=12:30:00
 1817	2	11	22	32	0	974.4	orig=27.0.0Pin|orig.time=23:00:00
-1817	2	11	NA	NA	0	974.4	orig=27.0.0Pin|orig.time=NA
 1817	2	12	8	2	0	970.4	orig=26.10.8Pin|orig.time=08:30:00
 1817	2	12	21	32	0	969.6	orig=26.10.5Pin|orig.time=22:00:00
 1817	2	13	8	17	0	977.7	orig=27.1.1Pin|orig.time=08:45:00
@@ -7710,8 +7710,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1817	9	2	7	2	0	980.9	orig=27.2.2Pin|orig.time=07:30:00
 1817	9	2	22	2	0	980.7	orig=27.2.1Pin|orig.time=22:30:00
 1817	9	3	6	32	0	980.9	orig=27.2.2Pin|orig.time=07:00:00
+1817	9	3	13	32	0	981.3	orig=27.2.3Pin|orig.time=14:00:00
 1817	9	3	21	32	0	981.7	orig=27.2.5Pin|orig.time=22:00:00
-1817	9	3	NA	NA	0	981.3	orig=27.2.3Pin|orig.time=NA
 1817	9	4	5	32	0	985.2	orig=27.3.7Pin|orig.time=06:00:00
 1817	9	4	22	17	0	982.4	orig=27.2.8Pin|orig.time=22:45:00
 1817	9	5	5	32	0	983.4	orig=27.3.0Pin|orig.time=06:00:00
@@ -11170,8 +11170,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1822	7	12	15	32	0	978.3	orig=27.1.3Pin|orig.time=16:00:00
 1822	7	12	22	2	0	977.4	orig=27.1.0Pin|orig.time=22:30:00
 1822	7	13	7	2	0	976.4	orig=27.0.8Pin|orig.time=07:30:00
+1822	7	13	15	32	0	984	orig=27.3.2Pin|orig.time=16:00:00
 1822	7	13	22	2	0	983.9	orig=27.3.2Pin|orig.time=22:30:00
-1822	7	13	NA	NA	0	984	orig=27.3.2Pin|orig.time=NA
 1822	7	14	7	32	0	984.2	orig=27.3.3Pin|orig.time=08:00:00
 1822	7	14	22	32	0	982.4	orig=27.2.8Pin|orig.time=23:00:00
 1822	7	15	6	32	0	979.4	orig=27.1.8Pin|orig.time=07:00:00

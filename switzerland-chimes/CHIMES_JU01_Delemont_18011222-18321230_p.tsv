@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	JU01_Delemont
 Name	Delemont
 Lat	47.3653
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=François-Joseph Helg|PTC=N|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=François-Joseph Helg|PTC=N|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1801	12	22	NA	NA	0	970	orig=26.10.5Pin|orig.time=apresmidi
 1801	12	22	NA	NA	0	970	orig=26.10.5Pin|orig.time=matin
@@ -26305,31 +26305,22 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1828	2	14	NA	NA	0	968.5	orig=26.10.0Pin|orig.time=apresmidi
 1828	2	14	NA	NA	0	980.5	orig=27.2.0Pin|orig.time=matin
 1828	2	14	NA	NA	0	969.2	orig=26.10.0.25Pin|orig.time=soir
-1828	2	15	NA	NA	0	972.2	orig=26.11.0.25Pin|orig.time=apresmidi
 1828	2	15	NA	NA	0	970	orig=26.10.0.5Pin|orig.time=matin
 1828	2	15	NA	NA	0	971.5	orig=26.11.0Pin|orig.time=soir
-1828	2	16	NA	NA	0	973	orig=26.11.0.5Pin|orig.time=apresmidi
 1828	2	16	NA	NA	0	974.5	orig=27.0.0Pin|orig.time=matin
 1828	2	16	NA	NA	0	973	orig=26.11.0.5Pin|orig.time=soir
-1828	2	17	NA	NA	0	970	orig=26.10.0.5Pin|orig.time=apresmidi
 1828	2	17	NA	NA	0	971.5	orig=26.11.0Pin|orig.time=matin
 1828	2	17	NA	NA	0	969.2	orig=26.10.0.25Pin|orig.time=soir
-1828	2	18	NA	NA	0	966.2	orig=26.9.0.25Pin|orig.time=apresmidi
 1828	2	18	NA	NA	0	966.2	orig=26.9.0.25Pin|orig.time=matin
 1828	2	18	NA	NA	0	965.5	orig=26.9.0Pin|orig.time=soir
-1828	2	19	NA	NA	0	963.2	orig=26.8.0.25Pin|orig.time=apresmidi
 1828	2	19	NA	NA	0	963.9	orig=26.8.0.5Pin|orig.time=matin
 1828	2	19	NA	NA	0	962.4	orig=26.8.0Pin|orig.time=soir
-1828	2	20	NA	NA	0	963.2	orig=26.8.0.25Pin|orig.time=apresmidi
 1828	2	20	NA	NA	0	965.5	orig=26.9.0Pin|orig.time=matin
 1828	2	20	NA	NA	0	962.4	orig=26.8.0Pin|orig.time=soir
-1828	2	21	NA	NA	0	942.9	orig=26.1.0.5Pin|orig.time=apresmidi
 1828	2	21	NA	NA	0	967	orig=26.9.0.5Pin|orig.time=matin
 1828	2	21	NA	NA	0	950.4	orig=26.4.0Pin|orig.time=soir
-1828	2	22	NA	NA	0	951.9	orig=26.4.0.5Pin|orig.time=apresmidi
 1828	2	22	NA	NA	0	951.9	orig=26.4.0.5Pin|orig.time=matin
 1828	2	22	NA	NA	0	959.4	orig=26.7.0Pin|orig.time=soir
-1828	2	23	NA	NA	0	968.5	orig=26.10.0Pin|orig.time=apresmidi
 1828	2	23	NA	NA	0	965.5	orig=26.9.0Pin|orig.time=matin
 1828	2	23	NA	NA	0	970	orig=26.10.0.5Pin|orig.time=soir
 1828	2	24	NA	NA	0	974.5	orig=27.0.0Pin|orig.time=apresmidi

@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	LU01_Luzern_Ineichen
 Name	Luzern
 Lat	47.052
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Josef Ineichen|QC software=dataresqc v0.1.2
+Meta	Observer=Josef Ineichen|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1826	4	1	8	26	0	6.2	orig=5R|orig.time=9
 1826	4	1	11	26	0	10	orig=8R|orig.time=12

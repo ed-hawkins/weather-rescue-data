@@ -1,15 +1,15 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH08_Kuesnacht
-Name	Kuesnacht
-Lat	47.31
-Lon	8.58
+Name	Küsnacht
+Lat	47.31701
+Lon	8.58323
 Alt	420
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Zollinger,Unknown|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Zollinger,Unknown|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1852	1	11	5	25	0	964.2	orig=26.78Pin|orig.time=6|atb=10.5R
 1852	1	11	9	25	0	964	orig=26.77Pin|orig.time=10|atb=10R
@@ -2524,84 +2524,44 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1853	6	30	17	25	0	956.5	orig=26.63Pin|orig.time=18|atb=21R
 1853	6	30	21	25	0	959.7	orig=26.71Pin|orig.time=22|atb=19.75R
 1853	7	1	5	25	0	959	orig=26.69Pin|orig.time=6|atb=19.75R
-1853	7	1	5	25	0	959	orig=26.69Pin|orig.time=6|atb=19.75R
 1853	7	1	9	25	0	961.3	orig=26.75Pin|orig.time=10|atb=18.75R
-1853	7	1	9	25	0	961.3	orig=26.75Pin|orig.time=10|atb=18.72R
-1853	7	1	13	25	0	959.7	orig=26.70Pin|orig.time=14|atb=18R
 1853	7	1	13	25	0	959.7	orig=26.70Pin|orig.time=14|atb=18R
 1853	7	1	17	25	0	959.9	orig=26.70Pin|orig.time=18|atb=17.25R
-1853	7	1	17	25	0	959.9	orig=26.70Pin|orig.time=18|atb=17.25R
-1853	7	1	21	25	0	959.8	orig=26.70Pin|orig.time=22|atb=17.5R
 1853	7	1	21	25	0	959.8	orig=26.70Pin|orig.time=22|atb=17.5R
 1853	7	2	5	25	0	959.6	orig=26.69Pin|orig.time=6|atb=16.75R
-1853	7	2	5	25	0	959.6	orig=26.69Pin|orig.time=6|atb=16.75R
-1853	7	2	9	25	0	961.2	orig=26.73Pin|orig.time=10|atb=16R
 1853	7	2	9	25	0	961.2	orig=26.73Pin|orig.time=10|atb=16R
 1853	7	2	13	25	0	963.6	orig=26.80Pin|orig.time=14|atb=16.75R
-1853	7	2	13	25	0	964.6	orig=26.83Pin|orig.time=14|atb=16.75R
 1853	7	2	17	25	0	963.6	orig=26.80Pin|orig.time=18|atb=16.75R
-1853	7	2	17	25	0	964.6	orig=26.83Pin|orig.time=18|atb=16.75R
 1853	7	2	21	25	0	962	orig=26.75Pin|orig.time=22|atb=15.75R
-1853	7	2	21	25	0	963.8	orig=26.80Pin|orig.time=22|atb=15.75R
-1853	7	3	5	25	0	959.8	orig=26.70Pin|orig.time=6|atb=17.5R
 1853	7	3	5	25	0	959.8	orig=26.70Pin|orig.time=6|atb=17.5R
 1853	7	3	9	25	0	966	orig=26.87Pin|orig.time=10|atb=17R
-1853	7	3	9	25	0	966	orig=26.87Pin|orig.time=10|atb=17R
-1853	7	3	13	25	0	965.5	orig=26.86Pin|orig.time=14|atb=17.75R
 1853	7	3	13	25	0	965.5	orig=26.86Pin|orig.time=14|atb=17.75R
 1853	7	3	17	25	0	965.7	orig=26.86Pin|orig.time=18|atb=16.75R
-1853	7	3	17	25	0	965.7	orig=26.86Pin|orig.time=18|atb=16.75R
-1853	7	3	21	25	0	969.4	orig=26.96Pin|orig.time=22|atb=16.25R
 1853	7	3	21	25	0	969.4	orig=26.96Pin|orig.time=22|atb=16.25R
 1853	7	4	5	25	0	967.3	orig=26.90Pin|orig.time=6|atb=16R
-1853	7	4	5	25	0	967.3	orig=26.90Pin|orig.time=6|atb=16R
-1853	7	4	9	25	0	968.2	orig=26.93Pin|orig.time=10|atb=16.75R
 1853	7	4	9	25	0	968.2	orig=26.93Pin|orig.time=10|atb=16.75R
 1853	7	4	13	25	0	967.4	orig=26.92Pin|orig.time=14|atb=19R
-1853	7	4	13	25	0	967.4	orig=26.92Pin|orig.time=14|atb=19R
-1853	7	4	17	25	0	966.6	orig=26.89Pin|orig.time=18|atb=17.75R
 1853	7	4	17	25	0	966.6	orig=26.89Pin|orig.time=18|atb=17.75R
 1853	7	4	21	25	0	968.7	orig=26.94Pin|orig.time=22|atb=16.5R
-1853	7	4	21	25	0	968.7	orig=26.94Pin|orig.time=22|atb=16.5R
-1853	7	5	5	25	0	968.8	orig=26.94Pin|orig.time=6|atb=16R
 1853	7	5	5	25	0	968.8	orig=26.94Pin|orig.time=6|atb=16R
 1853	7	5	9	25	0	966.9	orig=26.90Pin|orig.time=10|atb=18R
-1853	7	5	9	25	0	966.9	orig=26.90Pin|orig.time=10|atb=18R
-1853	7	5	13	25	0	965.4	orig=26.87Pin|orig.time=14|atb=19.75R
 1853	7	5	13	25	0	965.4	orig=26.87Pin|orig.time=14|atb=19.75R
 1853	7	5	17	25	0	965.3	orig=26.86Pin|orig.time=18|atb=18.5R
-1853	7	5	17	25	0	965.3	orig=26.86Pin|orig.time=18|atb=18.5R
-1853	7	5	21	25	0	968.1	orig=26.93Pin|orig.time=22|atb=17.25R
 1853	7	5	21	25	0	968.1	orig=26.93Pin|orig.time=22|atb=17.25R
 1853	7	6	5	25	0	968.2	orig=26.93Pin|orig.time=6|atb=16.75R
-1853	7	6	5	25	0	968.2	orig=26.93Pin|orig.time=6|atb=16.75R
 1853	7	6	9	25	0	967.7	orig=26.92Pin|orig.time=10|atb=17.75R
-1853	7	6	9	25	0	967.7	orig=26.92Pin|orig.time=10|atb=17.75R
-1853	7	6	13	25	0	962.3	orig=26.79Pin|orig.time=14|atb=20.75R
 1853	7	6	13	25	0	962.3	orig=26.79Pin|orig.time=14|atb=20.75R
 1853	7	6	17	25	0	961.3	orig=26.76Pin|orig.time=18|atb=20.5R
-1853	7	6	17	25	0	962.4	orig=26.79Pin|orig.time=18|atb=20.5R
-1853	7	6	21	25	0	966.1	orig=26.88Pin|orig.time=22|atb=18.5R
 1853	7	6	21	25	0	966.1	orig=26.88Pin|orig.time=22|atb=18.5R
 1853	7	7	5	25	0	964.8	orig=26.84Pin|orig.time=6|atb=17.75R
-1853	7	7	5	25	0	964.8	orig=26.84Pin|orig.time=6|atb=17.75R
-1853	7	7	9	25	0	963.3	orig=26.81Pin|orig.time=10|atb=19.8R
 1853	7	7	9	25	0	963.3	orig=26.81Pin|orig.time=10|atb=19.8R
 1853	7	7	13	25	0	964	orig=26.84Pin|orig.time=14|atb=21.25R
-1853	7	7	13	25	0	964	orig=26.84Pin|orig.time=14|atb=21.25R
-1853	7	7	17	25	0	961.8	orig=26.78Pin|orig.time=18|atb=21.4R
 1853	7	7	17	25	0	961.8	orig=26.78Pin|orig.time=18|atb=21.4R
 1853	7	7	21	25	0	962.1	orig=26.78Pin|orig.time=22|atb=20.25R
-1853	7	7	21	25	0	962.1	orig=26.78Pin|orig.time=22|atb=20.25R
-1853	7	8	5	25	0	962.2	orig=26.78Pin|orig.time=6|atb=19.5R
 1853	7	8	5	25	0	962.2	orig=26.78Pin|orig.time=6|atb=19.5R
 1853	7	8	9	25	0	961.1	orig=26.75Pin|orig.time=10|atb=20R
-1853	7	8	9	25	0	961.1	orig=26.75Pin|orig.time=10|atb=20R
-1853	7	8	13	25	0	964	orig=26.84Pin|orig.time=14|atb=21.25R
 1853	7	8	13	25	0	964	orig=26.84Pin|orig.time=14|atb=21.25R
 1853	7	8	17	25	0	958.4	orig=26.69Pin|orig.time=18|atb=22.25R
-1853	7	8	17	25	0	958.4	orig=26.69Pin|orig.time=18|atb=22.25R
-1853	7	8	21	25	0	963.8	orig=26.83Pin|orig.time=22|atb=20.5R
 1853	7	8	21	25	0	963.8	orig=26.83Pin|orig.time=22|atb=20.5R
 1853	7	9	5	25	0	962.8	orig=26.80Pin|orig.time=6|atb=20.2R
 1853	7	9	9	25	0	962.9	orig=26.81Pin|orig.time=10|atb=21.25R

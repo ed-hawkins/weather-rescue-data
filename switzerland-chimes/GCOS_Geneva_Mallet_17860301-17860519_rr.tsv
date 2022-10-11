@@ -1,0 +1,93 @@
+SEF	1.0.0
+ID	Geneva_Mallet
+Name	Geneva
+Lat	46.20151
+Lon	6.14838
+Alt	389
+Source	GCOS
+Link	NA
+Vbl	rr
+Stat	sum
+Units	mm
+Meta	Observer=Mallet | Address=Maison Mallet
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1786	3	1	NA	NA	day	2.5	orig=1.125Pl
+1786	3	2	NA	NA	day	3.1	orig=1.375Pl
+1786	3	3	NA	NA	day	2	orig=0.875Pl
+1786	3	4	NA	NA	day	0	orig=0Pl
+1786	3	5	NA	NA	day	0	orig=0Pl
+1786	3	6	NA	NA	day	10.4	orig=4.625Pl
+1786	3	7	NA	NA	day	17.8	orig=7.875Pl
+1786	3	8	NA	NA	day	3.7	orig=1.625Pl
+1786	3	9	NA	NA	day	1.1	orig=0.5Pl
+1786	3	10	NA	NA	day	0	orig=0Pl
+1786	3	11	NA	NA	day	0	orig=0Pl
+1786	3	12	NA	NA	day	0	orig=0Pl
+1786	3	13	NA	NA	day	0	orig=0Pl
+1786	3	14	NA	NA	day	16.1	orig=7.125Pl
+1786	3	15	NA	NA	day	5.4	orig=2.375Pl
+1786	3	16	NA	NA	day	20.6	orig=9.125Pl
+1786	3	17	NA	NA	day	2	orig=0.875Pl
+1786	3	18	NA	NA	day	9.9	orig=4.375Pl
+1786	3	19	NA	NA	day	22	orig=9.75Pl
+1786	3	20	NA	NA	day	4	orig=1.785Pl
+1786	3	21	NA	NA	day	0	orig=0Pl
+1786	3	22	NA	NA	day	2.5	orig=1.125Pl
+1786	3	23	NA	NA	day	0	orig=0Pl
+1786	3	24	NA	NA	day	3.9	orig=1.75Pl
+1786	3	25	NA	NA	day	1.7	orig=0.75Pl
+1786	3	26	NA	NA	day	10.7	orig=4.75Pl
+1786	3	27	NA	NA	day	8.2	orig=3.625Pl
+1786	3	28	NA	NA	day	2	orig=0.875Pl
+1786	3	29	NA	NA	day	0	orig=0Pl
+1786	3	30	NA	NA	day	0	orig=0Pl
+1786	3	31	NA	NA	day	0	orig=0Pl
+1786	4	1	NA	NA	day	0	orig=0Pl
+1786	4	2	NA	NA	day	0	orig=0Pl
+1786	4	3	NA	NA	day	0	orig=0Pl
+1786	4	4	NA	NA	day	0	orig=0Pl
+1786	4	5	NA	NA	day	0	orig=0Pl
+1786	4	6	NA	NA	day	16.6	orig=7.375Pl
+1786	4	7	NA	NA	day	5.1	orig=2.25Pl
+1786	4	8	NA	NA	day	2.5	orig=1.125Pl
+1786	4	9	NA	NA	day	5.1	orig=2.25Pl
+1786	4	10	NA	NA	day	22.8	orig=10.125Pl
+1786	4	11	NA	NA	day	0	orig=0Pl
+1786	4	12	NA	NA	day	0	orig=0Pl
+1786	4	13	NA	NA	day	0	orig=0Pl
+1786	4	14	NA	NA	day	0	orig=0Pl
+1786	4	15	NA	NA	day	0	orig=0Pl
+1786	4	16	NA	NA	day	0	orig=0Pl
+1786	4	17	NA	NA	day	0	orig=0Pl
+1786	4	18	NA	NA	day	0	orig=0Pl
+1786	4	19	NA	NA	day	2	orig=0.875Pl
+1786	4	20	NA	NA	day	0	orig=0Pl
+1786	4	21	NA	NA	day	0	orig=0Pl
+1786	4	22	NA	NA	day	0	orig=0Pl
+1786	4	23	NA	NA	day	2	orig=0.875Pl
+1786	4	24	NA	NA	day	0	orig=0Pl
+1786	4	25	NA	NA	day	0	orig=0Pl
+1786	4	26	NA	NA	day	0	orig=0Pl
+1786	4	27	NA	NA	day	0	orig=0Pl
+1786	4	28	NA	NA	day	0	orig=0Pl
+1786	4	29	NA	NA	day	0	orig=0Pl
+1786	4	30	NA	NA	day	12.7	orig=5.625Pl
+1786	5	1	NA	NA	day	8.7	orig=3.875Pl
+1786	5	2	NA	NA	day	0	orig=0Pl
+1786	5	3	NA	NA	day	0	orig=0Pl
+1786	5	4	NA	NA	day	0	orig=0Pl
+1786	5	5	NA	NA	day	5.6	orig=2.5Pl
+1786	5	6	NA	NA	day	0	orig=0Pl
+1786	5	7	NA	NA	day	0	orig=0Pl
+1786	5	8	NA	NA	day	22.3	orig=9.875Pl
+1786	5	9	NA	NA	day	15.8	orig=7Pl
+1786	5	10	NA	NA	day	2.8	orig=1.25Pl
+1786	5	11	NA	NA	day	0	orig=0Pl
+1786	5	12	NA	NA	day	0	orig=0Pl
+1786	5	13	NA	NA	day	7.6	orig=3.375Pl
+1786	5	14	NA	NA	day	0	orig=0Pl
+1786	5	15	NA	NA	day	0	orig=0Pl
+1786	5	16	NA	NA	day	0	orig=0Pl
+1786	5	17	NA	NA	day	0	orig=0Pl
+1786	5	18	NA	NA	day	0	orig=0Pl
+1786	5	19	NA	NA	day	13.8	orig=6.125Pl

@@ -1,9 +1,9 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	BE01_Bern_Trechsel
 Name	Bern
-Lat	46.947
-Lon	7.451
-Alt	548.3
+Lat	46.948056
+Lon	7.451607
+Alt	542
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	Tx

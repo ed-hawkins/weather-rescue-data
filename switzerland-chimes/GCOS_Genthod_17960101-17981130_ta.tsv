@@ -1,0 +1,3115 @@
+SEF	1.0.0
+ID	Genthod
+Name	Genthod
+Lat	46.2644
+Lon	6.158
+Alt	405
+Source	GCOS
+Link	NA
+Vbl	ta
+Stat	point
+Units	C
+Meta	Observer=Maurice | Address=Maison Bonnet
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1796	1	1	7	18	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1796	1	1	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1796	1	1	16	3	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1796	1	2	7	18	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1796	1	2	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1796	1	2	16	4	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1796	1	3	7	18	0	3.8	orig.time=Lever du S.|orig=3R
+1796	1	3	13	35	0	4.8	orig.time=2 heures|orig=3.8R
+1796	1	3	16	5	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1796	1	4	7	18	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	1	4	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1796	1	4	16	6	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	1	5	7	18	0	4.5	orig.time=Lever du S.|orig=3.6R
+1796	1	5	13	35	0	6.2	orig.time=2 heures|orig=5R
+1796	1	5	16	7	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1796	1	6	7	17	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	1	6	13	35	0	9.6	orig.time=2 heures|orig=7.7R
+1796	1	6	16	9	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	1	7	7	17	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	1	7	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1796	1	7	16	10	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	1	8	7	16	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1796	1	8	13	35	0	-2	orig.time=2 heures|orig=-1.6R
+1796	1	8	16	11	0	-2.5	orig.time=Couch. du S.|orig=-2R
+1796	1	9	7	16	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	1	9	13	35	0	0.6	orig.time=2 heures|orig=0.5R
+1796	1	9	16	12	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	1	10	7	15	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	1	10	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1796	1	10	16	13	0	1.2	orig.time=Couch. du S.|orig=1R
+1796	1	11	7	15	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	1	11	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1796	1	11	16	15	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1796	1	12	7	14	0	6.2	orig.time=Lever du S.|orig=5R
+1796	1	12	13	35	0	10	orig.time=2 heures|orig=8R
+1796	1	12	16	16	0	7.2	orig.time=Couch. du S.|orig=5.8R
+1796	1	13	7	14	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	1	13	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1796	1	13	16	17	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1796	1	14	7	13	0	-3.8	orig.time=Lever du S.|orig=-3R
+1796	1	14	13	35	0	2.9	orig.time=2 heures|orig=2.3R
+1796	1	14	16	19	0	0.9	orig.time=Couch. du S.|orig=0.7R
+1796	1	15	7	12	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1796	1	15	13	35	0	1.8	orig.time=2 heures|orig=1.4R
+1796	1	15	16	20	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1796	1	16	7	11	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1796	1	16	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	1	16	16	21	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1796	1	17	7	11	0	0.6	orig.time=Lever du S.|orig=0.5R
+1796	1	17	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1796	1	17	16	23	0	1.5	orig.time=Couch. du S.|orig=1.2R
+1796	1	18	7	10	0	-2.9	orig.time=Lever du S.|orig=-2.3R
+1796	1	18	13	35	0	-0.6	orig.time=2 heures|orig=-0.5R
+1796	1	18	16	24	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1796	1	19	7	9	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	1	19	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1796	1	19	16	26	0	0	orig.time=Couch. du S.|orig=0R
+1796	1	20	7	8	0	-3.5	orig.time=Lever du S.|orig=-2.8R
+1796	1	20	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	1	20	16	27	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1796	1	21	7	7	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	1	21	13	35	0	11.2	orig.time=2 heures|orig=9R
+1796	1	21	16	29	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1796	1	22	7	6	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1796	1	22	13	35	0	10	orig.time=2 heures|orig=8R
+1796	1	22	16	30	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1796	1	23	7	5	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	1	23	13	35	0	7.2	orig.time=2 heures|orig=5.8R
+1796	1	23	16	31	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	1	24	7	4	0	11.2	orig.time=Lever du S.|orig=9R
+1796	1	24	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	1	24	16	33	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1796	1	25	7	3	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	1	25	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	1	25	16	34	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1796	1	26	7	2	0	3.8	orig.time=Lever du S.|orig=3R
+1796	1	26	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	1	26	16	36	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1796	1	27	7	1	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	1	27	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	1	27	16	37	0	5	orig.time=Couch. du S.|orig=4R
+1796	1	28	7	0	0	0	orig.time=Lever du S.|orig=0R
+1796	1	28	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1796	1	28	16	39	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	1	29	6	58	0	5.9	orig.time=Lever du S.|orig=4.7R
+1796	1	29	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	1	29	16	40	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1796	1	30	6	57	0	5	orig.time=Lever du S.|orig=4R
+1796	1	30	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1796	1	30	16	42	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1796	1	31	6	56	0	2.1	orig.time=Lever du S.|orig=1.7R
+1796	1	31	13	35	0	3.8	orig.time=2 heures|orig=3R
+1796	1	31	16	43	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	2	1	6	55	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	2	1	13	35	0	3.8	orig.time=2 heures|orig=3R
+1796	2	1	16	45	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	2	2	6	53	0	0	orig.time=Lever du S.|orig=0R
+1796	2	2	13	35	0	2.5	orig.time=2 heures|orig=2R
+1796	2	2	16	46	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1796	2	3	6	52	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	2	3	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1796	2	3	16	48	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1796	2	4	6	50	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	2	4	13	35	0	2.5	orig.time=2 heures|orig=2R
+1796	2	4	16	50	0	1.2	orig.time=Couch. du S.|orig=1R
+1796	2	5	6	49	0	-3.8	orig.time=Lever du S.|orig=-3R
+1796	2	5	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	2	5	16	51	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	2	6	6	48	0	0.6	orig.time=Lever du S.|orig=0.5R
+1796	2	6	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1796	2	6	16	53	0	1.2	orig.time=Couch. du S.|orig=1R
+1796	2	7	6	46	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	2	7	13	35	0	1.2	orig.time=2 heures|orig=1R
+1796	2	7	16	54	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	2	8	6	45	0	5	orig.time=Lever du S.|orig=4R
+1796	2	8	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	2	8	16	56	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1796	2	9	6	43	0	5	orig.time=Lever du S.|orig=4R
+1796	2	9	13	35	0	8.8	orig.time=2 heures|orig=7R
+1796	2	9	16	57	0	7.2	orig.time=Couch. du S.|orig=5.8R
+1796	2	10	6	42	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	2	10	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1796	2	10	16	59	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1796	2	11	6	40	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	2	11	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1796	2	11	17	0	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1796	2	12	6	39	0	1.6	orig.time=Lever du S.|orig=1.3R
+1796	2	12	13	35	0	5	orig.time=2 heures|orig=4R
+1796	2	12	17	2	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1796	2	13	6	37	0	3.8	orig.time=Lever du S.|orig=3R
+1796	2	13	13	35	0	6.2	orig.time=2 heures|orig=5R
+1796	2	13	17	3	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	2	14	6	35	0	0.4	orig.time=Lever du S.|orig=0.3R
+1796	2	14	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	2	14	17	5	0	0.9	orig.time=Couch. du S.|orig=0.7R
+1796	2	15	6	34	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	2	15	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1796	2	15	17	6	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1796	2	16	6	32	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1796	2	16	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	2	16	17	8	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	2	17	6	30	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	2	17	13	35	0	3.8	orig.time=2 heures|orig=3R
+1796	2	17	17	9	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	2	18	6	29	0	0	orig.time=Lever du S.|orig=0R
+1796	2	18	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	2	18	17	10	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	2	19	6	27	0	1.6	orig.time=Lever du S.|orig=1.3R
+1796	2	19	13	35	0	9.2	orig.time=2 heures|orig=7.4R
+1796	2	19	17	12	0	5.8	orig.time=Couch. du S.|orig=4.6R
+1796	2	20	6	25	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	2	20	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1796	2	20	17	13	0	8.8	orig.time=Couch. du S.|orig=7R
+1796	2	21	6	23	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	2	21	13	35	0	8.8	orig.time=2 heures|orig=7R
+1796	2	21	17	15	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	2	22	6	22	0	5	orig.time=Lever du S.|orig=4R
+1796	2	22	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	2	22	17	16	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	2	23	6	20	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	2	23	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	2	23	17	18	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	2	24	6	18	0	2.9	orig.time=Lever du S.|orig=2.3R
+1796	2	24	13	35	0	5	orig.time=2 heures|orig=4R
+1796	2	24	17	19	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1796	2	25	6	16	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	2	25	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1796	2	25	17	21	0	0	orig.time=Couch. du S.|orig=0R
+1796	2	26	6	14	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1796	2	26	13	35	0	0	orig.time=2 heures|orig=0R
+1796	2	26	17	22	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1796	2	27	6	13	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1796	2	27	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1796	2	27	17	23	0	0.4	orig.time=Couch. du S.|orig=0.3R
+1796	2	28	6	11	0	-5.4	orig.time=Lever du S.|orig=-4.3R
+1796	2	28	13	35	0	-5	orig.time=2 heures|orig=-4R
+1796	2	28	17	25	0	-5	orig.time=Couch. du S.|orig=-4R
+1796	2	29	6	9	0	-7.5	orig.time=Lever du S.|orig=-6R
+1796	2	29	13	35	0	-4.6	orig.time=2 heures|orig=-3.7R
+1796	2	29	17	26	0	-5.4	orig.time=Couch. du S.|orig=-4.3R
+1796	3	1	6	7	0	-5.6	orig.time=Lever du S.|orig=-4.5R
+1796	3	1	13	35	0	-2.1	orig.time=2 heures|orig=-1.7R
+1796	3	1	17	28	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1796	3	2	6	5	0	-8.1	orig.time=Lever du S.|orig=-6.5R
+1796	3	2	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1796	3	2	17	29	0	-2.1	orig.time=Couch. du S.|orig=-1.7R
+1796	3	3	6	3	0	-8.8	orig.time=Lever du S.|orig=-7R
+1796	3	3	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1796	3	3	17	30	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	3	4	6	1	0	-3.4	orig.time=Lever du S.|orig=-2.7R
+1796	3	4	13	35	0	-1.6	orig.time=2 heures|orig=-1.3R
+1796	3	4	17	32	0	-3	orig.time=Couch. du S.|orig=-2.4R
+1796	3	5	5	59	0	-7.2	orig.time=Lever du S.|orig=-5.8R
+1796	3	5	13	35	0	-5.9	orig.time=2 heures|orig=-4.7R
+1796	3	5	17	33	0	-7.5	orig.time=Couch. du S.|orig=-6R
+1796	3	6	5	58	0	-8.1	orig.time=Lever du S.|orig=-6.5R
+1796	3	6	13	35	0	-5.6	orig.time=2 heures|orig=-4.5R
+1796	3	6	17	35	0	-6.2	orig.time=Couch. du S.|orig=-5R
+1796	3	7	5	56	0	-6.9	orig.time=Lever du S.|orig=-5.5R
+1796	3	7	13	35	0	-1.6	orig.time=2 heures|orig=-1.3R
+1796	3	7	17	36	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1796	3	8	5	54	0	-5	orig.time=Lever du S.|orig=-4R
+1796	3	8	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1796	3	8	17	37	0	-0.4	orig.time=Couch. du S.|orig=-0.3R
+1796	3	9	5	52	0	-5	orig.time=Lever du S.|orig=-4R
+1796	3	9	13	35	0	6.2	orig.time=2 heures|orig=5R
+1796	3	9	17	39	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1796	3	10	5	50	0	-3.8	orig.time=Lever du S.|orig=-3R
+1796	3	10	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	3	10	17	40	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1796	3	11	5	48	0	0.6	orig.time=Lever du S.|orig=0.5R
+1796	3	11	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1796	3	11	17	41	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	3	12	5	46	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	3	12	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	3	12	17	43	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	3	13	5	44	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	3	13	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	3	13	17	44	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	3	14	5	42	0	2.9	orig.time=Lever du S.|orig=2.3R
+1796	3	14	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	3	14	17	45	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1796	3	15	5	40	0	0.4	orig.time=Lever du S.|orig=0.3R
+1796	3	15	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	3	15	17	47	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1796	3	16	5	38	0	0	orig.time=Lever du S.|orig=0R
+1796	3	16	13	35	0	12.5	orig.time=2 heures|orig=10R
+1796	3	16	17	48	0	10	orig.time=Couch. du S.|orig=8R
+1796	3	17	5	36	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	3	17	13	35	0	11	orig.time=2 heures|orig=8.8R
+1796	3	17	17	50	0	10	orig.time=Couch. du S.|orig=8R
+1796	3	18	5	34	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	3	18	13	35	0	10	orig.time=2 heures|orig=8R
+1796	3	18	17	51	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	3	19	5	32	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1796	3	19	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1796	3	19	17	52	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1796	3	20	5	30	0	2.5	orig.time=Lever du S.|orig=2R
+1796	3	20	13	35	0	10	orig.time=2 heures|orig=8R
+1796	3	20	17	54	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	3	21	5	28	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	3	21	13	35	0	11.2	orig.time=2 heures|orig=9R
+1796	3	21	17	55	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	3	22	5	26	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1796	3	22	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	3	22	17	56	0	10	orig.time=Couch. du S.|orig=8R
+1796	3	23	5	24	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	3	23	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1796	3	23	17	58	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1796	3	24	5	22	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	3	24	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	3	24	17	59	0	10	orig.time=Couch. du S.|orig=8R
+1796	3	25	5	20	0	6.6	orig.time=Lever du S.|orig=5.3R
+1796	3	25	13	35	0	10	orig.time=2 heures|orig=8R
+1796	3	25	18	0	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1796	3	26	5	18	0	1.2	orig.time=Lever du S.|orig=1R
+1796	3	26	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1796	3	26	18	1	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	3	27	5	17	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	3	27	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	3	27	18	3	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1796	3	28	5	15	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	3	28	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	3	28	18	4	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1796	3	29	5	13	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	3	29	13	35	0	3.8	orig.time=2 heures|orig=3R
+1796	3	29	18	5	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	3	30	5	11	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1796	3	30	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	3	30	18	7	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1796	3	31	5	9	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	3	31	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1796	3	31	18	8	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	4	1	5	7	0	2.5	orig.time=Lever du S.|orig=2R
+1796	4	1	13	35	0	13.8	orig.time=2 heures|orig=11R
+1796	4	1	18	9	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1796	4	2	5	5	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	4	2	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1796	4	2	18	11	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1796	4	3	5	3	0	7.5	orig.time=Lever du S.|orig=6R
+1796	4	3	13	35	0	13.8	orig.time=2 heures|orig=11R
+1796	4	3	18	12	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1796	4	4	5	1	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	4	4	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	4	4	18	13	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1796	4	5	4	59	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	4	5	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1796	4	5	18	15	0	10	orig.time=Couch. du S.|orig=8R
+1796	4	6	4	57	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	4	6	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1796	4	6	18	16	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	4	7	4	56	0	0.4	orig.time=Lever du S.|orig=0.3R
+1796	4	7	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1796	4	7	18	17	0	10.8	orig.time=Couch. du S.|orig=8.6R
+1796	4	8	4	54	0	0	orig.time=Lever du S.|orig=0R
+1796	4	8	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	4	8	18	19	0	10	orig.time=Couch. du S.|orig=8R
+1796	4	9	4	52	0	0	orig.time=Lever du S.|orig=0R
+1796	4	9	13	35	0	12.5	orig.time=2 heures|orig=10R
+1796	4	9	18	20	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1796	4	10	4	50	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	4	10	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1796	4	10	18	21	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	4	11	4	48	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1796	4	11	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1796	4	11	18	23	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	4	12	4	46	0	0.4	orig.time=Lever du S.|orig=0.3R
+1796	4	12	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	4	12	18	24	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1796	4	13	4	45	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	4	13	13	35	0	10	orig.time=2 heures|orig=8R
+1796	4	13	18	25	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1796	4	14	4	43	0	2.1	orig.time=Lever du S.|orig=1.7R
+1796	4	14	13	35	0	12.5	orig.time=2 heures|orig=10R
+1796	4	14	18	27	0	10	orig.time=Couch. du S.|orig=8R
+1796	4	15	4	41	0	4	orig.time=Lever du S.|orig=3.2R
+1796	4	15	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1796	4	15	18	28	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	4	16	4	39	0	3.2	orig.time=Lever du S.|orig=2.6R
+1796	4	16	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1796	4	16	18	29	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1796	4	17	4	38	0	1.2	orig.time=Lever du S.|orig=1R
+1796	4	17	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1796	4	17	18	31	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1796	4	18	4	36	0	5.4	orig.time=Lever du S.|orig=4.3R
+1796	4	18	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	4	18	18	32	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	4	19	4	34	0	7.5	orig.time=Lever du S.|orig=6R
+1796	4	19	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	4	19	18	33	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1796	4	20	4	33	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	4	20	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	4	20	18	35	0	16.6	orig.time=Couch. du S.|orig=13.3R
+1796	4	21	4	31	0	6.2	orig.time=Lever du S.|orig=5R
+1796	4	21	13	35	0	20	orig.time=2 heures|orig=16R
+1796	4	21	18	36	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1796	4	22	4	29	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	4	22	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	4	22	18	38	0	17.2	orig.time=Couch. du S.|orig=13.8R
+1796	4	23	4	28	0	6.9	orig.time=Lever du S.|orig=5.5R
+1796	4	23	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1796	4	23	18	39	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	4	24	4	26	0	3.5	orig.time=Lever du S.|orig=2.8R
+1796	4	24	13	35	0	18.2	orig.time=2 heures|orig=14.6R
+1796	4	24	18	40	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	4	25	4	24	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	4	25	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	4	25	18	42	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1796	4	26	4	23	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	4	26	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	4	26	18	43	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	4	27	4	21	0	4.5	orig.time=Lever du S.|orig=3.6R
+1796	4	27	13	35	0	16.2	orig.time=2 heures|orig=13R
+1796	4	27	18	44	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1796	4	28	4	20	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	4	28	13	35	0	12.5	orig.time=2 heures|orig=10R
+1796	4	28	18	45	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1796	4	29	4	18	0	9.4	orig.time=Lever du S.|orig=7.5R
+1796	4	29	13	35	0	16.8	orig.time=2 heures|orig=13.4R
+1796	4	29	18	47	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1796	4	30	4	17	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	4	30	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	4	30	18	48	0	7	orig.time=Couch. du S.|orig=5.6R
+1796	5	1	4	15	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	5	1	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	5	1	18	49	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	5	2	4	14	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	5	2	13	35	0	14.2	orig.time=2 heures|orig=11.4R
+1796	5	2	18	51	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	5	3	4	13	0	7.5	orig.time=Lever du S.|orig=6R
+1796	5	3	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	5	3	18	52	0	8.8	orig.time=Couch. du S.|orig=7R
+1796	5	4	4	11	0	5.4	orig.time=Lever du S.|orig=4.3R
+1796	5	4	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	5	4	18	53	0	10.2	orig.time=Couch. du S.|orig=8.2R
+1796	5	5	4	10	0	3.8	orig.time=Lever du S.|orig=3R
+1796	5	5	13	35	0	14.8	orig.time=2 heures|orig=11.8R
+1796	5	5	18	55	0	12	orig.time=Couch. du S.|orig=9.6R
+1796	5	6	4	9	0	7.5	orig.time=Lever du S.|orig=6R
+1796	5	6	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1796	5	6	18	56	0	8.8	orig.time=Couch. du S.|orig=7R
+1796	5	7	4	7	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	5	7	13	35	0	15	orig.time=2 heures|orig=12R
+1796	5	7	18	57	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1796	5	8	4	6	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	5	8	13	35	0	15	orig.time=2 heures|orig=12R
+1796	5	8	18	58	0	12.8	orig.time=Couch. du S.|orig=10.2R
+1796	5	9	4	5	0	11.2	orig.time=Lever du S.|orig=9R
+1796	5	9	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1796	5	9	19	0	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1796	5	10	4	4	0	16.2	orig.time=Lever du S.|orig=13R
+1796	5	10	13	35	0	22.5	orig.time=2 heures|orig=18R
+1796	5	10	19	1	0	19.5	orig.time=Couch. du S.|orig=15.6R
+1796	5	11	4	2	0	13.8	orig.time=Lever du S.|orig=11R
+1796	5	11	13	35	0	17.1	orig.time=2 heures|orig=13.7R
+1796	5	11	19	2	0	14.6	orig.time=Couch. du S.|orig=11.7R
+1796	5	12	4	1	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	5	12	13	35	0	20	orig.time=2 heures|orig=16R
+1796	5	12	19	3	0	15.8	orig.time=Couch. du S.|orig=12.6R
+1796	5	13	4	0	0	10.9	orig.time=Lever du S.|orig=8.7R
+1796	5	13	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1796	5	13	19	4	0	12.2	orig.time=Couch. du S.|orig=9.8R
+1796	5	14	3	59	0	8.2	orig.time=Lever du S.|orig=6.6R
+1796	5	14	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	5	14	19	6	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1796	5	15	3	58	0	6.2	orig.time=Lever du S.|orig=5R
+1796	5	15	13	35	0	13.8	orig.time=2 heures|orig=11R
+1796	5	15	19	7	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	5	16	3	57	0	6.5	orig.time=Lever du S.|orig=5.2R
+1796	5	16	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1796	5	16	19	8	0	7	orig.time=Couch. du S.|orig=5.6R
+1796	5	17	3	56	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	5	17	13	35	0	12.5	orig.time=2 heures|orig=10R
+1796	5	17	19	9	0	10.5	orig.time=Couch. du S.|orig=8.4R
+1796	5	18	3	55	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	5	18	13	35	0	16.8	orig.time=2 heures|orig=13.4R
+1796	5	18	19	10	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	5	19	3	54	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	5	19	13	35	0	17.5	orig.time=2 heures|orig=14R
+1796	5	19	19	11	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1796	5	20	3	53	0	8.8	orig.time=Lever du S.|orig=7R
+1796	5	20	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	5	20	19	12	0	15.5	orig.time=Couch. du S.|orig=12.4R
+1796	5	21	3	52	0	12.1	orig.time=Lever du S.|orig=9.7R
+1796	5	21	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1796	5	21	19	13	0	14.5	orig.time=Couch. du S.|orig=11.6R
+1796	5	22	3	52	0	12.5	orig.time=Lever du S.|orig=10R
+1796	5	22	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1796	5	22	19	14	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	5	23	3	51	0	10.8	orig.time=Lever du S.|orig=8.6R
+1796	5	23	13	35	0	17.2	orig.time=2 heures|orig=13.8R
+1796	5	23	19	16	0	16.2	orig.time=Couch. du S.|orig=13R
+1796	5	24	3	50	0	12.5	orig.time=Lever du S.|orig=10R
+1796	5	24	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	5	24	19	17	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1796	5	25	3	49	0	11.2	orig.time=Lever du S.|orig=9R
+1796	5	25	13	35	0	24	orig.time=2 heures|orig=19.2R
+1796	5	25	19	17	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1796	5	26	3	49	0	11.2	orig.time=Lever du S.|orig=9R
+1796	5	26	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1796	5	26	19	18	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1796	5	27	3	48	0	12.5	orig.time=Lever du S.|orig=10R
+1796	5	27	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	5	27	19	19	0	15	orig.time=Couch. du S.|orig=12R
+1796	5	28	3	47	0	12.5	orig.time=Lever du S.|orig=10R
+1796	5	28	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	5	28	19	20	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1796	5	29	3	47	0	10	orig.time=Lever du S.|orig=8R
+1796	5	29	13	35	0	17.8	orig.time=2 heures|orig=14.2R
+1796	5	29	19	21	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1796	5	30	3	46	0	9.1	orig.time=Lever du S.|orig=7.3R
+1796	5	30	13	35	0	20.8	orig.time=2 heures|orig=16.6R
+1796	5	30	19	22	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	5	31	3	46	0	10	orig.time=Lever du S.|orig=8R
+1796	5	31	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1796	5	31	19	23	0	20.8	orig.time=Couch. du S.|orig=16.6R
+1796	6	1	3	45	0	16.2	orig.time=Lever du S.|orig=13R
+1796	6	1	13	35	0	15.5	orig.time=2 heures|orig=12.4R
+1796	6	1	19	24	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1796	6	2	3	45	0	11.2	orig.time=Lever du S.|orig=9R
+1796	6	2	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1796	6	2	19	24	0	12.8	orig.time=Couch. du S.|orig=10.2R
+1796	6	3	3	45	0	12.9	orig.time=Lever du S.|orig=10.3R
+1796	6	3	13	35	0	15	orig.time=2 heures|orig=12R
+1796	6	3	19	25	0	10	orig.time=Couch. du S.|orig=8R
+1796	6	4	3	44	0	8.8	orig.time=Lever du S.|orig=7R
+1796	6	4	13	35	0	11.2	orig.time=2 heures|orig=9R
+1796	6	4	19	26	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	6	5	3	44	0	6.5	orig.time=Lever du S.|orig=5.2R
+1796	6	5	13	35	0	11.2	orig.time=2 heures|orig=9R
+1796	6	5	19	26	0	12.5	orig.time=Couch. du S.|orig=10R
+1796	6	6	3	44	0	5.4	orig.time=Lever du S.|orig=4.3R
+1796	6	6	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	6	6	19	27	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	6	7	3	44	0	8.8	orig.time=Lever du S.|orig=7R
+1796	6	7	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	6	7	19	28	0	15	orig.time=Couch. du S.|orig=12R
+1796	6	8	3	44	0	6.5	orig.time=Lever du S.|orig=5.2R
+1796	6	8	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	6	8	19	28	0	18.8	orig.time=Couch. du S.|orig=15R
+1796	6	9	3	43	0	14.1	orig.time=Lever du S.|orig=11.3R
+1796	6	9	13	35	0	21	orig.time=2 heures|orig=16.8R
+1796	6	9	19	29	0	19.2	orig.time=Couch. du S.|orig=15.4R
+1796	6	10	3	43	0	13.2	orig.time=Lever du S.|orig=10.6R
+1796	6	10	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	6	10	19	29	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	6	11	3	43	0	11.2	orig.time=Lever du S.|orig=9R
+1796	6	11	13	35	0	21.2	orig.time=2 heures|orig=17R
+1796	6	11	19	29	0	20	orig.time=Couch. du S.|orig=16R
+1796	6	12	3	43	0	16.6	orig.time=Lever du S.|orig=13.3R
+1796	6	12	13	35	0	24.8	orig.time=2 heures|orig=19.8R
+1796	6	12	19	30	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	6	13	3	43	0	11.8	orig.time=Lever du S.|orig=9.4R
+1796	6	13	13	35	0	24	orig.time=2 heures|orig=19.2R
+1796	6	13	19	30	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	6	14	3	43	0	12.5	orig.time=Lever du S.|orig=10R
+1796	6	14	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	6	14	19	31	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	6	15	3	44	0	15.4	orig.time=Lever du S.|orig=12.3R
+1796	6	15	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	6	15	19	31	0	14.5	orig.time=Couch. du S.|orig=11.6R
+1796	6	16	3	44	0	10.9	orig.time=Lever du S.|orig=8.7R
+1796	6	16	13	35	0	17.5	orig.time=2 heures|orig=14R
+1796	6	16	19	31	0	15	orig.time=Couch. du S.|orig=12R
+1796	6	17	3	44	0	6.9	orig.time=Lever du S.|orig=5.5R
+1796	6	17	13	35	0	20	orig.time=2 heures|orig=16R
+1796	6	17	19	31	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	6	18	3	44	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	6	18	13	35	0	22.5	orig.time=2 heures|orig=18R
+1796	6	18	19	31	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	6	19	3	44	0	12.8	orig.time=Lever du S.|orig=10.2R
+1796	6	19	13	35	0	26.2	orig.time=2 heures|orig=21R
+1796	6	19	19	32	0	24.2	orig.time=Couch. du S.|orig=19.4R
+1796	6	20	3	45	0	18.1	orig.time=Lever du S.|orig=14.5R
+1796	6	20	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1796	6	20	19	32	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1796	6	21	3	45	0	10.6	orig.time=Lever du S.|orig=8.5R
+1796	6	21	13	35	0	15	orig.time=2 heures|orig=12R
+1796	6	21	19	32	0	11.2	orig.time=Couch. du S.|orig=9R
+1796	6	22	3	45	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	6	22	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1796	6	22	19	32	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1796	6	23	3	46	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	6	23	13	35	0	15	orig.time=2 heures|orig=12R
+1796	6	23	19	32	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1796	6	24	3	46	0	10.2	orig.time=Lever du S.|orig=8.2R
+1796	6	24	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	6	24	19	32	0	17.2	orig.time=Couch. du S.|orig=13.8R
+1796	6	25	3	47	0	10.8	orig.time=Lever du S.|orig=8.6R
+1796	6	25	13	35	0	22.5	orig.time=2 heures|orig=18R
+1796	6	25	19	32	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	6	26	3	47	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	6	26	13	35	0	24.8	orig.time=2 heures|orig=19.8R
+1796	6	26	19	31	0	20	orig.time=Couch. du S.|orig=16R
+1796	6	27	3	48	0	15.8	orig.time=Lever du S.|orig=12.6R
+1796	6	27	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1796	6	27	19	31	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	6	28	3	49	0	15	orig.time=Lever du S.|orig=12R
+1796	6	28	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	6	28	19	31	0	19	orig.time=Couch. du S.|orig=15.2R
+1796	6	29	3	49	0	14.1	orig.time=Lever du S.|orig=11.3R
+1796	6	29	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	6	29	19	31	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	6	30	3	50	0	13.4	orig.time=Lever du S.|orig=10.7R
+1796	6	30	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1796	6	30	19	30	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1796	7	1	3	51	0	13.8	orig.time=Lever du S.|orig=11R
+1796	7	1	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1796	7	1	19	30	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	7	2	3	51	0	10.9	orig.time=Lever du S.|orig=8.7R
+1796	7	2	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	7	2	19	30	0	15	orig.time=Couch. du S.|orig=12R
+1796	7	3	3	52	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	7	3	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	7	3	19	29	0	12.5	orig.time=Couch. du S.|orig=10R
+1796	7	4	3	53	0	8.8	orig.time=Lever du S.|orig=7R
+1796	7	4	13	35	0	16.6	orig.time=2 heures|orig=13.3R
+1796	7	4	19	29	0	12.8	orig.time=Couch. du S.|orig=10.2R
+1796	7	5	3	54	0	7.5	orig.time=Lever du S.|orig=6R
+1796	7	5	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1796	7	5	19	28	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1796	7	6	3	54	0	16.9	orig.time=Lever du S.|orig=13.5R
+1796	7	6	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	7	6	19	28	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	7	7	3	55	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	7	7	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	7	7	19	27	0	15	orig.time=Couch. du S.|orig=12R
+1796	7	8	3	56	0	8.8	orig.time=Lever du S.|orig=7R
+1796	7	8	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	7	8	19	26	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	7	9	3	57	0	12.9	orig.time=Lever du S.|orig=10.3R
+1796	7	9	13	35	0	19.2	orig.time=2 heures|orig=15.4R
+1796	7	9	19	26	0	14.2	orig.time=Couch. du S.|orig=11.4R
+1796	7	10	3	58	0	6	orig.time=Lever du S.|orig=4.8R
+1796	7	10	13	35	0	21.2	orig.time=2 heures|orig=17R
+1796	7	10	19	25	0	18.8	orig.time=Couch. du S.|orig=15R
+1796	7	11	3	59	0	15.6	orig.time=Lever du S.|orig=12.5R
+1796	7	11	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1796	7	11	19	24	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1796	7	12	4	0	0	9.5	orig.time=Lever du S.|orig=7.6R
+1796	7	12	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1796	7	12	19	23	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1796	7	13	4	1	0	5	orig.time=Lever du S.|orig=4R
+1796	7	13	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1796	7	13	19	23	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1796	7	14	4	2	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	7	14	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1796	7	14	19	22	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	7	15	4	3	0	14.1	orig.time=Lever du S.|orig=11.3R
+1796	7	15	13	35	0	26.2	orig.time=2 heures|orig=21R
+1796	7	15	19	21	0	22.5	orig.time=Couch. du S.|orig=18R
+1796	7	16	4	4	0	16.8	orig.time=Lever du S.|orig=13.4R
+1796	7	16	13	35	0	28.8	orig.time=2 heures|orig=23R
+1796	7	16	19	20	0	25.6	orig.time=Couch. du S.|orig=20.5R
+1796	7	17	4	5	0	19.1	orig.time=Lever du S.|orig=15.3R
+1796	7	17	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	7	17	19	19	0	22.2	orig.time=Couch. du S.|orig=17.8R
+1796	7	18	4	6	0	13.4	orig.time=Lever du S.|orig=10.7R
+1796	7	18	13	35	0	24.8	orig.time=2 heures|orig=19.8R
+1796	7	18	19	18	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1796	7	19	4	7	0	15.6	orig.time=Lever du S.|orig=12.5R
+1796	7	19	13	35	0	25	orig.time=2 heures|orig=20R
+1796	7	19	19	17	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	7	20	4	8	0	15.4	orig.time=Lever du S.|orig=12.3R
+1796	7	20	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	7	20	19	16	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	7	21	4	10	0	12.5	orig.time=Lever du S.|orig=10R
+1796	7	21	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1796	7	21	19	15	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1796	7	22	4	11	0	15.9	orig.time=Lever du S.|orig=12.7R
+1796	7	22	13	35	0	26	orig.time=2 heures|orig=20.8R
+1796	7	22	19	14	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1796	7	23	4	12	0	15.9	orig.time=Lever du S.|orig=12.7R
+1796	7	23	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	7	23	19	12	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	7	24	4	13	0	10	orig.time=Lever du S.|orig=8R
+1796	7	24	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	7	24	19	11	0	16.2	orig.time=Couch. du S.|orig=13R
+1796	7	25	4	14	0	10.6	orig.time=Lever du S.|orig=8.5R
+1796	7	25	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1796	7	25	19	10	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	7	26	4	15	0	18.5	orig.time=Lever du S.|orig=14.8R
+1796	7	26	13	35	0	25	orig.time=2 heures|orig=20R
+1796	7	26	19	9	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	7	27	4	17	0	17.9	orig.time=Lever du S.|orig=14.3R
+1796	7	27	13	35	0	16.2	orig.time=2 heures|orig=13R
+1796	7	27	19	8	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1796	7	28	4	18	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	7	28	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1796	7	28	19	6	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	7	29	4	19	0	10.6	orig.time=Lever du S.|orig=8.5R
+1796	7	29	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	7	29	19	5	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	7	30	4	20	0	12.9	orig.time=Lever du S.|orig=10.3R
+1796	7	30	13	35	0	25.5	orig.time=2 heures|orig=20.4R
+1796	7	30	19	4	0	22	orig.time=Couch. du S.|orig=17.6R
+1796	7	31	4	21	0	15.9	orig.time=Lever du S.|orig=12.7R
+1796	7	31	13	35	0	22.2	orig.time=2 heures|orig=17.8R
+1796	7	31	19	2	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1796	8	1	4	23	0	16.2	orig.time=Lever du S.|orig=13R
+1796	8	1	13	35	0	23.5	orig.time=2 heures|orig=18.8R
+1796	8	1	19	1	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	8	2	4	24	0	14.2	orig.time=Lever du S.|orig=11.4R
+1796	8	2	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1796	8	2	18	59	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1796	8	3	4	25	0	17.1	orig.time=Lever du S.|orig=13.7R
+1796	8	3	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1796	8	3	18	58	0	17.8	orig.time=Couch. du S.|orig=14.2R
+1796	8	4	4	26	0	16.2	orig.time=Lever du S.|orig=13R
+1796	8	4	13	35	0	20	orig.time=2 heures|orig=16R
+1796	8	4	18	56	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	8	5	4	28	0	12.8	orig.time=Lever du S.|orig=10.2R
+1796	8	5	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	8	5	18	55	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	8	6	4	29	0	15	orig.time=Lever du S.|orig=12R
+1796	8	6	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1796	8	6	18	53	0	18.8	orig.time=Couch. du S.|orig=15R
+1796	8	7	4	30	0	10.6	orig.time=Lever du S.|orig=8.5R
+1796	8	7	13	35	0	25	orig.time=2 heures|orig=20R
+1796	8	7	18	52	0	20.8	orig.time=Couch. du S.|orig=16.6R
+1796	8	8	4	31	0	11.9	orig.time=Lever du S.|orig=9.5R
+1796	8	8	13	35	0	24.1	orig.time=2 heures|orig=19.3R
+1796	8	8	18	50	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	8	9	4	33	0	14.1	orig.time=Lever du S.|orig=11.3R
+1796	8	9	13	35	0	29.2	orig.time=2 heures|orig=23.4R
+1796	8	9	18	49	0	24.4	orig.time=Couch. du S.|orig=19.5R
+1796	8	10	4	34	0	15.6	orig.time=Lever du S.|orig=12.5R
+1796	8	10	13	35	0	30.4	orig.time=2 heures|orig=24.3R
+1796	8	10	18	47	0	24.4	orig.time=Couch. du S.|orig=19.5R
+1796	8	11	4	35	0	14.6	orig.time=Lever du S.|orig=11.7R
+1796	8	11	13	35	0	27.2	orig.time=2 heures|orig=21.8R
+1796	8	11	18	45	0	23.8	orig.time=Couch. du S.|orig=19R
+1796	8	12	4	37	0	17.9	orig.time=Lever du S.|orig=14.3R
+1796	8	12	13	35	0	27.5	orig.time=2 heures|orig=22R
+1796	8	12	18	44	0	26.2	orig.time=Couch. du S.|orig=21R
+1796	8	13	4	38	0	19.8	orig.time=Lever du S.|orig=15.8R
+1796	8	13	13	35	0	26.6	orig.time=2 heures|orig=21.3R
+1796	8	13	18	42	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1796	8	14	4	39	0	16.8	orig.time=Lever du S.|orig=13.4R
+1796	8	14	13	35	0	19.2	orig.time=2 heures|orig=15.4R
+1796	8	14	18	40	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	8	15	4	40	0	16.9	orig.time=Lever du S.|orig=13.5R
+1796	8	15	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1796	8	15	18	39	0	20.8	orig.time=Couch. du S.|orig=16.6R
+1796	8	16	4	42	0	17.5	orig.time=Lever du S.|orig=14R
+1796	8	16	13	35	0	22.5	orig.time=2 heures|orig=18R
+1796	8	16	18	37	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	8	17	4	43	0	15.6	orig.time=Lever du S.|orig=12.5R
+1796	8	17	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1796	8	17	18	35	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1796	8	18	4	44	0	13.4	orig.time=Lever du S.|orig=10.7R
+1796	8	18	13	35	0	21.2	orig.time=2 heures|orig=17R
+1796	8	18	18	33	0	19.5	orig.time=Couch. du S.|orig=15.6R
+1796	8	19	4	45	0	11.5	orig.time=Lever du S.|orig=9.2R
+1796	8	19	13	35	0	23	orig.time=2 heures|orig=18.4R
+1796	8	19	18	32	0	21	orig.time=Couch. du S.|orig=16.8R
+1796	8	20	4	47	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	8	20	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	8	20	18	30	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	8	21	4	48	0	15.4	orig.time=Lever du S.|orig=12.3R
+1796	8	21	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1796	8	21	18	28	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1796	8	22	4	49	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	8	22	13	35	0	24.8	orig.time=2 heures|orig=19.8R
+1796	8	22	18	26	0	20.5	orig.time=Couch. du S.|orig=16.4R
+1796	8	23	4	51	0	16.9	orig.time=Lever du S.|orig=13.5R
+1796	8	23	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1796	8	23	18	24	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	8	24	4	52	0	15	orig.time=Lever du S.|orig=12R
+1796	8	24	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	8	24	18	22	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	8	25	4	53	0	14.4	orig.time=Lever du S.|orig=11.5R
+1796	8	25	13	35	0	23.4	orig.time=2 heures|orig=18.7R
+1796	8	25	18	21	0	21	orig.time=Couch. du S.|orig=16.8R
+1796	8	26	4	54	0	16.9	orig.time=Lever du S.|orig=13.5R
+1796	8	26	13	35	0	18	orig.time=2 heures|orig=14.4R
+1796	8	26	18	19	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	8	27	4	56	0	15.6	orig.time=Lever du S.|orig=12.5R
+1796	8	27	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1796	8	27	18	17	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1796	8	28	4	57	0	13.4	orig.time=Lever du S.|orig=10.7R
+1796	8	28	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	8	28	18	15	0	15	orig.time=Couch. du S.|orig=12R
+1796	8	29	4	58	0	6.5	orig.time=Lever du S.|orig=5.2R
+1796	8	29	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1796	8	29	18	13	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1796	8	30	4	59	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	8	30	13	35	0	16.2	orig.time=2 heures|orig=13R
+1796	8	30	18	11	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1796	8	31	5	1	0	11.2	orig.time=Lever du S.|orig=9R
+1796	8	31	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	8	31	18	9	0	15	orig.time=Couch. du S.|orig=12R
+1796	9	1	5	2	0	13.1	orig.time=Lever du S.|orig=10.5R
+1796	9	1	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	9	1	18	7	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	9	2	5	3	0	7.9	orig.time=Lever du S.|orig=6.3R
+1796	9	2	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1796	9	2	18	5	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	9	3	5	4	0	12.5	orig.time=Lever du S.|orig=10R
+1796	9	3	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	9	3	18	3	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	9	4	5	6	0	14.4	orig.time=Lever du S.|orig=11.5R
+1796	9	4	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1796	9	4	18	1	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	9	5	5	7	0	7.9	orig.time=Lever du S.|orig=6.3R
+1796	9	5	13	35	0	19.2	orig.time=2 heures|orig=15.4R
+1796	9	5	17	59	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	9	6	5	8	0	10	orig.time=Lever du S.|orig=8R
+1796	9	6	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1796	9	6	17	58	0	17	orig.time=Couch. du S.|orig=13.6R
+1796	9	7	5	9	0	9.1	orig.time=Lever du S.|orig=7.3R
+1796	9	7	13	35	0	22.8	orig.time=2 heures|orig=18.2R
+1796	9	7	17	56	0	18	orig.time=Couch. du S.|orig=14.4R
+1796	9	8	5	11	0	10	orig.time=Lever du S.|orig=8R
+1796	9	8	13	35	0	21.6	orig.time=2 heures|orig=17.3R
+1796	9	8	17	54	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	9	9	5	12	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	9	9	13	35	0	22.2	orig.time=2 heures|orig=17.8R
+1796	9	9	17	52	0	19.2	orig.time=Couch. du S.|orig=15.4R
+1796	9	10	5	13	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	9	10	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	9	10	17	50	0	22.5	orig.time=Couch. du S.|orig=18R
+1796	9	11	5	14	0	11.2	orig.time=Lever du S.|orig=9R
+1796	9	11	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	9	11	17	48	0	21	orig.time=Couch. du S.|orig=16.8R
+1796	9	12	5	16	0	12.9	orig.time=Lever du S.|orig=10.3R
+1796	9	12	13	35	0	24.2	orig.time=2 heures|orig=19.4R
+1796	9	12	17	46	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	9	13	5	17	0	11.2	orig.time=Lever du S.|orig=9R
+1796	9	13	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1796	9	13	17	44	0	20.4	orig.time=Couch. du S.|orig=16.3R
+1796	9	14	5	18	0	11.2	orig.time=Lever du S.|orig=9R
+1796	9	14	13	35	0	24.1	orig.time=2 heures|orig=19.3R
+1796	9	14	17	42	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	9	15	5	19	0	11.2	orig.time=Lever du S.|orig=9R
+1796	9	15	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1796	9	15	17	40	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1796	9	16	5	21	0	11.2	orig.time=Lever du S.|orig=9R
+1796	9	16	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1796	9	16	17	38	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	9	17	5	22	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	9	17	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1796	9	17	17	36	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1796	9	18	5	23	0	10.9	orig.time=Lever du S.|orig=8.7R
+1796	9	18	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1796	9	18	17	34	0	21.2	orig.time=Couch. du S.|orig=17R
+1796	9	19	5	24	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	9	19	13	35	0	23.8	orig.time=2 heures|orig=19R
+1796	9	19	17	32	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1796	9	20	5	26	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	9	20	13	35	0	16.6	orig.time=2 heures|orig=13.3R
+1796	9	20	17	30	0	16.2	orig.time=Couch. du S.|orig=13R
+1796	9	21	5	27	0	10	orig.time=Lever du S.|orig=8R
+1796	9	21	13	35	0	20	orig.time=2 heures|orig=16R
+1796	9	21	17	28	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	9	22	5	28	0	11.9	orig.time=Lever du S.|orig=9.5R
+1796	9	22	13	35	0	20	orig.time=2 heures|orig=16R
+1796	9	22	17	26	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1796	9	23	5	29	0	13.8	orig.time=Lever du S.|orig=11R
+1796	9	23	13	35	0	20	orig.time=2 heures|orig=16R
+1796	9	23	17	24	0	18.2	orig.time=Couch. du S.|orig=14.6R
+1796	9	24	5	31	0	14.2	orig.time=Lever du S.|orig=11.4R
+1796	9	24	13	35	0	20	orig.time=2 heures|orig=16R
+1796	9	24	17	22	0	16.2	orig.time=Couch. du S.|orig=13R
+1796	9	25	5	32	0	14.6	orig.time=Lever du S.|orig=11.7R
+1796	9	25	13	35	0	16.2	orig.time=2 heures|orig=13R
+1796	9	25	17	20	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1796	9	26	5	33	0	12.9	orig.time=Lever du S.|orig=10.3R
+1796	9	26	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1796	9	26	17	18	0	16.8	orig.time=Couch. du S.|orig=13.4R
+1796	9	27	5	35	0	11.9	orig.time=Lever du S.|orig=9.5R
+1796	9	27	13	35	0	18.8	orig.time=2 heures|orig=15R
+1796	9	27	17	16	0	16.6	orig.time=Couch. du S.|orig=13.3R
+1796	9	28	5	36	0	11.9	orig.time=Lever du S.|orig=9.5R
+1796	9	28	13	35	0	17.5	orig.time=2 heures|orig=14R
+1796	9	28	17	14	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1796	9	29	5	37	0	14	orig.time=Lever du S.|orig=11.2R
+1796	9	29	13	35	0	19.2	orig.time=2 heures|orig=15.4R
+1796	9	29	17	12	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	9	30	5	39	0	14.1	orig.time=Lever du S.|orig=11.3R
+1796	9	30	13	35	0	16.6	orig.time=2 heures|orig=13.3R
+1796	9	30	17	10	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1796	10	1	5	40	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	10	1	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1796	10	1	17	8	0	12	orig.time=Couch. du S.|orig=9.6R
+1796	10	2	5	41	0	9.1	orig.time=Lever du S.|orig=7.3R
+1796	10	2	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1796	10	2	17	6	0	12.5	orig.time=Couch. du S.|orig=10R
+1796	10	3	5	42	0	10.2	orig.time=Lever du S.|orig=8.2R
+1796	10	3	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1796	10	3	17	4	0	14.2	orig.time=Couch. du S.|orig=11.4R
+1796	10	4	5	44	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	10	4	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	10	4	17	2	0	15	orig.time=Couch. du S.|orig=12R
+1796	10	5	5	45	0	6.9	orig.time=Lever du S.|orig=5.5R
+1796	10	5	13	35	0	15.9	orig.time=2 heures|orig=12.7R
+1796	10	5	17	0	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	10	6	5	46	0	7	orig.time=Lever du S.|orig=5.6R
+1796	10	6	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1796	10	6	16	59	0	17.2	orig.time=Couch. du S.|orig=13.8R
+1796	10	7	5	48	0	11.2	orig.time=Lever du S.|orig=9R
+1796	10	7	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1796	10	7	16	57	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	10	8	5	49	0	10.4	orig.time=Lever du S.|orig=8.3R
+1796	10	8	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	10	8	16	55	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	10	9	5	51	0	11.2	orig.time=Lever du S.|orig=9R
+1796	10	9	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1796	10	9	16	53	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1796	10	10	5	52	0	10.9	orig.time=Lever du S.|orig=8.7R
+1796	10	10	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1796	10	10	16	51	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	10	11	5	53	0	7.9	orig.time=Lever du S.|orig=6.3R
+1796	10	11	13	35	0	13.8	orig.time=2 heures|orig=11R
+1796	10	11	16	49	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1796	10	12	5	55	0	7.5	orig.time=Lever du S.|orig=6R
+1796	10	12	13	35	0	9.6	orig.time=2 heures|orig=7.7R
+1796	10	12	16	48	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1796	10	13	5	56	0	10	orig.time=Lever du S.|orig=8R
+1796	10	13	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1796	10	13	16	46	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1796	10	14	5	57	0	15.9	orig.time=Lever du S.|orig=12.7R
+1796	10	14	13	35	0	21.2	orig.time=2 heures|orig=17R
+1796	10	14	16	44	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	10	15	5	59	0	14.6	orig.time=Lever du S.|orig=11.7R
+1796	10	15	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1796	10	15	16	42	0	17.5	orig.time=Couch. du S.|orig=14R
+1796	10	16	6	0	0	16.6	orig.time=Lever du S.|orig=13.3R
+1796	10	16	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1796	10	16	16	41	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1796	10	17	6	2	0	11.2	orig.time=Lever du S.|orig=9R
+1796	10	17	13	35	0	11.2	orig.time=2 heures|orig=9R
+1796	10	17	16	39	0	11.2	orig.time=Couch. du S.|orig=9R
+1796	10	18	6	3	0	11.6	orig.time=Lever du S.|orig=9.3R
+1796	10	18	13	35	0	15	orig.time=2 heures|orig=12R
+1796	10	18	16	37	0	13.8	orig.time=Couch. du S.|orig=11R
+1796	10	19	6	4	0	8.8	orig.time=Lever du S.|orig=7R
+1796	10	19	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1796	10	19	16	35	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	10	20	6	6	0	6.2	orig.time=Lever du S.|orig=5R
+1796	10	20	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	10	20	16	34	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	10	21	6	7	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	10	21	13	35	0	9.6	orig.time=2 heures|orig=7.7R
+1796	10	21	16	32	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1796	10	22	6	9	0	8.1	orig.time=Lever du S.|orig=6.5R
+1796	10	22	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	10	22	16	31	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1796	10	23	6	10	0	7.9	orig.time=Lever du S.|orig=6.3R
+1796	10	23	13	35	0	10	orig.time=2 heures|orig=8R
+1796	10	23	16	29	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1796	10	24	6	12	0	8.1	orig.time=Lever du S.|orig=6.5R
+1796	10	24	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	10	24	16	27	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1796	10	25	6	13	0	3.8	orig.time=Lever du S.|orig=3R
+1796	10	25	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	10	25	16	26	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1796	10	26	6	14	0	2.1	orig.time=Lever du S.|orig=1.7R
+1796	10	26	13	35	0	3.1	orig.time=2 heures|orig=2.5R
+1796	10	26	16	24	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1796	10	27	6	16	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	10	27	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	10	27	16	23	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1796	10	28	6	17	0	5	orig.time=Lever du S.|orig=4R
+1796	10	28	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1796	10	28	16	21	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	10	29	6	19	0	1.2	orig.time=Lever du S.|orig=1R
+1796	10	29	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1796	10	29	16	20	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1796	10	30	6	20	0	6.2	orig.time=Lever du S.|orig=5R
+1796	10	30	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	10	30	16	18	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1796	10	31	6	22	0	5	orig.time=Lever du S.|orig=4R
+1796	10	31	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1796	10	31	16	17	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	11	1	6	23	0	6.2	orig.time=Lever du S.|orig=5R
+1796	11	1	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	11	1	16	16	0	8.8	orig.time=Couch. du S.|orig=7R
+1796	11	2	6	25	0	0.9	orig.time=Lever du S.|orig=0.7R
+1796	11	2	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1796	11	2	16	14	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1796	11	3	6	26	0	0.6	orig.time=Lever du S.|orig=0.5R
+1796	11	3	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	11	3	16	13	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	11	4	6	28	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	11	4	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1796	11	4	16	12	0	11.2	orig.time=Couch. du S.|orig=9R
+1796	11	5	6	29	0	8.1	orig.time=Lever du S.|orig=6.5R
+1796	11	5	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1796	11	5	16	10	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1796	11	6	6	30	0	8.1	orig.time=Lever du S.|orig=6.5R
+1796	11	6	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1796	11	6	16	9	0	8.8	orig.time=Couch. du S.|orig=7R
+1796	11	7	6	32	0	6.9	orig.time=Lever du S.|orig=5.5R
+1796	11	7	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1796	11	7	16	8	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	11	8	6	33	0	5	orig.time=Lever du S.|orig=4R
+1796	11	8	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	11	8	16	7	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	11	9	6	35	0	4.4	orig.time=Lever du S.|orig=3.5R
+1796	11	9	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	11	9	16	6	0	7.5	orig.time=Couch. du S.|orig=6R
+1796	11	10	6	36	0	5.6	orig.time=Lever du S.|orig=4.5R
+1796	11	10	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	11	10	16	5	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1796	11	11	6	38	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	11	11	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1796	11	11	16	4	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	11	12	6	39	0	4.6	orig.time=Lever du S.|orig=3.7R
+1796	11	12	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	11	12	16	3	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1796	11	13	6	40	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	11	13	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1796	11	13	16	2	0	5	orig.time=Couch. du S.|orig=4R
+1796	11	14	6	42	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	11	14	13	35	0	6.2	orig.time=2 heures|orig=5R
+1796	11	14	16	1	0	5	orig.time=Couch. du S.|orig=4R
+1796	11	15	6	43	0	3.8	orig.time=Lever du S.|orig=3R
+1796	11	15	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1796	11	15	16	0	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1796	11	16	6	45	0	3.8	orig.time=Lever du S.|orig=3R
+1796	11	16	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1796	11	16	15	59	0	5	orig.time=Couch. du S.|orig=4R
+1796	11	17	6	46	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	11	17	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	11	17	15	58	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	11	18	6	47	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	11	18	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1796	11	18	15	57	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	11	19	6	49	0	1.2	orig.time=Lever du S.|orig=1R
+1796	11	19	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1796	11	19	15	56	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	11	20	6	50	0	-0.4	orig.time=Lever du S.|orig=-0.3R
+1796	11	20	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1796	11	20	15	56	0	5	orig.time=Couch. du S.|orig=4R
+1796	11	21	6	51	0	0.6	orig.time=Lever du S.|orig=0.5R
+1796	11	21	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1796	11	21	15	55	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1796	11	22	6	53	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	11	22	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1796	11	22	15	54	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1796	11	23	6	54	0	3.8	orig.time=Lever du S.|orig=3R
+1796	11	23	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	11	23	15	54	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	11	24	6	55	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	11	24	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	11	24	15	53	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1796	11	25	6	56	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	11	25	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	11	25	15	53	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	11	26	6	58	0	2.9	orig.time=Lever du S.|orig=2.3R
+1796	11	26	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1796	11	26	15	52	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1796	11	27	6	59	0	2.1	orig.time=Lever du S.|orig=1.7R
+1796	11	27	13	35	0	2.9	orig.time=2 heures|orig=2.3R
+1796	11	27	15	52	0	2.5	orig.time=Couch. du S.|orig=2R
+1796	11	28	7	0	0	1.6	orig.time=Lever du S.|orig=1.3R
+1796	11	28	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	11	28	15	51	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1796	11	29	7	1	0	0	orig.time=Lever du S.|orig=0R
+1796	11	29	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1796	11	29	15	51	0	1.2	orig.time=Couch. du S.|orig=1R
+1796	11	30	7	2	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1796	11	30	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1796	11	30	15	51	0	1.2	orig.time=Couch. du S.|orig=1R
+1796	12	1	7	3	0	-1.2	orig.time=Lever du S.|orig=-1R
+1796	12	1	13	35	0	0.6	orig.time=2 heures|orig=0.5R
+1796	12	1	15	50	0	-0.9	orig.time=Couch. du S.|orig=-0.7R
+1796	12	2	7	4	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1796	12	2	13	35	0	0.6	orig.time=2 heures|orig=0.5R
+1796	12	2	15	50	0	0	orig.time=Couch. du S.|orig=0R
+1796	12	3	7	5	0	-5.9	orig.time=Lever du S.|orig=-4.7R
+1796	12	3	13	35	0	-3.4	orig.time=2 heures|orig=-2.7R
+1796	12	3	15	50	0	-4.1	orig.time=Couch. du S.|orig=-3.3R
+1796	12	4	7	6	0	-6.9	orig.time=Lever du S.|orig=-5.5R
+1796	12	4	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1796	12	4	15	50	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1796	12	5	7	7	0	0.4	orig.time=Lever du S.|orig=0.3R
+1796	12	5	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1796	12	5	15	50	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1796	12	6	7	8	0	-5.9	orig.time=Lever du S.|orig=-4.7R
+1796	12	6	13	35	0	0.6	orig.time=2 heures|orig=0.5R
+1796	12	6	15	50	0	-2.1	orig.time=Couch. du S.|orig=-1.7R
+1796	12	7	7	9	0	-8.4	orig.time=Lever du S.|orig=-6.7R
+1796	12	7	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1796	12	7	15	50	0	-3.1	orig.time=Couch. du S.|orig=-2.5R
+1796	12	8	7	10	0	-12.9	orig.time=Lever du S.|orig=-10.3R
+1796	12	8	13	35	0	-2.5	orig.time=2 heures|orig=-2R
+1796	12	8	15	50	0	-4.6	orig.time=Couch. du S.|orig=-3.7R
+1796	12	9	7	11	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1796	12	9	13	35	0	-1.6	orig.time=2 heures|orig=-1.3R
+1796	12	9	15	50	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1796	12	10	7	12	0	-8.8	orig.time=Lever du S.|orig=-7R
+1796	12	10	13	35	0	-6.2	orig.time=2 heures|orig=-5R
+1796	12	10	15	50	0	-6.9	orig.time=Couch. du S.|orig=-5.5R
+1796	12	11	7	12	0	-7.9	orig.time=Lever du S.|orig=-6.3R
+1796	12	11	13	35	0	-5.6	orig.time=2 heures|orig=-4.5R
+1796	12	11	15	50	0	-6.5	orig.time=Couch. du S.|orig=-5.2R
+1796	12	12	7	13	0	-13.4	orig.time=Lever du S.|orig=-10.7R
+1796	12	12	13	35	0	-6.2	orig.time=2 heures|orig=-5R
+1796	12	12	15	50	0	-7.1	orig.time=Couch. du S.|orig=-5.7R
+1796	12	13	7	14	0	-8.8	orig.time=Lever du S.|orig=-7R
+1796	12	13	13	35	0	-2.5	orig.time=2 heures|orig=-2R
+1796	12	13	15	51	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1796	12	14	7	14	0	-7.5	orig.time=Lever du S.|orig=-6R
+1796	12	14	13	35	0	-2.9	orig.time=2 heures|orig=-2.3R
+1796	12	14	15	51	0	-3.1	orig.time=Couch. du S.|orig=-2.5R
+1796	12	15	7	15	0	-5.4	orig.time=Lever du S.|orig=-4.3R
+1796	12	15	13	35	0	-4.1	orig.time=2 heures|orig=-3.3R
+1796	12	15	15	51	0	-4.4	orig.time=Couch. du S.|orig=-3.5R
+1796	12	16	7	15	0	-6.6	orig.time=Lever du S.|orig=-5.3R
+1796	12	16	13	35	0	-5.4	orig.time=2 heures|orig=-4.3R
+1796	12	16	15	52	0	-5.6	orig.time=Couch. du S.|orig=-4.5R
+1796	12	17	7	16	0	-7.1	orig.time=Lever du S.|orig=-5.7R
+1796	12	17	13	35	0	-4.6	orig.time=2 heures|orig=-3.7R
+1796	12	17	15	52	0	-4.4	orig.time=Couch. du S.|orig=-3.5R
+1796	12	18	7	16	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1796	12	18	13	35	0	2.5	orig.time=2 heures|orig=2R
+1796	12	18	15	53	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1796	12	19	7	17	0	6.6	orig.time=Lever du S.|orig=5.3R
+1796	12	19	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1796	12	19	15	53	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	12	20	7	17	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	12	20	13	35	0	6.2	orig.time=2 heures|orig=5R
+1796	12	20	15	54	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1796	12	21	7	18	0	6.2	orig.time=Lever du S.|orig=5R
+1796	12	21	13	35	0	7.5	orig.time=2 heures|orig=6R
+1796	12	21	15	54	0	6.2	orig.time=Couch. du S.|orig=5R
+1796	12	22	7	18	0	5.9	orig.time=Lever du S.|orig=4.7R
+1796	12	22	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	12	22	15	55	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	12	23	7	18	0	7.5	orig.time=Lever du S.|orig=6R
+1796	12	23	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1796	12	23	15	56	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1796	12	24	7	18	0	8.1	orig.time=Lever du S.|orig=6.5R
+1796	12	24	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1796	12	24	15	57	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1796	12	25	7	18	0	6.6	orig.time=Lever du S.|orig=5.3R
+1796	12	25	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	12	25	15	57	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1796	12	26	7	19	0	1.2	orig.time=Lever du S.|orig=1R
+1796	12	26	13	35	0	2.5	orig.time=2 heures|orig=2R
+1796	12	26	15	58	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1796	12	27	7	19	0	1.9	orig.time=Lever du S.|orig=1.5R
+1796	12	27	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1796	12	27	15	59	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1796	12	28	7	19	0	3.4	orig.time=Lever du S.|orig=2.7R
+1796	12	28	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1796	12	28	16	0	0	3.8	orig.time=Couch. du S.|orig=3R
+1796	12	29	7	19	0	2.1	orig.time=Lever du S.|orig=1.7R
+1796	12	29	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1796	12	29	16	1	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1796	12	30	7	19	0	4.1	orig.time=Lever du S.|orig=3.3R
+1796	12	30	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1796	12	30	16	2	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1796	12	31	7	19	0	3.1	orig.time=Lever du S.|orig=2.5R
+1796	12	31	13	35	0	2.5	orig.time=2 heures|orig=2R
+1796	12	31	16	3	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1797	1	1	7	18	0	4.4	orig.time=Lever du S.|orig=3.5R
+1797	1	1	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1797	1	1	16	4	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	1	2	7	18	0	4.6	orig.time=Lever du S.|orig=3.7R
+1797	1	2	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	1	2	16	5	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	1	3	7	18	0	2.5	orig.time=Lever du S.|orig=2R
+1797	1	3	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1797	1	3	16	6	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	1	4	7	18	0	1.9	orig.time=Lever du S.|orig=1.5R
+1797	1	4	13	35	0	3.1	orig.time=2 heures|orig=2.5R
+1797	1	4	16	7	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1797	1	5	7	17	0	0.6	orig.time=Lever du S.|orig=0.5R
+1797	1	5	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1797	1	5	16	8	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1797	1	6	7	17	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	1	6	13	35	0	0.9	orig.time=2 heures|orig=0.7R
+1797	1	6	16	9	0	0.4	orig.time=Couch. du S.|orig=0.3R
+1797	1	7	7	17	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	1	7	13	35	0	0	orig.time=2 heures|orig=0R
+1797	1	7	16	11	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1797	1	8	7	16	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1797	1	8	13	35	0	-1.9	orig.time=2 heures|orig=-1.5R
+1797	1	8	16	12	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1797	1	9	7	16	0	-3.4	orig.time=Lever du S.|orig=-2.7R
+1797	1	9	13	35	0	-2.1	orig.time=2 heures|orig=-1.7R
+1797	1	9	16	13	0	-2.5	orig.time=Couch. du S.|orig=-2R
+1797	1	10	7	15	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	1	10	13	35	0	-1.9	orig.time=2 heures|orig=-1.5R
+1797	1	10	16	14	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1797	1	11	7	14	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	1	11	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1797	1	11	16	16	0	-1.9	orig.time=Couch. du S.|orig=-1.5R
+1797	1	12	7	14	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	1	12	13	35	0	-0.9	orig.time=2 heures|orig=-0.7R
+1797	1	12	16	17	0	-1.9	orig.time=Couch. du S.|orig=-1.5R
+1797	1	13	7	13	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	1	13	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1797	1	13	16	18	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1797	1	14	7	12	0	0	orig.time=Lever du S.|orig=0R
+1797	1	14	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	1	14	16	20	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	1	15	7	12	0	3.1	orig.time=Lever du S.|orig=2.5R
+1797	1	15	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1797	1	15	16	21	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1797	1	16	7	11	0	6.2	orig.time=Lever du S.|orig=5R
+1797	1	16	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	1	16	16	22	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	1	17	7	10	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	1	17	13	35	0	1.2	orig.time=2 heures|orig=1R
+1797	1	17	16	24	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1797	1	18	7	9	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	1	18	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1797	1	18	16	25	0	-1.9	orig.time=Couch. du S.|orig=-1.5R
+1797	1	19	7	8	0	-2.9	orig.time=Lever du S.|orig=-2.3R
+1797	1	19	13	35	0	0	orig.time=2 heures|orig=0R
+1797	1	19	16	27	0	-1.2	orig.time=Couch. du S.|orig=-1R
+1797	1	20	7	7	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	1	20	13	35	0	0.9	orig.time=2 heures|orig=0.7R
+1797	1	20	16	28	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1797	1	21	7	6	0	-5	orig.time=Lever du S.|orig=-4R
+1797	1	21	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	1	21	16	30	0	1.2	orig.time=Couch. du S.|orig=1R
+1797	1	22	7	5	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1797	1	22	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1797	1	22	16	31	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1797	1	23	7	4	0	-5	orig.time=Lever du S.|orig=-4R
+1797	1	23	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1797	1	23	16	33	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	1	24	7	3	0	-5.6	orig.time=Lever du S.|orig=-4.5R
+1797	1	24	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1797	1	24	16	34	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	1	25	7	2	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	1	25	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	1	25	16	36	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1797	1	26	7	1	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1797	1	26	13	35	0	2.9	orig.time=2 heures|orig=2.3R
+1797	1	26	16	37	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	1	27	7	0	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	1	27	13	35	0	3.8	orig.time=2 heures|orig=3R
+1797	1	27	16	39	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	1	28	6	59	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	1	28	13	35	0	0.9	orig.time=2 heures|orig=0.7R
+1797	1	28	16	40	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	1	29	6	57	0	0	orig.time=Lever du S.|orig=0R
+1797	1	29	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1797	1	29	16	42	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	1	30	6	56	0	-4.1	orig.time=Lever du S.|orig=-3.3R
+1797	1	30	13	35	0	3.4	orig.time=2 heures|orig=2.7R
+1797	1	30	16	43	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	1	31	6	55	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	1	31	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	1	31	16	45	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	2	1	6	54	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	2	1	13	35	0	5	orig.time=2 heures|orig=4R
+1797	2	1	16	46	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	2	2	6	52	0	1.2	orig.time=Lever du S.|orig=1R
+1797	2	2	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	2	2	16	48	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	2	3	6	51	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	2	3	13	35	0	5	orig.time=2 heures|orig=4R
+1797	2	3	16	49	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1797	2	4	6	49	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	2	4	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1797	2	4	16	51	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1797	2	5	6	48	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	2	5	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1797	2	5	16	52	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	2	6	6	47	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	2	6	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1797	2	6	16	54	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	2	7	6	45	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	2	7	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1797	2	7	16	55	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	2	8	6	44	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	2	8	13	35	0	-1.9	orig.time=2 heures|orig=-1.5R
+1797	2	8	16	57	0	-1.9	orig.time=Couch. du S.|orig=-1.5R
+1797	2	9	6	42	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1797	2	9	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1797	2	9	16	58	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	2	10	6	40	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	2	10	13	35	0	-0.9	orig.time=2 heures|orig=-0.7R
+1797	2	10	17	0	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1797	2	11	6	39	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	2	11	13	35	0	-0.4	orig.time=2 heures|orig=-0.3R
+1797	2	11	17	1	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1797	2	12	6	37	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1797	2	12	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1797	2	12	17	3	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	2	13	6	36	0	1.2	orig.time=Lever du S.|orig=1R
+1797	2	13	13	35	0	10	orig.time=2 heures|orig=8R
+1797	2	13	17	4	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	2	14	6	34	0	7.1	orig.time=Lever du S.|orig=5.7R
+1797	2	14	13	35	0	9.6	orig.time=2 heures|orig=7.7R
+1797	2	14	17	6	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	2	15	6	32	0	2.1	orig.time=Lever du S.|orig=1.7R
+1797	2	15	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1797	2	15	17	7	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1797	2	16	6	31	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	2	16	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	2	16	17	9	0	1	orig.time=Couch. du S.|orig=0.8R
+1797	2	17	6	29	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1797	2	17	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	2	17	17	10	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	2	18	6	27	0	-2.9	orig.time=Lever du S.|orig=-2.3R
+1797	2	18	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1797	2	18	17	12	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	2	19	6	26	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	2	19	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	2	19	17	13	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1797	2	20	6	24	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1797	2	20	13	35	0	3.8	orig.time=2 heures|orig=3R
+1797	2	20	17	14	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	2	21	6	22	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	2	21	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1797	2	21	17	16	0	3.8	orig.time=Couch. du S.|orig=3R
+1797	2	22	6	20	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	2	22	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	2	22	17	17	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	2	23	6	19	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	2	23	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	2	23	17	19	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1797	2	24	6	17	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	2	24	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1797	2	24	17	20	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1797	2	25	6	15	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1797	2	25	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1797	2	25	17	22	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	2	26	6	13	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	2	26	13	35	0	10	orig.time=2 heures|orig=8R
+1797	2	26	17	23	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1797	2	27	6	11	0	2.5	orig.time=Lever du S.|orig=2R
+1797	2	27	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1797	2	27	17	24	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1797	2	28	6	9	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	2	28	13	35	0	3.8	orig.time=2 heures|orig=3R
+1797	2	28	17	26	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1797	3	1	6	8	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	3	1	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1797	3	1	17	27	0	3.8	orig.time=Couch. du S.|orig=3R
+1797	3	2	6	6	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1797	3	2	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	3	2	17	29	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	3	3	6	4	0	-3.8	orig.time=Lever du S.|orig=-3R
+1797	3	3	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	3	3	17	30	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1797	3	4	6	2	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	3	4	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	3	4	17	31	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1797	3	5	6	0	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	3	5	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	3	5	17	33	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1797	3	6	5	58	0	2.5	orig.time=Lever du S.|orig=2R
+1797	3	6	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1797	3	6	17	34	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1797	3	7	5	56	0	3.1	orig.time=Lever du S.|orig=2.5R
+1797	3	7	13	35	0	10	orig.time=2 heures|orig=8R
+1797	3	7	17	36	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1797	3	8	5	54	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1797	3	8	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	3	8	17	37	0	5	orig.time=Couch. du S.|orig=4R
+1797	3	9	5	52	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	3	9	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	3	9	17	38	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	3	10	5	50	0	2.1	orig.time=Lever du S.|orig=1.7R
+1797	3	10	13	35	0	3.1	orig.time=2 heures|orig=2.5R
+1797	3	10	17	40	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	3	11	5	48	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	3	11	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	3	11	17	41	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1797	3	12	5	46	0	2.1	orig.time=Lever du S.|orig=1.7R
+1797	3	12	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	3	12	17	42	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	3	13	5	44	0	1.6	orig.time=Lever du S.|orig=1.3R
+1797	3	13	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1797	3	13	17	44	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	3	14	5	42	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	3	14	13	35	0	5	orig.time=2 heures|orig=4R
+1797	3	14	17	45	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1797	3	15	5	41	0	1.2	orig.time=Lever du S.|orig=1R
+1797	3	15	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	3	15	17	46	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1797	3	16	5	39	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	3	16	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	3	16	17	48	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	3	17	5	37	0	1.6	orig.time=Lever du S.|orig=1.3R
+1797	3	17	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1797	3	17	17	49	0	3.8	orig.time=Couch. du S.|orig=3R
+1797	3	18	5	35	0	0.6	orig.time=Lever du S.|orig=0.5R
+1797	3	18	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1797	3	18	17	51	0	5	orig.time=Couch. du S.|orig=4R
+1797	3	19	5	33	0	-4.1	orig.time=Lever du S.|orig=-3.3R
+1797	3	19	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	3	19	17	52	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	3	20	5	31	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	3	20	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	3	20	17	53	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	3	21	5	29	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1797	3	21	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1797	3	21	17	55	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	3	22	5	27	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	3	22	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1797	3	22	17	56	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1797	3	23	5	25	0	-5	orig.time=Lever du S.|orig=-4R
+1797	3	23	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	3	23	17	57	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	3	24	5	23	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	3	24	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1797	3	24	17	58	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	3	25	5	21	0	2.5	orig.time=Lever du S.|orig=2R
+1797	3	25	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1797	3	25	18	0	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1797	3	26	5	19	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	3	26	13	35	0	15	orig.time=2 heures|orig=12R
+1797	3	26	18	1	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	3	27	5	17	0	5	orig.time=Lever du S.|orig=4R
+1797	3	27	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	3	27	18	2	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	3	28	5	15	0	3.4	orig.time=Lever du S.|orig=2.7R
+1797	3	28	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1797	3	28	18	4	0	11.2	orig.time=Couch. du S.|orig=9R
+1797	3	29	5	13	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	3	29	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	3	29	18	5	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1797	3	30	5	11	0	1.9	orig.time=Lever du S.|orig=1.5R
+1797	3	30	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1797	3	30	18	6	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1797	3	31	5	9	0	3.8	orig.time=Lever du S.|orig=3R
+1797	3	31	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	3	31	18	8	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1797	4	1	5	7	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	4	1	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1797	4	1	18	9	0	10	orig.time=Couch. du S.|orig=8R
+1797	4	2	5	5	0	3.1	orig.time=Lever du S.|orig=2.5R
+1797	4	2	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	4	2	18	10	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	4	3	5	4	0	3.1	orig.time=Lever du S.|orig=2.5R
+1797	4	3	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	4	3	18	12	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	4	4	5	2	0	2.4	orig.time=Lever du S.|orig=1.9R
+1797	4	4	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1797	4	4	18	13	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	4	5	5	0	0	0.6	orig.time=Lever du S.|orig=0.5R
+1797	4	5	13	35	0	10	orig.time=2 heures|orig=8R
+1797	4	5	18	14	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	4	6	4	58	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	4	6	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	4	6	18	16	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1797	4	7	4	56	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	4	7	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	4	7	18	17	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	4	8	4	54	0	7.4	orig.time=Lever du S.|orig=5.9R
+1797	4	8	13	35	0	15	orig.time=2 heures|orig=12R
+1797	4	8	18	18	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	4	9	4	52	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	4	9	13	35	0	18.8	orig.time=2 heures|orig=15R
+1797	4	9	18	20	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1797	4	10	4	50	0	6.2	orig.time=Lever du S.|orig=5R
+1797	4	10	13	35	0	15	orig.time=2 heures|orig=12R
+1797	4	10	18	21	0	12.5	orig.time=Couch. du S.|orig=10R
+1797	4	11	4	49	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	4	11	13	35	0	18.8	orig.time=2 heures|orig=15R
+1797	4	11	18	22	0	15	orig.time=Couch. du S.|orig=12R
+1797	4	12	4	47	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	4	12	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	4	12	18	24	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1797	4	13	4	45	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	4	13	13	35	0	18.6	orig.time=2 heures|orig=14.9R
+1797	4	13	18	25	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1797	4	14	4	43	0	7.5	orig.time=Lever du S.|orig=6R
+1797	4	14	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	4	14	18	26	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	4	15	4	42	0	9.9	orig.time=Lever du S.|orig=7.9R
+1797	4	15	13	35	0	16.6	orig.time=2 heures|orig=13.3R
+1797	4	15	18	28	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	4	16	4	40	0	6.2	orig.time=Lever du S.|orig=5R
+1797	4	16	13	35	0	15	orig.time=2 heures|orig=12R
+1797	4	16	18	29	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	4	17	4	38	0	3.8	orig.time=Lever du S.|orig=3R
+1797	4	17	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	4	17	18	30	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1797	4	18	4	36	0	9.9	orig.time=Lever du S.|orig=7.9R
+1797	4	18	13	35	0	15	orig.time=2 heures|orig=12R
+1797	4	18	18	32	0	13.6	orig.time=Couch. du S.|orig=10.9R
+1797	4	19	4	35	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	4	19	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	4	19	18	33	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	4	20	4	33	0	10.4	orig.time=Lever du S.|orig=8.3R
+1797	4	20	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	4	20	18	34	0	14.9	orig.time=Couch. du S.|orig=11.9R
+1797	4	21	4	31	0	9.9	orig.time=Lever du S.|orig=7.9R
+1797	4	21	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	4	21	18	36	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	4	22	4	30	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	4	22	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	4	22	18	37	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	4	23	4	28	0	10	orig.time=Lever du S.|orig=8R
+1797	4	23	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1797	4	23	18	38	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	4	24	4	26	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	4	24	13	35	0	16.1	orig.time=2 heures|orig=12.9R
+1797	4	24	18	40	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	4	25	4	25	0	11.1	orig.time=Lever du S.|orig=8.9R
+1797	4	25	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	4	25	18	41	0	12.4	orig.time=Couch. du S.|orig=9.9R
+1797	4	26	4	23	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	4	26	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1797	4	26	18	42	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	4	27	4	22	0	11.1	orig.time=Lever du S.|orig=8.9R
+1797	4	27	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1797	4	27	18	44	0	11.1	orig.time=Couch. du S.|orig=8.9R
+1797	4	28	4	20	0	8.8	orig.time=Lever du S.|orig=7R
+1797	4	28	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	4	28	18	45	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1797	4	29	4	19	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	4	29	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	4	29	18	46	0	10	orig.time=Couch. du S.|orig=8R
+1797	4	30	4	17	0	8.8	orig.time=Lever du S.|orig=7R
+1797	4	30	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	4	30	18	48	0	12.5	orig.time=Couch. du S.|orig=10R
+1797	5	1	4	16	0	11.1	orig.time=Lever du S.|orig=8.9R
+1797	5	1	13	35	0	7.5	orig.time=2 heures|orig=6R
+1797	5	1	18	49	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	5	2	4	14	0	6.2	orig.time=Lever du S.|orig=5R
+1797	5	2	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	5	2	18	50	0	12.4	orig.time=Couch. du S.|orig=9.9R
+1797	5	3	4	13	0	5.8	orig.time=Lever du S.|orig=4.6R
+1797	5	3	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	5	3	18	52	0	11.2	orig.time=Couch. du S.|orig=9R
+1797	5	4	4	12	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	5	4	13	35	0	15	orig.time=2 heures|orig=12R
+1797	5	4	18	53	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	5	5	4	10	0	12.4	orig.time=Lever du S.|orig=9.9R
+1797	5	5	13	35	0	18.6	orig.time=2 heures|orig=14.9R
+1797	5	5	18	54	0	17.4	orig.time=Couch. du S.|orig=13.9R
+1797	5	6	4	9	0	13.1	orig.time=Lever du S.|orig=10.5R
+1797	5	6	13	35	0	7.4	orig.time=2 heures|orig=5.9R
+1797	5	6	18	56	0	7.4	orig.time=Couch. du S.|orig=5.9R
+1797	5	7	4	8	0	7.4	orig.time=Lever du S.|orig=5.9R
+1797	5	7	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1797	5	7	18	57	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	5	8	4	6	0	10.4	orig.time=Lever du S.|orig=8.3R
+1797	5	8	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1797	5	8	18	58	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1797	5	9	4	5	0	8.8	orig.time=Lever du S.|orig=7R
+1797	5	9	13	35	0	17.5	orig.time=2 heures|orig=14R
+1797	5	9	18	59	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	5	10	4	4	0	8.8	orig.time=Lever du S.|orig=7R
+1797	5	10	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	5	10	19	1	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1797	5	11	4	3	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	5	11	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	5	11	19	2	0	8.2	orig.time=Couch. du S.|orig=6.6R
+1797	5	12	4	2	0	5.4	orig.time=Lever du S.|orig=4.3R
+1797	5	12	13	35	0	16.1	orig.time=2 heures|orig=12.9R
+1797	5	12	19	3	0	12.4	orig.time=Couch. du S.|orig=9.9R
+1797	5	13	4	0	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	5	13	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	5	13	19	4	0	11.1	orig.time=Couch. du S.|orig=8.9R
+1797	5	14	3	59	0	10	orig.time=Lever du S.|orig=8R
+1797	5	14	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	5	14	19	5	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	5	15	3	58	0	11.1	orig.time=Lever du S.|orig=8.9R
+1797	5	15	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	5	15	19	7	0	16.6	orig.time=Couch. du S.|orig=13.3R
+1797	5	16	3	57	0	12.4	orig.time=Lever du S.|orig=9.9R
+1797	5	16	13	35	0	18.6	orig.time=2 heures|orig=14.9R
+1797	5	16	19	8	0	16.8	orig.time=Couch. du S.|orig=13.4R
+1797	5	17	3	56	0	8.6	orig.time=Lever du S.|orig=6.9R
+1797	5	17	13	35	0	22.4	orig.time=2 heures|orig=17.9R
+1797	5	17	19	9	0	18.8	orig.time=Couch. du S.|orig=15R
+1797	5	18	3	55	0	9.9	orig.time=Lever du S.|orig=7.9R
+1797	5	18	13	35	0	23.8	orig.time=2 heures|orig=19R
+1797	5	18	19	10	0	21.1	orig.time=Couch. du S.|orig=16.9R
+1797	5	19	3	54	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	5	19	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	5	19	19	11	0	22.5	orig.time=Couch. du S.|orig=18R
+1797	5	20	3	53	0	12.5	orig.time=Lever du S.|orig=10R
+1797	5	20	13	35	0	26.2	orig.time=2 heures|orig=21R
+1797	5	20	19	12	0	22.5	orig.time=Couch. du S.|orig=18R
+1797	5	21	3	53	0	13.6	orig.time=Lever du S.|orig=10.9R
+1797	5	21	13	35	0	26.1	orig.time=2 heures|orig=20.9R
+1797	5	21	19	13	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	5	22	3	52	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	5	22	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	5	22	19	14	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	5	23	3	51	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	5	23	13	35	0	21.1	orig.time=2 heures|orig=16.9R
+1797	5	23	19	15	0	17.5	orig.time=Couch. du S.|orig=14R
+1797	5	24	3	50	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	5	24	13	35	0	21.1	orig.time=2 heures|orig=16.9R
+1797	5	24	19	16	0	20.4	orig.time=Couch. du S.|orig=16.3R
+1797	5	25	3	50	0	12.9	orig.time=Lever du S.|orig=10.3R
+1797	5	25	13	35	0	25	orig.time=2 heures|orig=20R
+1797	5	25	19	17	0	23.8	orig.time=Couch. du S.|orig=19R
+1797	5	26	3	49	0	15	orig.time=Lever du S.|orig=12R
+1797	5	26	13	35	0	25.4	orig.time=2 heures|orig=20.3R
+1797	5	26	19	18	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	5	27	3	48	0	14.9	orig.time=Lever du S.|orig=11.9R
+1797	5	27	13	35	0	25.4	orig.time=2 heures|orig=20.3R
+1797	5	27	19	19	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1797	5	28	3	48	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	5	28	13	35	0	26.9	orig.time=2 heures|orig=21.5R
+1797	5	28	19	20	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	5	29	3	47	0	15.6	orig.time=Lever du S.|orig=12.5R
+1797	5	29	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1797	5	29	19	21	0	16.2	orig.time=Couch. du S.|orig=13R
+1797	5	30	3	47	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	5	30	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1797	5	30	19	22	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1797	5	31	3	46	0	11.1	orig.time=Lever du S.|orig=8.9R
+1797	5	31	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	5	31	19	23	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	6	1	3	46	0	6.2	orig.time=Lever du S.|orig=5R
+1797	6	1	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	6	1	19	23	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1797	6	2	3	45	0	16.9	orig.time=Lever du S.|orig=13.5R
+1797	6	2	13	35	0	23.4	orig.time=2 heures|orig=18.7R
+1797	6	2	19	24	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1797	6	3	3	45	0	11.2	orig.time=Lever du S.|orig=9R
+1797	6	3	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	6	3	19	25	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1797	6	4	3	44	0	10.6	orig.time=Lever du S.|orig=8.5R
+1797	6	4	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1797	6	4	19	25	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	6	5	3	44	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	6	5	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1797	6	5	19	26	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	6	6	3	44	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	6	6	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1797	6	6	19	27	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1797	6	7	3	44	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	6	7	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	6	7	19	27	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	6	8	3	44	0	9.1	orig.time=Lever du S.|orig=7.3R
+1797	6	8	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	6	8	19	28	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	6	9	3	43	0	7.5	orig.time=Lever du S.|orig=6R
+1797	6	9	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	6	9	19	28	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1797	6	10	3	43	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	6	10	13	35	0	11.2	orig.time=2 heures|orig=9R
+1797	6	10	19	29	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1797	6	11	3	43	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	6	11	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	6	11	19	29	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1797	6	12	3	43	0	10.9	orig.time=Lever du S.|orig=8.7R
+1797	6	12	13	35	0	13.8	orig.time=2 heures|orig=11R
+1797	6	12	19	30	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	6	13	3	43	0	11.2	orig.time=Lever du S.|orig=9R
+1797	6	13	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1797	6	13	19	30	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	6	14	3	43	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	6	14	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	6	14	19	31	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	6	15	3	44	0	9.6	orig.time=Lever du S.|orig=7.7R
+1797	6	15	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1797	6	15	19	31	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1797	6	16	3	44	0	12.5	orig.time=Lever du S.|orig=10R
+1797	6	16	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1797	6	16	19	31	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1797	6	17	3	44	0	11.2	orig.time=Lever du S.|orig=9R
+1797	6	17	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	6	17	19	31	0	15	orig.time=Couch. du S.|orig=12R
+1797	6	18	3	44	0	11.2	orig.time=Lever du S.|orig=9R
+1797	6	18	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	6	18	19	31	0	15	orig.time=Couch. du S.|orig=12R
+1797	6	19	3	44	0	11.2	orig.time=Lever du S.|orig=9R
+1797	6	19	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	6	19	19	32	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1797	6	20	3	45	0	12.1	orig.time=Lever du S.|orig=9.7R
+1797	6	20	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	6	20	19	32	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	6	21	3	45	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	6	21	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	6	21	19	32	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	6	22	3	45	0	10.9	orig.time=Lever du S.|orig=8.7R
+1797	6	22	13	35	0	20	orig.time=2 heures|orig=16R
+1797	6	22	19	32	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1797	6	23	3	46	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	6	23	13	35	0	20	orig.time=2 heures|orig=16R
+1797	6	23	19	32	0	15	orig.time=Couch. du S.|orig=12R
+1797	6	24	3	46	0	10	orig.time=Lever du S.|orig=8R
+1797	6	24	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1797	6	24	19	32	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1797	6	25	3	47	0	14.1	orig.time=Lever du S.|orig=11.3R
+1797	6	25	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1797	6	25	19	32	0	16.2	orig.time=Couch. du S.|orig=13R
+1797	6	26	3	47	0	15	orig.time=Lever du S.|orig=12R
+1797	6	26	13	35	0	22.5	orig.time=2 heures|orig=18R
+1797	6	26	19	31	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1797	6	27	3	48	0	15.9	orig.time=Lever du S.|orig=12.7R
+1797	6	27	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1797	6	27	19	31	0	14.6	orig.time=Couch. du S.|orig=11.7R
+1797	6	28	3	48	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	6	28	13	35	0	15	orig.time=2 heures|orig=12R
+1797	6	28	19	31	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	6	29	3	49	0	8.8	orig.time=Lever du S.|orig=7R
+1797	6	29	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	6	29	19	31	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	6	30	3	50	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	6	30	13	35	0	15	orig.time=2 heures|orig=12R
+1797	6	30	19	30	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	7	1	3	50	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	7	1	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	7	1	19	30	0	16.6	orig.time=Couch. du S.|orig=13.3R
+1797	7	2	3	51	0	9.6	orig.time=Lever du S.|orig=7.7R
+1797	7	2	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	7	2	19	30	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1797	7	3	3	52	0	10.9	orig.time=Lever du S.|orig=8.7R
+1797	7	3	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	7	3	19	29	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1797	7	4	3	53	0	18.5	orig.time=Lever du S.|orig=14.8R
+1797	7	4	13	35	0	22.5	orig.time=2 heures|orig=18R
+1797	7	4	19	29	0	20	orig.time=Couch. du S.|orig=16R
+1797	7	5	3	53	0	12.9	orig.time=Lever du S.|orig=10.3R
+1797	7	5	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	7	5	19	28	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	7	6	3	54	0	17.1	orig.time=Lever du S.|orig=13.7R
+1797	7	6	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1797	7	6	19	28	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1797	7	7	3	55	0	11.2	orig.time=Lever du S.|orig=9R
+1797	7	7	13	35	0	17.1	orig.time=2 heures|orig=13.7R
+1797	7	7	19	27	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	7	8	3	56	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	7	8	13	35	0	18.8	orig.time=2 heures|orig=15R
+1797	7	8	19	27	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	7	9	3	57	0	13.1	orig.time=Lever du S.|orig=10.5R
+1797	7	9	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1797	7	9	19	26	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1797	7	10	3	58	0	12.9	orig.time=Lever du S.|orig=10.3R
+1797	7	10	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1797	7	10	19	25	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1797	7	11	3	59	0	13.1	orig.time=Lever du S.|orig=10.5R
+1797	7	11	13	35	0	20.9	orig.time=2 heures|orig=16.7R
+1797	7	11	19	24	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1797	7	12	4	0	0	13.1	orig.time=Lever du S.|orig=10.5R
+1797	7	12	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1797	7	12	19	24	0	20	orig.time=Couch. du S.|orig=16R
+1797	7	13	4	1	0	13.8	orig.time=Lever du S.|orig=11R
+1797	7	13	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	7	13	19	23	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1797	7	14	4	2	0	15.4	orig.time=Lever du S.|orig=12.3R
+1797	7	14	13	35	0	26.2	orig.time=2 heures|orig=21R
+1797	7	14	19	22	0	22.9	orig.time=Couch. du S.|orig=18.3R
+1797	7	15	4	3	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	7	15	13	35	0	26.2	orig.time=2 heures|orig=21R
+1797	7	15	19	21	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	7	16	4	4	0	15.4	orig.time=Lever du S.|orig=12.3R
+1797	7	16	13	35	0	27.9	orig.time=2 heures|orig=22.3R
+1797	7	16	19	20	0	23.4	orig.time=Couch. du S.|orig=18.7R
+1797	7	17	4	5	0	15.6	orig.time=Lever du S.|orig=12.5R
+1797	7	17	13	35	0	29.1	orig.time=2 heures|orig=23.3R
+1797	7	17	19	19	0	25.6	orig.time=Couch. du S.|orig=20.5R
+1797	7	18	4	6	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	7	18	13	35	0	25	orig.time=2 heures|orig=20R
+1797	7	18	19	18	0	23.8	orig.time=Couch. du S.|orig=19R
+1797	7	19	4	7	0	16.9	orig.time=Lever du S.|orig=13.5R
+1797	7	19	13	35	0	28.4	orig.time=2 heures|orig=22.7R
+1797	7	19	19	17	0	22.5	orig.time=Couch. du S.|orig=18R
+1797	7	20	4	8	0	15.9	orig.time=Lever du S.|orig=12.7R
+1797	7	20	13	35	0	30	orig.time=2 heures|orig=24R
+1797	7	20	19	16	0	23.8	orig.time=Couch. du S.|orig=19R
+1797	7	21	4	9	0	15.6	orig.time=Lever du S.|orig=12.5R
+1797	7	21	13	35	0	29.6	orig.time=2 heures|orig=23.7R
+1797	7	21	19	15	0	25	orig.time=Couch. du S.|orig=20R
+1797	7	22	4	10	0	18.4	orig.time=Lever du S.|orig=14.7R
+1797	7	22	13	35	0	25	orig.time=2 heures|orig=20R
+1797	7	22	19	14	0	23.4	orig.time=Couch. du S.|orig=18.7R
+1797	7	23	4	12	0	17.1	orig.time=Lever du S.|orig=13.7R
+1797	7	23	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1797	7	23	19	13	0	20	orig.time=Couch. du S.|orig=16R
+1797	7	24	4	13	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	7	24	13	35	0	24.1	orig.time=2 heures|orig=19.3R
+1797	7	24	19	12	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1797	7	25	4	14	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	7	25	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	7	25	19	10	0	22.9	orig.time=Couch. du S.|orig=18.3R
+1797	7	26	4	15	0	15	orig.time=Lever du S.|orig=12R
+1797	7	26	13	35	0	28.8	orig.time=2 heures|orig=23R
+1797	7	26	19	9	0	24.4	orig.time=Couch. du S.|orig=19.5R
+1797	7	27	4	16	0	16.9	orig.time=Lever du S.|orig=13.5R
+1797	7	27	13	35	0	29.4	orig.time=2 heures|orig=23.5R
+1797	7	27	19	8	0	24.6	orig.time=Couch. du S.|orig=19.7R
+1797	7	28	4	17	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	7	28	13	35	0	29.4	orig.time=2 heures|orig=23.5R
+1797	7	28	19	7	0	24.4	orig.time=Couch. du S.|orig=19.5R
+1797	7	29	4	19	0	15.6	orig.time=Lever du S.|orig=12.5R
+1797	7	29	13	35	0	29.6	orig.time=2 heures|orig=23.7R
+1797	7	29	19	5	0	24.6	orig.time=Couch. du S.|orig=19.7R
+1797	7	30	4	20	0	17.5	orig.time=Lever du S.|orig=14R
+1797	7	30	13	35	0	33.1	orig.time=2 heures|orig=26.5R
+1797	7	30	19	4	0	25.6	orig.time=Couch. du S.|orig=20.5R
+1797	7	31	4	21	0	17.5	orig.time=Lever du S.|orig=14R
+1797	7	31	13	35	0	25.9	orig.time=2 heures|orig=20.7R
+1797	7	31	19	3	0	24.1	orig.time=Couch. du S.|orig=19.3R
+1797	8	1	4	22	0	17.5	orig.time=Lever du S.|orig=14R
+1797	8	1	13	35	0	30.9	orig.time=2 heures|orig=24.7R
+1797	8	1	19	1	0	25.4	orig.time=Couch. du S.|orig=20.3R
+1797	8	2	4	24	0	18.1	orig.time=Lever du S.|orig=14.5R
+1797	8	2	13	35	0	20	orig.time=2 heures|orig=16R
+1797	8	2	19	0	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1797	8	3	4	25	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	8	3	13	35	0	22.5	orig.time=2 heures|orig=18R
+1797	8	3	18	58	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1797	8	4	4	26	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	8	4	13	35	0	22.5	orig.time=2 heures|orig=18R
+1797	8	4	18	57	0	20	orig.time=Couch. du S.|orig=16R
+1797	8	5	4	27	0	12.5	orig.time=Lever du S.|orig=10R
+1797	8	5	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1797	8	5	18	55	0	20.4	orig.time=Couch. du S.|orig=16.3R
+1797	8	6	4	29	0	12.9	orig.time=Lever du S.|orig=10.3R
+1797	8	6	13	35	0	24.1	orig.time=2 heures|orig=19.3R
+1797	8	6	18	54	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1797	8	7	4	30	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	8	7	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1797	8	7	18	52	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1797	8	8	4	31	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	8	8	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1797	8	8	18	51	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	8	9	4	32	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	8	9	13	35	0	29.4	orig.time=2 heures|orig=23.5R
+1797	8	9	18	49	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	8	10	4	34	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	8	10	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	8	10	18	47	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	8	11	4	35	0	13.1	orig.time=Lever du S.|orig=10.5R
+1797	8	11	13	35	0	28.1	orig.time=2 heures|orig=22.5R
+1797	8	11	18	46	0	24.6	orig.time=Couch. du S.|orig=19.7R
+1797	8	12	4	36	0	18.4	orig.time=Lever du S.|orig=14.7R
+1797	8	12	13	35	0	28.1	orig.time=2 heures|orig=22.5R
+1797	8	12	18	44	0	22.5	orig.time=Couch. du S.|orig=18R
+1797	8	13	4	37	0	20.6	orig.time=Lever du S.|orig=16.5R
+1797	8	13	13	35	0	26.2	orig.time=2 heures|orig=21R
+1797	8	13	18	42	0	21.2	orig.time=Couch. du S.|orig=17R
+1797	8	14	4	39	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	8	14	13	35	0	26.6	orig.time=2 heures|orig=21.3R
+1797	8	14	18	41	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1797	8	15	4	40	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	8	15	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	8	15	18	39	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	8	16	4	41	0	18.1	orig.time=Lever du S.|orig=14.5R
+1797	8	16	13	35	0	26.2	orig.time=2 heures|orig=21R
+1797	8	16	18	37	0	21.2	orig.time=Couch. du S.|orig=17R
+1797	8	17	4	43	0	15.4	orig.time=Lever du S.|orig=12.3R
+1797	8	17	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	8	17	18	36	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	8	18	4	44	0	16.2	orig.time=Lever du S.|orig=13R
+1797	8	18	13	35	0	26.6	orig.time=2 heures|orig=21.3R
+1797	8	18	18	34	0	25.9	orig.time=Couch. du S.|orig=20.7R
+1797	8	19	4	45	0	20	orig.time=Lever du S.|orig=16R
+1797	8	19	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	8	19	18	32	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1797	8	20	4	46	0	15.4	orig.time=Lever du S.|orig=12.3R
+1797	8	20	13	35	0	20.9	orig.time=2 heures|orig=16.7R
+1797	8	20	18	30	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1797	8	21	4	48	0	13.8	orig.time=Lever du S.|orig=11R
+1797	8	21	13	35	0	23.8	orig.time=2 heures|orig=19R
+1797	8	21	18	28	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1797	8	22	4	49	0	15	orig.time=Lever du S.|orig=12R
+1797	8	22	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	8	22	18	27	0	16.2	orig.time=Couch. du S.|orig=13R
+1797	8	23	4	50	0	9.1	orig.time=Lever du S.|orig=7.3R
+1797	8	23	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	8	23	18	25	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	8	24	4	51	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	8	24	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	8	24	18	23	0	17.5	orig.time=Couch. du S.|orig=14R
+1797	8	25	4	53	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	8	25	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1797	8	25	18	21	0	17.5	orig.time=Couch. du S.|orig=14R
+1797	8	26	4	54	0	8.8	orig.time=Lever du S.|orig=7R
+1797	8	26	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1797	8	26	18	19	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1797	8	27	4	55	0	10.6	orig.time=Lever du S.|orig=8.5R
+1797	8	27	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	8	27	18	17	0	22.5	orig.time=Couch. du S.|orig=18R
+1797	8	28	4	56	0	12.5	orig.time=Lever du S.|orig=10R
+1797	8	28	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	8	28	18	15	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1797	8	29	4	58	0	13.8	orig.time=Lever du S.|orig=11R
+1797	8	29	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	8	29	18	14	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	8	30	4	59	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	8	30	13	35	0	27.5	orig.time=2 heures|orig=22R
+1797	8	30	18	12	0	24	orig.time=Couch. du S.|orig=19.2R
+1797	8	31	5	0	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	8	31	13	35	0	23.8	orig.time=2 heures|orig=19R
+1797	8	31	18	10	0	22.1	orig.time=Couch. du S.|orig=17.7R
+1797	9	1	5	1	0	16.6	orig.time=Lever du S.|orig=13.3R
+1797	9	1	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1797	9	1	18	8	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1797	9	2	5	3	0	17.5	orig.time=Lever du S.|orig=14R
+1797	9	2	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	9	2	18	6	0	16.2	orig.time=Couch. du S.|orig=13R
+1797	9	3	5	4	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	9	3	13	35	0	13.8	orig.time=2 heures|orig=11R
+1797	9	3	18	4	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	9	4	5	5	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	9	4	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	9	4	18	2	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	5	5	7	0	12.5	orig.time=Lever du S.|orig=10R
+1797	9	5	13	35	0	17.5	orig.time=2 heures|orig=14R
+1797	9	5	18	0	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	6	5	8	0	6.2	orig.time=Lever du S.|orig=5R
+1797	9	6	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	9	6	17	58	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1797	9	7	5	9	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	9	7	13	35	0	21.2	orig.time=2 heures|orig=17R
+1797	9	7	17	56	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1797	9	8	5	10	0	14.1	orig.time=Lever du S.|orig=11.3R
+1797	9	8	13	35	0	25	orig.time=2 heures|orig=20R
+1797	9	8	17	54	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1797	9	9	5	12	0	16.2	orig.time=Lever du S.|orig=13R
+1797	9	9	13	35	0	25.6	orig.time=2 heures|orig=20.5R
+1797	9	9	17	52	0	21.2	orig.time=Couch. du S.|orig=17R
+1797	9	10	5	13	0	14.6	orig.time=Lever du S.|orig=11.7R
+1797	9	10	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1797	9	10	17	50	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1797	9	11	5	14	0	14.4	orig.time=Lever du S.|orig=11.5R
+1797	9	11	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	9	11	17	48	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1797	9	12	5	15	0	19.4	orig.time=Lever du S.|orig=15.5R
+1797	9	12	13	35	0	17.1	orig.time=2 heures|orig=13.7R
+1797	9	12	17	46	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1797	9	13	5	17	0	7.1	orig.time=Lever du S.|orig=5.7R
+1797	9	13	13	35	0	17.5	orig.time=2 heures|orig=14R
+1797	9	13	17	44	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	14	5	18	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	9	14	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1797	9	14	17	42	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1797	9	15	5	19	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	9	15	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1797	9	15	17	40	0	16.2	orig.time=Couch. du S.|orig=13R
+1797	9	16	5	20	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	9	16	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1797	9	16	17	38	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	17	5	22	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	9	17	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1797	9	17	17	36	0	17.5	orig.time=Couch. du S.|orig=14R
+1797	9	18	5	23	0	11.2	orig.time=Lever du S.|orig=9R
+1797	9	18	13	35	0	25	orig.time=2 heures|orig=20R
+1797	9	18	17	34	0	21.2	orig.time=Couch. du S.|orig=17R
+1797	9	19	5	24	0	13.4	orig.time=Lever du S.|orig=10.7R
+1797	9	19	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1797	9	19	17	32	0	21.2	orig.time=Couch. du S.|orig=17R
+1797	9	20	5	25	0	15	orig.time=Lever du S.|orig=12R
+1797	9	20	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1797	9	20	17	30	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	9	21	5	27	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	9	21	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1797	9	21	17	28	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	9	22	5	28	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	9	22	13	35	0	15.9	orig.time=2 heures|orig=12.7R
+1797	9	22	17	26	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	9	23	5	29	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	9	23	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	9	23	17	24	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	9	24	5	30	0	10.9	orig.time=Lever du S.|orig=8.7R
+1797	9	24	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	9	24	17	22	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	25	5	32	0	12.5	orig.time=Lever du S.|orig=10R
+1797	9	25	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	9	25	17	20	0	10	orig.time=Couch. du S.|orig=8R
+1797	9	26	5	33	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	9	26	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1797	9	26	17	18	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1797	9	27	5	34	0	10.4	orig.time=Lever du S.|orig=8.3R
+1797	9	27	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	9	27	17	16	0	15	orig.time=Couch. du S.|orig=12R
+1797	9	28	5	36	0	10.4	orig.time=Lever du S.|orig=8.3R
+1797	9	28	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1797	9	28	17	14	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	9	29	5	37	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	9	29	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	9	29	17	12	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	9	30	5	38	0	10	orig.time=Lever du S.|orig=8R
+1797	9	30	13	35	0	18.8	orig.time=2 heures|orig=15R
+1797	9	30	17	11	0	12.5	orig.time=Couch. du S.|orig=10R
+1797	10	1	5	39	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	10	1	13	35	0	13.8	orig.time=2 heures|orig=11R
+1797	10	1	17	9	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1797	10	2	5	41	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	10	2	13	35	0	15	orig.time=2 heures|orig=12R
+1797	10	2	17	7	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	10	3	5	42	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	10	3	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	10	3	17	5	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	10	4	5	43	0	10.6	orig.time=Lever du S.|orig=8.5R
+1797	10	4	13	35	0	16.2	orig.time=2 heures|orig=13R
+1797	10	4	17	3	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1797	10	5	5	45	0	11.9	orig.time=Lever du S.|orig=9.5R
+1797	10	5	13	35	0	13.8	orig.time=2 heures|orig=11R
+1797	10	5	17	1	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1797	10	6	5	46	0	11.6	orig.time=Lever du S.|orig=9.3R
+1797	10	6	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	10	6	16	59	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1797	10	7	5	47	0	10.9	orig.time=Lever du S.|orig=8.7R
+1797	10	7	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1797	10	7	16	57	0	15	orig.time=Couch. du S.|orig=12R
+1797	10	8	5	49	0	10.6	orig.time=Lever du S.|orig=8.5R
+1797	10	8	13	35	0	17.5	orig.time=2 heures|orig=14R
+1797	10	8	16	55	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1797	10	9	5	50	0	10.6	orig.time=Lever du S.|orig=8.5R
+1797	10	9	13	35	0	17.5	orig.time=2 heures|orig=14R
+1797	10	9	16	53	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1797	10	10	5	52	0	9.6	orig.time=Lever du S.|orig=7.7R
+1797	10	10	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1797	10	10	16	52	0	15	orig.time=Couch. du S.|orig=12R
+1797	10	11	5	53	0	12.9	orig.time=Lever du S.|orig=10.3R
+1797	10	11	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1797	10	11	16	50	0	13.8	orig.time=Couch. du S.|orig=11R
+1797	10	12	5	54	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	10	12	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1797	10	12	16	48	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1797	10	13	5	56	0	9.6	orig.time=Lever du S.|orig=7.7R
+1797	10	13	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1797	10	13	16	46	0	11.2	orig.time=Couch. du S.|orig=9R
+1797	10	14	5	57	0	10.4	orig.time=Lever du S.|orig=8.3R
+1797	10	14	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1797	10	14	16	44	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1797	10	15	5	58	0	6.2	orig.time=Lever du S.|orig=5R
+1797	10	15	13	35	0	10	orig.time=2 heures|orig=8R
+1797	10	15	16	43	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1797	10	16	6	0	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	10	16	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	10	16	16	41	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1797	10	17	6	1	0	0	orig.time=Lever du S.|orig=0R
+1797	10	17	13	35	0	10	orig.time=2 heures|orig=8R
+1797	10	17	16	39	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1797	10	18	6	3	0	0	orig.time=Lever du S.|orig=0R
+1797	10	18	13	35	0	15	orig.time=2 heures|orig=12R
+1797	10	18	16	38	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1797	10	19	6	4	0	9.4	orig.time=Lever du S.|orig=7.5R
+1797	10	19	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1797	10	19	16	36	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1797	10	20	6	5	0	8.1	orig.time=Lever du S.|orig=6.5R
+1797	10	20	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1797	10	20	16	34	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	10	21	6	7	0	5.4	orig.time=Lever du S.|orig=4.3R
+1797	10	21	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	10	21	16	33	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1797	10	22	6	8	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	10	22	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1797	10	22	16	31	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1797	10	23	6	10	0	2.1	orig.time=Lever du S.|orig=1.7R
+1797	10	23	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	10	23	16	29	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	10	24	6	11	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	10	24	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1797	10	24	16	28	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	10	25	6	13	0	7.5	orig.time=Lever du S.|orig=6R
+1797	10	25	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	10	25	16	26	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1797	10	26	6	14	0	7.5	orig.time=Lever du S.|orig=6R
+1797	10	26	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1797	10	26	16	25	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1797	10	27	6	16	0	5.6	orig.time=Lever du S.|orig=4.5R
+1797	10	27	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	10	27	16	23	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1797	10	28	6	17	0	5.6	orig.time=Lever du S.|orig=4.5R
+1797	10	28	13	35	0	10	orig.time=2 heures|orig=8R
+1797	10	28	16	22	0	6.1	orig.time=Couch. du S.|orig=4.9R
+1797	10	29	6	18	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	10	29	13	35	0	10	orig.time=2 heures|orig=8R
+1797	10	29	16	20	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	10	30	6	20	0	8.8	orig.time=Lever du S.|orig=7R
+1797	10	30	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1797	10	30	16	19	0	10	orig.time=Couch. du S.|orig=8R
+1797	10	31	6	21	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	10	31	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1797	10	31	16	17	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1797	11	1	6	23	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	11	1	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1797	11	1	16	16	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	11	2	6	24	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	11	2	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1797	11	2	16	15	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1797	11	3	6	26	0	4.4	orig.time=Lever du S.|orig=3.5R
+1797	11	3	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	11	3	16	13	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	11	4	6	27	0	0.4	orig.time=Lever du S.|orig=0.3R
+1797	11	4	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	11	4	16	12	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1797	11	5	6	29	0	11.2	orig.time=Lever du S.|orig=9R
+1797	11	5	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1797	11	5	16	11	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1797	11	6	6	30	0	9.1	orig.time=Lever du S.|orig=7.3R
+1797	11	6	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1797	11	6	16	10	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1797	11	7	6	32	0	8.4	orig.time=Lever du S.|orig=6.7R
+1797	11	7	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	11	7	16	8	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1797	11	8	6	33	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	11	8	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1797	11	8	16	7	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	11	9	6	34	0	7.5	orig.time=Lever du S.|orig=6R
+1797	11	9	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	11	9	16	6	0	7.1	orig.time=Couch. du S.|orig=5.7R
+1797	11	10	6	36	0	5.6	orig.time=Lever du S.|orig=4.5R
+1797	11	10	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1797	11	10	16	5	0	5	orig.time=Couch. du S.|orig=4R
+1797	11	11	6	37	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	11	11	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1797	11	11	16	4	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	11	12	6	39	0	3.4	orig.time=Lever du S.|orig=2.7R
+1797	11	12	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	11	12	16	3	0	3.8	orig.time=Couch. du S.|orig=3R
+1797	11	13	6	40	0	2.5	orig.time=Lever du S.|orig=2R
+1797	11	13	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	11	13	16	2	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1797	11	14	6	42	0	1.9	orig.time=Lever du S.|orig=1.5R
+1797	11	14	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	11	14	16	1	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	11	15	6	43	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	11	15	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	11	15	16	0	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	11	16	6	44	0	5	orig.time=Lever du S.|orig=4R
+1797	11	16	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	11	16	15	59	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1797	11	17	6	46	0	4.4	orig.time=Lever du S.|orig=3.5R
+1797	11	17	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1797	11	17	15	58	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1797	11	18	6	47	0	3.4	orig.time=Lever du S.|orig=2.7R
+1797	11	18	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	11	18	15	57	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	11	19	6	48	0	0.6	orig.time=Lever du S.|orig=0.5R
+1797	11	19	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1797	11	19	15	57	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1797	11	20	6	50	0	1.2	orig.time=Lever du S.|orig=1R
+1797	11	20	13	35	0	1.2	orig.time=2 heures|orig=1R
+1797	11	20	15	56	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1797	11	21	6	51	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1797	11	21	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1797	11	21	15	55	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	11	22	6	52	0	-1.2	orig.time=Lever du S.|orig=-1R
+1797	11	22	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	11	22	15	54	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	11	23	6	54	0	2.9	orig.time=Lever du S.|orig=2.3R
+1797	11	23	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1797	11	23	15	54	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	11	24	6	55	0	4.6	orig.time=Lever du S.|orig=3.7R
+1797	11	24	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1797	11	24	15	53	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1797	11	25	6	56	0	7.9	orig.time=Lever du S.|orig=6.3R
+1797	11	25	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1797	11	25	15	53	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1797	11	26	6	57	0	5	orig.time=Lever du S.|orig=4R
+1797	11	26	13	35	0	12.5	orig.time=2 heures|orig=10R
+1797	11	26	15	52	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1797	11	27	6	58	0	4.6	orig.time=Lever du S.|orig=3.7R
+1797	11	27	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1797	11	27	15	52	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1797	11	28	7	0	0	6.9	orig.time=Lever du S.|orig=5.5R
+1797	11	28	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1797	11	28	15	51	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1797	11	29	7	1	0	6.2	orig.time=Lever du S.|orig=5R
+1797	11	29	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1797	11	29	15	51	0	8.8	orig.time=Couch. du S.|orig=7R
+1797	11	30	7	2	0	1.6	orig.time=Lever du S.|orig=1.3R
+1797	11	30	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1797	11	30	15	51	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1797	12	1	7	3	0	3.1	orig.time=Lever du S.|orig=2.5R
+1797	12	1	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1797	12	1	15	50	0	6.2	orig.time=Couch. du S.|orig=5R
+1797	12	2	7	4	0	6.6	orig.time=Lever du S.|orig=5.3R
+1797	12	2	13	35	0	8.8	orig.time=2 heures|orig=7R
+1797	12	2	15	50	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1797	12	3	7	5	0	11.8	orig.time=Lever du S.|orig=9.4R
+1797	12	3	13	35	0	8.2	orig.time=2 heures|orig=6.6R
+1797	12	3	15	50	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	12	4	7	6	0	7.5	orig.time=Lever du S.|orig=6R
+1797	12	4	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1797	12	4	15	50	0	9.8	orig.time=Couch. du S.|orig=7.8R
+1797	12	5	7	7	0	9.1	orig.time=Lever du S.|orig=7.3R
+1797	12	5	13	35	0	11.8	orig.time=2 heures|orig=9.4R
+1797	12	5	15	50	0	8	orig.time=Couch. du S.|orig=6.4R
+1797	12	6	7	8	0	1.9	orig.time=Lever du S.|orig=1.5R
+1797	12	6	13	35	0	10	orig.time=2 heures|orig=8R
+1797	12	6	15	50	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1797	12	7	7	9	0	3.4	orig.time=Lever du S.|orig=2.7R
+1797	12	7	13	35	0	6	orig.time=2 heures|orig=4.8R
+1797	12	7	15	50	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	12	8	7	10	0	-2.5	orig.time=Lever du S.|orig=-2R
+1797	12	8	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	12	8	15	50	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1797	12	9	7	11	0	4.6	orig.time=Lever du S.|orig=3.7R
+1797	12	9	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	12	9	15	50	0	7.5	orig.time=Couch. du S.|orig=6R
+1797	12	10	7	11	0	1	orig.time=Lever du S.|orig=0.8R
+1797	12	10	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1797	12	10	15	50	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1797	12	11	7	12	0	3.8	orig.time=Lever du S.|orig=3R
+1797	12	11	13	35	0	6.2	orig.time=2 heures|orig=5R
+1797	12	11	15	50	0	5	orig.time=Couch. du S.|orig=4R
+1797	12	12	7	13	0	2.5	orig.time=Lever du S.|orig=2R
+1797	12	12	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	12	12	15	50	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1797	12	13	7	14	0	3.8	orig.time=Lever du S.|orig=3R
+1797	12	13	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	12	13	15	51	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	12	14	7	14	0	1.5	orig.time=Lever du S.|orig=1.2R
+1797	12	14	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1797	12	14	15	51	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1797	12	15	7	15	0	3.2	orig.time=Lever du S.|orig=2.6R
+1797	12	15	13	35	0	7.2	orig.time=2 heures|orig=5.8R
+1797	12	15	15	51	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1797	12	16	7	15	0	2.1	orig.time=Lever du S.|orig=1.7R
+1797	12	16	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1797	12	16	15	52	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1797	12	17	7	16	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1797	12	17	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1797	12	17	15	52	0	4.5	orig.time=Couch. du S.|orig=3.6R
+1797	12	18	7	16	0	4.6	orig.time=Lever du S.|orig=3.7R
+1797	12	18	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1797	12	18	15	53	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1797	12	19	7	17	0	4.1	orig.time=Lever du S.|orig=3.3R
+1797	12	19	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1797	12	19	15	53	0	4.2	orig.time=Couch. du S.|orig=3.4R
+1797	12	20	7	17	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	12	20	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1797	12	20	15	54	0	0.9	orig.time=Couch. du S.|orig=0.7R
+1797	12	21	7	18	0	0.6	orig.time=Lever du S.|orig=0.5R
+1797	12	21	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1797	12	21	15	54	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1797	12	22	7	18	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	12	22	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1797	12	22	15	55	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1797	12	23	7	18	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1797	12	23	13	35	0	0.9	orig.time=2 heures|orig=0.7R
+1797	12	23	15	56	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1797	12	24	7	18	0	1.9	orig.time=Lever du S.|orig=1.5R
+1797	12	24	13	35	0	2.9	orig.time=2 heures|orig=2.3R
+1797	12	24	15	56	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1797	12	25	7	18	0	1.2	orig.time=Lever du S.|orig=1R
+1797	12	25	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	12	25	15	57	0	0.9	orig.time=Couch. du S.|orig=0.7R
+1797	12	26	7	19	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1797	12	26	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1797	12	26	15	58	0	-0.6	orig.time=Couch. du S.|orig=-0.5R
+1797	12	27	7	19	0	-5	orig.time=Lever du S.|orig=-4R
+1797	12	27	13	35	0	2.5	orig.time=2 heures|orig=2R
+1797	12	27	15	59	0	0.4	orig.time=Couch. du S.|orig=0.3R
+1797	12	28	7	19	0	0	orig.time=Lever du S.|orig=0R
+1797	12	28	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1797	12	28	16	0	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1797	12	29	7	19	0	1.2	orig.time=Lever du S.|orig=1R
+1797	12	29	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1797	12	29	16	1	0	2.5	orig.time=Couch. du S.|orig=2R
+1797	12	30	7	19	0	2.5	orig.time=Lever du S.|orig=2R
+1797	12	30	13	35	0	4.1	orig.time=2 heures|orig=3.3R
+1797	12	30	16	2	0	3.8	orig.time=Couch. du S.|orig=3R
+1797	12	31	7	19	0	0.9	orig.time=Lever du S.|orig=0.7R
+1797	12	31	13	35	0	1.2	orig.time=2 heures|orig=1R
+1797	12	31	16	3	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1798	1	1	7	18	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	1	1	13	35	0	8.8	orig.time=2 heures|orig=7R
+1798	1	1	16	4	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	1	2	7	18	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	1	2	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1798	1	2	16	5	0	7.5	orig.time=Couch. du S.|orig=6R
+1798	1	3	7	18	0	1.2	orig.time=Lever du S.|orig=1R
+1798	1	3	13	35	0	5	orig.time=2 heures|orig=4R
+1798	1	3	16	6	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1798	1	4	7	18	0	3.1	orig.time=Lever du S.|orig=2.5R
+1798	1	4	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	1	4	16	7	0	5	orig.time=Couch. du S.|orig=4R
+1798	1	5	7	17	0	6.2	orig.time=Lever du S.|orig=5R
+1798	1	5	13	35	0	7.2	orig.time=2 heures|orig=5.8R
+1798	1	5	16	8	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1798	1	6	7	17	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	1	6	13	35	0	3.8	orig.time=2 heures|orig=3R
+1798	1	6	16	9	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1798	1	7	7	17	0	0	orig.time=Lever du S.|orig=0R
+1798	1	7	13	35	0	0.9	orig.time=2 heures|orig=0.7R
+1798	1	7	16	10	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1798	1	8	7	16	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1798	1	8	13	35	0	0.6	orig.time=2 heures|orig=0.5R
+1798	1	8	16	12	0	0.4	orig.time=Couch. du S.|orig=0.3R
+1798	1	9	7	16	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1798	1	9	13	35	0	0	orig.time=2 heures|orig=0R
+1798	1	9	16	13	0	-0.4	orig.time=Couch. du S.|orig=-0.3R
+1798	1	10	7	15	0	-1.2	orig.time=Lever du S.|orig=-1R
+1798	1	10	13	35	0	-1.6	orig.time=2 heures|orig=-1.3R
+1798	1	10	16	14	0	-1.9	orig.time=Couch. du S.|orig=-1.5R
+1798	1	11	7	15	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1798	1	11	13	35	0	-2.5	orig.time=2 heures|orig=-2R
+1798	1	11	16	15	0	-3.1	orig.time=Couch. du S.|orig=-2.5R
+1798	1	12	7	14	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1798	1	12	13	35	0	-2.5	orig.time=2 heures|orig=-2R
+1798	1	12	16	17	0	-3.1	orig.time=Couch. du S.|orig=-2.5R
+1798	1	13	7	13	0	-4.1	orig.time=Lever du S.|orig=-3.3R
+1798	1	13	13	35	0	-2.1	orig.time=2 heures|orig=-1.7R
+1798	1	13	16	18	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1798	1	14	7	13	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1798	1	14	13	35	0	-2.1	orig.time=2 heures|orig=-1.7R
+1798	1	14	16	19	0	-2.9	orig.time=Couch. du S.|orig=-2.3R
+1798	1	15	7	12	0	-4.6	orig.time=Lever du S.|orig=-3.7R
+1798	1	15	13	35	0	3.1	orig.time=2 heures|orig=2.5R
+1798	1	15	16	21	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1798	1	16	7	11	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1798	1	16	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	1	16	16	22	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	1	17	7	10	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	1	17	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	1	17	16	24	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1798	1	18	7	9	0	3.1	orig.time=Lever du S.|orig=2.5R
+1798	1	18	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1798	1	18	16	25	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	1	19	7	9	0	-0.4	orig.time=Lever du S.|orig=-0.3R
+1798	1	19	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1798	1	19	16	26	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1798	1	20	7	8	0	1.2	orig.time=Lever du S.|orig=1R
+1798	1	20	13	35	0	3.8	orig.time=2 heures|orig=3R
+1798	1	20	16	28	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1798	1	21	7	7	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	1	21	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1798	1	21	16	29	0	-0.9	orig.time=Couch. du S.|orig=-0.7R
+1798	1	22	7	6	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1798	1	22	13	35	0	-0.6	orig.time=2 heures|orig=-0.5R
+1798	1	22	16	31	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1798	1	23	7	5	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1798	1	23	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1798	1	23	16	32	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	1	24	7	4	0	0	orig.time=Lever du S.|orig=0R
+1798	1	24	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1798	1	24	16	34	0	0.4	orig.time=Couch. du S.|orig=0.3R
+1798	1	25	7	2	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1798	1	25	13	35	0	3.1	orig.time=2 heures|orig=2.5R
+1798	1	25	16	35	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1798	1	26	7	1	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1798	1	26	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1798	1	26	16	37	0	0	orig.time=Couch. du S.|orig=0R
+1798	1	27	7	0	0	-3.8	orig.time=Lever du S.|orig=-3R
+1798	1	27	13	35	0	-1.9	orig.time=2 heures|orig=-1.5R
+1798	1	27	16	38	0	-3.8	orig.time=Couch. du S.|orig=-3R
+1798	1	28	6	59	0	-3.4	orig.time=Lever du S.|orig=-2.7R
+1798	1	28	13	35	0	1.6	orig.time=2 heures|orig=1.3R
+1798	1	28	16	40	0	0.9	orig.time=Couch. du S.|orig=0.7R
+1798	1	29	6	58	0	-8.1	orig.time=Lever du S.|orig=-6.5R
+1798	1	29	13	35	0	-0.4	orig.time=2 heures|orig=-0.3R
+1798	1	29	16	41	0	-1.6	orig.time=Couch. du S.|orig=-1.3R
+1798	1	30	6	57	0	0	orig.time=Lever du S.|orig=0R
+1798	1	30	13	35	0	2.1	orig.time=2 heures|orig=1.7R
+1798	1	30	16	43	0	1.2	orig.time=Couch. du S.|orig=1R
+1798	1	31	6	55	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	1	31	13	35	0	2.5	orig.time=2 heures|orig=2R
+1798	1	31	16	44	0	3.4	orig.time=Couch. du S.|orig=2.7R
+1798	2	1	6	54	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	2	1	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1798	2	1	16	46	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1798	2	2	6	53	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1798	2	2	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1798	2	2	16	47	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	2	3	6	51	0	-2.5	orig.time=Lever du S.|orig=-2R
+1798	2	3	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1798	2	3	16	49	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	2	4	6	50	0	-1.9	orig.time=Lever du S.|orig=-1.5R
+1798	2	4	13	35	0	6.2	orig.time=2 heures|orig=5R
+1798	2	4	16	50	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	2	5	6	48	0	2.9	orig.time=Lever du S.|orig=2.3R
+1798	2	5	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1798	2	5	16	52	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	2	6	6	47	0	-3.1	orig.time=Lever du S.|orig=-2.5R
+1798	2	6	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1798	2	6	16	53	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	2	7	6	45	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	2	7	13	35	0	6.8	orig.time=2 heures|orig=5.4R
+1798	2	7	16	55	0	5	orig.time=Couch. du S.|orig=4R
+1798	2	8	6	44	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1798	2	8	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	2	8	16	56	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	2	9	6	42	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	2	9	13	35	0	7.5	orig.time=2 heures|orig=6R
+1798	2	9	16	58	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1798	2	10	6	41	0	-2.9	orig.time=Lever du S.|orig=-2.3R
+1798	2	10	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1798	2	10	16	59	0	2.9	orig.time=Couch. du S.|orig=2.3R
+1798	2	11	6	39	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1798	2	11	13	35	0	4.6	orig.time=2 heures|orig=3.7R
+1798	2	11	17	1	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1798	2	12	6	38	0	0	orig.time=Lever du S.|orig=0R
+1798	2	12	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1798	2	12	17	2	0	1.6	orig.time=Couch. du S.|orig=1.3R
+1798	2	13	6	36	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	2	13	13	35	0	2.5	orig.time=2 heures|orig=2R
+1798	2	13	17	4	0	2.1	orig.time=Couch. du S.|orig=1.7R
+1798	2	14	6	34	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	2	14	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1798	2	14	17	5	0	1.2	orig.time=Couch. du S.|orig=1R
+1798	2	15	6	33	0	-1.2	orig.time=Lever du S.|orig=-1R
+1798	2	15	13	35	0	3.8	orig.time=2 heures|orig=3R
+1798	2	15	17	7	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1798	2	16	6	31	0	-0.6	orig.time=Lever du S.|orig=-0.5R
+1798	2	16	13	35	0	9.6	orig.time=2 heures|orig=7.7R
+1798	2	16	17	8	0	7.5	orig.time=Couch. du S.|orig=6R
+1798	2	17	6	29	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	2	17	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1798	2	17	17	10	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1798	2	18	6	28	0	0	orig.time=Lever du S.|orig=0R
+1798	2	18	13	35	0	-1.2	orig.time=2 heures|orig=-1R
+1798	2	18	17	11	0	-2.5	orig.time=Couch. du S.|orig=-2R
+1798	2	19	6	26	0	-2.9	orig.time=Lever du S.|orig=-2.3R
+1798	2	19	13	35	0	1.2	orig.time=2 heures|orig=1R
+1798	2	19	17	13	0	-2.5	orig.time=Couch. du S.|orig=-2R
+1798	2	20	6	24	0	-11.6	orig.time=Lever du S.|orig=-9.3R
+1798	2	20	13	35	0	-2.1	orig.time=2 heures|orig=-1.7R
+1798	2	20	17	14	0	-4.4	orig.time=Couch. du S.|orig=-3.5R
+1798	2	21	6	23	0	-4.4	orig.time=Lever du S.|orig=-3.5R
+1798	2	21	13	35	0	-2.9	orig.time=2 heures|orig=-2.3R
+1798	2	21	17	16	0	-4.6	orig.time=Couch. du S.|orig=-3.7R
+1798	2	22	6	21	0	-7.1	orig.time=Lever du S.|orig=-5.7R
+1798	2	22	13	35	0	2.5	orig.time=2 heures|orig=2R
+1798	2	22	17	17	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1798	2	23	6	19	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	2	23	13	35	0	6.6	orig.time=2 heures|orig=5.3R
+1798	2	23	17	18	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1798	2	24	6	17	0	3.8	orig.time=Lever du S.|orig=3R
+1798	2	24	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1798	2	24	17	20	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1798	2	25	6	15	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	2	25	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1798	2	25	17	21	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1798	2	26	6	14	0	6.2	orig.time=Lever du S.|orig=5R
+1798	2	26	13	35	0	10	orig.time=2 heures|orig=8R
+1798	2	26	17	23	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1798	2	27	6	12	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	2	27	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1798	2	27	17	24	0	6.2	orig.time=Couch. du S.|orig=5R
+1798	2	28	6	10	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	2	28	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1798	2	28	17	26	0	4.6	orig.time=Couch. du S.|orig=3.7R
+1798	3	1	6	8	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1798	3	1	13	35	0	8.8	orig.time=2 heures|orig=7R
+1798	3	1	17	27	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1798	3	2	6	6	0	2.9	orig.time=Lever du S.|orig=2.3R
+1798	3	2	13	35	0	9.8	orig.time=2 heures|orig=7.8R
+1798	3	2	17	28	0	5.9	orig.time=Couch. du S.|orig=4.7R
+1798	3	3	6	4	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	3	3	13	35	0	10	orig.time=2 heures|orig=8R
+1798	3	3	17	30	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1798	3	4	6	2	0	1.6	orig.time=Lever du S.|orig=1.3R
+1798	3	4	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1798	3	4	17	31	0	8.8	orig.time=Couch. du S.|orig=7R
+1798	3	5	6	0	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	3	5	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	3	5	17	33	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	3	6	5	59	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	3	6	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1798	3	6	17	34	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	3	7	5	57	0	4.6	orig.time=Lever du S.|orig=3.7R
+1798	3	7	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	3	7	17	35	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1798	3	8	5	55	0	1.2	orig.time=Lever du S.|orig=1R
+1798	3	8	13	35	0	12.5	orig.time=2 heures|orig=10R
+1798	3	8	17	37	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	3	9	5	53	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	3	9	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1798	3	9	17	38	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1798	3	10	5	51	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	3	10	13	35	0	15	orig.time=2 heures|orig=12R
+1798	3	10	17	39	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1798	3	11	5	49	0	2.5	orig.time=Lever du S.|orig=2R
+1798	3	11	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1798	3	11	17	41	0	10	orig.time=Couch. du S.|orig=8R
+1798	3	12	5	47	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	3	12	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1798	3	12	17	42	0	2.5	orig.time=Couch. du S.|orig=2R
+1798	3	13	5	45	0	-1.6	orig.time=Lever du S.|orig=-1.3R
+1798	3	13	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1798	3	13	17	43	0	5.4	orig.time=Couch. du S.|orig=4.3R
+1798	3	14	5	43	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	3	14	13	35	0	10	orig.time=2 heures|orig=8R
+1798	3	14	17	45	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1798	3	15	5	41	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	3	15	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	3	15	17	46	0	10	orig.time=Couch. du S.|orig=8R
+1798	3	16	5	39	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	3	16	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1798	3	16	17	47	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	3	17	5	37	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	3	17	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1798	3	17	17	49	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	18	5	35	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1798	3	18	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1798	3	18	17	50	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	19	5	33	0	1.6	orig.time=Lever du S.|orig=1.3R
+1798	3	19	13	35	0	5	orig.time=2 heures|orig=4R
+1798	3	19	17	51	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	3	20	5	31	0	0	orig.time=Lever du S.|orig=0R
+1798	3	20	13	35	0	5	orig.time=2 heures|orig=4R
+1798	3	20	17	53	0	4.4	orig.time=Couch. du S.|orig=3.5R
+1798	3	21	5	29	0	0	orig.time=Lever du S.|orig=0R
+1798	3	21	13	35	0	7.5	orig.time=2 heures|orig=6R
+1798	3	21	17	54	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1798	3	22	5	27	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	3	22	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	3	22	17	55	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	23	5	25	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1798	3	23	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1798	3	23	17	57	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	24	5	23	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	3	24	13	35	0	6.9	orig.time=2 heures|orig=5.5R
+1798	3	24	17	58	0	5.6	orig.time=Couch. du S.|orig=4.5R
+1798	3	25	5	21	0	3.8	orig.time=Lever du S.|orig=3R
+1798	3	25	13	35	0	9.4	orig.time=2 heures|orig=7.5R
+1798	3	25	17	59	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	3	26	5	19	0	5	orig.time=Lever du S.|orig=4R
+1798	3	26	13	35	0	10	orig.time=2 heures|orig=8R
+1798	3	26	18	1	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	3	27	5	18	0	4.4	orig.time=Lever du S.|orig=3.5R
+1798	3	27	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1798	3	27	18	2	0	5	orig.time=Couch. du S.|orig=4R
+1798	3	28	5	16	0	4.4	orig.time=Lever du S.|orig=3.5R
+1798	3	28	13	35	0	6.2	orig.time=2 heures|orig=5R
+1798	3	28	18	3	0	5	orig.time=Couch. du S.|orig=4R
+1798	3	29	5	14	0	1.6	orig.time=Lever du S.|orig=1.3R
+1798	3	29	13	35	0	5.9	orig.time=2 heures|orig=4.7R
+1798	3	29	18	5	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	30	5	12	0	-1.2	orig.time=Lever du S.|orig=-1R
+1798	3	30	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1798	3	30	18	6	0	3.8	orig.time=Couch. du S.|orig=3R
+1798	3	31	5	10	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	3	31	13	35	0	4.4	orig.time=2 heures|orig=3.5R
+1798	3	31	18	7	0	3.5	orig.time=Couch. du S.|orig=2.8R
+1798	4	1	5	8	0	-0.9	orig.time=Lever du S.|orig=-0.7R
+1798	4	1	13	35	0	1.9	orig.time=2 heures|orig=1.5R
+1798	4	1	18	9	0	1.2	orig.time=Couch. du S.|orig=1R
+1798	4	2	5	6	0	2.1	orig.time=Lever du S.|orig=1.7R
+1798	4	2	13	35	0	5.4	orig.time=2 heures|orig=4.3R
+1798	4	2	18	10	0	3.1	orig.time=Couch. du S.|orig=2.5R
+1798	4	3	5	4	0	4.4	orig.time=Lever du S.|orig=3.5R
+1798	4	3	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	4	3	18	11	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1798	4	4	5	2	0	6.6	orig.time=Lever du S.|orig=5.3R
+1798	4	4	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1798	4	4	18	13	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	4	5	5	0	0	10.9	orig.time=Lever du S.|orig=8.7R
+1798	4	5	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1798	4	5	18	14	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1798	4	6	4	58	0	10.4	orig.time=Lever du S.|orig=8.3R
+1798	4	6	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	4	6	18	15	0	15	orig.time=Couch. du S.|orig=12R
+1798	4	7	4	56	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	4	7	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	4	7	18	17	0	15	orig.time=Couch. du S.|orig=12R
+1798	4	8	4	55	0	10	orig.time=Lever du S.|orig=8R
+1798	4	8	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	4	8	18	18	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1798	4	9	4	53	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	4	9	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	4	9	18	19	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	4	10	4	51	0	8.4	orig.time=Lever du S.|orig=6.7R
+1798	4	10	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	4	10	18	21	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1798	4	11	4	49	0	5.9	orig.time=Lever du S.|orig=4.7R
+1798	4	11	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	4	11	18	22	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1798	4	12	4	47	0	4.4	orig.time=Lever du S.|orig=3.5R
+1798	4	12	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1798	4	12	18	23	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	4	13	4	46	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	4	13	13	35	0	15	orig.time=2 heures|orig=12R
+1798	4	13	18	25	0	12.5	orig.time=Couch. du S.|orig=10R
+1798	4	14	4	44	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	4	14	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	4	14	18	26	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1798	4	15	4	42	0	3.8	orig.time=Lever du S.|orig=3R
+1798	4	15	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	4	15	18	27	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	4	16	4	40	0	5	orig.time=Lever du S.|orig=4R
+1798	4	16	13	35	0	20	orig.time=2 heures|orig=16R
+1798	4	16	18	29	0	15	orig.time=Couch. du S.|orig=12R
+1798	4	17	4	38	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	4	17	13	35	0	20	orig.time=2 heures|orig=16R
+1798	4	17	18	30	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1798	4	18	4	37	0	10.9	orig.time=Lever du S.|orig=8.7R
+1798	4	18	13	35	0	17.1	orig.time=2 heures|orig=13.7R
+1798	4	18	18	31	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	4	19	4	35	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	4	19	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1798	4	19	18	33	0	10	orig.time=Couch. du S.|orig=8R
+1798	4	20	4	33	0	7.1	orig.time=Lever du S.|orig=5.7R
+1798	4	20	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	4	20	18	34	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1798	4	21	4	32	0	6.6	orig.time=Lever du S.|orig=5.3R
+1798	4	21	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1798	4	21	18	35	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1798	4	22	4	30	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	4	22	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	4	22	18	37	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	4	23	4	28	0	5	orig.time=Lever du S.|orig=4R
+1798	4	23	13	35	0	11.6	orig.time=2 heures|orig=9.3R
+1798	4	23	18	38	0	12.1	orig.time=Couch. du S.|orig=9.7R
+1798	4	24	4	27	0	5.9	orig.time=Lever du S.|orig=4.7R
+1798	4	24	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	4	24	18	39	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1798	4	25	4	25	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	4	25	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1798	4	25	18	41	0	10	orig.time=Couch. du S.|orig=8R
+1798	4	26	4	24	0	4.6	orig.time=Lever du S.|orig=3.7R
+1798	4	26	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	4	26	18	42	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	4	27	4	22	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	4	27	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1798	4	27	18	43	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	4	28	4	21	0	2.9	orig.time=Lever du S.|orig=2.3R
+1798	4	28	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	4	28	18	45	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1798	4	29	4	19	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	4	29	13	35	0	18.8	orig.time=2 heures|orig=15R
+1798	4	29	18	46	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1798	4	30	4	18	0	5.4	orig.time=Lever du S.|orig=4.3R
+1798	4	30	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1798	4	30	18	47	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1798	5	1	4	16	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	5	1	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1798	5	1	18	49	0	14.6	orig.time=Couch. du S.|orig=11.7R
+1798	5	2	4	15	0	5	orig.time=Lever du S.|orig=4R
+1798	5	2	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	5	2	18	50	0	15.6	orig.time=Couch. du S.|orig=12.5R
+1798	5	3	4	13	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	5	3	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1798	5	3	18	51	0	17.5	orig.time=Couch. du S.|orig=14R
+1798	5	4	4	12	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	4	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	5	4	18	53	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	5	5	4	11	0	11.2	orig.time=Lever du S.|orig=9R
+1798	5	5	13	35	0	14.6	orig.time=2 heures|orig=11.7R
+1798	5	5	18	54	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1798	5	6	4	9	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	5	6	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1798	5	6	18	55	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	5	7	4	8	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	7	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1798	5	7	18	56	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	5	8	4	7	0	10.4	orig.time=Lever du S.|orig=8.3R
+1798	5	8	13	35	0	12.9	orig.time=2 heures|orig=10.3R
+1798	5	8	18	58	0	12.5	orig.time=Couch. du S.|orig=10R
+1798	5	9	4	5	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	5	9	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1798	5	9	18	59	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1798	5	10	4	4	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	10	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	5	10	19	0	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	5	11	4	3	0	11.2	orig.time=Lever du S.|orig=9R
+1798	5	11	13	35	0	16.2	orig.time=2 heures|orig=13R
+1798	5	11	19	1	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1798	5	12	4	2	0	11.2	orig.time=Lever du S.|orig=9R
+1798	5	12	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	5	12	19	3	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	5	13	4	1	0	10	orig.time=Lever du S.|orig=8R
+1798	5	13	13	35	0	15	orig.time=2 heures|orig=12R
+1798	5	13	19	4	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1798	5	14	4	0	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	5	14	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1798	5	14	19	5	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	5	15	3	59	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	5	15	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	5	15	19	6	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	5	16	3	58	0	11.9	orig.time=Lever du S.|orig=9.5R
+1798	5	16	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	5	16	19	7	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	5	17	3	57	0	11.6	orig.time=Lever du S.|orig=9.3R
+1798	5	17	13	35	0	24.1	orig.time=2 heures|orig=19.3R
+1798	5	17	19	9	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1798	5	18	3	56	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	5	18	13	35	0	26.9	orig.time=2 heures|orig=21.5R
+1798	5	18	19	10	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	5	19	3	55	0	10	orig.time=Lever du S.|orig=8R
+1798	5	19	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	5	19	19	11	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1798	5	20	3	54	0	10	orig.time=Lever du S.|orig=8R
+1798	5	20	13	35	0	15	orig.time=2 heures|orig=12R
+1798	5	20	19	12	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1798	5	21	3	53	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	21	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1798	5	21	19	13	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1798	5	22	3	52	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	5	22	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	5	22	19	14	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	5	23	3	51	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	23	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	5	23	19	15	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1798	5	24	3	50	0	7.5	orig.time=Lever du S.|orig=6R
+1798	5	24	13	35	0	15.9	orig.time=2 heures|orig=12.7R
+1798	5	24	19	16	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	5	25	3	50	0	8.8	orig.time=Lever du S.|orig=7R
+1798	5	25	13	35	0	20	orig.time=2 heures|orig=16R
+1798	5	25	19	17	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	5	26	3	49	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	5	26	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	5	26	19	18	0	15	orig.time=Couch. du S.|orig=12R
+1798	5	27	3	48	0	11.2	orig.time=Lever du S.|orig=9R
+1798	5	27	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	5	27	19	19	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	5	28	3	48	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	5	28	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	5	28	19	20	0	14.5	orig.time=Couch. du S.|orig=11.6R
+1798	5	29	3	47	0	8.8	orig.time=Lever du S.|orig=7R
+1798	5	29	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	5	29	19	21	0	15	orig.time=Couch. du S.|orig=12R
+1798	5	30	3	47	0	11.2	orig.time=Lever du S.|orig=9R
+1798	5	30	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	5	30	19	22	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1798	5	31	3	46	0	15	orig.time=Lever du S.|orig=12R
+1798	5	31	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1798	5	31	19	22	0	20	orig.time=Couch. du S.|orig=16R
+1798	6	1	3	46	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	6	1	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	6	1	19	23	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1798	6	2	3	45	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	6	2	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	6	2	19	24	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1798	6	3	3	45	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	6	3	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	6	3	19	25	0	17.5	orig.time=Couch. du S.|orig=14R
+1798	6	4	3	45	0	12.5	orig.time=Lever du S.|orig=10R
+1798	6	4	13	35	0	21.6	orig.time=2 heures|orig=17.3R
+1798	6	4	19	25	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	6	5	3	44	0	15.6	orig.time=Lever du S.|orig=12.5R
+1798	6	5	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1798	6	5	19	26	0	20.9	orig.time=Couch. du S.|orig=16.7R
+1798	6	6	3	44	0	14.4	orig.time=Lever du S.|orig=11.5R
+1798	6	6	13	35	0	25	orig.time=2 heures|orig=20R
+1798	6	6	19	27	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	6	7	3	44	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	6	7	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	6	7	19	27	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1798	6	8	3	44	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	6	8	13	35	0	25	orig.time=2 heures|orig=20R
+1798	6	8	19	28	0	19.6	orig.time=Couch. du S.|orig=15.7R
+1798	6	9	3	43	0	12.5	orig.time=Lever du S.|orig=10R
+1798	6	9	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	6	9	19	28	0	19.6	orig.time=Couch. du S.|orig=15.7R
+1798	6	10	3	43	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	6	10	13	35	0	20	orig.time=2 heures|orig=16R
+1798	6	10	19	29	0	17.5	orig.time=Couch. du S.|orig=14R
+1798	6	11	3	43	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	6	11	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1798	6	11	19	29	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1798	6	12	3	43	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	6	12	13	35	0	20	orig.time=2 heures|orig=16R
+1798	6	12	19	30	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1798	6	13	3	43	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	6	13	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	6	13	19	30	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	6	14	3	43	0	10.4	orig.time=Lever du S.|orig=8.3R
+1798	6	14	13	35	0	22.1	orig.time=2 heures|orig=17.7R
+1798	6	14	19	30	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	6	15	3	43	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	6	15	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1798	6	15	19	31	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	6	16	3	44	0	15.6	orig.time=Lever du S.|orig=12.5R
+1798	6	16	13	35	0	18.1	orig.time=2 heures|orig=14.5R
+1798	6	16	19	31	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	6	17	3	44	0	15.9	orig.time=Lever du S.|orig=12.7R
+1798	6	17	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1798	6	17	19	31	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	6	18	3	44	0	14.6	orig.time=Lever du S.|orig=11.7R
+1798	6	18	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1798	6	18	19	31	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	6	19	3	44	0	14.4	orig.time=Lever du S.|orig=11.5R
+1798	6	19	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	6	19	19	32	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	6	20	3	45	0	12.5	orig.time=Lever du S.|orig=10R
+1798	6	20	13	35	0	16.2	orig.time=2 heures|orig=13R
+1798	6	20	19	32	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	6	21	3	45	0	12.1	orig.time=Lever du S.|orig=9.7R
+1798	6	21	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1798	6	21	19	32	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	6	22	3	45	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	6	22	13	35	0	15.9	orig.time=2 heures|orig=12.7R
+1798	6	22	19	32	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	6	23	3	46	0	8.8	orig.time=Lever du S.|orig=7R
+1798	6	23	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1798	6	23	19	32	0	15	orig.time=Couch. du S.|orig=12R
+1798	6	24	3	46	0	9.1	orig.time=Lever du S.|orig=7.3R
+1798	6	24	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1798	6	24	19	32	0	15.9	orig.time=Couch. du S.|orig=12.7R
+1798	6	25	3	47	0	10	orig.time=Lever du S.|orig=8R
+1798	6	25	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	6	25	19	32	0	17.5	orig.time=Couch. du S.|orig=14R
+1798	6	26	3	47	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	6	26	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1798	6	26	19	31	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	6	27	3	48	0	11.6	orig.time=Lever du S.|orig=9.3R
+1798	6	27	13	35	0	22.9	orig.time=2 heures|orig=18.3R
+1798	6	27	19	31	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1798	6	28	3	48	0	12.1	orig.time=Lever du S.|orig=9.7R
+1798	6	28	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1798	6	28	19	31	0	20.4	orig.time=Couch. du S.|orig=16.3R
+1798	6	29	3	49	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	6	29	13	35	0	26.2	orig.time=2 heures|orig=21R
+1798	6	29	19	31	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1798	6	30	3	49	0	16.2	orig.time=Lever du S.|orig=13R
+1798	6	30	13	35	0	26.6	orig.time=2 heures|orig=21.3R
+1798	6	30	19	31	0	22.5	orig.time=Couch. du S.|orig=18R
+1798	7	1	3	50	0	16.9	orig.time=Lever du S.|orig=13.5R
+1798	7	1	13	35	0	26.2	orig.time=2 heures|orig=21R
+1798	7	1	19	30	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1798	7	2	3	51	0	19.4	orig.time=Lever du S.|orig=15.5R
+1798	7	2	13	35	0	21.6	orig.time=2 heures|orig=17.3R
+1798	7	2	19	30	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	7	3	3	52	0	12.5	orig.time=Lever du S.|orig=10R
+1798	7	3	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	7	3	19	29	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1798	7	4	3	52	0	11.9	orig.time=Lever du S.|orig=9.5R
+1798	7	4	13	35	0	24.6	orig.time=2 heures|orig=19.7R
+1798	7	4	19	29	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1798	7	5	3	53	0	13.8	orig.time=Lever du S.|orig=11R
+1798	7	5	13	35	0	26.9	orig.time=2 heures|orig=21.5R
+1798	7	5	19	28	0	23.8	orig.time=Couch. du S.|orig=19R
+1798	7	6	3	54	0	15.4	orig.time=Lever du S.|orig=12.3R
+1798	7	6	13	35	0	25	orig.time=2 heures|orig=20R
+1798	7	6	19	28	0	20.4	orig.time=Couch. du S.|orig=16.3R
+1798	7	7	3	55	0	15	orig.time=Lever du S.|orig=12R
+1798	7	7	13	35	0	25.9	orig.time=2 heures|orig=20.7R
+1798	7	7	19	27	0	22.9	orig.time=Couch. du S.|orig=18.3R
+1798	7	8	3	56	0	13.8	orig.time=Lever du S.|orig=11R
+1798	7	8	13	35	0	25	orig.time=2 heures|orig=20R
+1798	7	8	19	27	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	7	9	3	57	0	13.8	orig.time=Lever du S.|orig=11R
+1798	7	9	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	7	9	19	26	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	7	10	3	58	0	10.9	orig.time=Lever du S.|orig=8.7R
+1798	7	10	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1798	7	10	19	25	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1798	7	11	3	58	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	7	11	13	35	0	30	orig.time=2 heures|orig=24R
+1798	7	11	19	25	0	25.4	orig.time=Couch. du S.|orig=20.3R
+1798	7	12	3	59	0	15.4	orig.time=Lever du S.|orig=12.3R
+1798	7	12	13	35	0	18.8	orig.time=2 heures|orig=15R
+1798	7	12	19	24	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	7	13	4	0	0	11.6	orig.time=Lever du S.|orig=9.3R
+1798	7	13	13	35	0	19.1	orig.time=2 heures|orig=15.3R
+1798	7	13	19	23	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	7	14	4	1	0	11.2	orig.time=Lever du S.|orig=9R
+1798	7	14	13	35	0	25	orig.time=2 heures|orig=20R
+1798	7	14	19	22	0	21.2	orig.time=Couch. du S.|orig=17R
+1798	7	15	4	2	0	17.5	orig.time=Lever du S.|orig=14R
+1798	7	15	13	35	0	16.2	orig.time=2 heures|orig=13R
+1798	7	15	19	21	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	7	16	4	3	0	12.5	orig.time=Lever du S.|orig=10R
+1798	7	16	13	35	0	16.9	orig.time=2 heures|orig=13.5R
+1798	7	16	19	20	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1798	7	17	4	5	0	11.6	orig.time=Lever du S.|orig=9.3R
+1798	7	17	13	35	0	14.4	orig.time=2 heures|orig=11.5R
+1798	7	17	19	19	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1798	7	18	4	6	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	7	18	13	35	0	15	orig.time=2 heures|orig=12R
+1798	7	18	19	18	0	12.5	orig.time=Couch. du S.|orig=10R
+1798	7	19	4	7	0	7.1	orig.time=Lever du S.|orig=5.7R
+1798	7	19	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	7	19	19	17	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1798	7	20	4	8	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	7	20	13	35	0	25	orig.time=2 heures|orig=20R
+1798	7	20	19	16	0	21.6	orig.time=Couch. du S.|orig=17.3R
+1798	7	21	4	9	0	14.4	orig.time=Lever du S.|orig=11.5R
+1798	7	21	13	35	0	25	orig.time=2 heures|orig=20R
+1798	7	21	19	15	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	7	22	4	10	0	13.4	orig.time=Lever du S.|orig=10.7R
+1798	7	22	13	35	0	16.2	orig.time=2 heures|orig=13R
+1798	7	22	19	14	0	15	orig.time=Couch. du S.|orig=12R
+1798	7	23	4	11	0	10	orig.time=Lever du S.|orig=8R
+1798	7	23	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	7	23	19	13	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1798	7	24	4	12	0	16.2	orig.time=Lever du S.|orig=13R
+1798	7	24	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	7	24	19	12	0	19.1	orig.time=Couch. du S.|orig=15.3R
+1798	7	25	4	14	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	7	25	13	35	0	20	orig.time=2 heures|orig=16R
+1798	7	25	19	11	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	7	26	4	15	0	13.8	orig.time=Lever du S.|orig=11R
+1798	7	26	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	7	26	19	9	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	7	27	4	16	0	10	orig.time=Lever du S.|orig=8R
+1798	7	27	13	35	0	20.9	orig.time=2 heures|orig=16.7R
+1798	7	27	19	8	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	7	28	4	17	0	10.9	orig.time=Lever du S.|orig=8.7R
+1798	7	28	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	7	28	19	7	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	7	29	4	18	0	14.4	orig.time=Lever du S.|orig=11.5R
+1798	7	29	13	35	0	21.9	orig.time=2 heures|orig=17.5R
+1798	7	29	19	6	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	7	30	4	20	0	15	orig.time=Lever du S.|orig=12R
+1798	7	30	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1798	7	30	19	4	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	7	31	4	21	0	12.5	orig.time=Lever du S.|orig=10R
+1798	7	31	13	35	0	23.1	orig.time=2 heures|orig=18.5R
+1798	7	31	19	3	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1798	9	1	5	1	0	10	orig.time=Lever du S.|orig=8R
+1798	9	1	13	35	0	20.4	orig.time=2 heures|orig=16.3R
+1798	9	1	18	8	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	9	2	5	2	0	8.8	orig.time=Lever du S.|orig=7R
+1798	9	2	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	9	2	18	6	0	19.4	orig.time=Couch. du S.|orig=15.5R
+1798	9	3	5	4	0	10	orig.time=Lever du S.|orig=8R
+1798	9	3	13	35	0	23.8	orig.time=2 heures|orig=19R
+1798	9	3	18	4	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1798	9	4	5	5	0	17.1	orig.time=Lever du S.|orig=13.7R
+1798	9	4	13	35	0	27.9	orig.time=2 heures|orig=22.3R
+1798	9	4	18	2	0	23.1	orig.time=Couch. du S.|orig=18.5R
+1798	9	5	5	6	0	16.2	orig.time=Lever du S.|orig=13R
+1798	9	5	13	35	0	29.4	orig.time=2 heures|orig=23.5R
+1798	9	5	18	0	0	25	orig.time=Couch. du S.|orig=20R
+1798	9	6	5	7	0	18.1	orig.time=Lever du S.|orig=14.5R
+1798	9	6	13	35	0	24.4	orig.time=2 heures|orig=19.5R
+1798	9	6	17	59	0	21.9	orig.time=Couch. du S.|orig=17.5R
+1798	9	7	5	9	0	16.2	orig.time=Lever du S.|orig=13R
+1798	9	7	13	35	0	18.8	orig.time=2 heures|orig=15R
+1798	9	7	17	57	0	17.9	orig.time=Couch. du S.|orig=14.3R
+1798	9	8	5	10	0	13.4	orig.time=Lever du S.|orig=10.7R
+1798	9	8	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	9	8	17	55	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1798	9	9	5	11	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	9	9	13	35	0	21.2	orig.time=2 heures|orig=17R
+1798	9	9	17	53	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	9	10	5	12	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	9	10	13	35	0	22.5	orig.time=2 heures|orig=18R
+1798	9	10	17	51	0	18.8	orig.time=Couch. du S.|orig=15R
+1798	9	11	5	14	0	17.1	orig.time=Lever du S.|orig=13.7R
+1798	9	11	13	35	0	19.4	orig.time=2 heures|orig=15.5R
+1798	9	11	17	49	0	16.9	orig.time=Couch. du S.|orig=13.5R
+1798	9	12	5	15	0	14.6	orig.time=Lever du S.|orig=11.7R
+1798	9	12	13	35	0	16.2	orig.time=2 heures|orig=13R
+1798	9	12	17	47	0	14.1	orig.time=Couch. du S.|orig=11.3R
+1798	9	13	5	16	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	9	13	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	9	13	17	45	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	9	14	5	17	0	9.6	orig.time=Lever du S.|orig=7.7R
+1798	9	14	13	35	0	15	orig.time=2 heures|orig=12R
+1798	9	14	17	43	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1798	9	15	5	19	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	9	15	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1798	9	15	17	41	0	14.6	orig.time=Couch. du S.|orig=11.7R
+1798	9	16	5	20	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	9	16	13	35	0	17.9	orig.time=2 heures|orig=14.3R
+1798	9	16	17	39	0	16.6	orig.time=Couch. du S.|orig=13.3R
+1798	9	17	5	21	0	9.6	orig.time=Lever du S.|orig=7.7R
+1798	9	17	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	9	17	17	37	0	18.4	orig.time=Couch. du S.|orig=14.7R
+1798	9	18	5	22	0	8.8	orig.time=Lever du S.|orig=7R
+1798	9	18	13	35	0	20	orig.time=2 heures|orig=16R
+1798	9	18	17	35	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	9	19	5	24	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	9	19	13	35	0	20.6	orig.time=2 heures|orig=16.5R
+1798	9	19	17	33	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	9	20	5	25	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	9	20	13	35	0	20	orig.time=2 heures|orig=16R
+1798	9	20	17	31	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	9	21	5	26	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	9	21	13	35	0	20	orig.time=2 heures|orig=16R
+1798	9	21	17	29	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1798	9	22	5	28	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	9	22	13	35	0	17.5	orig.time=2 heures|orig=14R
+1798	9	22	17	27	0	15	orig.time=Couch. du S.|orig=12R
+1798	9	23	5	29	0	14.1	orig.time=Lever du S.|orig=11.3R
+1798	9	23	13	35	0	18.4	orig.time=2 heures|orig=14.7R
+1798	9	23	17	25	0	17.1	orig.time=Couch. du S.|orig=13.7R
+1798	9	24	5	30	0	8.8	orig.time=Lever du S.|orig=7R
+1798	9	24	13	35	0	19.6	orig.time=2 heures|orig=15.7R
+1798	9	24	17	23	0	18.1	orig.time=Couch. du S.|orig=14.5R
+1798	9	25	5	31	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	9	25	13	35	0	23.4	orig.time=2 heures|orig=18.7R
+1798	9	25	17	21	0	20.6	orig.time=Couch. du S.|orig=16.5R
+1798	9	26	5	33	0	14.4	orig.time=Lever du S.|orig=11.5R
+1798	9	26	13	35	0	17.1	orig.time=2 heures|orig=13.7R
+1798	9	26	17	19	0	16.2	orig.time=Couch. du S.|orig=13R
+1798	9	27	5	34	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	9	27	13	35	0	15	orig.time=2 heures|orig=12R
+1798	9	27	17	17	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	9	28	5	35	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	9	28	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1798	9	28	17	15	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1798	9	29	5	37	0	4.6	orig.time=Lever du S.|orig=3.7R
+1798	9	29	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	9	29	17	13	0	10	orig.time=Couch. du S.|orig=8R
+1798	9	30	5	38	0	6.2	orig.time=Lever du S.|orig=5R
+1798	9	30	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	9	30	17	11	0	12.9	orig.time=Couch. du S.|orig=10.3R
+1798	10	1	5	39	0	6.2	orig.time=Lever du S.|orig=5R
+1798	10	1	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1798	10	1	17	9	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	10	2	5	40	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	10	2	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	10	2	17	7	0	12.5	orig.time=Couch. du S.|orig=10R
+1798	10	3	5	42	0	10.9	orig.time=Lever du S.|orig=8.7R
+1798	10	3	13	35	0	15	orig.time=2 heures|orig=12R
+1798	10	3	17	5	0	11.6	orig.time=Couch. du S.|orig=9.3R
+1798	10	4	5	43	0	8.8	orig.time=Lever du S.|orig=7R
+1798	10	4	13	35	0	12.5	orig.time=2 heures|orig=10R
+1798	10	4	17	3	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	10	5	5	44	0	4.4	orig.time=Lever du S.|orig=3.5R
+1798	10	5	13	35	0	14.1	orig.time=2 heures|orig=11.3R
+1798	10	5	17	1	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1798	10	6	5	46	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	10	6	13	35	0	17.5	orig.time=2 heures|orig=14R
+1798	10	6	17	0	0	14.6	orig.time=Couch. du S.|orig=11.7R
+1798	10	7	5	47	0	9.4	orig.time=Lever du S.|orig=7.5R
+1798	10	7	13	35	0	17.5	orig.time=2 heures|orig=14R
+1798	10	7	16	58	0	15	orig.time=Couch. du S.|orig=12R
+1798	10	8	5	48	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	10	8	13	35	0	17.5	orig.time=2 heures|orig=14R
+1798	10	8	16	56	0	15.4	orig.time=Couch. du S.|orig=12.3R
+1798	10	9	5	50	0	11.9	orig.time=Lever du S.|orig=9.5R
+1798	10	9	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	10	9	16	54	0	13.8	orig.time=Couch. du S.|orig=11R
+1798	10	10	5	51	0	6.2	orig.time=Lever du S.|orig=5R
+1798	10	10	13	35	0	20	orig.time=2 heures|orig=16R
+1798	10	10	16	52	0	14.4	orig.time=Couch. du S.|orig=11.5R
+1798	10	11	5	53	0	13.1	orig.time=Lever du S.|orig=10.5R
+1798	10	11	13	35	0	15.4	orig.time=2 heures|orig=12.3R
+1798	10	11	16	50	0	12.5	orig.time=Couch. du S.|orig=10R
+1798	10	12	5	54	0	12.1	orig.time=Lever du S.|orig=9.7R
+1798	10	12	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	10	12	16	48	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1798	10	13	5	55	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	10	13	13	35	0	10	orig.time=2 heures|orig=8R
+1798	10	13	16	47	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1798	10	14	5	57	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	10	14	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1798	10	14	16	45	0	9.4	orig.time=Couch. du S.|orig=7.5R
+1798	10	15	5	58	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	10	15	13	35	0	12.5	orig.time=2 heures|orig=10R
+1798	10	15	16	43	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1798	10	16	5	59	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	10	16	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	10	16	16	41	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1798	10	17	6	1	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	10	17	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1798	10	17	16	40	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1798	10	18	6	2	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	10	18	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1798	10	18	16	38	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1798	10	19	6	4	0	9.1	orig.time=Lever du S.|orig=7.3R
+1798	10	19	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	10	19	16	36	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	10	20	6	5	0	3.8	orig.time=Lever du S.|orig=3R
+1798	10	20	13	35	0	12.5	orig.time=2 heures|orig=10R
+1798	10	20	16	35	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1798	10	21	6	6	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	10	21	13	35	0	11.2	orig.time=2 heures|orig=9R
+1798	10	21	16	33	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1798	10	22	6	8	0	1.9	orig.time=Lever du S.|orig=1.5R
+1798	10	22	13	35	0	11.9	orig.time=2 heures|orig=9.5R
+1798	10	22	16	31	0	10.9	orig.time=Couch. du S.|orig=8.7R
+1798	10	23	6	9	0	5	orig.time=Lever du S.|orig=4R
+1798	10	23	13	35	0	7.9	orig.time=2 heures|orig=6.3R
+1798	10	23	16	30	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	10	24	6	11	0	5.9	orig.time=Lever du S.|orig=4.7R
+1798	10	24	13	35	0	12.1	orig.time=2 heures|orig=9.7R
+1798	10	24	16	28	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	10	25	6	12	0	10	orig.time=Lever du S.|orig=8R
+1798	10	25	13	35	0	12.5	orig.time=2 heures|orig=10R
+1798	10	25	16	27	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	10	26	6	14	0	5.4	orig.time=Lever du S.|orig=4.3R
+1798	10	26	13	35	0	13.8	orig.time=2 heures|orig=11R
+1798	10	26	16	25	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	10	27	6	15	0	5	orig.time=Lever du S.|orig=4R
+1798	10	27	13	35	0	13.1	orig.time=2 heures|orig=10.5R
+1798	10	27	16	24	0	11.2	orig.time=Couch. du S.|orig=9R
+1798	10	28	6	17	0	6.2	orig.time=Lever du S.|orig=5R
+1798	10	28	13	35	0	10.5	orig.time=2 heures|orig=8.4R
+1798	10	28	16	22	0	10.6	orig.time=Couch. du S.|orig=8.5R
+1798	10	29	6	18	0	8.1	orig.time=Lever du S.|orig=6.5R
+1798	10	29	13	35	0	15.6	orig.time=2 heures|orig=12.5R
+1798	10	29	16	21	0	13.4	orig.time=Couch. du S.|orig=10.7R
+1798	10	30	6	19	0	5	orig.time=Lever du S.|orig=4R
+1798	10	30	13	35	0	13.4	orig.time=2 heures|orig=10.7R
+1798	10	30	16	19	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	10	31	6	21	0	9.6	orig.time=Lever du S.|orig=7.7R
+1798	10	31	13	35	0	13.8	orig.time=2 heures|orig=11R
+1798	10	31	16	18	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	11	1	6	22	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	11	1	13	35	0	10	orig.time=2 heures|orig=8R
+1798	11	1	16	16	0	7.9	orig.time=Couch. du S.|orig=6.3R
+1798	11	2	6	24	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	11	2	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1798	11	2	16	15	0	6.6	orig.time=Couch. du S.|orig=5.3R
+1798	11	3	6	25	0	7.1	orig.time=Lever du S.|orig=5.7R
+1798	11	3	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1798	11	3	16	14	0	10.4	orig.time=Couch. du S.|orig=8.3R
+1798	11	4	6	27	0	7.9	orig.time=Lever du S.|orig=6.3R
+1798	11	4	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1798	11	4	16	12	0	9.6	orig.time=Couch. du S.|orig=7.7R
+1798	11	5	6	28	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	11	5	13	35	0	10.4	orig.time=2 heures|orig=8.3R
+1798	11	5	16	11	0	8.8	orig.time=Couch. du S.|orig=7R
+1798	11	6	6	30	0	8.8	orig.time=Lever du S.|orig=7R
+1798	11	6	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1798	11	6	16	10	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1798	11	7	6	31	0	12.9	orig.time=Lever du S.|orig=10.3R
+1798	11	7	13	35	0	13.8	orig.time=2 heures|orig=11R
+1798	11	7	16	9	0	13.1	orig.time=Couch. du S.|orig=10.5R
+1798	11	8	6	33	0	10.6	orig.time=Lever du S.|orig=8.5R
+1798	11	8	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	11	8	16	7	0	11.9	orig.time=Couch. du S.|orig=9.5R
+1798	11	9	6	34	0	10.4	orig.time=Lever du S.|orig=8.3R
+1798	11	9	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	11	9	16	6	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1798	11	10	6	35	0	5.9	orig.time=Lever du S.|orig=4.7R
+1798	11	10	13	35	0	10.6	orig.time=2 heures|orig=8.5R
+1798	11	10	16	5	0	9.1	orig.time=Couch. du S.|orig=7.3R
+1798	11	11	6	37	0	6.9	orig.time=Lever du S.|orig=5.5R
+1798	11	11	13	35	0	10.9	orig.time=2 heures|orig=8.7R
+1798	11	11	16	4	0	8.1	orig.time=Couch. du S.|orig=6.5R
+1798	11	12	6	38	0	5.4	orig.time=Lever du S.|orig=4.3R
+1798	11	12	13	35	0	5	orig.time=2 heures|orig=4R
+1798	11	12	16	3	0	4	orig.time=Couch. du S.|orig=3.2R
+1798	11	13	6	40	0	3.4	orig.time=Lever du S.|orig=2.7R
+1798	11	13	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1798	11	13	16	2	0	5	orig.time=Couch. du S.|orig=4R
+1798	11	14	6	41	0	5	orig.time=Lever du S.|orig=4R
+1798	11	14	13	35	0	8.4	orig.time=2 heures|orig=6.7R
+1798	11	14	16	1	0	6.2	orig.time=Couch. du S.|orig=5R
+1798	11	15	6	43	0	0.9	orig.time=Lever du S.|orig=0.7R
+1798	11	15	13	35	0	8.1	orig.time=2 heures|orig=6.5R
+1798	11	15	16	0	0	6.2	orig.time=Couch. du S.|orig=5R
+1798	11	16	6	44	0	2.5	orig.time=Lever du S.|orig=2R
+1798	11	16	13	35	0	7.5	orig.time=2 heures|orig=6R
+1798	11	16	15	59	0	4.1	orig.time=Couch. du S.|orig=3.3R
+1798	11	17	6	45	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	11	17	13	35	0	5	orig.time=2 heures|orig=4R
+1798	11	17	15	58	0	2.5	orig.time=Couch. du S.|orig=2R
+1798	11	18	6	47	0	0	orig.time=Lever du S.|orig=0R
+1798	11	18	13	35	0	2.9	orig.time=2 heures|orig=2.3R
+1798	11	18	15	57	0	2.5	orig.time=Couch. du S.|orig=2R
+1798	11	19	6	48	0	0.6	orig.time=Lever du S.|orig=0.5R
+1798	11	19	13	35	0	6.2	orig.time=2 heures|orig=5R
+1798	11	19	15	57	0	6.2	orig.time=Couch. du S.|orig=5R
+1798	11	20	6	49	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	11	20	13	35	0	5.6	orig.time=2 heures|orig=4.5R
+1798	11	20	15	56	0	5	orig.time=Couch. du S.|orig=4R
+1798	11	21	6	51	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	11	21	13	35	0	1.8	orig.time=2 heures|orig=1.4R
+1798	11	21	15	55	0	1.9	orig.time=Couch. du S.|orig=1.5R
+1798	11	22	6	52	0	0	orig.time=Lever du S.|orig=0R
+1798	11	22	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1798	11	22	15	55	0	0	orig.time=Couch. du S.|orig=0R
+1798	11	23	6	53	0	1.6	orig.time=Lever du S.|orig=1.3R
+1798	11	23	13	35	0	0	orig.time=2 heures|orig=0R
+1798	11	23	15	54	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1798	11	24	6	55	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	11	24	13	35	0	1.2	orig.time=2 heures|orig=1R
+1798	11	24	15	53	0	0.6	orig.time=Couch. du S.|orig=0.5R
+1798	11	25	6	56	0	0.4	orig.time=Lever du S.|orig=0.3R
+1798	11	25	13	35	0	1.2	orig.time=2 heures|orig=1R
+1798	11	25	15	53	0	-0.4	orig.time=Couch. du S.|orig=-0.3R
+1798	11	26	6	57	0	-2.1	orig.time=Lever du S.|orig=-1.7R
+1798	11	26	13	35	0	0.4	orig.time=2 heures|orig=0.3R
+1798	11	26	15	52	0	-1.2	orig.time=Couch. du S.|orig=-1R
+1798	11	27	6	58	0	0	orig.time=Lever du S.|orig=0R
+1798	11	27	13	35	0	3.8	orig.time=2 heures|orig=3R
+1798	11	27	15	52	0	4	orig.time=Couch. du S.|orig=3.2R
+1798	11	28	6	59	0	4.1	orig.time=Lever du S.|orig=3.3R
+1798	11	28	13	35	0	7.1	orig.time=2 heures|orig=5.7R
+1798	11	28	15	51	0	6.9	orig.time=Couch. du S.|orig=5.5R
+1798	11	29	7	0	0	5.6	orig.time=Lever du S.|orig=4.5R
+1798	11	29	13	35	0	9.1	orig.time=2 heures|orig=7.3R
+1798	11	29	15	51	0	8.4	orig.time=Couch. du S.|orig=6.7R
+1798	11	30	7	2	0	7.8	orig.time=Lever du S.|orig=6.2R
+1798	11	30	13	35	0	9	orig.time=2 heures|orig=7.2R
+1798	11	30	15	51	0	8.8	orig.time=Couch. du S.|orig=7R

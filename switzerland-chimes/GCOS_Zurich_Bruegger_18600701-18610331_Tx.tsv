@@ -1,0 +1,77 @@
+SEF	1.0.0
+ID	Zurich_Bruegger
+Name	Zürich
+Lat	47.371011
+Lon	8.533664
+Alt	420
+Source	GCOS
+Link	NA
+Vbl	Tx
+Stat	maximum
+Units	C
+Meta	Observer=Brügger
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1860	7	1	NA	NA	day	19	orig=15.2R
+1860	7	2	NA	NA	day	19	orig=15.2R
+1860	7	3	NA	NA	day	22.4	orig=17.9R
+1860	7	4	NA	NA	day	21.9	orig=17.5R
+1860	7	5	NA	NA	day	21.9	orig=17.5R
+1860	7	6	NA	NA	day	23.8	orig=19R
+1860	7	7	NA	NA	day	21.2	orig=17R
+1860	7	8	NA	NA	day	23.8	orig=19R
+1860	7	9	NA	NA	day	24	orig=19.2R
+1860	7	10	NA	NA	day	23.8	orig=19R
+1860	7	11	NA	NA	day	20	orig=16R
+1860	7	12	NA	NA	day	21.9	orig=17.5R
+1860	7	13	NA	NA	day	21.9	orig=17.5R
+1860	7	14	NA	NA	day	21.2	orig=17R
+1860	7	15	NA	NA	day	25.2	orig=20.2R
+1860	7	16	NA	NA	day	27.5	orig=22R
+1860	7	17	NA	NA	day	27.4	orig=21.9R
+1860	7	18	NA	NA	day	27.8	orig=22.2R
+1860	7	19	NA	NA	day	22.5	orig=18R
+1860	7	20	NA	NA	day	18.8	orig=15R
+1860	7	21	NA	NA	day	21.5	orig=17.2R
+1860	7	22	NA	NA	day	21.2	orig=17R
+1860	7	23	NA	NA	day	20	orig=16R
+1860	7	24	NA	NA	day	21.6	orig=17.3R
+1860	7	25	NA	NA	day	18	orig=14.4R
+1860	7	26	NA	NA	day	20.2	orig=16.2R
+1860	7	27	NA	NA	day	19.9	orig=15.9R
+1860	7	28	NA	NA	day	21.2	orig=17R
+1860	7	29	NA	NA	day	16.2	orig=13R
+1860	7	30	NA	NA	day	16.2	orig=13R
+1860	7	31	NA	NA	day	17.1	orig=13.7R
+1860	8	1	NA	NA	day	21	orig=16.8R
+1860	8	2	NA	NA	day	20	orig=16R
+1860	8	3	NA	NA	day	15.6	orig=12.5R
+1860	8	4	NA	NA	day	17.5	orig=14R
+1860	8	5	NA	NA	day	22.5	orig=18R
+1860	8	6	NA	NA	day	25	orig=20R
+1860	8	7	NA	NA	day	16.2	orig=13R
+1860	8	8	NA	NA	day	17.5	orig=14R
+1860	8	9	NA	NA	day	22.9	orig=18.3R
+1860	8	10	NA	NA	day	18.8	orig=15R
+1860	8	11	NA	NA	day	21.2	orig=17R
+1860	8	12	NA	NA	day	20	orig=16R
+1860	8	13	NA	NA	day	20.9	orig=16.7R
+1860	8	14	NA	NA	day	20	orig=16R
+1860	8	15	NA	NA	day	25	orig=20R
+1860	8	16	NA	NA	day	28.8	orig=23R
+1860	8	17	NA	NA	day	17.5	orig=14R
+1860	8	18	NA	NA	day	18.8	orig=15R
+1860	8	19	NA	NA	day	20	orig=16R
+1860	8	20	NA	NA	day	22.5	orig=18R
+1860	8	21	NA	NA	day	17.5	orig=14R
+1860	8	22	NA	NA	day	20.6	orig=16.5R
+1860	8	23	NA	NA	day	18.1	orig=14.5R
+1860	8	24	NA	NA	day	19.6	orig=15.7R
+1860	9	23	NA	NA	day	23.8	orig=19R
+1860	9	24	NA	NA	day	21.2	orig=17R
+1860	9	25	NA	NA	day	21.2	orig=17R
+1860	9	26	NA	NA	day	22.5	orig=18R
+1860	9	27	NA	NA	day	23.8	orig=19R
+1860	9	28	NA	NA	day	23.8	orig=19R
+1860	9	29	NA	NA	day	22.5	orig=18R
+1861	3	30	NA	NA	day	23.8	orig=19R
+1861	3	31	NA	NA	day	17.9	orig=14.3R

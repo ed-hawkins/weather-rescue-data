@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	GR04_Marschlins
 Name	Schloss Marschlins
 Lat	46.96
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Ulysses Adalbert von Salis-Marschlins|QC software=dataresqc v0.1.2
+Meta	Observer=Ulysses Adalbert von Salis-Marschlins|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1864	2	1	6	21	0	-11.8	orig=-9.4R|orig.time=7|qc=wmo_time_consistency
 1864	2	1	13	21	0	6.6	orig=5.3R|orig.time=14|qc=wmo_time_consistency

@@ -1,9 +1,9 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH01_Zurich_Unknown
 Name	Zürich
-Lat	47.37162
-Lon	8.54398
-Alt	418
+Lat	47.374
+Lon	8.541
+Alt	NA
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p

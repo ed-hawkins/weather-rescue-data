@@ -1,9 +1,9 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	GE01_Geneve_Senebier
 Name	Geneva
-Lat	46.19861
-Lon	6.14527
-Alt	380
+Lat	46.20105
+Lon	6.15095
+Alt	401
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	rr

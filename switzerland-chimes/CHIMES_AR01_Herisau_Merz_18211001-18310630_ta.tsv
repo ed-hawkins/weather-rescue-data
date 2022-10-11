@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	AR01_Herisau_Merz
 Name	Herisau
 Lat	47.385
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Johann Ludwig Merz|QC software=dataresqc v0.1.2
+Meta	Observer=Johann Ludwig Merz|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1821	10	1	7	22	0	6.8	orig=5.4R|orig.time=8
 1821	10	1	11	22	0	11	orig=8.8R|orig.time=12

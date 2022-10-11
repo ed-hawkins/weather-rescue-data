@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	GR05_Disentis_Condrau
 Name	Disentis
 Lat	46.70572
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=Augustin Condrau|QC software=dataresqc v0.1.2
+Meta	Observer=Augustin Condrau|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1837	1	1	6	24	0	-18.8	orig=-15R|orig.time=7
 1837	1	1	13	24	0	-11.2	orig=-9R|orig.time=14

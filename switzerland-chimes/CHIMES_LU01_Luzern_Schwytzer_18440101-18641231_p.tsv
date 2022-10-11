@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	LU01_Luzern_Schwytzer
 Name	Luzern
 Lat	47.05242
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Franz Xaver Schwytzer|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Franz Xaver Schwytzer|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	1	1	8	26	0	972.3	orig=729.8mm|orig.time=9|atb=3.80C
 1844	1	2	8	26	0	957.6	orig=718.9mm|orig.time=9|atb=4.90C
@@ -4769,15 +4769,15 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1859	4	25	7	56	0	964.7	orig=25.3mm+700|orig.time=08:30:00|atb=12.9C
 1859	4	25	18	56	0	965.6	orig=26mm+700|orig.time=19:30:00|atb=13.3C
 1859	4	25	21	56	0	969	orig=28.5mm+700|orig.time=22:30:00|atb=13C
-1859	4	26	7	26	0	970	orig=29.3mm+700|orig.time=08:00:00|atb=13C|qc=date/time doubtful
-1859	4	26	12	41	0	968.5	orig=28.4mm+700|orig.time=13:15:00|atb=15C|qc=duplicate_times;date/time doubtful
-1859	4	26	12	41	0	963.2	orig=24.4mm+700|orig.time=13:15:00|atb=15C|qc=duplicate_times;date/time doubtful
-1859	4	26	19	26	0	965.7	orig=26.2mm+700|orig.time=08:00:00|atb=14C|qc=date/time doubtful
-1859	4	26	20	56	0	967.9	orig=27.9mm+700|orig.time=21:30:00|atb=14.5C|qc=date/time doubtful
-1859	4	27	7	56	0	967.3	orig=27.5mm+700|orig.time=08:30:00|atb=14.9C|qc=date/time doubtful
-1859	4	27	12	41	0	967.6	orig=27.8mm+700|orig.time=13:15:00|atb=15.2C|qc=date/time doubtful
-1859	4	28	7	41	0	964.4	orig=25.2mm+700|orig.time=08:15:00|atb=13.9C|qc=date/time doubtful
-1859	4	28	NA	NA	0	961.5	orig=23.4mm+700|orig.time=NA|atb=16.8C|qc=date/time doubtful
+1859	4	26	7	26	0	970	orig=29.3mm+700|orig.time=08:00:00|atb=13C|qc=date-time doubtful
+1859	4	26	12	41	0	968.5	orig=28.4mm+700|orig.time=13:15:00|atb=15C|qc=duplicate_times;date-time doubtful
+1859	4	26	12	41	0	963.2	orig=24.4mm+700|orig.time=13:15:00|atb=15C|qc=duplicate_times;date-time doubtful
+1859	4	26	19	26	0	965.7	orig=26.2mm+700|orig.time=08:00:00|atb=14C|qc=date-time doubtful
+1859	4	26	20	56	0	967.9	orig=27.9mm+700|orig.time=21:30:00|atb=14.5C|qc=date-time doubtful
+1859	4	27	7	56	0	967.3	orig=27.5mm+700|orig.time=08:30:00|atb=14.9C|qc=date-time doubtful
+1859	4	27	12	41	0	967.6	orig=27.8mm+700|orig.time=13:15:00|atb=15.2C|qc=date-time doubtful
+1859	4	28	7	41	0	964.4	orig=25.2mm+700|orig.time=08:15:00|atb=13.9C|qc=date-time doubtful
+1859	4	28	NA	NA	0	961.5	orig=23.4mm+700|orig.time=NA|atb=16.8C|qc=date-time doubtful
 1859	5	1	7	56	0	956.1	orig=19.1mm+700|orig.time=08:30:00|atb=15C
 1859	5	1	12	56	0	956.8	orig=19.6mm+700|orig.time=13:30:00|atb=15C
 1859	5	1	21	56	0	960.5	orig=22.4mm+700|orig.time=22:30:00|atb=14.9C

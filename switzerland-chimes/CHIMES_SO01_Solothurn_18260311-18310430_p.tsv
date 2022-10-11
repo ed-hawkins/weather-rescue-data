@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	SO01_Solothurn
 Name	Solothurn
 Lat	47.20784
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Franz Joseph Hugi|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Franz Joseph Hugi|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1826	3	11	8	29	0	972.9	orig=26.11.9Pin|orig.time=9.0|atb=5.8R
 1826	3	11	11	29	0	973.1	orig=27.0Pin|orig.time=12.0|atb=6.2R

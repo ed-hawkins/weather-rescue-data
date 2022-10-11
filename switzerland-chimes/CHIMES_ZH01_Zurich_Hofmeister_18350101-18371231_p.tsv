@@ -1,15 +1,15 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH01_Zurich_Hofmeister
 Name	Zürich
-Lat	47.37162
-Lon	8.54398
-Alt	418
+Lat	47.37318
+Lon	8.54759
+Alt	430
 Source	CHIMES
 Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Rudolf Heinrich Hofmeister |PTC=N|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Rudolf Heinrich Hofmeister |PTC=N|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1835	1	1	7	25	0	981	orig=27.2.17Pin|orig.time=08:00:00
 1835	1	1	8	25	0	981.3	orig=27.2.27Pin|orig.time=09:00:00

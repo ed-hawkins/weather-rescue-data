@@ -1,0 +1,53 @@
+SEF	1.0.0
+ID	Geneva_Mallet
+Name	Geneva
+Lat	46.20151
+Lon	6.14838
+Alt	389
+Source	GCOS
+Link	NA
+Vbl	p
+Stat	point
+Units	hPa
+Meta	Observer=Mallet | Address=Maison Mallet | PGC=Y | PTC=Y
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1786	3	6	7	35	0	948.9	orig.time=8|orig=26.3.11Pin|atb=-7.7
+1786	3	6	14	35	0	944.9	orig.time=3|orig=26.2.7Pin|atb=-6.7
+1786	3	6	22	5	0	945.4	orig.time=10.5|orig=26.2.9Pin|atb=-7
+1786	3	11	9	20	0	975.2	orig.time=9.75|orig=27.0.4Pin|atb=-10.5
+1786	3	11	14	5	0	974.2	orig.time=2.5|orig=27.0.0Pin|atb=-9.4
+1786	3	11	22	35	0	973.6	orig.time=11|orig=26.11.12Pin|atb=-10
+1786	3	12	9	20	0	971.1	orig.time=9.75|orig=26.10.14Pin|atb=-10.5
+1786	3	12	14	5	0	968	orig.time=2.5|orig=26.10.0Pin|atb=-8.4
+1786	3	16	8	5	0	961	orig.time=8.5|orig=26.8.0Pin|atb=-4
+1786	3	16	14	20	0	959.6	orig.time=2.75|orig=26.7.10Pin|atb=-2.5
+1786	3	16	22	50	0	958.8	orig.time=11.25|orig=26.7.6Pin|atb=-2.2
+1786	3	31	7	35	0	973.7	orig.time=8|orig=27.0.1Pin|atb=-6.2
+1786	4	1	7	35	0	971.5	orig.time=8|orig=26.11.6Pin|atb=-5.6
+1786	4	1	14	5	0	969.6	orig.time=2.5|orig=26.10.14Pin|atb=-3.7
+1786	4	1	22	5	0	970.7	orig.time=10.5|orig=26.11.3Pin|atb=-4.5
+1786	4	12	21	35	0	976.9	orig.time=10|orig=27.1.4Pin|atb=-4.5
+1786	4	13	7	50	0	978.8	orig.time=8.25|orig=27.1.14Pin|atb=-4.7
+1786	4	13	14	20	0	977.9	orig.time=2.75|orig=27.1.12Pin|atb=-2
+1786	4	15	14	5	0	970.2	orig.time=2.5|orig=26.11.6Pin|atb=0.2
+1786	4	15	21	35	0	970	orig.time=10|orig=26.11.4Pin|atb=-0.3
+1786	4	16	7	50	0	970.7	orig.time=8.25|orig=26.11.8Pin|atb=-0.2
+1786	4	16	13	20	0	970.8	orig.time=1.75|orig=26.11.11Pin|atb=2
+1786	4	16	22	5	0	971.2	orig.time=10.5|orig=26.11.12Pin|atb=1
+1786	4	23	7	35	0	971.9	orig.time=8|orig=27.0.4Pin|atb=4.5
+1786	4	23	13	35	0	971	orig.time=2|orig=26.11.15Pin|atb=4.5
+1786	4	23	22	5	0	972.8	orig.time=10.5|orig=27.0.8Pin|atb=4
+1786	4	24	13	20	0	970.9	orig.time=1.75|orig=27.0.0Pin|atb=5.5
+1786	4	24	22	5	0	970	orig.time=10.5|orig=26.11.10Pin|atb=4.7
+1786	4	25	7	35	0	967.5	orig.time=8|orig=26.10.13Pin|atb=5
+1786	4	25	13	35	0	963.8	orig.time=2|orig=26.9.11Pin|atb=6.3
+1786	5	1	7	20	0	956.8	orig.time=7.75|orig=26.7.2Pin|atb=3.2
+1786	5	13	7	35	0	974.9	orig.time=8|orig=27.1.2Pin|atb=3
+1786	5	13	13	35	0	977	orig.time=2|orig=27.1.14Pin|atb=3.5
+1786	5	13	22	35	0	980.3	orig.time=11|orig=27.2.15Pin|atb=3
+1786	5	16	7	35	0	976.3	orig.time=8|orig=27.1.13Pin|atb=6
+1786	5	16	17	35	0	972.6	orig.time=6|orig=27.0.11Pin|atb=7.5
+1786	5	16	22	20	0	972.8	orig.time=10.75|orig=27.0.11Pin|atb=6.5
+1786	5	17	13	35	0	969.9	orig.time=2|orig=26.11.14Pin|atb=8.5
+1786	5	17	22	5	0	969.1	orig.time=10.5|orig=26.11.9Pin|atb=8
+1786	5	18	7	20	0	969.5	orig.time=7.75|orig=26.11.11Pin|atb=8

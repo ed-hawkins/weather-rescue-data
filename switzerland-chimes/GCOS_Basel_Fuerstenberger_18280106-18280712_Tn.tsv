@@ -1,0 +1,137 @@
+SEF	1.0.0
+ID	Basel_Fuerstenberger
+Name	Basel
+Lat	47.55686
+Lon	7.59057
+Alt	270
+Source	GCOS
+Link	NA
+Vbl	Tn
+Stat	minimum
+Units	C
+Meta	Observer=Fuerstenberger | Address=Schlüsselberg 13
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1828	1	6	NA	NA	p1day	-7.4	orig.time=NA:NA|orig=-5.9R
+1828	1	7	NA	NA	p1day	-3.8	orig.time=NA:NA|orig=-3R
+1828	1	8	NA	NA	p1day	-6.8	orig.time=NA:NA|orig=-5.4R
+1828	1	9	21	29	p1day	-7	orig.time=10:00|orig=-5.6R
+1828	1	10	21	29	p1day	-7.1	orig.time=10:00|orig=-5.7R
+1828	1	11	NA	NA	p1day	-1.2	orig.time=NA:NA|orig=-1R
+1828	1	12	21	29	p1day	0.9	orig.time=10:00|orig=0.7R
+1828	1	13	21	29	p1day	3.1	orig.time=10:00|orig=2.5R
+1828	1	14	21	29	p1day	4.2	orig.time=10:00|orig=3.4R
+1828	1	15	21	29	p1day	3.8	orig.time=10:00|orig=3R
+1828	1	16	NA	NA	p1day	-1.9	orig.time=NA:NA|orig=-1.5R
+1828	1	17	NA	NA	p1day	-1.9	orig.time=NA:NA|orig=-1.5R
+1828	1	18	NA	NA	p1day	-2.5	orig.time=NA:NA|orig=-2R
+1828	1	19	21	29	p1day	-1.9	orig.time=10:00|orig=-1.5R
+1828	1	20	21	29	p1day	-0.9	orig.time=10:00|orig=-0.7R
+1828	1	21	21	29	p1day	-1.1	orig.time=10:00|orig=-0.9R
+1828	1	22	NA	NA	p1day	-1.9	orig.time=NA:NA|orig=-1.5R
+1828	1	23	21	29	p1day	4	orig.time=10:00|orig=3.2R
+1828	1	24	21	29	p1day	0.6	orig.time=10:00|orig=0.5R
+1828	1	25	21	29	p1day	-2.6	orig.time=10:00|orig=-2.1R
+1828	1	26	21	29	p1day	-2.6	orig.time=10:00|orig=-2.1R
+1828	1	27	21	29	p1day	1.2	orig.time=10:00|orig=1R
+1828	1	28	21	29	p1day	0.2	orig.time=10:00|orig=0.2R
+1828	1	31	21	29	p1day	-2.2	orig.time=10:00|orig=-1.8R
+1828	2	1	21	29	p1day	-2.5	orig.time=10:00|orig=-2R
+1828	2	2	21	29	p1day	4.1	orig.time=10:00|orig=3.3R
+1828	2	3	21	29	p1day	1.9	orig.time=10:00|orig=1.5R
+1828	2	4	21	29	p1day	0.2	orig.time=10:00|orig=0.2R
+1828	2	9	21	29	p1day	-1.2	orig.time=10:00|orig=-1R
+1828	2	10	21	29	p1day	-3.5	orig.time=10:00|orig=-2.8R
+1828	2	11	21	29	p1day	-3.8	orig.time=10:00|orig=-3R
+1828	2	12	21	29	p1day	-5	orig.time=10:00|orig=-4R
+1828	2	13	21	29	p1day	-7.2	orig.time=10:00|orig=-5.8R
+1828	2	14	21	29	p1day	-6.8	orig.time=10:00|orig=-5.4R
+1828	2	15	21	29	p1day	-0.4	orig.time=10:00|orig=-0.3R
+1828	2	17	21	29	p1day	-3.4	orig.time=10:00|orig=-2.7R
+1828	2	18	21	29	p1day	-4	orig.time=10:00|orig=-3.2R
+1828	2	19	21	29	p1day	1.9	orig.time=10:00|orig=1.5R
+1828	2	20	21	29	p1day	-4.4	orig.time=10:00|orig=-3.5R
+1828	2	21	21	29	p1day	-0.5	orig.time=10:00|orig=-0.4R
+1828	2	23	21	29	p1day	-2.1	orig.time=10:00|orig=-1.7R
+1828	2	24	22	29	p1day	2.1	orig.time=11:00|orig=1.7R
+1828	2	26	21	29	p1day	-2.6	orig.time=10:00|orig=-2.1R
+1828	2	28	21	29	p1day	-3.1	orig.time=10:00|orig=-2.5R
+1828	2	29	21	29	p1day	2	orig.time=10:00|orig=1.6R
+1828	3	1	21	29	p1day	-2.1	orig.time=10:00|orig=-1.7R
+1828	3	2	21	29	p1day	1.4	orig.time=10:00|orig=1.1R
+1828	3	3	21	29	p1day	0.6	orig.time=10:00|orig=0.5R
+1828	3	4	21	29	p1day	0.8	orig.time=10:00|orig=0.6R
+1828	3	5	21	29	p1day	-0.4	orig.time=10:00|orig=-0.3R
+1828	3	6	21	29	p1day	-3.1	orig.time=10:00|orig=-2.5R
+1828	3	8	21	29	p1day	-11.9	orig.time=10:00|orig=-9.5R
+1828	3	9	21	29	p1day	-2.5	orig.time=10:00|orig=-2R
+1828	3	10	21	29	p1day	1	orig.time=10:00|orig=0.8R
+1828	3	11	21	29	p1day	0.8	orig.time=10:00|orig=0.6R
+1828	3	12	21	29	p1day	-1.2	orig.time=10:00|orig=-1R
+1828	3	13	21	29	p1day	2	orig.time=10:00|orig=1.6R
+1828	3	14	21	29	p1day	2.4	orig.time=10:00|orig=1.9R
+1828	3	15	21	29	p1day	4.4	orig.time=10:00|orig=3.5R
+1828	3	16	21	29	p1day	3.5	orig.time=10:00|orig=2.8R
+1828	3	17	21	29	p1day	5.6	orig.time=10:00|orig=4.5R
+1828	3	19	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	3	20	21	29	p1day	4.4	orig.time=10:00|orig=3.5R
+1828	3	21	21	29	p1day	7.5	orig.time=10:00|orig=6R
+1828	3	22	21	29	p1day	4.4	orig.time=10:00|orig=3.5R
+1828	3	23	21	29	p1day	1.6	orig.time=10:00|orig=1.3R
+1828	3	24	21	29	p1day	-1.1	orig.time=10:00|orig=-0.9R
+1828	3	25	21	29	p1day	0	orig.time=10:00|orig=0R
+1828	3	26	21	29	p1day	0	orig.time=10:00|orig=0R
+1828	3	27	21	29	p1day	-2.5	orig.time=10:00|orig=-2R
+1828	3	29	21	29	p1day	4	orig.time=10:00|orig=3.2R
+1828	3	30	21	29	p1day	0.2	orig.time=10:00|orig=0.2R
+1828	3	31	21	29	p1day	0.8	orig.time=10:00|orig=0.6R
+1828	4	1	21	29	p1day	0.8	orig.time=10:00|orig=0.6R
+1828	4	2	21	29	p1day	-1.8	orig.time=10:00|orig=-1.4R
+1828	4	3	21	29	p1day	-1.9	orig.time=10:00|orig=-1.5R
+1828	4	4	21	29	p1day	0.6	orig.time=10:00|orig=0.5R
+1828	4	5	21	29	p1day	1.8	orig.time=10:00|orig=1.4R
+1828	4	6	21	29	p1day	1.5	orig.time=10:00|orig=1.2R
+1828	4	7	21	29	p1day	-0.5	orig.time=10:00|orig=-0.4R
+1828	4	8	21	29	p1day	-0.6	orig.time=10:00|orig=-0.5R
+1828	4	9	21	29	p1day	2.5	orig.time=10:00|orig=2R
+1828	4	11	NA	NA	p1day	3.1	orig.time=NA:NA|orig=2.5R
+1828	4	13	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	14	21	29	p1day	4.1	orig.time=10:00|orig=3.3R
+1828	4	15	21	29	p1day	3.1	orig.time=10:00|orig=2.5R
+1828	4	16	21	29	p1day	8.1	orig.time=10:00|orig=6.5R
+1828	4	17	21	29	p1day	9.2	orig.time=10:00|orig=7.4R
+1828	4	18	21	29	p1day	1.2	orig.time=10:00|orig=1R
+1828	4	19	21	29	p1day	5.1	orig.time=10:00|orig=4.1R
+1828	4	21	21	29	p1day	6.8	orig.time=10:00|orig=5.4R
+1828	4	22	21	29	p1day	3.2	orig.time=10:00|orig=2.6R
+1828	4	23	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	24	21	29	p1day	5.6	orig.time=10:00|orig=4.5R
+1828	4	25	21	29	p1day	7.5	orig.time=10:00|orig=6R
+1828	4	26	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	27	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	28	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	29	21	29	p1day	6.2	orig.time=10:00|orig=5R
+1828	4	30	21	29	p1day	12.4	orig.time=10:00|orig=9.9R
+1828	5	20	NA	NA	p1day	4.4	orig.time=NA:NA|orig=3.5R
+1828	5	21	21	29	p1day	10.8	orig.time=10:00|orig=8.6R
+1828	5	22	NA	NA	p1day	9.5	orig.time=NA:NA|orig=7.6R
+1828	5	23	NA	NA	p1day	9.1	orig.time=NA:NA|orig=7.3R
+1828	5	24	NA	NA	p1day	9.1	orig.time=NA:NA|orig=7.3R
+1828	5	25	NA	NA	p1day	10.8	orig.time=NA:NA|orig=8.6R
+1828	5	26	NA	NA	p1day	14.5	orig.time=NA:NA|orig=11.6R
+1828	5	27	NA	NA	p1day	11.2	orig.time=NA:NA|orig=9R
+1828	5	28	NA	NA	p1day	12.2	orig.time=NA:NA|orig=9.8R
+1828	5	29	NA	NA	p1day	8.1	orig.time=NA:NA|orig=6.5R
+1828	5	30	NA	NA	p1day	11.9	orig.time=NA:NA|orig=9.5R
+1828	5	31	NA	NA	p1day	12.5	orig.time=NA:NA|orig=10R
+1828	6	1	NA	NA	p1day	12.5	orig.time=NA:NA|orig=10R
+1828	6	2	NA	NA	p1day	10.1	orig.time=NA:NA|orig=8.1R
+1828	6	3	NA	NA	p1day	13.1	orig.time=NA:NA|orig=10.5R
+1828	6	4	NA	NA	p1day	13.9	orig.time=NA:NA|orig=11.1R
+1828	6	5	NA	NA	p1day	12.2	orig.time=NA:NA|orig=9.8R
+1828	6	6	NA	NA	p1day	10.8	orig.time=NA:NA|orig=8.6R
+1828	6	7	NA	NA	p1day	9.4	orig.time=NA:NA|orig=7.5R
+1828	6	8	NA	NA	p1day	7	orig.time=NA:NA|orig=5.6R
+1828	6	9	NA	NA	p1day	7	orig.time=NA:NA|orig=5.6R
+1828	6	10	NA	NA	p1day	6.2	orig.time=NA:NA|orig=5R
+1828	6	11	NA	NA	p1day	7.4	orig.time=NA:NA|orig=5.9R
+1828	7	12	8	29	p1day	12.5	orig.time=9:00|orig=10R

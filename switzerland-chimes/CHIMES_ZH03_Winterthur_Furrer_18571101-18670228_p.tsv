@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	ZH03_Winterthur_Furrer
 Name	Winterthur
 Lat	47.49922
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Furrer|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Furrer|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1857	11	1	8	25	0	978.2	orig=27.1.250Pin|orig.time=9|PTC=N
 1857	11	1	11	25	0	977.5	orig=27.1.0Pin|orig.time=12|PTC=N

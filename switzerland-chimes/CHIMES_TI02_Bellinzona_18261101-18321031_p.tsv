@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	TI02_Bellinzona
 Name	Bellinzona
 Lat	46.19108
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	p
 Stat	point
 Units	hPa
-Meta	Observer=Pater Thomas Inderbitzin,Padre Plazidus Gmeinder|PTC=Y|PGC=Y|QC software=dataresqc v0.1.2
+Meta	Observer=Pater Thomas Inderbitzin,Padre Plazidus Gmeinder|PTC=Y|PGC=Y|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1826	11	1	8	33	0	981.4	orig=27.3Pin|orig.time=9.10|atb=9.1R
 1826	11	1	11	23	0	979.2	orig=27.2.3Pin|orig.time=12.0|atb=9.5R

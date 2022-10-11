@@ -1,4 +1,4 @@
-SEF	0.2.0
+SEF	1.0.0
 ID	GR01_Chur_Meyer
 Name	Chur
 Lat	46.84899
@@ -9,7 +9,7 @@ Link	https://doi.org/10.5194/cp-15-1345-2019
 Vbl	ta
 Stat	point
 Units	C
-Meta	Observer=J. Meyer|QC software=dataresqc v0.1.2
+Meta	Observer=J. Meyer|QC software=dataresqc v1.0.3
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	3	8	21	0	20	orig=16R|orig.time=9
 1841	9	3	11	21	0	21.2	orig=16.98R|orig.time=12
@@ -20,7 +20,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	4	11	21	0	20	orig=16.01R|orig.time=12
 1841	9	4	14	21	0	18.7	orig=14.99R|orig.time=15
 1841	9	4	17	21	0	16.2	orig=12.99R|orig.time=18
-1841	9	5	5	21	0	10.2	orig=8.12R|orig.time=6
+1841	9	5	5	21	0	10.1	orig=8.12R|orig.time=6
 1841	9	5	8	21	0	10	orig=8R|orig.time=9
 1841	9	5	11	21	0	12.5	orig=10.01R|orig.time=12
 1841	9	5	14	21	0	13.5	orig=10.8R|orig.time=15
@@ -33,7 +33,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	7	5	21	0	12.9	orig=10.33R|orig.time=6
 1841	9	7	8	21	0	16.2	orig=13R|orig.time=9
 1841	9	7	11	21	0	17.8	orig=14.25R|orig.time=12
-1841	9	7	14	21	0	17.9	orig=14.28R|orig.time=15
+1841	9	7	14	21	0	17.8	orig=14.28R|orig.time=15
 1841	9	7	17	21	0	17.1	orig=13.68R|orig.time=18
 1841	9	8	5	21	0	13.7	orig=10.99R|orig.time=6
 1841	9	8	8	21	0	17.5	orig=14.01R|orig.time=9
@@ -79,11 +79,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	16	11	21	0	21	orig=16.8R|orig.time=12
 1841	9	16	14	21	0	21	orig=16.8R|orig.time=15
 1841	9	16	17	21	0	19.8	orig=15.8R|orig.time=18
-1841	9	17	5	21	0	15.2	orig=12.12R|orig.time=6
+1841	9	17	5	21	0	15.1	orig=12.12R|orig.time=6
 1841	9	17	8	21	0	15.3	orig=12.25R|orig.time=9
 1841	9	17	11	21	0	16.4	orig=13.12R|orig.time=12
 1841	9	17	14	21	0	15.3	orig=12.25R|orig.time=15
-1841	9	17	17	21	0	15.2	orig=12.12R|orig.time=18
+1841	9	17	17	21	0	15.1	orig=12.12R|orig.time=18
 1841	9	18	5	21	0	16.2	orig=13R|orig.time=6
 1841	9	18	8	21	0	13.9	orig=11.15R|orig.time=9
 1841	9	18	11	21	0	17.2	orig=13.8R|orig.time=12
@@ -219,7 +219,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	10	14	11	21	0	12.2	orig=9.8R|orig.time=12
 1841	10	14	14	21	0	12.9	orig=10.33R|orig.time=15
 1841	10	14	17	21	0	12.2	orig=9.78R|orig.time=18
-1841	10	15	5	21	0	10.2	orig=8.12R|orig.time=6
+1841	10	15	5	21	0	10.1	orig=8.12R|orig.time=6
 1841	10	15	8	21	0	12.1	orig=9.7R|orig.time=9
 1841	10	15	11	21	0	14.8	orig=11.85R|orig.time=12
 1841	10	15	14	21	0	15.3	orig=12.25R|orig.time=15
@@ -380,7 +380,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	11	15	14	21	0	3.9	orig=3.1R|orig.time=15
 1841	11	15	17	21	0	2.2	orig=1.8R|orig.time=18
 1841	11	16	5	21	0	1.4	orig=1.1R|orig.time=6
-1841	11	16	8	21	0	1.6	orig=1.32R|orig.time=9
+1841	11	16	8	21	0	1.7	orig=1.32R|orig.time=9
 1841	11	16	11	21	0	3.6	orig=2.85R|orig.time=12
 1841	11	16	14	21	0	3.2	orig=2.6R|orig.time=15
 1841	11	16	17	21	0	2.6	orig=2.1R|orig.time=18
@@ -464,7 +464,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	12	4	8	21	0	7.5	orig=6R|orig.time=9
 1841	12	4	11	21	0	8.1	orig=6.5R|orig.time=12
 1841	12	4	14	21	0	8.4	orig=6.75R|orig.time=15
-1841	12	4	17	21	0	8.2	orig=6.52R|orig.time=18
+1841	12	4	17	21	0	8.1	orig=6.52R|orig.time=18
 1841	12	5	5	21	0	6.9	orig=5.5R|orig.time=6
 1841	12	5	8	21	0	5	orig=4R|orig.time=9
 1841	12	5	11	21	0	5	orig=4.01R|orig.time=12
@@ -582,7 +582,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	12	28	5	21	0	1.2	orig=1R|orig.time=6
 1841	12	28	8	21	0	1.4	orig=1.13R|orig.time=9
 1841	12	28	11	21	0	3.1	orig=2.5R|orig.time=12
-1841	12	28	14	21	0	2.4	orig=1.88R|orig.time=15
+1841	12	28	14	21	0	2.3	orig=1.88R|orig.time=15
 1841	12	28	17	21	0	1.2	orig=1R|orig.time=18
 1841	12	29	5	21	0	1	orig=0.8R|orig.time=6
 1841	12	29	8	21	0	0.6	orig=0.5R|orig.time=9
@@ -743,7 +743,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	1	29	14	21	0	-0.4	orig=-0.35R|orig.time=15
 1842	1	29	17	21	0	-1.4	orig=-1.1R|orig.time=18
 1842	1	30	5	21	0	-3.1	orig=-2.5R|orig.time=6
-1842	1	30	8	21	0	-2.6	orig=-2.12R|orig.time=9
+1842	1	30	8	21	0	-2.7	orig=-2.12R|orig.time=9
 1842	1	30	11	21	0	-1.5	orig=-1.2R|orig.time=12
 1842	1	30	14	21	0	-1.3	orig=-1.05R|orig.time=15
 1842	1	30	17	21	0	-1.4	orig=-1.11R|orig.time=18
@@ -800,7 +800,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	2	10	5	21	0	-1.2	orig=-1R|orig.time=6
 1842	2	10	8	21	0	0.2	orig=0.12R|orig.time=9
 1842	2	10	11	21	0	5	orig=4R|orig.time=12
-1842	2	10	14	21	0	2.6	orig=2.12R|orig.time=15
+1842	2	10	14	21	0	2.7	orig=2.12R|orig.time=15
 1842	2	10	17	21	0	0.3	orig=0.25R|orig.time=18
 1842	2	11	5	21	0	-1.2	orig=-0.99R|orig.time=6
 1842	2	11	8	21	0	-0.6	orig=-0.5R|orig.time=9
@@ -988,7 +988,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	3	20	5	21	0	1.5	orig=1.2R|orig.time=6
 1842	3	20	8	21	0	2.8	orig=2.25R|orig.time=9
 1842	3	20	11	21	0	5.7	orig=4.55R|orig.time=12
-1842	3	20	14	21	0	6.8	orig=5.48R|orig.time=15
+1842	3	20	14	21	0	6.9	orig=5.48R|orig.time=15
 1842	3	20	17	21	0	3.8	orig=3R|orig.time=18
 1842	3	21	5	21	0	2	orig=1.6R|orig.time=6
 1842	3	21	8	21	0	2.6	orig=2.1R|orig.time=9
@@ -1029,7 +1029,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	3	28	8	21	0	3.1	orig=2.45R|orig.time=9
 1842	3	28	11	21	0	3.6	orig=2.88R|orig.time=12
 1842	3	28	14	21	0	3.8	orig=3R|orig.time=15
-1842	3	28	17	21	0	2.4	orig=1.88R|orig.time=18
+1842	3	28	17	21	0	2.3	orig=1.88R|orig.time=18
 1842	3	29	5	21	0	3.4	orig=2.75R|orig.time=6
 1842	3	29	8	21	0	6.2	orig=5R|orig.time=9
 1842	3	29	11	21	0	8.8	orig=7R|orig.time=12
@@ -1088,7 +1088,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	4	9	5	21	0	1.6	orig=1.25R|orig.time=6
 1842	4	9	8	21	0	2.5	orig=2R|orig.time=9
 1842	4	9	11	21	0	2.5	orig=2.02R|orig.time=12
-1842	4	9	14	21	0	2.4	orig=1.88R|orig.time=15
+1842	4	9	14	21	0	2.3	orig=1.88R|orig.time=15
 1842	4	9	17	21	0	-0.1	orig=-0.1R|orig.time=18
 1842	4	10	5	21	0	-2.8	orig=-2.2R|orig.time=6
 1842	4	10	8	21	0	1.2	orig=1R|orig.time=9
@@ -1132,7 +1132,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	4	17	17	21	0	6.8	orig=5.4R|orig.time=18
 1842	4	18	5	21	0	3.1	orig=2.52R|orig.time=6
 1842	4	18	8	21	0	8.8	orig=7R|orig.time=9
-1842	4	18	11	21	0	12.7	orig=10.12R|orig.time=12
+1842	4	18	11	21	0	12.6	orig=10.12R|orig.time=12
 1842	4	18	14	21	0	13.1	orig=10.48R|orig.time=15
 1842	4	18	17	21	0	11	orig=8.8R|orig.time=18
 1842	4	19	5	21	0	6.8	orig=5.4R|orig.time=6
@@ -1182,7 +1182,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	4	27	17	21	0	15.2	orig=12.2R|orig.time=18
 1842	4	28	5	21	0	12.5	orig=10R|orig.time=6
 1842	4	28	8	21	0	16.9	orig=13.5R|orig.time=9
-1842	4	28	11	21	0	17.4	orig=13.96R|orig.time=12
+1842	4	28	11	21	0	17.5	orig=13.96R|orig.time=12
 1842	4	28	14	21	0	17.5	orig=14R|orig.time=15
 1842	4	28	17	21	0	15.4	orig=12.3R|orig.time=18
 1842	4	29	5	21	0	12.2	orig=9.8R|orig.time=6
@@ -1192,7 +1192,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	4	29	17	21	0	16.2	orig=13R|orig.time=18
 1842	4	30	5	21	0	13.1	orig=10.5R|orig.time=6
 1842	4	30	8	21	0	18.1	orig=14.5R|orig.time=9
-1842	4	30	11	21	0	20.1	orig=16.12R|orig.time=12
+1842	4	30	11	21	0	20.2	orig=16.12R|orig.time=12
 1842	4	30	14	21	0	20.3	orig=16.25R|orig.time=15
 1842	4	30	17	21	0	16.4	orig=13.1R|orig.time=18
 1842	5	1	5	21	0	16.4	orig=13.1R|orig.time=6
@@ -1225,7 +1225,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	5	6	11	21	0	16.2	orig=13R|orig.time=12
 1842	5	6	14	21	0	16.8	orig=13.45R|orig.time=15
 1842	5	6	17	21	0	15.2	orig=12.15R|orig.time=18
-1842	5	7	5	21	0	10.2	orig=8.12R|orig.time=6
+1842	5	7	5	21	0	10.1	orig=8.12R|orig.time=6
 1842	5	7	8	21	0	13.1	orig=10.5R|orig.time=9
 1842	5	7	11	21	0	15	orig=12R|orig.time=12
 1842	5	7	14	21	0	15.6	orig=12.5R|orig.time=15
@@ -1269,7 +1269,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	5	15	8	21	0	15.2	orig=12.2R|orig.time=9
 1842	5	15	11	21	0	16.4	orig=13.15R|orig.time=12
 1842	5	15	14	21	0	17.9	orig=14.3R|orig.time=15
-1842	5	15	17	21	0	17.4	orig=13.96R|orig.time=18
+1842	5	15	17	21	0	17.5	orig=13.96R|orig.time=18
 1842	5	16	5	21	0	13.1	orig=10.5R|orig.time=6
 1842	5	16	8	21	0	21	orig=16.8R|orig.time=9
 1842	5	16	11	21	0	20.3	orig=16.25R|orig.time=12
@@ -1277,7 +1277,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	5	16	17	21	0	19.4	orig=15.5R|orig.time=18
 1842	5	17	5	21	0	13.1	orig=10.5R|orig.time=6
 1842	5	17	8	21	0	18.9	orig=15.1R|orig.time=9
-1842	5	17	11	21	0	20.1	orig=16.12R|orig.time=12
+1842	5	17	11	21	0	20.2	orig=16.12R|orig.time=12
 1842	5	17	14	21	0	20.6	orig=16.5R|orig.time=15
 1842	5	17	17	21	0	17.5	orig=14R|orig.time=18
 1842	5	18	5	21	0	13.9	orig=11.1R|orig.time=6
@@ -1302,7 +1302,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	5	21	17	21	0	18.8	orig=15R|orig.time=18
 1842	5	22	5	21	0	15	orig=12R|orig.time=6
 1842	5	22	8	21	0	21.2	orig=16.95R|orig.time=9
-1842	5	22	11	21	0	22.4	orig=17.88R|orig.time=12
+1842	5	22	11	21	0	22.3	orig=17.88R|orig.time=12
 1842	5	22	14	21	0	21.7	orig=17.33R|orig.time=15
 1842	5	22	17	21	0	18.8	orig=15R|orig.time=18
 1842	5	23	5	21	0	15	orig=12R|orig.time=6
@@ -1671,7 +1671,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	8	8	8	21	0	22.5	orig=18R|orig.time=9
 1842	8	8	11	21	0	23.1	orig=18.5R|orig.time=12
 1842	8	8	14	21	0	23.8	orig=19R|orig.time=15
-1842	8	8	17	21	0	22.6	orig=18.12R|orig.time=18
+1842	8	8	17	21	0	22.7	orig=18.12R|orig.time=18
 1842	8	9	5	21	0	17.5	orig=14R|orig.time=6
 1842	8	9	8	21	0	22.5	orig=18R|orig.time=9
 1842	8	9	11	21	0	24.5	orig=19.6R|orig.time=12
@@ -1771,7 +1771,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	8	28	8	21	0	20.6	orig=16.5R|orig.time=9
 1842	8	28	11	21	0	22.2	orig=17.75R|orig.time=12
 1842	8	28	14	21	0	22.4	orig=17.9R|orig.time=15
-1842	8	28	17	21	0	20.1	orig=16.12R|orig.time=18
+1842	8	28	17	21	0	20.2	orig=16.12R|orig.time=18
 1842	8	29	5	21	0	16.4	orig=13.12R|orig.time=6
 1842	8	29	8	21	0	21.2	orig=17R|orig.time=9
 1842	8	29	11	21	0	23.8	orig=19R|orig.time=12
@@ -1985,7 +1985,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	10	10	5	21	0	5	orig=4R|orig.time=6
 1842	10	10	8	21	0	8.3	orig=6.65R|orig.time=9
 1842	10	10	11	21	0	12	orig=9.6R|orig.time=12
-1842	10	10	14	21	0	12.7	orig=10.12R|orig.time=15
+1842	10	10	14	21	0	12.6	orig=10.12R|orig.time=15
 1842	10	10	17	21	0	9.9	orig=7.95R|orig.time=18
 1842	10	11	5	21	0	6.7	orig=5.33R|orig.time=6
 1842	10	11	8	21	0	9.8	orig=7.8R|orig.time=9
@@ -2054,7 +2054,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	10	23	17	21	0	7.4	orig=5.9R|orig.time=18
 1842	10	24	5	21	0	5	orig=4R|orig.time=6
 1842	10	24	8	21	0	6.1	orig=4.9R|orig.time=9
-1842	10	24	11	21	0	8.2	orig=6.52R|orig.time=12
+1842	10	24	11	21	0	8.1	orig=6.52R|orig.time=12
 1842	10	24	14	21	0	8.4	orig=6.7R|orig.time=15
 1842	10	24	17	21	0	6.9	orig=5.54R|orig.time=18
 1842	10	25	5	21	0	4.8	orig=3.8R|orig.time=6
@@ -2173,7 +2173,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	11	16	14	21	0	10.6	orig=8.5R|orig.time=15
 1842	11	16	17	21	0	10.6	orig=8.45R|orig.time=18
 1842	11	17	5	21	0	5.5	orig=4.4R|orig.time=6
-1842	11	17	8	21	0	5.7	orig=4.52R|orig.time=9
+1842	11	17	8	21	0	5.6	orig=4.52R|orig.time=9
 1842	11	17	11	21	0	5.9	orig=4.75R|orig.time=12
 1842	11	17	14	21	0	4.9	orig=3.92R|orig.time=15
 1842	11	17	17	21	0	4.1	orig=3.25R|orig.time=18
@@ -2222,7 +2222,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	11	26	11	21	0	5.6	orig=4.45R|orig.time=12
 1842	11	26	14	21	0	7	orig=5.6R|orig.time=15
 1842	11	26	17	21	0	6.9	orig=5.5R|orig.time=18
-1842	11	27	5	21	0	2.6	orig=2.12R|orig.time=6
+1842	11	27	5	21	0	2.7	orig=2.12R|orig.time=6
 1842	11	27	8	21	0	3.9	orig=3.1R|orig.time=9
 1842	11	27	11	21	0	6.1	orig=4.9R|orig.time=12
 1842	11	27	14	21	0	5.5	orig=4.4R|orig.time=15
@@ -2276,7 +2276,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	12	7	8	21	0	5.3	orig=4.25R|orig.time=9
 1842	12	7	11	21	0	7.1	orig=5.66R|orig.time=12
 1842	12	7	14	21	0	5.6	orig=4.5R|orig.time=15
-1842	12	7	17	21	0	2.6	orig=2.12R|orig.time=18
+1842	12	7	17	21	0	2.7	orig=2.12R|orig.time=18
 1842	12	8	5	21	0	5	orig=4R|orig.time=6
 1842	12	8	8	21	0	5.6	orig=4.5R|orig.time=9
 1842	12	8	11	21	0	6.2	orig=5R|orig.time=12
@@ -2436,7 +2436,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	1	8	8	21	0	0.9	orig=0.75R|orig.time=9
 1843	1	8	11	21	0	2.4	orig=1.9R|orig.time=12
 1843	1	8	14	21	0	3.8	orig=3R|orig.time=15
-1843	1	8	17	21	0	2.4	orig=1.88R|orig.time=18
+1843	1	8	17	21	0	2.3	orig=1.88R|orig.time=18
 1843	1	9	5	21	0	0.8	orig=0.68R|orig.time=6
 1843	1	9	8	21	0	1.2	orig=0.99R|orig.time=9
 1843	1	9	11	21	0	1.1	orig=0.9R|orig.time=12
@@ -2485,7 +2485,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	1	18	5	21	0	-5.2	orig=-4.12R|orig.time=6
 1843	1	18	8	21	0	-4.4	orig=-3.5R|orig.time=9
 1843	1	18	11	21	0	-2.5	orig=-2R|orig.time=12
-1843	1	18	14	21	0	-2.6	orig=-2.12R|orig.time=15
+1843	1	18	14	21	0	-2.7	orig=-2.12R|orig.time=15
 1843	1	18	17	21	0	-4.4	orig=-3.5R|orig.time=18
 1843	1	19	5	21	0	-6.2	orig=-5R|orig.time=6
 1843	1	19	8	21	0	-4.7	orig=-3.75R|orig.time=9

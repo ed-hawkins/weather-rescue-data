@@ -1,0 +1,43 @@
+SEF	1.0.0
+ID	Bern_Fueter
+Name	Bern
+Lat	46.946688
+Lon	7.432487
+Alt	540
+Source	GCOS
+Link	NA
+Vbl	p
+Stat	mean
+Units	hPa
+Meta	Observer=Fueter | PGC=Y | PTC=Y
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1816	7	NA	NA	NA	month	949.9	orig=26.4.56Pin|atb=10R
+1816	8	NA	NA	NA	month	955.6	orig=26.6.47Pin|atb=10R
+1816	9	NA	NA	NA	month	956	orig=26.6.6Pin|atb=10R
+1816	10	NA	NA	NA	month	952.7	orig=26.5.5Pin|atb=10R
+1816	11	NA	NA	NA	month	951.1	orig=26.4.96Pin|atb=10R
+1816	12	NA	NA	NA	month	954.7	orig=26.6.17Pin|atb=10R
+1817	1	NA	NA	NA	month	958	orig=26.7.26Pin|atb=10R
+1817	2	NA	NA	NA	month	959.8	orig=26.7.87Pin|atb=10R
+1817	3	NA	NA	NA	month	954.5	orig=26.6.1Pin|atb=10R
+1817	4	NA	NA	NA	month	958.2	orig=26.7.35Pin|atb=10R
+1817	5	NA	NA	NA	month	949.9	orig=26.4.57Pin|atb=10R
+1817	6	NA	NA	NA	month	955.6	orig=26.6.48Pin|atb=10R
+1817	7	NA	NA	NA	month	954.9	orig=26.6.24Pin|atb=10R
+1817	8	NA	NA	NA	month	953.1	orig=26.5.65Pin|atb=10R
+1817	9	NA	NA	NA	month	954.4	orig=26.6.08Pin|atb=10R
+1817	10	NA	NA	NA	month	951.3	orig=26.5.03Pin|atb=10R
+1817	11	NA	NA	NA	month	961.9	orig=26.8.58Pin|atb=10R
+1817	12	NA	NA	NA	month	946.7	orig=26.3.51Pin|atb=10R
+1818	1	NA	NA	NA	month	958.3	orig=26.7.37Pin|atb=10R
+1818	2	NA	NA	NA	month	951.6	orig=26.5.13Pin|atb=10R
+1818	3	NA	NA	NA	month	950.5	orig=26.4.78Pin|atb=10R
+1818	4	NA	NA	NA	month	946.8	orig=26.3.54Pin|atb=10R
+1818	5	NA	NA	NA	month	947.3	orig=26.3.69Pin|atb=10R
+1818	6	NA	NA	NA	month	955.2	orig=26.6.34Pin|atb=10R
+1818	7	NA	NA	NA	month	954.3	orig=26.6.04Pin|atb=10R
+1818	8	NA	NA	NA	month	953.6	orig=26.5.82Pin|atb=10R
+1818	9	NA	NA	NA	month	951.6	orig=26.5.13Pin|atb=10R
+1818	10	NA	NA	NA	month	953.4	orig=26.5.74Pin|atb=10R
+1818	11	NA	NA	NA	month	953	orig=26.5.59Pin|atb=10R
+1818	12	NA	NA	NA	month	955.4	orig=26.6.39Pin|atb=10R
