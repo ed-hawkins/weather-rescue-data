@@ -1,15 +1,15 @@
-SEF	0.2.0
-ID	DWRUK_NAIRN
-Name	Nairn
-Lat	52.603617
-Lon	1.736098
-Alt	25
-Source	DWR_UKMO
-Link	
-Vbl	mslp
-Stat	point
-Units	hPa
-Meta	PTC=Y|alias=Delnies Schoolhouse
+SEF	0.2.0						
+ID	DWRUK_NAIRN						
+Name	Nairn						
+Lat	57.577607						
+Lon	-3.895321						
+Alt	25						
+Source	DWR_UKMO						
+Link							
+Vbl	mslp						
+Stat	point						
+Units	hPa						
+Meta	PTC=Y|alias=Delnies Schoolhouse						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1899	12	31	18	0	0	995.94	PGC=N|orig=29.41inHg
 1900	1	1	8	0	0	1010.84	PGC=N|orig=29.85inHg

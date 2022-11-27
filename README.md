@@ -10,6 +10,8 @@ channel-islands: reprocessing of ISPDv4 stations on Jersey from data provided by
 
 durham: from Burt 2021
 
+dwr-1861-1875: UK Daily Weather Reports data from Craig & Hawkins in prep
+
 dwr-1900-1910: UK Daily Weather Reports data from Craig & Hawkins 2020
 
 dwr-1919-1960: UK Daily Weather Reports data from Hawkins et al. 2022
@@ -18,9 +20,13 @@ emulate-project: reprocessing of data from Rob Allan
 
 germany-dwd: extraction by Ed Hawkins of DWD data (https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/subdaily/pressure/historical/)
 
+hourly-rain-data: hourly rainfall observations around Storm Ulysses, used in Hawkins et al. in review
+
 iceland: data processed from files provided by Trausti Jonsson
 
 italy: from various sources
+
+liverpool-sea-level: tide gauge data from Liverpool and Hilbre, used in Hawkins et al. in review
 
 norway: extracted from frost.met.no by Ed Hawkins
 

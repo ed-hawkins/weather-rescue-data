@@ -1,15 +1,15 @@
-SEF	0.2.0
-ID	DWRUK_NAIRN
-Name	Nairn
-Lat	52.603617
-Lon	1.736098
-Alt	
-Source	DWR_UKMO
-Link	
-Vbl	ta
-Stat	point
-Units	C
-Meta	alias=Delnies Schoolhouse
+SEF	0.2.0						
+ID	DWRUK_NAIRN						
+Name	Nairn						
+Lat	57.577607						
+Lon	-3.895321						
+Alt							
+Source	DWR_UKMO						
+Link							
+Vbl	ta						
+Stat	point						
+Units	C						
+Meta	alias=Delnies Schoolhouse						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1899	12	31	18	0	0	5.56	orig=42F
 1900	1	1	8	0	0	2.78	orig=37F
