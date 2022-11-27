@@ -1,0 +1,23 @@
+SEF	1.0.0
+ID	Wustrau-Ziethenhorst
+Name	Wustrau-Ziethenhorst
+Lat	52.8039
+Lon	12.8714
+Alt	35.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 05728
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1964	8	22	6	9	0	933.20	qc=5
+1964	8	23	6	9	0	933.20	qc=5
+1964	8	24	6	9	0	933.20	qc=5
+1964	8	25	6	9	0	933.20	qc=5
+1964	8	26	6	9	0	933.20	qc=5
+1964	8	27	6	9	0	933.20	qc=5
+1964	8	28	6	9	0	933.20	qc=5
+1964	8	29	6	9	0	933.20	qc=5
+1964	8	30	6	9	0	933.20	qc=5
+1964	8	31	6	9	0	933.20	qc=5
