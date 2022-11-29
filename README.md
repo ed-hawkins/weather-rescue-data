@@ -22,6 +22,8 @@ germany-dwd: extraction by Ed Hawkins of DWD data (https://opendata.dwd.de/clima
 
 hourly-rain-data: hourly rainfall observations around Storm Ulysses, used in Hawkins et al. in review
 
+hourly_uk: hourly pressure observations from several sites, transcribed from UK Met Office Hourly Books (1874-1886)
+
 iceland: data processed from files provided by Trausti Jonsson
 
 italy: from various sources
