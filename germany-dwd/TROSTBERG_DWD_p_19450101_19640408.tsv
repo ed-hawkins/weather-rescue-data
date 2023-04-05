@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	Trostberg
 Name	Trostberg
-Lat	48.0213
-Lon	12.5533
+Lat	48.0210
+Lon	12.5535
 Alt	486.0
 Source	DWD
 Link	
@@ -21125,6 +21125,3 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1964	4	8	6	0	0	963.10	qc=5
 1964	4	8	13	0	0	965.40	qc=5
 1964	4	8	20	0	0	966.60	qc=5
-1964	4	9	6	0	0	965.20	qc=5
-1964	4	9	13	0	0	965.50	qc=5
-1964	4	9	20	0	0	964.60	qc=5
