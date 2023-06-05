@@ -5,7 +5,7 @@ Lat	51.8400
 Lon	-1.5400
 Alt	
 Source	DWR_UKMO_RDG
-Link	https://github.com/ed-hawkins/weather-rescue/dwr-1919-1960
+Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960
 Vbl	mslp
 Stat	point
 Units	hPa
@@ -13393,9 +13393,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1929	12	30	18	0	0	1001.20	
 1929	12	31	4	0	0	1009.80	
 1929	12	31	7	0	0	1011.80	
-1929	12	31	15	0	0	1022.20	
-1929	12	31	18	0	0	1019.20	
-1929	12	31	22	0	0	1011.20	
+1929	12	31	10	0	0	1011.20	
+1929	12	31	13	0	0	1015.20	
+1929	12	31	15	0	0	1014.00	
+1929	12	31	18	0	0	1019.00	
+1930	1	1	4	0	0	1022.20	
+1930	1	1	7	0	0	1019.20	
 1930	1	1	10	0	0	1017.90	
 1930	1	1	13	0	0	1011.90	
 1930	1	1	15	0	0	1012.10	

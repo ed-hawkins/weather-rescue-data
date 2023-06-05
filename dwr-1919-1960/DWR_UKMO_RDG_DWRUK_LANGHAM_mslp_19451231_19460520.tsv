@@ -5,7 +5,7 @@ Lat	52.9400
 Lon	0.9600
 Alt	
 Source	DWR_UKMO_RDG
-Link	https://github.com/ed-hawkins/weather-rescue/dwr-1919-1960
+Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960
 Vbl	mslp
 Stat	point
 Units	hPa
