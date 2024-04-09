@@ -11,7 +11,7 @@ Stat	point
 Units	hPa						
 Meta	PTC=Y|PGC=N|alias=Acre Lane						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
-1889	12	31	18	0	0	1009.14	orig=29.8inHg
+1899	12	31	18	0	0	1009.14	orig=29.8inHg
 1900	1	1	8	0	0	1013.21	orig=29.92inHg
 1900	1	1	14	0	0	1012.53	orig=29.9inHg
 1900	1	1	18	0	0	1010.84	orig=29.85inHg

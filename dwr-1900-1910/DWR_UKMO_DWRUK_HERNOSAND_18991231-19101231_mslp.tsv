@@ -9,7 +9,7 @@ Link
 Vbl	mslp						
 Stat	point						
 Units	hPa						
-Meta	PTC=Y|PGC=Y|alias=Härnösand						
+Meta	PTC=Y|PGC=Y|alias=Hernosand						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1899	12	31	16	0	0	1007.11	orig=29.74inHg
 1900	1	1	8	36	0	1008.81	orig=29.79inHg

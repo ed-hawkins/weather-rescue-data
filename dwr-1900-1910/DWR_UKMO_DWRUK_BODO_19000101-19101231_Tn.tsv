@@ -7,7 +7,7 @@ Alt
 Source	DWR_UKMO
 Link	
 Vbl	Tn
-Stat	maximum
+Stat	minimum
 Units	C
 Meta	alias=Bodø
 Year	Month	Day	Hour	Minute	Period	Value	Meta

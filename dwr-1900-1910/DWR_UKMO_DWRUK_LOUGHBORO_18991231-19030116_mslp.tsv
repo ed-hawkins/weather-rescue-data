@@ -11,7 +11,7 @@ Stat	point
 Units	hPa						
 Meta	PGC=N|PTC=Y						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
-1889	12	31	18	0	0	1007.45	orig=29.75inHg
+1899	12	31	18	0	0	1007.45	orig=29.75inHg
 1900	1	1	8	0	0	1013.55	orig=29.93inHg
 1900	1	1	18	0	0	1012.53	orig=29.9inHg
 1900	1	2	8	0	0	1000	orig=29.53inHg

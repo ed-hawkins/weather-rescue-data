@@ -9,7 +9,7 @@ Link
 Vbl	rr						
 Stat	sum						
 Units	mm						
-Meta	alias=Härnösand						
+Meta	alias=Hernosand						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1900	1	1	7	0	p1day	4.06	orig=0.16in
 1900	1	2	7	0	p1day	0	orig=0.0in

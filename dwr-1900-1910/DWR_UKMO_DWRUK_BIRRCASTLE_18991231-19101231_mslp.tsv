@@ -11,7 +11,7 @@ Stat	point
 Units	hPa						
 Meta	PTC=Y|alias=Parsonstown						
 Year	Month	Day	Hour	Minute	Period	Value	Meta
-1889	12	18	18	0	0	1002.37	PGC=N|orig=29.6inHg
+1899	12	31	18	0	0	1002.37	PGC=N|orig=29.6inHg
 1900	1	1	8	0	0	1006.1	PGC=N|orig=29.71inHg
 1900	1	1	18	0	0	1002.37	PGC=N|orig=29.6inHg
 1900	1	2	8	0	0	993.57	PGC=N|orig=29.34inHg
