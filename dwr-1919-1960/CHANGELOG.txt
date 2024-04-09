@@ -1,0 +1,14 @@
+CHANGELOG
+
+v2.2 - 09/04/2023
+- Fixes to data before March 1930 due to discovery that pressure change was given as half millibars rather than whole millibars. Affects 65 station files.
+
+v2.1 - 08/06/2023
+- Fixes to various sites including London and Guernsey
+
+v2.0 - 20/02/2023
+- Manchester series split into two
+
+v1.0 - 08/04/2022
+- Initial version of data
+
