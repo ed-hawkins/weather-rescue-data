@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_CAPEL
-Name	CAPEL
-Lat	51.1500
-Lon	-0.3200
+Name	RNAS CAPEL
+Lat	51.106
+Lon	1.227
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

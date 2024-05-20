@@ -1,5 +1,8 @@
 CHANGELOG
 
+v2.3 - 20/05/2024
+- Fixes to 6 location lat/lon coordinates (CAPEL, CROSBY, PENRHOS, PULHAM, RATTRAY, WITTERING)
+
 v2.2 - 09/04/2023
 - Fixes to data before March 1930 due to discovery that pressure change was given as half millibars rather than whole millibars. Affects 65 station files.
 - Valentia split into two series

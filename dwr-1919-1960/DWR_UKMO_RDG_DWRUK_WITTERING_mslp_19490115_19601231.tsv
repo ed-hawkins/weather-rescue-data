@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_WITTERING
-Name	WITTERING
-Lat	50.7700
-Lon	-0.8700
+Name	RAF WITTERING
+Lat	52.617
+Lon	-0.450
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

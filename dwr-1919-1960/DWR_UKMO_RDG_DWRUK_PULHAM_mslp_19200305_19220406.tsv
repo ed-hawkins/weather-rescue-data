@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_PULHAM
-Name	PULHAM
-Lat	50.8300
-Lon	-2.3900
+Name	RNAS PULHAM
+Lat	52.417
+Lon	1.233
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960
