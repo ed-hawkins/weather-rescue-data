@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_SQUIRES-GATE
-Name	SQUIRES-GATE
-Lat	53.8500
-Lon	-2.9300
+Name	RAF SQUIRES GATE
+Lat	53.776
+Lon	-3.037
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

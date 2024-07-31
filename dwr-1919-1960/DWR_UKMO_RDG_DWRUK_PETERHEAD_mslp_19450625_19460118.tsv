@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_PETERHEAD
-Name	PETERHEAD
-Lat	57.5100
-Lon	-1.7800
+Name	RAF PETERHEAD
+Lat	57.517
+Lon	-1.883
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

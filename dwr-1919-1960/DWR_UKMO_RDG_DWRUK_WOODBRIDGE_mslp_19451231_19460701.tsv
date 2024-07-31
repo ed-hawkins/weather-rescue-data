@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_WOODBRIDGE
-Name	WOODBRIDGE
-Lat	52.1000
-Lon	1.3100
+Name	RAF WOODBRIDGE
+Lat	52.083
+Lon	1.400
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

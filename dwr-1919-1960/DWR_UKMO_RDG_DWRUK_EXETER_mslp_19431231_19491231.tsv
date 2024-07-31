@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_EXETER
-Name	EXETER
-Lat	50.7200
-Lon	-3.5300
+Name	EXETER AIRPORT
+Lat	50.733
+Lon	-3.417
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

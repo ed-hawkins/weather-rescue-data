@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_ESKDALEMUIR
-Name	ESKDALEMUIR
-Lat	55.2700
-Lon	-3.1800
+Name	ESKDALEMUIR OBSERVATORY
+Lat	55.312
+Lon	-3.205
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960

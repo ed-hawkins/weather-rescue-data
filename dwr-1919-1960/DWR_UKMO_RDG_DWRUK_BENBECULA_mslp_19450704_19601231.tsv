@@ -1,8 +1,8 @@
 SEF	1.0.0
 ID	DWRUK_BENBECULA
-Name	BENBECULA
-Lat	57.4600
-Lon	-7.2800
+Name	BENBECULA AIRPORT
+Lat	57.475
+Lon	-7.370
 Alt	
 Source	DWR_UKMO_RDG
 Link	https://github.com/ed-hawkins/weather-rescue-data/dwr-1919-1960
