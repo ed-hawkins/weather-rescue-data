@@ -1,5 +1,8 @@
 CHANGELOG
 
+v2.5 - 12/08/2024
+- Small fixes to combine Chester Shotwick & Chester Sealand, and Didsbury & Manchester, as they were identified as being the same sites.
+
 v2.4 - 31/07/2024
 - Small fixes to 9 location lat/lon coordinates (BENBECULA, ESKDALEMUIR, EXETER, FRASERBURGH, PETERHEAD, RONALDSWAY, SQUIRES GATE, WINCHESTER, WOODBRIDGE)
 
