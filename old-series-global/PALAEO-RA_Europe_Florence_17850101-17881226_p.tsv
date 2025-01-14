@@ -1,0 +1,112 @@
+SEF	1.0.0
+ID	Europe_Florence
+Name	Florence
+Lat	43.8
+Lon	11.2
+Alt	NA
+Source	PALAEO-RA
+Link	NA
+Vbl	p
+Stat	point
+Units	hPa
+Meta	Observer=NA | PTC=N | PGC=Y
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1785	1	1	23	15	0	978.5	orig=27.1.4Pin | orig.time=24
+1785	1	26	7	15	0	1017	orig=28.2.2Pin | orig.time=8
+1785	2	10	7	15	0	1006.2	orig=27.10.6Pin | orig.time=8
+1785	2	20	NA	NA	0	974	orig=26.11.9Pin | orig.time=NA
+1785	2	23	NA	NA	0	974	orig=26.11.9Pin | orig.time=NA
+1785	3	26	7	15	0	1006.8	orig=27.10.8Pin | orig.time=8
+1785	3	30	11	15	0	981.2	orig=27.2.3Pin | orig.time=12
+1785	4	3	7	15	0	983.3	orig=27.3Pin | orig.time=8
+1785	4	16	23	15	0	1015.5	orig=28.1.7Pin | orig.time=24
+1785	5	13	23	15	0	1012.5	orig=28.0.7Pin | orig.time=24
+1785	5	17	16	15	0	993.5	orig=27.6.4Pin | orig.time=17
+1785	6	11	23	15	0	1012.5	orig=28.0.7Pin | orig.time=24
+1785	7	21	16	15	0	990.8	orig=27.5.5Pin | orig.time=17
+1785	7	26	7	15	0	1009.5	orig=27.11.7Pin | orig.time=8
+1785	8	5	11	15	0	1008.3	orig=27.11.3Pin | orig.time=12
+1785	8	15	7	15	0	994.7	orig=27.6.8Pin | orig.time=8
+1785	8	15	11	15	0	994.7	orig=27.6.8Pin | orig.time=12
+1785	9	25	16	15	0	999.2	orig=27.8.3Pin | orig.time=17
+1785	9	29	23	15	0	1011.3	orig=28.0.3Pin | orig.time=24
+1785	10	13	23	15	0	1016.4	orig=28.2Pin | orig.time=24
+1785	10	27	16	15	0	987.8	orig=27.4.5Pin | orig.time=17
+1785	11	15	7	15	0	1012.5	orig=28.0.7Pin | orig.time=8
+1785	11	29	16	15	0	984.8	orig=27.3.5Pin | orig.time=17
+1785	12	14	NA	NA	0	1012.8	orig=28.0.8Pin | orig.time=NA
+1785	12	15	7	15	0	1012.8	orig=28.0.8Pin | orig.time=8
+1785	12	30	11	15	0	969.2	orig=26.10.3Pin | orig.time=12
+1786	1	1	7	15	0	979.1	orig=27.1.6Pin | orig.time=8
+1786	1	22	7	15	0	1020.6	orig=28.3.4Pin | orig.time=8
+1786	2	3	7	15	0	982.7	orig=27.2.8Pin | orig.time=8
+1786	2	15	7	15	0	1017.6	orig=28.2.4Pin | orig.time=8
+1786	3	3	16	15	0	985.1	orig=27.3.6Pin | orig.time=17
+1786	3	31	11	15	0	1008	orig=27.11.2Pin | orig.time=12
+1786	4	10	7	15	0	981.5	orig=27.2.4Pin | orig.time=8
+1786	4	13	23	15	0	1010.1	orig=27.11.9Pin | orig.time=24
+1786	5	2	7	15	0	980.9	orig=27.2.2Pin | orig.time=8
+1786	5	14	23	15	0	1012.8	orig=28.0.8Pin | orig.time=24
+1786	6	2	23	15	0	1008.9	orig=27.11.5Pin | orig.time=24
+1786	6	28	11	15	0	995.3	orig=27.7Pin | orig.time=12
+1786	7	8	NA	NA	0	998	orig=27.7.9Pin | orig.time=NA
+1786	7	11	23	15	0	1008	orig=27.11.2Pin | orig.time=24
+1786	7	30	NA	NA	0	998	orig=27.7.9Pin | orig.time=NA
+1786	8	6	7	15	0	1009.5	orig=27.11.7Pin | orig.time=8
+1786	8	16	7	15	0	990.5	orig=27.5.4Pin | orig.time=8
+1786	9	18	23	15	0	1015.5	orig=28.1.7Pin | orig.time=24
+1786	9	29	7	15	0	988.1	orig=27.4.6Pin | orig.time=8
+1786	10	5	16	15	0	993.8	orig=27.6.5Pin | orig.time=17
+1786	10	24	23	15	0	1011.3	orig=28.0.3Pin | orig.time=24
+1786	11	17	16	15	0	975.8	orig=27.0.5Pin | orig.time=17
+1786	11	28	23	15	0	1008	orig=27.11.2Pin | orig.time=24
+1786	12	27	16	15	0	974.9	orig=27.0.2Pin | orig.time=17
+1786	12	31	23	15	0	1013.4	orig=28.1Pin | orig.time=24
+1787	1	22	7	15	0	989	orig=27.4.9Pin | orig.time=8
+1787	1	30	7	15	0	1023.3	orig=28.4.3Pin | orig.time=8
+1787	2	1	7	15	0	1017.9	orig=28.2.5Pin | orig.time=8
+1787	2	13	7	15	0	983	orig=27.2.9Pin | orig.time=8
+1787	3	4	16	15	0	982.7	orig=27.2.8Pin | orig.time=17
+1787	3	22	7	15	0	1014.9	orig=28.1.5Pin | orig.time=8
+1787	4	22	23	15	0	1014	orig=28.1.2Pin | orig.time=24
+1787	4	30	16	15	0	984.2	orig=27.3.3Pin | orig.time=17
+1787	5	1	11	15	0	987.8	orig=27.4.5Pin | orig.time=12
+1787	5	19	11	15	0	1008.3	orig=27.11.3Pin | orig.time=12
+1787	6	6	16	15	0	992	orig=27.5.9Pin | orig.time=17
+1787	7	3	23	15	0	1009.8	orig=27.11.8Pin | orig.time=24
+1787	7	22	16	15	0	995	orig=27.6.9Pin | orig.time=17
+1787	8	3	23	15	0	1013.1	orig=28.0.9Pin | orig.time=24
+1787	8	25	16	15	0	997.4	orig=27.7.7Pin | orig.time=17
+1787	9	18	16	15	0	989.3	orig=27.5Pin | orig.time=17
+1787	9	23	7	15	0	1014.9	orig=28.1.5Pin | orig.time=8
+1787	10	7	7	15	0	1018.2	orig=28.2.6Pin | orig.time=8
+1787	10	19	7	15	0	996.8	orig=27.7.5Pin | orig.time=8
+1787	11	19	11	15	0	992	orig=27.5.9Pin | orig.time=12
+1787	11	27	23	15	0	1017	orig=28.2.2Pin | orig.time=24
+1787	12	9	23	15	0	1016.7	orig=28.2.1Pin | orig.time=24
+1787	12	20	NA	NA	0	987.8	orig=27.4.5Pin | orig.time=NA
+1787	12	23	NA	NA	0	987.8	orig=27.4.5Pin | orig.time=NA
+1788	1	7	NA	NA	0	991.7	orig=27.5.8Pin | orig.time=NA
+1788	1	16	NA	NA	0	1023.6	orig=28.4.4Pin | orig.time=NA
+1788	2	6	23	15	0	1027.8	orig=28.5.8Pin | orig.time=24
+1788	2	25	7	15	0	989.3	orig=27.5Pin | orig.time=8
+1788	3	15	16	15	0	990.8	orig=27.5.5Pin | orig.time=17
+1788	3	31	7	15	0	1018.5	orig=28.2.7Pin | orig.time=8
+1788	4	5	11	15	0	992.3	orig=27.6Pin | orig.time=12
+1788	4	29	7	15	0	1024.2	orig=28.4.6Pin | orig.time=8
+1788	5	20	11	15	0	1004.4	orig=27.10Pin | orig.time=12
+1788	5	25	7	15	0	1021.5	orig=28.3.7Pin | orig.time=8
+1788	6	12	16	15	0	1003.2	orig=27.9.6Pin | orig.time=17
+1788	6	20	23	15	0	1018.2	orig=28.2.6Pin | orig.time=24
+1788	7	2	7	15	0	1018.8	orig=28.2.8Pin | orig.time=8
+1788	7	26	16	15	0	1005.3	orig=27.10.3Pin | orig.time=17
+1788	8	1	23	15	0	1018.2	orig=28.2.6Pin | orig.time=24
+1788	8	28	7	15	0	1004.1	orig=27.9.9Pin | orig.time=8
+1788	9	1	11	15	0	1002.3	orig=27.9.3Pin | orig.time=12
+1788	9	7	23	15	0	1020	orig=28.3.2Pin | orig.time=24
+1788	10	25	16	15	0	998.3	orig=27.8Pin | orig.time=17
+1788	10	31	23	15	0	1023	orig=28.4.2Pin | orig.time=24
+1788	11	1	NA	NA	0	1025.1	orig=28.4.9Pin | orig.time=NA
+1788	11	18	16	15	0	1002.6	orig=27.9.4Pin | orig.time=17
+1788	12	23	23	15	0	1013.7	orig=28.1.1Pin | orig.time=24
+1788	12	26	11	15	0	980.6	orig=27.2.1Pin | orig.time=12
