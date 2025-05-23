@@ -1,0 +1,14 @@
+SEF	1.0.0
+ID	Lippspringe-Bad
+Name	Lippspringe-Bad
+Lat	51.7814
+Lon	8.8240
+Alt	148.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 03028
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1951	3	25	6	0	0	205.70	qc=5

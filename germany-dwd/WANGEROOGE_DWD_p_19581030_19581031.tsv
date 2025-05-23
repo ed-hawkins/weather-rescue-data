@@ -1,0 +1,19 @@
+SEF	1.0.0
+ID	Wangerooge
+Name	Wangerooge
+Lat	53.7885
+Lon	7.8992
+Alt	5.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 05344
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1958	10	30	6	0	0	1014.60	qc=5
+1958	10	30	13	0	0	1012.00	qc=5
+1958	10	30	20	0	0	1011.20	qc=5
+1958	10	31	6	0	0	1009.50	qc=5
+1958	10	31	13	0	0	1007.10	qc=5
+1958	10	31	20	0	0	1008.00	qc=5
