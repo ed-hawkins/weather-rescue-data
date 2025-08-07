@@ -2,8 +2,8 @@ SEF	1.0.0
 ID	HEATHROW
 Name	HEATHROW
 Lat	51.4790
-Lon	-0.4510
-Alt	25.0
+Lon	-0.4530
+Alt	24.0
 Source	UKMO MIDAS
 Link	NA
 Vbl	mslp
