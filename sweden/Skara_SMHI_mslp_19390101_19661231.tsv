@@ -9,7 +9,7 @@ Link
 Vbl	mslp
 Stat	point
 Units	hPa
-Meta	PTC=Y | PGC=? | Station number 83620
+Meta	PTC=Y | PGC=? | Station number 83270
 Year	Month	Day	Hour	Minute	Period	Value	Meta
 1939	1	1	7	0	0	1003.70	
 1939	1	1	13	0	0	1005.50	
