@@ -1,0 +1,106 @@
+SEF	1.0.0
+ID	OXFORD-BAROMETER
+Name	OXFORD-BAROMETER
+Lat	51.7600
+Lon	-1.2600
+Alt	66.0
+Source	Oxford observations transcribed by Yunus Robinson
+Link	
+Vbl	p
+Stat	point
+Units	mb
+Meta	
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1877	1	1	14	0	0	973.71	original p=28.806in/Hg | attachT=52.1F
+1877	1	1	22	0	0	980.93	original p=29.018in/Hg | attachT=51.5F
+1877	1	2	10	0	0	998.07	original p=29.516in/Hg | attachT=48.1F
+1877	1	2	14	0	0	998.39	original p=29.514in/Hg | attachT=43.8F
+1877	1	2	22	0	0	996.44	original p=29.452in/Hg | attachT=42.2F
+1877	1	3	10	0	0	990.19	original p=29.280in/Hg | attachT=47.0F
+1877	1	3	14	0	0	986.78	original p=29.184in/Hg | attachT=48.8F
+1877	1	3	22	0	0	983.94	original p=29.098in/Hg | attachT=48.1F
+1877	1	4	10	0	0	979.43	original p=28.970in/Hg | attachT=50.1F
+1877	1	4	14	0	0	978.24	original p=28.938in/Hg | attachT=51.3F
+1877	1	4	22	0	0	978.76	original p=28.950in/Hg | attachT=50.0F
+1877	1	5	10	0	0	981.66	original p=29.034in/Hg | attachT=49.3F
+1877	1	5	14	0	0	980.36	original p=29.000in/Hg | attachT=51.0F
+1877	1	5	22	0	0	980.92	original p=29.006in/Hg | attachT=47.0F
+1877	1	6	10	0	0	982.83	original p=29.062in/Hg | attachT=46.8F
+1877	1	6	14	0	0	977.78	original p=28.918in/Hg | attachT=48.9F
+1877	1	6	22	0	0	973.69	original p=28.800in/Hg | attachT=50.0F
+1877	1	7	10	0	0	979.19	original p=28.962in/Hg | attachT=49.8F
+1877	1	7	14	0	0	979.98	original p=28.986in/Hg | attachT=50.0F
+1877	1	7	22	0	0	986.42	original p=29.174in/Hg | attachT=49.0F
+1877	1	8	10	0	0	990.39	original p=29.294in/Hg | attachT=50.0F
+1877	1	8	14	0	0	989.04	original p=29.256in/Hg | attachT=50.8F
+1877	1	8	22	0	0	991.41	original p=29.324in/Hg | attachT=50.0F
+1877	1	9	10	0	0	999.61	original p=29.568in/Hg | attachT=50.5F
+1877	1	9	14	0	0	1002.71	original p=29.666in/Hg | attachT=52.9F
+1877	1	9	22	0	0	1009.05	original p=29.846in/Hg | attachT=50.1F
+1877	1	10	10	0	0	1009.24	original p=29.846in/Hg | attachT=48.0F
+1877	1	10	14	0	0	1006.12	original p=29.746in/Hg | attachT=45.1F
+1877	1	10	22	0	0	1001.05	original p=29.602in/Hg | attachT=47.3F
+1877	1	11	10	0	0	999.69	original p=29.558in/Hg | attachT=45.9F
+1877	1	11	14	0	0	1000.22	original p=29.564in/Hg | attachT=42.3F
+1877	1	11	22	0	0	1001.82	original p=29.610in/Hg | attachT=41.8F
+1877	1	12	10	0	0	1002.50	original p=29.634in/Hg | attachT=43.3F
+1877	1	12	14	0	0	1003.23	original p=29.648in/Hg | attachT=40.4F
+1877	1	12	22	0	0	1007.18	original p=29.770in/Hg | attachT=42.4F
+1877	1	13	10	0	0	1010.01	original p=29.858in/Hg | attachT=44.0F
+1877	1	13	14	0	0	1009.26	original p=29.836in/Hg | attachT=44.1F
+1877	1	13	22	0	0	1008.52	original p=29.814in/Hg | attachT=44.0F
+1877	1	14	10	0	0	999.77	original p=29.560in/Hg | attachT=45.8F
+1877	1	14	14	0	0	994.40	original p=29.406in/Hg | attachT=47.5F
+1877	1	14	22	0	0	997.34	original p=29.490in/Hg | attachT=46.4F
+1877	1	15	10	0	0	1009.42	original p=29.838in/Hg | attachT=43.1F
+1877	1	15	14	0	0	1010.61	original p=29.880in/Hg | attachT=45.6F
+1877	1	15	22	0	0	1010.95	original p=29.890in/Hg | attachT=45.6F
+1877	1	16	10	0	0	1010.61	original p=29.884in/Hg | attachT=47.0F
+1877	1	16	14	0	0	1008.94	original p=29.840in/Hg | attachT=49.0F
+1877	1	16	22	0	0	1006.24	original p=29.760in/Hg | attachT=49.0F
+1877	1	17	10	0	0	1000.99	original p=29.608in/Hg | attachT=50.2F
+1877	1	17	14	0	0	1000.31	original p=29.590in/Hg | attachT=51.0F
+1877	1	17	22	0	0	1002.39	original p=29.638in/Hg | attachT=45.9F
+1877	1	18	10	0	0	1000.98	original p=29.602in/Hg | attachT=48.1F
+1877	1	18	14	0	0	998.91	original p=29.546in/Hg | attachT=50.0F
+1877	1	18	22	0	0	997.69	original p=29.510in/Hg | attachT=50.1F
+1877	1	19	10	0	0	998.93	original p=29.552in/Hg | attachT=52.0F
+1877	1	19	14	0	0	999.45	original p=29.570in/Hg | attachT=53.0F
+1877	1	19	22	0	0	1010.24	original p=29.884in/Hg | attachT=51.1F
+1877	1	20	10	0	0	1018.99	original p=30.140in/Hg | attachT=50.0F
+1877	1	20	14	0	0	1021.55	original p=30.210in/Hg | attachT=48.0F
+1877	1	20	22	0	0	1026.52	original p=30.348in/Hg | attachT=44.7F
+1877	1	21	10	0	0	1029.02	original p=30.422in/Hg | attachT=44.7F
+1877	1	21	14	0	0	1028.27	original p=30.406in/Hg | attachT=47.0F
+1877	1	21	22	0	0	1028.62	original p=30.414in/Hg | attachT=46.1F
+1877	1	22	10	0	0	1028.70	original p=30.414in/Hg | attachT=45.3F
+1877	1	22	14	0	0	1027.28	original p=30.372in/Hg | attachT=45.2F
+1877	1	22	22	0	0	1025.87	original p=30.324in/Hg | attachT=43.0F
+1877	1	23	10	0	0	1021.49	original p=30.198in/Hg | attachT=44.2F
+1877	1	23	14	0	0	1018.64	original p=30.118in/Hg | attachT=45.8F
+1877	1	23	22	0	0	1012.06	original p=29.920in/Hg | attachT=44.5F
+1877	1	24	10	0	0	1013.08	original p=29.954in/Hg | attachT=45.9F
+1877	1	24	14	0	0	1013.84	original p=29.976in/Hg | attachT=45.8F
+1877	1	24	22	0	0	1013.32	original p=29.956in/Hg | attachT=44.0F
+1877	1	25	10	0	0	997.17	original p=29.486in/Hg | attachT=46.8F
+1877	1	25	14	0	0	996.23	original p=29.464in/Hg | attachT=49.0F
+1877	1	25	22	0	0	1002.43	original p=29.628in/Hg | attachT=41.8F
+1877	1	26	10	0	0	1012.21	original p=29.918in/Hg | attachT=42.1F
+1877	1	26	14	0	0	1013.01	original p=29.948in/Hg | attachT=44.5F
+1877	1	26	22	0	0	1014.93	original p=29.996in/Hg | attachT=41.3F
+1877	1	27	10	0	0	1012.36	original p=29.926in/Hg | attachT=43.4F
+1877	1	27	14	0	0	1011.60	original p=29.908in/Hg | attachT=45.1F
+1877	1	27	22	0	0	1016.61	original p=30.056in/Hg | attachT=45.1F
+1877	1	28	10	0	0	1006.31	original p=29.754in/Hg | attachT=46.0F
+1877	1	28	14	0	0	1003.76	original p=29.684in/Hg | attachT=48.0F
+1877	1	28	22	0	0	1004.62	original p=29.704in/Hg | attachT=46.0F
+1877	1	29	10	0	0	1013.83	original p=29.970in/Hg | attachT=43.7F
+1877	1	29	14	0	0	1009.87	original p=29.858in/Hg | attachT=45.5F
+1877	1	29	22	0	0	1006.58	original p=29.764in/Hg | attachT=46.7F
+1877	1	30	10	0	0	988.01	original p=29.216in/Hg | attachT=47.2F
+1877	1	30	14	0	0	992.64	original p=29.348in/Hg | attachT=45.3F
+1877	1	30	22	0	0	1003.72	original p=29.670in/Hg | attachT=43.2F
+1877	1	31	10	0	0	1011.17	original p=29.890in/Hg | attachT=43.1F
+1877	1	31	14	0	0	1010.24	original p=29.868in/Hg | attachT=45.2F
+1877	1	31	22	0	0	1004.98	original p=29.712in/Hg | attachT=45.0F
+1877	2	1	10	0	0	1008.03	original p=29.808in/Hg | attachT=47.1F
