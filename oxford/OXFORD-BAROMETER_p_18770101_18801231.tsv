@@ -3313,7 +3313,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1880	2	5	10	0	0	1011.82	original p=29.895in/Hg | attachT=37.9F
 1880	2	5	14	0	0	1009.43	original p=29.830in/Hg | attachT=40.0F
 1880	2	5	22	0	0	1008.39	original p=29.807in/Hg | attachT=42.8F
-1880	2	6	10	0	0	699.91	original p=20.688in/Hg | attachT=42.5F
+1880	2	6	10	0	0	1004.40	original p=29.688in/Hg | attachT=42.5F
 1880	2	6	14	0	0	1002.31	original p=29.634in/Hg | attachT=45.3F
 1880	2	6	22	0	0	997.77	original p=29.494in/Hg | attachT=43.2F
 1880	2	7	10	0	0	997.57	original p=29.497in/Hg | attachT=46.5F
@@ -3371,7 +3371,6 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1880	2	24	14	0	0	1019.28	original p=30.130in/Hg | attachT=43.3F
 1880	2	24	22	0	0	1023.11	original p=30.240in/Hg | attachT=42.1F
 1880	2	25	10	0	0	1023.90	original p=30.262in/Hg | attachT=41.6F
-1880	2	25	14	0	0	1021.33	original p=30.190in/Hg | attachT=43.0F
 1880	2	25	22	0	0	1016.43	original p=30.048in/Hg | attachT=44.1F
 1880	2	26	10	0	0	1005.22	original p=29.722in/Hg | attachT=46.1F
 1880	2	26	14	0	0	1007.17	original p=29.780in/Hg | attachT=46.2F
@@ -3855,7 +3854,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1880	8	4	20	0	0	1004.94	original p=29.766in/Hg | attachT=65.4F
 1880	8	5	8	0	0	1003.65	original p=29.720in/Hg | attachT=62.6F
 1880	8	5	12	0	0	1002.27	original p=29.690in/Hg | attachT=66.6F
-1880	8	5	20	0	0	696.58	original p=20.630in/Hg | attachT=64.1F
+1880	8	5	20	0	0	1000.47	original p=29.630in/Hg | attachT=64.1F
 1880	8	6	8	0	0	997.34	original p=29.536in/Hg | attachT=63.6F
 1880	8	6	12	0	0	996.15	original p=29.505in/Hg | attachT=65.2F
 1880	8	6	20	0	0	994.70	original p=29.462in/Hg | attachT=65.2F
