@@ -1,0 +1,106 @@
+SEF	1.0.0
+ID	Dnipro
+Name	Dnipro
+Lat	48.45
+Lon	35.05
+Alt	98
+Source	UA-UHMI
+Link	https://doi.org/10.15407/uhmi.report.01
+Vbl	p
+Stat	point
+Units	hPa
+Meta	Observer=NA|PTC=N|PGC=Y
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1865	12	1	4	39	0	997.6	orig=748.06mmHg|orig.time=7:00AM|orig.date=1865-12-01
+1865	12	1	11	39	0	988.5	orig=741.27mmHg|orig.time=2:00PM|orig.date=1865-12-01
+1865	12	1	18	39	0	997.8	orig=748.24mmHg|orig.time=9:00PM|orig.date=1865-12-01
+1865	12	2	4	39	0	997.5	orig=747.99mmHg|orig.time=7:00AM|orig.date=1865-12-02
+1865	12	2	11	39	0	997.1	orig=747.72mmHg|orig.time=2:00PM|orig.date=1865-12-02
+1865	12	2	18	39	0	997.4	orig=747.92mmHg|orig.time=9:00PM|orig.date=1865-12-02
+1865	12	3	4	39	0	995.7	orig=746.62mmHg|orig.time=7:00AM|orig.date=1865-12-03
+1865	12	3	11	39	0	998.1	orig=748.42mmHg|orig.time=2:00PM|orig.date=1865-12-03
+1865	12	3	18	39	0	997.1	orig=747.72mmHg|orig.time=9:00PM|orig.date=1865-12-03
+1865	12	4	4	39	0	996.2	orig=747mmHg|orig.time=7:00AM|orig.date=1865-12-04
+1865	12	4	11	39	0	993	orig=744.65mmHg|orig.time=2:00PM|orig.date=1865-12-04
+1865	12	4	18	39	0	992.6	orig=744.34mmHg|orig.time=9:00PM|orig.date=1865-12-04
+1865	12	5	4	39	0	991.6	orig=743.61mmHg|orig.time=7:00AM|orig.date=1865-12-05
+1865	12	5	11	39	0	990.8	orig=742.96mmHg|orig.time=2:00PM|orig.date=1865-12-05
+1865	12	5	18	39	0	989.2	orig=741.81mmHg|orig.time=9:00PM|orig.date=1865-12-05
+1865	12	6	4	39	0	999	orig=749.1mmHg|orig.time=7:00AM|orig.date=1865-12-06
+1865	12	6	11	39	0	998.7	orig=748.92mmHg|orig.time=2:00PM|orig.date=1865-12-06
+1865	12	6	18	39	0	1003.2	orig=752.31mmHg|orig.time=9:00PM|orig.date=1865-12-06
+1865	12	7	4	39	0	1016.8	orig=762.45mmHg|orig.time=7:00AM|orig.date=1865-12-07
+1865	12	7	11	39	0	1015.1	orig=761.21mmHg|orig.time=2:00PM|orig.date=1865-12-07
+1865	12	7	18	39	0	1022.4	orig=766.66mmHg|orig.time=9:00PM|orig.date=1865-12-07
+1865	12	8	4	39	0	1020.3	orig=765.1mmHg|orig.time=7:00AM|orig.date=1865-12-08
+1865	12	8	11	39	0	1022	orig=766.36mmHg|orig.time=2:00PM|orig.date=1865-12-08
+1865	12	8	18	39	0	1020.6	orig=765.36mmHg|orig.time=9:00PM|orig.date=1865-12-08
+1865	12	9	4	39	0	1016.4	orig=762.17mmHg|orig.time=7:00AM|orig.date=1865-12-09
+1865	12	9	11	39	0	1018.5	orig=763.77mmHg|orig.time=2:00PM|orig.date=1865-12-09
+1865	12	9	18	39	0	1014.7	orig=760.89mmHg|orig.time=9:00PM|orig.date=1865-12-09
+1865	12	10	4	39	0	1010.2	orig=757.56mmHg|orig.time=7:00AM|orig.date=1865-12-10
+1865	12	10	11	39	0	1002.3	orig=751.62mmHg|orig.time=2:00PM|orig.date=1865-12-10
+1865	12	10	18	39	0	997	orig=747.64mmHg|orig.time=9:00PM|orig.date=1865-12-10
+1865	12	11	4	39	0	988.5	orig=741.28mmHg|orig.time=7:00AM|orig.date=1865-12-11
+1865	12	11	11	39	0	986.3	orig=739.63mmHg|orig.time=2:00PM|orig.date=1865-12-11
+1865	12	11	18	39	0	988.2	orig=741.03mmHg|orig.time=9:00PM|orig.date=1865-12-11
+1865	12	12	4	39	0	997.2	orig=747.78mmHg|orig.time=7:00AM|orig.date=1865-12-12
+1865	12	12	11	39	0	999.5	orig=749.51mmHg|orig.time=2:00PM|orig.date=1865-12-12
+1865	12	12	18	39	0	1004.7	orig=753.43mmHg|orig.time=9:00PM|orig.date=1865-12-12
+1865	12	13	4	39	0	1010.2	orig=757.53mmHg|orig.time=7:00AM|orig.date=1865-12-13
+1865	12	13	11	39	0	1009.2	orig=756.81mmHg|orig.time=2:00PM|orig.date=1865-12-13
+1865	12	13	18	39	0	1010.7	orig=757.94mmHg|orig.time=9:00PM|orig.date=1865-12-13
+1865	12	14	4	39	0	1004.1	orig=752.96mmHg|orig.time=7:00AM|orig.date=1865-12-14
+1865	12	14	11	39	0	999.1	orig=749.17mmHg|orig.time=2:00PM|orig.date=1865-12-14
+1865	12	14	18	39	0	995.3	orig=746.34mmHg|orig.time=9:00PM|orig.date=1865-12-14
+1865	12	15	4	39	0	987.9	orig=740.8mmHg|orig.time=7:00AM|orig.date=1865-12-15
+1865	12	15	11	39	0	986.6	orig=739.83mmHg|orig.time=2:00PM|orig.date=1865-12-15
+1865	12	15	18	39	0	988.5	orig=741.24mmHg|orig.time=9:00PM|orig.date=1865-12-15
+1865	12	16	4	39	0	994.5	orig=745.74mmHg|orig.time=7:00AM|orig.date=1865-12-16
+1865	12	16	11	39	0	998.3	orig=748.62mmHg|orig.time=2:00PM|orig.date=1865-12-16
+1865	12	16	18	39	0	993.5	orig=745.04mmHg|orig.time=9:00PM|orig.date=1865-12-16
+1865	12	17	4	39	0	990.1	orig=742.48mmHg|orig.time=7:00AM|orig.date=1865-12-17
+1865	12	17	11	39	0	992.8	orig=744.45mmHg|orig.time=2:00PM|orig.date=1865-12-17
+1865	12	17	18	39	0	995.3	orig=746.39mmHg|orig.time=9:00PM|orig.date=1865-12-17
+1865	12	18	4	39	0	999.7	orig=749.63mmHg|orig.time=7:00AM|orig.date=1865-12-18
+1865	12	18	11	39	0	1004	orig=752.87mmHg|orig.time=2:00PM|orig.date=1865-12-18
+1865	12	18	18	39	0	1001.9	orig=751.27mmHg|orig.time=9:00PM|orig.date=1865-12-18
+1865	12	19	4	39	0	997.9	orig=748.3mmHg|orig.time=7:00AM|orig.date=1865-12-19
+1865	12	19	11	39	0	999.2	orig=749.28mmHg|orig.time=2:00PM|orig.date=1865-12-19
+1865	12	19	18	39	0	1000.2	orig=750.04mmHg|orig.time=9:00PM|orig.date=1865-12-19
+1865	12	20	4	39	0	998.5	orig=748.76mmHg|orig.time=7:00AM|orig.date=1865-12-20
+1865	12	20	11	39	0	1006.4	orig=754.65mmHg|orig.time=2:00PM|orig.date=1865-12-20
+1865	12	20	18	39	0	1007.4	orig=755.4mmHg|orig.time=9:00PM|orig.date=1865-12-20
+1865	12	21	4	39	0	1003.7	orig=752.67mmHg|orig.time=7:00AM|orig.date=1865-12-21
+1865	12	21	11	39	0	1002.5	orig=751.75mmHg|orig.time=2:00PM|orig.date=1865-12-21
+1865	12	21	18	39	0	1007.3	orig=755.38mmHg|orig.time=9:00PM|orig.date=1865-12-21
+1865	12	22	4	39	0	1007.1	orig=755.17mmHg|orig.time=7:00AM|orig.date=1865-12-22
+1865	12	22	11	39	0	1004.9	orig=753.55mmHg|orig.time=2:00PM|orig.date=1865-12-22
+1865	12	22	18	39	0	1001.6	orig=751.11mmHg|orig.time=9:00PM|orig.date=1865-12-22
+1865	12	23	4	39	0	997.1	orig=747.72mmHg|orig.time=7:00AM|orig.date=1865-12-23
+1865	12	23	11	39	0	1003.8	orig=752.75mmHg|orig.time=2:00PM|orig.date=1865-12-23
+1865	12	23	18	39	0	1007.7	orig=755.67mmHg|orig.time=9:00PM|orig.date=1865-12-23
+1865	12	24	4	39	0	1011.6	orig=758.56mmHg|orig.time=7:00AM|orig.date=1865-12-24
+1865	12	24	11	39	0	1011.3	orig=758.34mmHg|orig.time=2:00PM|orig.date=1865-12-24
+1865	12	24	18	39	0	1010.3	orig=757.57mmHg|orig.time=9:00PM|orig.date=1865-12-24
+1865	12	25	4	39	0	1011.9	orig=758.84mmHg|orig.time=7:00AM|orig.date=1865-12-25
+1865	12	25	11	39	0	1014.1	orig=760.44mmHg|orig.time=2:00PM|orig.date=1865-12-25
+1865	12	25	18	39	0	1012.3	orig=759.09mmHg|orig.time=9:00PM|orig.date=1865-12-25
+1865	12	26	4	39	0	1011.8	orig=758.71mmHg|orig.time=7:00AM|orig.date=1865-12-26
+1865	12	26	11	39	0	1012.6	orig=759.35mmHg|orig.time=2:00PM|orig.date=1865-12-26
+1865	12	26	18	39	0	1005.8	orig=754.23mmHg|orig.time=9:00PM|orig.date=1865-12-26
+1865	12	27	4	39	0	1003.3	orig=752.38mmHg|orig.time=7:00AM|orig.date=1865-12-27
+1865	12	27	11	39	0	1003.4	orig=752.45mmHg|orig.time=2:00PM|orig.date=1865-12-27
+1865	12	27	18	39	0	999.3	orig=749.37mmHg|orig.time=9:00PM|orig.date=1865-12-27
+1865	12	28	4	39	0	1001.2	orig=750.8mmHg|orig.time=7:00AM|orig.date=1865-12-28
+1865	12	28	11	39	0	1003.7	orig=752.67mmHg|orig.time=2:00PM|orig.date=1865-12-28
+1865	12	28	18	39	0	1005.3	orig=753.85mmHg|orig.time=9:00PM|orig.date=1865-12-28
+1865	12	29	4	39	0	1005.6	orig=754.07mmHg|orig.time=7:00AM|orig.date=1865-12-29
+1865	12	29	11	39	0	1006.8	orig=754.99mmHg|orig.time=2:00PM|orig.date=1865-12-29
+1865	12	29	18	39	0	1011	orig=758.15mmHg|orig.time=9:00PM|orig.date=1865-12-29
+1865	12	30	4	39	0	1002.9	orig=752.02mmHg|orig.time=7:00AM|orig.date=1865-12-30
+1865	12	30	11	39	0	1001.2	orig=750.8mmHg|orig.time=2:00PM|orig.date=1865-12-30
+1865	12	30	18	39	0	995.2	orig=746.28mmHg|orig.time=9:00PM|orig.date=1865-12-30
+1865	12	31	4	39	0	1000.1	orig=749.96mmHg|orig.time=7:00AM|orig.date=1865-12-31
+1865	12	31	11	39	0	998.3	orig=748.57mmHg|orig.time=2:00PM|orig.date=1865-12-31
+1865	12	31	18	39	0	1005	orig=753.65mmHg|orig.time=9:00PM|orig.date=1865-12-31
