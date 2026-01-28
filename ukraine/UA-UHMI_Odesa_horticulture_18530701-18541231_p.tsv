@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_horticulture						
-Name	Odesa, horticulture						
-Lat	46,46						
-Lon	30,68						
+Name	Odesa. horticulture						
+Lat	46.46						
+Lon	30.68						
 Alt	35						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -85,7 +85,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1853	7	25	7	56	0	992.1	orig=671.6F.s.l.|orig.time=10:00AM|orig.date=1853-07-25|atb=18.2R
 1853	7	25	13	56	0	990.4	orig=670.6F.s.l.|orig.time=4:00PM|orig.date=1853-07-25|atb=19R
 1853	7	25	19	56	0	991.5	orig=671.2F.s.l.|orig.time=10:00PM|orig.date=1853-07-25|atb=18R
-1853	7	26	7	56	0	994,7	orig=672.8F.s.l.|orig.time=10:00AM|orig.date=1853-07-26|atb=18R
+1853	7	26	7	56	0	994.7	orig=672.8F.s.l.|orig.time=10:00AM|orig.date=1853-07-26|atb=18R
 1853	7	26	13	56	0	992.2	orig=671.8F.s.l.|orig.time=4:00PM|orig.date=1853-07-26|atb=19R
 1853	7	26	19	56	0	994.2	orig=673F.s.l.|orig.time=10:00PM|orig.date=1853-07-26|atb=18R
 1853	7	27	7	56	0	995.5	orig=674F.s.l.|orig.time=10:00AM|orig.date=1853-07-27|atb=18.6R
@@ -380,7 +380,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1853	11	1	7	56	0	1007.3	orig=680.6F.s.l.|orig.time=10:00AM|orig.date=1853-11-01|atb=9.8R
 1853	11	1	13	56	0	1007.4	orig=680.6F.s.l.|orig.time=4:00PM|orig.date=1853-11-01|atb=9.4R
 1853	11	1	19	56	0	1010.1	orig=682.4F.s.l.|orig.time=10:00PM|orig.date=1853-11-01|atb=9.4R
-1853	11	2	7	56	0	1012,6	orig=683.8F.s.l.|orig.time=10:00AM|orig.date=1853-11-02|atb=9R
+1853	11	2	7	56	0	1012.6	orig=683.8F.s.l.|orig.time=10:00AM|orig.date=1853-11-02|atb=9R
 1853	11	2	13	56	0	1012.2	orig=683.8F.s.l.|orig.time=4:00PM|orig.date=1853-11-02|atb=9R
 1853	11	2	19	56	0	1010.5	orig=682.6F.s.l.|orig.time=10:00PM|orig.date=1853-11-02|atb=8.8R
 1853	11	3	7	56	0	1008.8	orig=681.4F.s.l.|orig.time=10:00AM|orig.date=1853-11-03|atb=8.2R
@@ -432,28 +432,28 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1853	11	18	13	56	0	989.9	orig=669F.s.l.|orig.time=4:00PM|orig.date=1853-11-18|atb=11R
 1853	11	18	19	56	0	992	orig=670.4F.s.l.|orig.time=10:00PM|orig.date=1853-11-18|atb=10.8R
 1853	11	19	7	56	0	995.3	orig=672.8F.s.l.|orig.time=10:00AM|orig.date=1853-11-19|atb=11.8R
-1853	11	19	13	56	0	996,1	orig=672.8F.s.l.|orig.time=4:00PM|orig.date=1853-11-19|atb=10.6R
+1853	11	19	13	56	0	996.1	orig=672.8F.s.l.|orig.time=4:00PM|orig.date=1853-11-19|atb=10.6R
 1853	11	19	19	56	0	994.5	orig=672F.s.l.|orig.time=10:00PM|orig.date=1853-11-19|atb=10.2R
 1853	11	20	7	56	0	993.5	orig=671.2F.s.l.|orig.time=10:00AM|orig.date=1853-11-20|atb=9.2R
 1853	11	20	13	56	0	994	orig=671.2F.s.l.|orig.time=4:00PM|orig.date=1853-11-20|atb=9R
 1853	11	20	19	56	0	995.1	orig=672.2F.s.l.|orig.time=10:00PM|orig.date=1853-11-20|atb=8.8R
 1853	11	21	7	56	0	996.5	orig=673F.s.l.|orig.time=10:00AM|orig.date=1853-11-21|atb=8R
-1853	11	21	13	56	0	996,8	orig=673F.s.l.|orig.time=4:00PM|orig.date=1853-11-21|atb=8R
+1853	11	21	13	56	0	996.8	orig=673F.s.l.|orig.time=4:00PM|orig.date=1853-11-21|atb=8R
 1853	11	21	19	56	0	998.3	orig=674.2F.s.l.|orig.time=10:00PM|orig.date=1853-11-21|atb=7.8R
 1853	11	22	7	56	0	1001.1	orig=676F.s.l.|orig.time=10:00AM|orig.date=1853-11-22|atb=7.2R
-1853	11	22	13	56	0	1002,6	orig=676.8F.s.l.|orig.time=4:00PM|orig.date=1853-11-22|atb=7.2R
+1853	11	22	13	56	0	1002.6	orig=676.8F.s.l.|orig.time=4:00PM|orig.date=1853-11-22|atb=7.2R
 1853	11	22	19	56	0	1003.5	orig=677.6F.s.l.|orig.time=10:00PM|orig.date=1853-11-22|atb=7R
 1853	11	23	7	56	0	1004.9	orig=678.6F.s.l.|orig.time=10:00AM|orig.date=1853-11-23|atb=7.2R
-1853	11	23	13	56	0	1006,4	orig=679.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-23|atb=7.6R
+1853	11	23	13	56	0	1006.4	orig=679.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-23|atb=7.6R
 1853	11	23	19	56	0	1006.3	orig=679.6F.s.l.|orig.time=10:00PM|orig.date=1853-11-23|atb=7.6R
 1853	11	24	7	56	0	1007.6	orig=680.4F.s.l.|orig.time=10:00AM|orig.date=1853-11-24|atb=7.2R
-1853	11	24	13	56	0	1007,9	orig=680.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-24|atb=7.2R
+1853	11	24	13	56	0	1007.9	orig=680.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-24|atb=7.2R
 1853	11	24	19	56	0	1006.1	orig=679.4F.s.l.|orig.time=10:00PM|orig.date=1853-11-24|atb=7.2R
 1853	11	25	7	56	0	1003.6	orig=677.6F.s.l.|orig.time=10:00AM|orig.date=1853-11-25|atb=6.6R
-1853	11	25	13	56	0	1002,1	orig=676.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-25|atb=6.6R
+1853	11	25	13	56	0	1002.1	orig=676.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-25|atb=6.6R
 1853	11	25	19	56	0	1001.8	orig=676.4F.s.l.|orig.time=10:00PM|orig.date=1853-11-25|atb=6.6R
 1853	11	26	7	56	0	999.6	orig=674.8F.s.l.|orig.time=10:00AM|orig.date=1853-11-26|atb=5.8R
-1853	11	26	13	56	0	997,9	orig=673.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-26|atb=5.2R
+1853	11	26	13	56	0	997.9	orig=673.4F.s.l.|orig.time=4:00PM|orig.date=1853-11-26|atb=5.2R
 1853	11	26	19	56	0	997	orig=673F.s.l.|orig.time=10:00PM|orig.date=1853-11-26|atb=5.4R
 1853	11	27	7	56	0	997.1	orig=673F.s.l.|orig.time=10:00AM|orig.date=1853-11-27|atb=5.2R
 1853	11	27	13	56	0	997.1	orig=673F.s.l.|orig.time=4:00PM|orig.date=1853-11-27|atb=5.2R
@@ -668,7 +668,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1854	2	5	7	56	0	1003.7	orig=677.6F.s.l.|orig.time=10:00AM|orig.date=1854-02-05|atb=6.2R
 1854	2	5	13	56	0	1000.6	orig=675.6F.s.l.|orig.time=4:00PM|orig.date=1854-02-05|atb=6.8R
 1854	2	5	19	56	0	997	orig=673.2F.s.l.|orig.time=10:00PM|orig.date=1854-02-05|atb=7R
-1854	2	6	7	56	0	988,4	orig=667.2F.s.l.|orig.time=10:00AM|orig.date=1854-02-06|atb=7.2R
+1854	2	6	7	56	0	988.4	orig=667.2F.s.l.|orig.time=10:00AM|orig.date=1854-02-06|atb=7.2R
 1854	2	6	13	56	0	985.4	orig=665.4F.s.l.|orig.time=4:00PM|orig.date=1854-02-06|atb=7R
 1854	2	6	19	56	0	984.6	orig=664.8F.s.l.|orig.time=10:00PM|orig.date=1854-02-06|atb=6.8R
 1854	2	7	7	56	0	978.4	orig=660.6F.s.l.|orig.time=10:00AM|orig.date=1854-02-07|atb=6.6R
@@ -777,7 +777,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1854	3	13	13	56	0	997.4	orig=673.4F.s.l.|orig.time=4:00PM|orig.date=1854-03-13|atb=6.6R
 1854	3	13	19	56	0	999.4	orig=674.8F.s.l.|orig.time=10:00PM|orig.date=1854-03-13|atb=7R
 1854	3	14	7	56	0	1004	orig=677.8F.s.l.|orig.time=10:00AM|orig.date=1854-03-14|atb=6.2R
-1854	3	14	13	56	0	1005,1	orig=678.4F.s.l.|orig.time=4:00PM|orig.date=1854-03-14|atb=6.2R
+1854	3	14	13	56	0	1005.1	orig=678.4F.s.l.|orig.time=4:00PM|orig.date=1854-03-14|atb=6.2R
 1854	3	14	19	56	0	1005	orig=678.4F.s.l.|orig.time=10:00PM|orig.date=1854-03-14|atb=5.8R
 1854	3	15	7	56	0	1003.8	orig=677.6F.s.l.|orig.time=10:00AM|orig.date=1854-03-15|atb=5.8R
 1854	3	15	13	56	0	1004.5	orig=678F.s.l.|orig.time=4:00PM|orig.date=1854-03-15|atb=5.2R
@@ -1308,7 +1308,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1854	9	7	13	56	0	985.7	orig=667F.s.l.|orig.time=4:00PM|orig.date=1854-09-07|atb=16.2R
 1854	9	7	19	56	0	984.3	orig=666F.s.l.|orig.time=10:00PM|orig.date=1854-09-07|atb=15.8R
 1854	9	8	7	56	0	985.4	orig=666.6F.s.l.|orig.time=10:00AM|orig.date=1854-09-08|atb=15.2R
-1854	9	8	13	56	0	987,6	orig=667.6F.s.l.|orig.time=4:00PM|orig.date=1854-09-08|atb=14.6R
+1854	9	8	13	56	0	987.6	orig=667.6F.s.l.|orig.time=4:00PM|orig.date=1854-09-08|atb=14.6R
 1854	9	8	19	56	0	988.5	orig=668.6F.s.l.|orig.time=10:00PM|orig.date=1854-09-08|atb=14.4R
 1854	9	9	7	56	0	988.8	orig=668.6F.s.l.|orig.time=10:00AM|orig.date=1854-09-09|atb=13.2R
 1854	9	9	13	56	0	988	orig=668.2F.s.l.|orig.time=4:00PM|orig.date=1854-09-09|atb=13.8R

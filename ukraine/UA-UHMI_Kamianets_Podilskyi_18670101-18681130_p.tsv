@@ -1143,7 +1143,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	1	12	12	13	0	997.4	orig=750.4mmHg|orig.time=2:00PM|orig.date=1868-01-12|atb=14.3R
 1868	1	12	19	13	0	999	orig=751.7mmHg|orig.time=9:00PM|orig.date=1868-01-12|atb=15R
 1868	1	13	5	13	0	998.3	orig=750.7mmHg|orig.time=7:00AM|orig.date=1868-01-13|atb=12R
-1868	1	13	12	13	0	996,7	orig=749.4mmHg|orig.time=2:00PM|orig.date=1868-01-13|atb=14.7R
+1868	1	13	12	13	0	996.7	orig=749.4mmHg|orig.time=2:00PM|orig.date=1868-01-13|atb=14.7R
 1868	1	13	19	13	0	994.5	orig=748.5mmHg|orig.time=9:00PM|orig.date=1868-01-13|atb=15.9R
 1868	1	14	5	13	0	995.2	orig=749.2mmHg|orig.time=7:00AM|orig.date=1868-01-14|atb=17R
 1868	1	14	12	13	0	996.3	orig=749.7mmHg|orig.time=2:00PM|orig.date=1868-01-14|atb=15R
@@ -1970,7 +1970,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	10	14	5	13	0	994.7	orig=748.3mmHg|orig.time=7:00AM|orig.date=1868-10-14|atb=14R
 1868	10	14	12	13	0	991.9	orig=746.4mmHg|orig.time=2:00PM|orig.date=1868-10-14|atb=15R
 1868	10	14	19	13	0	991.7	orig=746.4mmHg|orig.time=9:00PM|orig.date=1868-10-14|atb=16R
-1868	10	15	5	13	0	994,1	orig=747.5mmHg|orig.time=7:00AM|orig.date=1868-10-15|atb=15R
+1868	10	15	5	13	0	994.1	orig=747.5mmHg|orig.time=7:00AM|orig.date=1868-10-15|atb=15R
 1868	10	15	12	13	0	992.9	orig=747.5mmHg|orig.time=2:00PM|orig.date=1868-10-15|atb=17R
 1868	10	15	19	13	0	994.1	orig=748mmHg|orig.time=9:00PM|orig.date=1868-10-15|atb=15R
 1868	10	16	5	13	0	991	orig=745.7mmHg|orig.time=7:00AM|orig.date=1868-10-16|atb=15R
@@ -1991,7 +1991,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	10	21	5	13	0	990	orig=745mmHg|orig.time=7:00AM|orig.date=1868-10-21|atb=15.5R
 1868	10	21	12	13	0	990	orig=745mmHg|orig.time=2:00PM|orig.date=1868-10-21|atb=15.5R
 1868	10	21	19	13	0	988.6	orig=744.2mmHg|orig.time=9:00PM|orig.date=1868-10-21|atb=17R
-1868	10	22	5	13	0	987,3	orig=742.5mmHg|orig.time=7:00AM|orig.date=1868-10-22|atb=16R
+1868	10	22	5	13	0	987.3	orig=742.5mmHg|orig.time=7:00AM|orig.date=1868-10-22|atb=16R
 1868	10	22	12	13	0	986.5	orig=742.5mmHg|orig.time=2:00PM|orig.date=1868-10-22|atb=16R
 1868	10	22	19	13	0	986	orig=742.3mmHg|orig.time=9:00PM|orig.date=1868-10-22|atb=17R
 1868	10	23	5	13	0	994.4	orig=748.5mmHg|orig.time=7:00AM|orig.date=1868-10-23|atb=16.6R
@@ -2016,7 +2016,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	10	29	12	13	0	999.4	orig=752mmHg|orig.time=2:00PM|orig.date=1868-10-29|atb=15R
 1868	10	29	19	13	0	997.7	orig=751mmHg|orig.time=9:00PM|orig.date=1868-10-29|atb=16.6R
 1868	10	30	5	13	0	994.7	orig=748.5mmHg|orig.time=7:00AM|orig.date=1868-10-30|atb=15R
-1868	10	30	12	13	0	995,3	orig=748.4mmHg|orig.time=2:00PM|orig.date=1868-10-30|atb=15R
+1868	10	30	12	13	0	995.3	orig=748.4mmHg|orig.time=2:00PM|orig.date=1868-10-30|atb=15R
 1868	10	30	19	13	0	993.5	orig=747.7mmHg|orig.time=9:00PM|orig.date=1868-10-30|atb=15.6R
 1868	10	31	5	13	0	993.7	orig=747.7mmHg|orig.time=7:00AM|orig.date=1868-10-31|atb=15R
 1868	10	31	12	13	0	993.7	orig=747.7mmHg|orig.time=2:00PM|orig.date=1868-10-31|atb=15R

@@ -18,7 +18,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	1	1	18	56	0	1010.1	orig=28.1Pin|orig.time=9:00PM|orig.date=1840-01-01|atb=15R						
 1840	1	2	6	56	0	1012.2	orig=28.1.48Pin|orig.time=9:00AM|orig.date=1840-01-02|atb=12.15R						
 1840	1	2	9	56	0	1011.9	orig=28.1.59Pin|orig.time=12:00AM|orig.date=1840-01-02|atb=15R						
-1840	1	2	13	56	0	1011,6	orig=28.1.35Pin|orig.time=4:00PM|orig.date=1840-01-02|atb=16.5R						
+1840	1	2	13	56	0	1011.6	orig=28.1.35Pin|orig.time=4:00PM|orig.date=1840-01-02|atb=16.5R						
 1840	1	2	15	56	0	1010.9	orig=28.1.35Pin|orig.time=6:00PM|orig.date=1840-01-02|atb=16R						
 1840	1	2	18	56	0	1010	orig=28.1Pin|orig.time=9:00PM|orig.date=1840-01-02|atb=15.33R						
 1840	1	3	6	56	0	1010	orig=28.0.65Pin|orig.time=9:00AM|orig.date=1840-01-03|atb=11R						
@@ -409,7 +409,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	3	20	15	56	0	1007	orig=27.11.75Pin|orig.time=6:00PM|orig.date=1840-03-20|atb=12R						
 1840	3	20	18	56	0	1008.1	orig=28.0.03Pin|orig.time=9:00PM|orig.date=1840-03-20|atb=11.25R						
 1840	3	21	6	56	0	1009.8	orig=28.0.68Pin|orig.time=9:00AM|orig.date=1840-03-21|atb=12.25R						
-1840	3	21	9	56	0	1011,3	orig=28.1.05Pin|orig.time=12:00AM|orig.date=1840-03-21|atb=13R						
+1840	3	21	9	56	0	1011.3	orig=28.1.05Pin|orig.time=12:00AM|orig.date=1840-03-21|atb=13R						
 1840	3	21	15	56	0	1008.1	orig=28.0.9Pin|orig.time=6:00PM|orig.date=1840-03-21|atb=12R						
 1840	3	21	18	56	0	1008.1	orig=28.0.8Pin|orig.time=9:00PM|orig.date=1840-03-21|atb=11.75R						
 1840	3	22	6	56	0	1000.6	orig=27.9.58Pin|orig.time=9:00AM|orig.date=1840-03-22|atb=11.75R						
@@ -456,10 +456,10 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	3	30	13	56	0	996.4	orig=27.8.24Pin|orig.time=4:00PM|orig.date=1840-03-30|atb=12.75R						
 1840	3	30	15	56	0	995.8	orig=27.8.5Pin|orig.time=6:00PM|orig.date=1840-03-30|atb=12.5R						
 1840	3	30	18	56	0	1000	orig=27.9.25Pin|orig.time=9:00PM|orig.date=1840-03-30|atb=12.5R						
-1840	3	31	6	56	0	1004,4	orig=27.10.7Pin|orig.time=9:00AM|orig.date=1840-03-31|atb=12R						
-1840	3	31	9	56	0	1006,4	orig=27.11.4Pin|orig.time=12:00AM|orig.date=1840-03-31|atb=12.66R						
-1840	3	31	13	56	0	1006,9	orig=27.11.55Pin|orig.time=4:00PM|orig.date=1840-03-31|atb=12.33R						
-1840	3	31	15	56	0	1007,5	orig=27.11.75Pin|orig.time=6:00PM|orig.date=1840-03-31|atb=12.33R						
+1840	3	31	6	56	0	1004.4	orig=27.10.7Pin|orig.time=9:00AM|orig.date=1840-03-31|atb=12R						
+1840	3	31	9	56	0	1006.4	orig=27.11.4Pin|orig.time=12:00AM|orig.date=1840-03-31|atb=12.66R						
+1840	3	31	13	56	0	1006.9	orig=27.11.55Pin|orig.time=4:00PM|orig.date=1840-03-31|atb=12.33R						
+1840	3	31	15	56	0	1007.5	orig=27.11.75Pin|orig.time=6:00PM|orig.date=1840-03-31|atb=12.33R						
 1840	3	31	18	56	0	1009	orig=28.0.42Pin|orig.time=9:00PM|orig.date=1840-03-31|atb=12.25R						
 1840	4	1	6	56	0	1008.1	orig=28.0.8Pin|orig.time=9:00AM|orig.date=1840-04-01|atb=11.8R						
 1840	4	1	9	56	0	1010.6	orig=28.1.1Pin|orig.time=12:00AM|orig.date=1840-04-01|atb=13R						
@@ -973,9 +973,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	7	12	18	56	0	1003.3	orig=27.11.9Pin|orig.time=9:00PM|orig.date=1840-07-12|atb=19.66R						
 1840	7	13	6	56	0	1006.2	orig=28.0.07Pin|orig.time=9:00AM|orig.date=1840-07-13|atb=20R						
 1840	7	13	9	56	0	1006.3	orig=28.0.15Pin|orig.time=12:00AM|orig.date=1840-07-13|atb=20.66R						
-1840	7	13	13	56	0	1006,4	orig=27.11.91Pin|orig.time=4:00PM|orig.date=1840-07-13|atb=21.15R						
-1840	7	13	15	56	0	1005,6	orig=27.11.64Pin|orig.time=6:00PM|orig.date=1840-07-13|atb=21R						
-1840	7	13	18	56	0	1006,5	orig=27.11.85Pin|orig.time=9:00PM|orig.date=1840-07-13|atb=19.5R						
+1840	7	13	13	56	0	1006.4	orig=27.11.91Pin|orig.time=4:00PM|orig.date=1840-07-13|atb=21.15R						
+1840	7	13	15	56	0	1005.6	orig=27.11.64Pin|orig.time=6:00PM|orig.date=1840-07-13|atb=21R						
+1840	7	13	18	56	0	1006.5	orig=27.11.85Pin|orig.time=9:00PM|orig.date=1840-07-13|atb=19.5R						
 1840	7	14	6	56	0	1008.2	orig=28.0.74Pin|orig.time=9:00AM|orig.date=1840-07-14|atb=20R						
 1840	7	14	9	56	0	1008.2	orig=28.0.82Pin|orig.time=12:00AM|orig.date=1840-07-14|atb=21R						
 1840	7	14	13	56	0	1005.9	orig=28.0.9Pin|orig.time=4:00PM|orig.date=1840-07-14|atb=21.5R						
@@ -1091,8 +1091,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	8	5	13	56	0	1004.6	orig=27.11.48Pin|orig.time=4:00PM|orig.date=1840-08-05|atb=19.25R						
 1840	8	5	15	56	0	1004.9	orig=27.11.59Pin|orig.time=6:00PM|orig.date=1840-08-05|atb=19.25R						
 1840	8	5	18	56	0	1005.7	orig=27.11.77Pin|orig.time=9:00PM|orig.date=1840-08-05|atb=18R						
-1840	8	6	6	56	0	1005,1	orig=27.11.3Pin|orig.time=9:00AM|orig.date=1840-08-06|atb=18.1R						
-1840	8	6	9	56	0	1004,9	orig=27.11.31Pin|orig.time=12:00AM|orig.date=1840-08-06|atb=19.5R						
+1840	8	6	6	56	0	1005.1	orig=27.11.3Pin|orig.time=9:00AM|orig.date=1840-08-06|atb=18.1R						
+1840	8	6	9	56	0	1004.9	orig=27.11.31Pin|orig.time=12:00AM|orig.date=1840-08-06|atb=19.5R						
 1840	8	6	13	56	0	1006	orig=27.11.64Pin|orig.time=4:00PM|orig.date=1840-08-06|atb=19R						
 1840	8	6	15	56	0	1006	orig=27.11.59Pin|orig.time=6:00PM|orig.date=1840-08-06|atb=18.25R						
 1840	8	6	18	56	0	1007	orig=27.11.94Pin|orig.time=9:00PM|orig.date=1840-08-06|atb=18.1R						
@@ -1131,11 +1131,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	8	13	13	56	0	1003.9	orig=27.11.34Pin|orig.time=4:00PM|orig.date=1840-08-13|atb=20.33R						
 1840	8	13	15	56	0	1004.3	orig=27.11.41Pin|orig.time=6:00PM|orig.date=1840-08-13|atb=19.6R						
 1840	8	13	18	56	0	1003.3	orig=27.11.4Pin|orig.time=9:00PM|orig.date=1840-08-13|atb=18.9R						
-1840	8	14	6	56	0	1003,8	orig=27.10.96Pin|orig.time=9:00AM|orig.date=1840-08-14|atb=19.75R						
-1840	8	14	9	56	0	1003,8	orig=27.11Pin|orig.time=12:00AM|orig.date=1840-08-14|atb=20.6R						
+1840	8	14	6	56	0	1003.8	orig=27.10.96Pin|orig.time=9:00AM|orig.date=1840-08-14|atb=19.75R						
+1840	8	14	9	56	0	1003.8	orig=27.11Pin|orig.time=12:00AM|orig.date=1840-08-14|atb=20.6R						
 1840	8	14	13	56	0	1004	orig=27.11.07Pin|orig.time=4:00PM|orig.date=1840-08-14|atb=20.5R						
-1840	8	14	15	56	0	1005,1	orig=27.11.4Pin|orig.time=6:00PM|orig.date=1840-08-14|atb=19.75R						
-1840	8	14	18	56	0	1005,9	orig=27.11.61Pin|orig.time=9:00PM|orig.date=1840-08-14|atb=19R						
+1840	8	14	15	56	0	1005.1	orig=27.11.4Pin|orig.time=6:00PM|orig.date=1840-08-14|atb=19.75R						
+1840	8	14	18	56	0	1005.9	orig=27.11.61Pin|orig.time=9:00PM|orig.date=1840-08-14|atb=19R						
 1840	8	15	6	56	0	1006.6	orig=28.0.02Pin|orig.time=9:00AM|orig.date=1840-08-15|atb=17.66R						
 1840	8	15	9	56	0	1006.5	orig=28.0.11Pin|orig.time=12:00AM|orig.date=1840-08-15|atb=19R						
 1840	8	15	13	56	0	1005.2	orig=27.11.75Pin|orig.time=4:00PM|orig.date=1840-08-15|atb=20R						
@@ -1166,11 +1166,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	8	20	13	56	0	994.4	orig=27.8.05Pin|orig.time=4:00PM|orig.date=1840-08-20|atb=19R						
 1840	8	20	15	56	0	994.2	orig=27.7.99Pin|orig.time=6:00PM|orig.date=1840-08-20|atb=19R						
 1840	8	20	18	56	0	994.8	orig=27.8.19Pin|orig.time=9:00PM|orig.date=1840-08-20|atb=18.75R						
-1840	8	21	6	56	0	994,7	orig=27.7.77Pin|orig.time=9:00AM|orig.date=1840-08-21|atb=17R						
+1840	8	21	6	56	0	994.7	orig=27.7.77Pin|orig.time=9:00AM|orig.date=1840-08-21|atb=17R						
 1840	8	21	9	56	0	995	orig=27.7.92Pin|orig.time=12:00AM|orig.date=1840-08-21|atb=18.15R						
-1840	8	21	13	56	0	995,5	orig=27.8.08Pin|orig.time=4:00PM|orig.date=1840-08-21|atb=18R						
-1840	8	21	15	56	0	995,7	orig=27.8.15Pin|orig.time=6:00PM|orig.date=1840-08-21|atb=18.1R						
-1840	8	21	18	56	0	996,9	orig=28.8.55Pin|orig.time=9:00PM|orig.date=1840-08-21|atb=18R						
+1840	8	21	13	56	0	995.5	orig=27.8.08Pin|orig.time=4:00PM|orig.date=1840-08-21|atb=18R						
+1840	8	21	15	56	0	995.7	orig=27.8.15Pin|orig.time=6:00PM|orig.date=1840-08-21|atb=18.1R						
+1840	8	21	18	56	0	996.9	orig=28.8.55Pin|orig.time=9:00PM|orig.date=1840-08-21|atb=18R						
 1840	8	22	6	56	0	997.4	orig=27.8.89Pin|orig.time=9:00AM|orig.date=1840-08-22|atb=16.5R						
 1840	8	22	9	56	0	997.4	orig=27.9.01Pin|orig.time=12:00AM|orig.date=1840-08-22|atb=18.25R						
 1840	8	22	13	56	0	997.9	orig=27.9.17Pin|orig.time=4:00PM|orig.date=1840-08-22|atb=18.25R						
@@ -1285,11 +1285,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	9	13	13	56	0	1002.3	orig=27.10.75Pin|orig.time=4:00PM|orig.date=1840-09-13|atb=19.5R						
 1840	9	13	15	56	0	1001.8	orig=27.10.54Pin|orig.time=6:00PM|orig.date=1840-09-13|atb=19R						
 1840	9	13	18	56	0	1000.5	orig=27.10.6Pin|orig.time=9:00PM|orig.date=1840-09-13|atb=18.5R						
-1840	9	14	6	56	0	1002,9	orig=27.10.5Pin|orig.time=9:00AM|orig.date=1840-09-14|atb=17.33R						
-1840	9	14	9	56	0	1002,8	orig=27.10.56Pin|orig.time=12:00AM|orig.date=1840-09-14|atb=18.75R						
-1840	9	14	13	56	0	1001,8	orig=27.10.26Pin|orig.time=4:00PM|orig.date=1840-09-14|atb=19.25R						
-1840	9	14	15	56	0	1001,4	orig=27.10.11Pin|orig.time=6:00PM|orig.date=1840-09-14|atb=19R						
-1840	9	14	18	56	0	1001,9	orig=27.10.28Pin|orig.time=9:00PM|orig.date=1840-09-14|atb=19R						
+1840	9	14	6	56	0	1002.9	orig=27.10.5Pin|orig.time=9:00AM|orig.date=1840-09-14|atb=17.33R						
+1840	9	14	9	56	0	1002.8	orig=27.10.56Pin|orig.time=12:00AM|orig.date=1840-09-14|atb=18.75R						
+1840	9	14	13	56	0	1001.8	orig=27.10.26Pin|orig.time=4:00PM|orig.date=1840-09-14|atb=19.25R						
+1840	9	14	15	56	0	1001.4	orig=27.10.11Pin|orig.time=6:00PM|orig.date=1840-09-14|atb=19R						
+1840	9	14	18	56	0	1001.9	orig=27.10.28Pin|orig.time=9:00PM|orig.date=1840-09-14|atb=19R						
 1840	9	15	6	56	0	1000.6	orig=27.10.11Pin|orig.time=9:00AM|orig.date=1840-09-15|atb=18.75R						
 1840	9	15	9	56	0	1000.2	orig=27.10.05Pin|orig.time=12:00AM|orig.date=1840-09-15|atb=19.5R						
 1840	9	15	13	56	0	1000	orig=27.9.98Pin|orig.time=4:00PM|orig.date=1840-09-15|atb=19.75R						
@@ -1445,26 +1445,26 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	10	15	13	56	0	1003	orig=27.10.63Pin|orig.time=4:00PM|orig.date=1840-10-15|atb=15R						
 1840	10	15	15	56	0	1002.9	orig=27.10.54Pin|orig.time=6:00PM|orig.date=1840-10-15|atb=14.15R						
 1840	10	15	18	56	0	1001.6	orig=27.10.05Pin|orig.time=9:00PM|orig.date=1840-10-15|atb=13.5R						
-1840	10	16	6	56	0	996,8	orig=27.8.2Pin|orig.time=9:00AM|orig.date=1840-10-16|atb=12.9R						
-1840	10	16	9	56	0	995,8	orig=27.8.05Pin|orig.time=12:00AM|orig.date=1840-10-16|atb=16R						
+1840	10	16	6	56	0	996.8	orig=27.8.2Pin|orig.time=9:00AM|orig.date=1840-10-16|atb=12.9R						
+1840	10	16	9	56	0	995.8	orig=27.8.05Pin|orig.time=12:00AM|orig.date=1840-10-16|atb=16R						
 1840	10	16	13	56	0	996	orig=27.8.06Pin|orig.time=4:00PM|orig.date=1840-10-16|atb=15R						
-1840	10	16	15	56	0	996,8	orig=27.8.3Pin|orig.time=6:00PM|orig.date=1840-10-16|atb=14.33R						
-1840	10	16	18	56	0	996,6	orig=27.8.24Pin|orig.time=9:00PM|orig.date=1840-10-16|atb=14.5R						
+1840	10	16	15	56	0	996.8	orig=27.8.3Pin|orig.time=6:00PM|orig.date=1840-10-16|atb=14.33R						
+1840	10	16	18	56	0	996.6	orig=27.8.24Pin|orig.time=9:00PM|orig.date=1840-10-16|atb=14.5R						
 1840	10	17	6	56	0	994.3	orig=27.7.62Pin|orig.time=9:00AM|orig.date=1840-10-17|atb=13.66R						
 1840	10	17	9	56	0	992.5	orig=27.7Pin|orig.time=12:00AM|orig.date=1840-10-17|atb=13.5R						
 1840	10	17	13	56	0	989.6	orig=27.6.5Pin|orig.time=4:00PM|orig.date=1840-10-17|atb=13.75R						
 1840	10	17	15	56	0	995.5	orig=27.8Pin|orig.time=6:00PM|orig.date=1840-10-17|atb=13.5R						
 1840	10	17	18	56	0	998.5	orig=27.9.2Pin|orig.time=9:00PM|orig.date=1840-10-17|atb=13.5R						
 1840	10	18	6	56	0	1007	orig=27.11.6Pin|orig.time=9:00AM|orig.date=1840-10-18|atb=13R						
-1840	10	18	9	56	0	1006,4	orig=27.11.78Pin|orig.time=12:00AM|orig.date=1840-10-18|atb=19R						
+1840	10	18	9	56	0	1006.4	orig=27.11.78Pin|orig.time=12:00AM|orig.date=1840-10-18|atb=19R						
 1840	10	18	13	56	0	1006	orig=27.11.36Pin|orig.time=4:00PM|orig.date=1840-10-18|atb=14.5R						
-1840	10	18	15	56	0	1006,3	orig=27.11.45Pin|orig.time=6:00PM|orig.date=1840-10-18|atb=14R						
-1840	10	18	18	56	0	1006,6	orig=27.11.54Pin|orig.time=9:00PM|orig.date=1840-10-18|atb=14R						
-1840	10	19	6	56	0	1005,4	orig=27.11.1Pin|orig.time=9:00AM|orig.date=1840-10-19|atb=13.25R						
-1840	10	19	9	56	0	1003,7	orig=27.10.7Pin|orig.time=12:00AM|orig.date=1840-10-19|atb=16R						
-1840	10	19	13	56	0	1002,2	orig=27.10.06Pin|orig.time=4:00PM|orig.date=1840-10-19|atb=14R						
-1840	10	19	15	56	0	1001,4	orig=27.9.78Pin|orig.time=6:00PM|orig.date=1840-10-19|atb=13.5R						
-1840	10	19	18	56	0	999,7	orig=27.9.18Pin|orig.time=9:00PM|orig.date=1840-10-19|atb=13R						
+1840	10	18	15	56	0	1006.3	orig=27.11.45Pin|orig.time=6:00PM|orig.date=1840-10-18|atb=14R						
+1840	10	18	18	56	0	1006.6	orig=27.11.54Pin|orig.time=9:00PM|orig.date=1840-10-18|atb=14R						
+1840	10	19	6	56	0	1005.4	orig=27.11.1Pin|orig.time=9:00AM|orig.date=1840-10-19|atb=13.25R						
+1840	10	19	9	56	0	1003.7	orig=27.10.7Pin|orig.time=12:00AM|orig.date=1840-10-19|atb=16R						
+1840	10	19	13	56	0	1002.2	orig=27.10.06Pin|orig.time=4:00PM|orig.date=1840-10-19|atb=14R						
+1840	10	19	15	56	0	1001.4	orig=27.9.78Pin|orig.time=6:00PM|orig.date=1840-10-19|atb=13.5R						
+1840	10	19	18	56	0	999.7	orig=27.9.18Pin|orig.time=9:00PM|orig.date=1840-10-19|atb=13R						
 1840	10	20	6	56	0	996	orig=27.8.12Pin|orig.time=9:00AM|orig.date=1840-10-20|atb=12.5R						
 1840	10	20	9	56	0	993	orig=27.7.9Pin|orig.time=12:00AM|orig.date=1840-10-20|atb=12.5R						
 1840	10	20	13	56	0	995.3	orig=27.7.89Pin|orig.time=4:00PM|orig.date=1840-10-20|atb=12.9R						
@@ -1856,9 +1856,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	1	5	15	56	0	1004.3	orig=27.11Pin|orig.time=6:00PM|orig.date=1841-01-05|atb=14.33R						
 1841	1	5	18	56	0	1004.6	orig=27.11.09Pin|orig.time=9:00PM|orig.date=1841-01-05|atb=14R						
 1841	1	6	6	56	0	1006.5	orig=27.11.79Pin|orig.time=9:00AM|orig.date=1841-01-06|atb=15R						
-1841	1	6	9	56	0	1007,9	orig=28.0.14Pin|orig.time=12:00AM|orig.date=1841-01-06|atb=16.5R						
-1841	1	6	13	56	0	1008,2	orig=28.0.22Pin|orig.time=4:00PM|orig.date=1841-01-06|atb=16.33R						
-1841	1	6	15	56	0	1009,3	orig=28.0.5Pin|orig.time=6:00PM|orig.date=1841-01-06|atb=15R						
+1841	1	6	9	56	0	1007.9	orig=28.0.14Pin|orig.time=12:00AM|orig.date=1841-01-06|atb=16.5R						
+1841	1	6	13	56	0	1008.2	orig=28.0.22Pin|orig.time=4:00PM|orig.date=1841-01-06|atb=16.33R						
+1841	1	6	15	56	0	1009.3	orig=28.0.5Pin|orig.time=6:00PM|orig.date=1841-01-06|atb=15R						
 1841	1	6	18	56	0	1009.4	orig=28.0.74Pin|orig.time=9:00PM|orig.date=1841-01-06|atb=14.75R						
 1841	1	7	6	56	0	1014.2	orig=28.2.45Pin|orig.time=9:00AM|orig.date=1841-01-07|atb=16R						
 1841	1	7	9	56	0	1014.4	orig=28.2.54Pin|orig.time=12:00AM|orig.date=1841-01-07|atb=16.5R						
@@ -1973,10 +1973,10 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	1	29	6	56	0	999.8	orig=27.9.28Pin|orig.time=9:00AM|orig.date=1841-01-29|atb=11.5R						
 1841	1	29	9	56	0	1000.8	orig=27.9.76Pin|orig.time=12:00AM|orig.date=1841-01-29|atb=13.25R						
 1841	1	29	13	56	0	975	orig=27.10Pin|orig.time=4:00PM|orig.date=1841-01-29|atb=14R						
-1841	1	29	15	56	0	1002,7	orig=27.10.2Pin|orig.time=6:00PM|orig.date=1841-01-29|atb=13.15R						
-1841	1	29	18	56	0	1003,6	orig=27.10.48Pin|orig.time=9:00PM|orig.date=1841-01-29|atb=13R						
-1841	1	30	6	56	0	1006,9	orig=27.11.5Pin|orig.time=9:00AM|orig.date=1841-01-30|atb=12R						
-1841	1	30	9	56	0	1007,9	orig=27.11.9Pin|orig.time=12:00AM|orig.date=1841-01-30|atb=13R						
+1841	1	29	15	56	0	1002.7	orig=27.10.2Pin|orig.time=6:00PM|orig.date=1841-01-29|atb=13.15R						
+1841	1	29	18	56	0	1003.6	orig=27.10.48Pin|orig.time=9:00PM|orig.date=1841-01-29|atb=13R						
+1841	1	30	6	56	0	1006.9	orig=27.11.5Pin|orig.time=9:00AM|orig.date=1841-01-30|atb=12R						
+1841	1	30	9	56	0	1007.9	orig=27.11.9Pin|orig.time=12:00AM|orig.date=1841-01-30|atb=13R						
 1841	1	30	13	56	0	1007.6	orig=28.0Pin|orig.time=4:00PM|orig.date=1841-01-30|atb=13R						
 1841	1	30	15	56	0	1008.4	orig=28.0.26Pin|orig.time=6:00PM|orig.date=1841-01-30|atb=12.75R						
 1841	1	30	18	56	0	1009.2	orig=28.0.57Pin|orig.time=9:00PM|orig.date=1841-01-30|atb=13.5R						
@@ -2375,7 +2375,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	4	19	18	56	0	1004.4	orig=27.10.98Pin|orig.time=9:00PM|orig.date=1841-04-19|atb=13.5R						
 1841	4	20	6	56	0	1001.3	orig=27.9.95Pin|orig.time=9:00AM|orig.date=1841-04-20|atb=13.5R						
 1841	4	20	9	56	0	1000.4	orig=27.9.75Pin|orig.time=12:00AM|orig.date=1841-04-20|atb=15R						
-1841	4	20	13	56	0	998,9	orig=27.9.03Pin|orig.time=4:00PM|orig.date=1841-04-20|atb=14.75R						
+1841	4	20	13	56	0	998.9	orig=27.9.03Pin|orig.time=4:00PM|orig.date=1841-04-20|atb=14.75R						
 1841	4	20	15	56	0	998.2	orig=27.8.97Pin|orig.time=6:00PM|orig.date=1841-04-20|atb=14.33R						
 1841	4	20	18	56	0	998.5	orig=27.9.4Pin|orig.time=9:00PM|orig.date=1841-04-20|atb=14R						
 1841	4	21	6	56	0	1001.8	orig=27.10.11Pin|orig.time=9:00AM|orig.date=1841-04-21|atb=13.25R						
@@ -2491,8 +2491,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	5	13	6	56	0	1008.2	orig=28.0.32Pin|orig.time=9:00AM|orig.date=1841-05-13|atb=14.5R						
 1841	5	13	9	56	0	1007.4	orig=28.0.19Pin|orig.time=12:00AM|orig.date=1841-05-13|atb=16R						
 1841	5	13	13	56	0	1006.8	orig=27.11.95Pin|orig.time=4:00PM|orig.date=1841-05-13|atb=15.5R						
-1841	5	13	15	56	0	1007,9	orig=28.0.05Pin|orig.time=6:00PM|orig.date=1841-05-13|atb=15.25R						
-1841	5	13	18	56	0	1007,8	orig=28.0Pin|orig.time=9:00PM|orig.date=1841-05-13|atb=15R						
+1841	5	13	15	56	0	1007.9	orig=28.0.05Pin|orig.time=6:00PM|orig.date=1841-05-13|atb=15.25R						
+1841	5	13	18	56	0	1007.8	orig=28.0Pin|orig.time=9:00PM|orig.date=1841-05-13|atb=15R						
 1841	5	14	6	56	0	1006.2	orig=27.11.67Pin|orig.time=9:00AM|orig.date=1841-05-14|atb=14.5R						
 1841	5	14	9	56	0	1006	orig=27.11.66Pin|orig.time=12:00AM|orig.date=1841-05-14|atb=15.5R						
 1841	5	14	13	56	0	1005.3	orig=27.11.43Pin|orig.time=4:00PM|orig.date=1841-05-14|atb=15.25R						
@@ -2581,7 +2581,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	5	31	9	56	0	1007.8	orig=28.0.51Pin|orig.time=12:00AM|orig.date=1841-05-31|atb=18.75R						
 1841	6	1	6	56	0	1006.3	orig=28.0.05Pin|orig.time=9:00AM|orig.date=1841-06-01|atb=19R						
 1841	6	1	9	56	0	1006.1	orig=28.0.01Pin|orig.time=12:00AM|orig.date=1841-06-01|atb=19.5R						
-1841	6	1	13	56	0	1006,3	orig=27.11.81Pin|orig.time=4:00PM|orig.date=1841-06-01|atb=20R						
+1841	6	1	13	56	0	1006.3	orig=27.11.81Pin|orig.time=4:00PM|orig.date=1841-06-01|atb=20R						
 1841	6	1	15	56	0	1005.5	orig=27.11.81Pin|orig.time=6:00PM|orig.date=1841-06-01|atb=19.5R						
 1841	6	1	18	56	0	1006.4	orig=28.0.07Pin|orig.time=9:00PM|orig.date=1841-06-01|atb=19.15R						
 1841	6	2	6	56	0	1006.4	orig=28.0.6Pin|orig.time=9:00AM|orig.date=1841-06-02|atb=19R						
@@ -2629,36 +2629,36 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	6	10	13	56	0	992.8	orig=27.7.55Pin|orig.time=4:00PM|orig.date=1841-06-10|atb=19.5R						
 1841	6	10	15	56	0	993	orig=27.7.57Pin|orig.time=6:00PM|orig.date=1841-06-10|atb=18.75R						
 1841	6	10	18	56	0	991.3	orig=27.6.91Pin|orig.time=9:00PM|orig.date=1841-06-10|atb=17.5R						
-1841	6	11	6	56	0	1005,4	orig=27.11.33Pin|orig.time=9:00AM|orig.date=1841-06-11|atb=17R						
-1841	6	11	9	56	0	996,4	orig=27.8.41Pin|orig.time=12:00AM|orig.date=1841-06-11|atb=18.5R						
-1841	6	11	13	56	0	996,4	orig=27.8.42Pin|orig.time=4:00PM|orig.date=1841-06-11|atb=18.75R						
-1841	6	11	15	56	0	996,8	orig=27.8.56Pin|orig.time=6:00PM|orig.date=1841-06-11|atb=18.5R						
-1841	6	11	18	56	0	997,2	orig=27.8.63Pin|orig.time=9:00PM|orig.date=1841-06-11|atb=17.5R						
-1841	6	12	6	56	0	997,5	orig=27.8.72Pin|orig.time=9:00AM|orig.date=1841-06-12|atb=17.33R						
-1841	6	12	9	56	0	997,5	orig=27.8.79Pin|orig.time=12:00AM|orig.date=1841-06-12|atb=18.75R						
-1841	6	12	13	56	0	997,1	orig=27.8.67Pin|orig.time=4:00PM|orig.date=1841-06-12|atb=18.75R						
-1841	6	12	15	56	0	997,3	orig=27.8.69Pin|orig.time=6:00PM|orig.date=1841-06-12|atb=18.25R						
-1841	6	12	18	56	0	997,6	orig=27.8.75Pin|orig.time=9:00PM|orig.date=1841-06-12|atb=17.75R						
+1841	6	11	6	56	0	1005.4	orig=27.11.33Pin|orig.time=9:00AM|orig.date=1841-06-11|atb=17R						
+1841	6	11	9	56	0	996.4	orig=27.8.41Pin|orig.time=12:00AM|orig.date=1841-06-11|atb=18.5R						
+1841	6	11	13	56	0	996.4	orig=27.8.42Pin|orig.time=4:00PM|orig.date=1841-06-11|atb=18.75R						
+1841	6	11	15	56	0	996.8	orig=27.8.56Pin|orig.time=6:00PM|orig.date=1841-06-11|atb=18.5R						
+1841	6	11	18	56	0	997.2	orig=27.8.63Pin|orig.time=9:00PM|orig.date=1841-06-11|atb=17.5R						
+1841	6	12	6	56	0	997.5	orig=27.8.72Pin|orig.time=9:00AM|orig.date=1841-06-12|atb=17.33R						
+1841	6	12	9	56	0	997.5	orig=27.8.79Pin|orig.time=12:00AM|orig.date=1841-06-12|atb=18.75R						
+1841	6	12	13	56	0	997.1	orig=27.8.67Pin|orig.time=4:00PM|orig.date=1841-06-12|atb=18.75R						
+1841	6	12	15	56	0	997.3	orig=27.8.69Pin|orig.time=6:00PM|orig.date=1841-06-12|atb=18.25R						
+1841	6	12	18	56	0	997.6	orig=27.8.75Pin|orig.time=9:00PM|orig.date=1841-06-12|atb=17.75R						
 1841	6	13	6	56	0	998	orig=27.8.89Pin|orig.time=9:00AM|orig.date=1841-06-13|atb=17.5R						
-1841	6	13	9	56	0	998,2	orig=27.9Pin|orig.time=12:00AM|orig.date=1841-06-13|atb=18.5R						
-1841	6	13	13	56	0	998,2	orig=27.9.01Pin|orig.time=4:00PM|orig.date=1841-06-13|atb=18.25R						
-1841	6	13	15	56	0	998,9	orig=27.9.22Pin|orig.time=6:00PM|orig.date=1841-06-13|atb=18.33R						
-1841	6	13	18	56	0	999,8	orig=27.9.51Pin|orig.time=9:00PM|orig.date=1841-06-13|atb=17.66R						
-1841	6	14	6	56	0	1001,6	orig=27.10.08Pin|orig.time=9:00AM|orig.date=1841-06-14|atb=17.5R						
+1841	6	13	9	56	0	998.2	orig=27.9Pin|orig.time=12:00AM|orig.date=1841-06-13|atb=18.5R						
+1841	6	13	13	56	0	998.2	orig=27.9.01Pin|orig.time=4:00PM|orig.date=1841-06-13|atb=18.25R						
+1841	6	13	15	56	0	998.9	orig=27.9.22Pin|orig.time=6:00PM|orig.date=1841-06-13|atb=18.33R						
+1841	6	13	18	56	0	999.8	orig=27.9.51Pin|orig.time=9:00PM|orig.date=1841-06-13|atb=17.66R						
+1841	6	14	6	56	0	1001.6	orig=27.10.08Pin|orig.time=9:00AM|orig.date=1841-06-14|atb=17.5R						
 1841	6	14	9	56	0	1002	orig=27.10.26Pin|orig.time=12:00AM|orig.date=1841-06-14|atb=18.33R						
 1841	6	14	13	56	0	1001	orig=27.9.98Pin|orig.time=4:00PM|orig.date=1841-06-14|atb=19R						
-1841	6	14	15	56	0	1001,3	orig=27.10.05Pin|orig.time=6:00PM|orig.date=1841-06-14|atb=18.5R						
-1841	6	14	18	56	0	1002,8	orig=27.10.53Pin|orig.time=9:00PM|orig.date=1841-06-14|atb=18R						
-1841	6	15	6	56	0	1003,4	orig=27.10.7Pin|orig.time=9:00AM|orig.date=1841-06-15|atb=18R						
+1841	6	14	15	56	0	1001.3	orig=27.10.05Pin|orig.time=6:00PM|orig.date=1841-06-14|atb=18.5R						
+1841	6	14	18	56	0	1002.8	orig=27.10.53Pin|orig.time=9:00PM|orig.date=1841-06-14|atb=18R						
+1841	6	15	6	56	0	1003.4	orig=27.10.7Pin|orig.time=9:00AM|orig.date=1841-06-15|atb=18R						
 1841	6	15	9	56	0	1003	orig=27.10.63Pin|orig.time=12:00AM|orig.date=1841-06-15|atb=18.75R						
-1841	6	15	13	56	0	1002,2	orig=27.10.38Pin|orig.time=4:00PM|orig.date=1841-06-15|atb=19R						
-1841	6	15	15	56	0	1002,5	orig=27.10.5Pin|orig.time=6:00PM|orig.date=1841-06-15|atb=19.6R						
-1841	6	15	18	56	0	1002,9	orig=27.10.56Pin|orig.time=9:00PM|orig.date=1841-06-15|atb=18.33R						
-1841	6	16	6	56	0	1003,2	orig=27.10.65Pin|orig.time=9:00AM|orig.date=1841-06-16|atb=18R						
+1841	6	15	13	56	0	1002.2	orig=27.10.38Pin|orig.time=4:00PM|orig.date=1841-06-15|atb=19R						
+1841	6	15	15	56	0	1002.5	orig=27.10.5Pin|orig.time=6:00PM|orig.date=1841-06-15|atb=19.6R						
+1841	6	15	18	56	0	1002.9	orig=27.10.56Pin|orig.time=9:00PM|orig.date=1841-06-15|atb=18.33R						
+1841	6	16	6	56	0	1003.2	orig=27.10.65Pin|orig.time=9:00AM|orig.date=1841-06-16|atb=18R						
 1841	6	16	9	56	0	1003	orig=27.10.64Pin|orig.time=12:00AM|orig.date=1841-06-16|atb=19R						
-1841	6	16	13	56	0	1002,5	orig=27.10.47Pin|orig.time=4:00PM|orig.date=1841-06-16|atb=19R						
-1841	6	16	15	56	0	1005,8	orig=27.11.57Pin|orig.time=6:00PM|orig.date=1841-06-16|atb=18.75R						
-1841	6	16	18	56	0	1003,5	orig=27.10.79Pin|orig.time=9:00PM|orig.date=1841-06-16|atb=18.5R						
+1841	6	16	13	56	0	1002.5	orig=27.10.47Pin|orig.time=4:00PM|orig.date=1841-06-16|atb=19R						
+1841	6	16	15	56	0	1005.8	orig=27.11.57Pin|orig.time=6:00PM|orig.date=1841-06-16|atb=18.75R						
+1841	6	16	18	56	0	1003.5	orig=27.10.79Pin|orig.time=9:00PM|orig.date=1841-06-16|atb=18.5R						
 1841	6	17	6	56	0	1002.6	orig=27.10.71Pin|orig.time=9:00AM|orig.date=1841-06-17|atb=18R					1002.4	orig=27.10.65Pin|orig.time=9:00AM|orig.date=1841-06-17|atb=18R
 1841	6	17	9	56	0	1001.8	orig=27.10.52Pin|orig.time=12:00AM|orig.date=1841-06-17|atb=19R					1002.1	orig=27.10.64Pin|orig.time=12:00AM|orig.date=1841-06-17|atb=18.9R
 1841	6	17	13	56	0	1000.2	orig=27.10.4Pin|orig.time=4:00PM|orig.date=1841-06-17|atb=19.33R					1001.6	orig=27.10.47Pin|orig.time=4:00PM|orig.date=1841-06-17|atb=19R
@@ -2669,12 +2669,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	6	18	13	56	0	1000.4	orig=27.10.3Pin|orig.time=4:00PM|orig.date=1841-06-18|atb=18.5R					1000.2	orig=27.10.4Pin|orig.time=4:00PM|orig.date=1841-06-18|atb=19.33R
 1841	6	18	15	56	0	1001.5	orig=27.10.39Pin|orig.time=6:00PM|orig.date=1841-06-18|atb=18.33R					1000.5	orig=27.10.09Pin|orig.time=6:00PM|orig.date=1841-06-18|atb=19R
 1841	6	18	18	56	0	1002.6	orig=27.10.59Pin|orig.time=9:00PM|orig.date=1841-06-18|atb=16.1R					1001.2	orig=27.10.25Pin|orig.time=9:00PM|orig.date=1841-06-18|atb=18R
-1841	6	19	6	56	0	1005,5	orig=27.11.37Pin|orig.time=9:00AM|orig.date=1841-06-19|atb=17R					1000.9	orig=27.10.09Pin|orig.time=9:00AM|orig.date=1841-06-19|atb=17R
-1841	6	19	9	56	0	1004,9	orig=27.11.22Pin|orig.time=12:00AM|orig.date=1841-06-19|atb=17.9R					1001.1	orig=27.10.22Pin|orig.time=12:00AM|orig.date=1841-06-19|atb=18R
-1841	6	19	13	56	0	1002,3	orig=27.11.37Pin|orig.time=4:00PM|orig.date=1841-06-19|atb=18.56R					1000.4	orig=27.10.3Pin|orig.time=4:00PM|orig.date=1841-06-19|atb=18.5R
-1841	6	19	15	56	0	1005,6	orig=27.11.47Pin|orig.time=6:00PM|orig.date=1841-06-19|atb=18R					1001.5	orig=27.10.39Pin|orig.time=6:00PM|orig.date=1841-06-19|atb=18.33R
+1841	6	19	6	56	0	1005.5	orig=27.11.37Pin|orig.time=9:00AM|orig.date=1841-06-19|atb=17R					1000.9	orig=27.10.09Pin|orig.time=9:00AM|orig.date=1841-06-19|atb=17R
+1841	6	19	9	56	0	1004.9	orig=27.11.22Pin|orig.time=12:00AM|orig.date=1841-06-19|atb=17.9R					1001.1	orig=27.10.22Pin|orig.time=12:00AM|orig.date=1841-06-19|atb=18R
+1841	6	19	13	56	0	1002.3	orig=27.11.37Pin|orig.time=4:00PM|orig.date=1841-06-19|atb=18.56R					1000.4	orig=27.10.3Pin|orig.time=4:00PM|orig.date=1841-06-19|atb=18.5R
+1841	6	19	15	56	0	1005.6	orig=27.11.47Pin|orig.time=6:00PM|orig.date=1841-06-19|atb=18R					1001.5	orig=27.10.39Pin|orig.time=6:00PM|orig.date=1841-06-19|atb=18.33R
 1841	6	19	18	56	0	1007	orig=27.11.8Pin|orig.time=9:00PM|orig.date=1841-06-19|atb=18R					1002.6	orig=27.10.59Pin|orig.time=9:00PM|orig.date=1841-06-19|atb=16.1R
-1841	6	20	6	56	0	1007,5	orig=28.0.03Pin|orig.time=9:00AM|orig.date=1841-06-20|atb=17.9R					1040.7	orig=28.11.37Pin|orig.time=9:00AM|orig.date=1841-06-20|atb=17R
+1841	6	20	6	56	0	1007.5	orig=28.0.03Pin|orig.time=9:00AM|orig.date=1841-06-20|atb=17.9R					1040.7	orig=28.11.37Pin|orig.time=9:00AM|orig.date=1841-06-20|atb=17R
 1841	6	20	9	56	0	1006	orig=27.11.89Pin|orig.time=12:00AM|orig.date=1841-06-20|atb=18.5R					1040.1	orig=28.11.22Pin|orig.time=12:00AM|orig.date=1841-06-20|atb=17.9R
 1841	6	20	13	56	0	1004.9	orig=27.11.62Pin|orig.time=4:00PM|orig.date=1841-06-20|atb=19.5R					1040.3	orig=28.11.37Pin|orig.time=4:00PM|orig.date=1841-06-20|atb=18.56R
 1841	6	20	15	56	0	1003.2	orig=27.11.7Pin|orig.time=6:00PM|orig.date=1841-06-20|atb=19.75R					1040.8	orig=28.11.47Pin|orig.time=6:00PM|orig.date=1841-06-20|atb=18R
@@ -2687,12 +2687,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	6	22	6	56	0	1007.4	orig=28.0.46Pin|orig.time=9:00AM|orig.date=1841-06-22|atb=19.75R					1005.4	orig=27.11.71Pin|orig.time=9:00AM|orig.date=1841-06-22|atb=18.5R
 1841	6	22	9	56	0	1007.6	orig=28.0.58Pin|orig.time=12:00AM|orig.date=1841-06-22|atb=20.5R					1005	orig=27.11.62Pin|orig.time=12:00AM|orig.date=1841-06-22|atb=19.25R
 1841	6	22	13	56	0	1006.2	orig=28.0.16Pin|orig.time=4:00PM|orig.date=1841-06-22|atb=21R					1004.9	orig=27.11.62Pin|orig.time=4:00PM|orig.date=1841-06-22|atb=19.75R
-1841	6	22	15	56	0	1007,3	orig=28.0.15Pin|orig.time=9:00PM|orig.date=1841-06-22|atb=20R					1005	orig=27.11.67Pin|orig.time=6:00PM|orig.date=1841-06-22|atb=19.75R
+1841	6	22	15	56	0	1007.3	orig=28.0.15Pin|orig.time=9:00PM|orig.date=1841-06-22|atb=20R					1005	orig=27.11.67Pin|orig.time=6:00PM|orig.date=1841-06-22|atb=19.75R
 1841	6	22	18	56	0	1007.1	orig=28.0.37Pin|orig.time=9:00PM|orig.date=1841-06-22|atb=20R					1006.2	orig=28.0.03Pin|orig.time=9:00PM|orig.date=1841-06-22|atb=19.5R
 1841	6	23	6	56	0	1006	orig=28.0.04Pin|orig.time=9:00AM|orig.date=1841-06-23|atb=20.33R					1007.4	orig=28.0.46Pin|orig.time=9:00AM|orig.date=1841-06-23|atb=19.75R
-1841	6	23	9	56	0	1005,7	orig=27.11.65Pin|orig.time=12:00AM|orig.date=1841-06-23|atb=20.75R					1007.6	orig=28.0.58Pin|orig.time=12:00AM|orig.date=1841-06-23|atb=20.5R
-1841	6	23	13	56	0	1002,9	orig=27.10.74Pin|orig.time=4:00PM|orig.date=1841-06-23|atb=20.75R					1006.2	orig=28.0.16Pin|orig.time=4:00PM|orig.date=1841-06-23|atb=21R
-1841	6	23	18	56	0	1004,3	orig=27.11.13Pin|orig.time=9:00PM|orig.date=1841-06-23|atb=19.75R					1007.1	orig=28.0.37Pin|orig.time=9:00PM|orig.date=1841-06-23|atb=20R
+1841	6	23	9	56	0	1005.7	orig=27.11.65Pin|orig.time=12:00AM|orig.date=1841-06-23|atb=20.75R					1007.6	orig=28.0.58Pin|orig.time=12:00AM|orig.date=1841-06-23|atb=20.5R
+1841	6	23	13	56	0	1002.9	orig=27.10.74Pin|orig.time=4:00PM|orig.date=1841-06-23|atb=20.75R					1006.2	orig=28.0.16Pin|orig.time=4:00PM|orig.date=1841-06-23|atb=21R
+1841	6	23	18	56	0	1004.3	orig=27.11.13Pin|orig.time=9:00PM|orig.date=1841-06-23|atb=19.75R					1007.1	orig=28.0.37Pin|orig.time=9:00PM|orig.date=1841-06-23|atb=20R
 1841	6	24	6	56	0	1005.2	orig=27.11.75Pin|orig.time=9:00AM|orig.date=1841-06-24|atb=20R					1006	orig=28.0.04Pin|orig.time=9:00AM|orig.date=1841-06-24|atb=20.33R
 1841	6	24	9	56	0	1001.3	orig=27.10.53Pin|orig.time=12:00AM|orig.date=1841-06-24|atb=21R					1040.7	orig=28.11.65Pin|orig.time=12:00AM|orig.date=1841-06-24|atb=20.75R
 1841	6	24	13	56	0	1000.8	orig=27.10.36Pin|orig.time=4:00PM|orig.date=1841-06-24|atb=21.25R					1037.9	orig=28.10.74Pin|orig.time=4:00PM|orig.date=1841-06-24|atb=20.75R
@@ -2722,11 +2722,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	6	29	13	56	0	1010.1	orig=28.1.62Pin|orig.time=4:00PM|orig.date=1841-06-29|atb=23R					1009.6	orig=28.1.38Pin|orig.time=4:00PM|orig.date=1841-06-29|atb=22.33R
 1841	6	29	15	56	0	1010.3	orig=28.1.67Pin|orig.time=6:00PM|orig.date=1841-06-29|atb=23R					1008.5	orig=28.1.4Pin|orig.time=6:00PM|orig.date=1841-06-29|atb=22.5R
 1841	6	29	18	56	0	1010	orig=28.1.55Pin|orig.time=9:00PM|orig.date=1841-06-29|atb=22.6R					1010.3	orig=28.1.54Pin|orig.time=9:00PM|orig.date=1841-06-29|atb=21R
-1841	6	30	6	56	0	1011,3	orig=28.1.54Pin|orig.time=9:00AM|orig.date=1841-06-30|atb=21.1R						
-1841	6	30	9	56	0	1011,5	orig=28.1.67Pin|orig.time=12:00AM|orig.date=1841-06-30|atb=22.33R						
-1841	6	30	13	56	0	1009,9	orig=28.1.19Pin|orig.time=4:00PM|orig.date=1841-06-30|atb=23R						
-1841	6	30	15	56	0	1009,9	orig=28.1.18Pin|orig.time=6:00PM|orig.date=1841-06-30|atb=23R						
-1841	6	30	18	56	0	1010,3	orig=28.1.29Pin|orig.time=9:00PM|orig.date=1841-06-30|atb=22.6R						
+1841	6	30	6	56	0	1011.3	orig=28.1.54Pin|orig.time=9:00AM|orig.date=1841-06-30|atb=21.1R						
+1841	6	30	9	56	0	1011.5	orig=28.1.67Pin|orig.time=12:00AM|orig.date=1841-06-30|atb=22.33R						
+1841	6	30	13	56	0	1009.9	orig=28.1.19Pin|orig.time=4:00PM|orig.date=1841-06-30|atb=23R						
+1841	6	30	15	56	0	1009.9	orig=28.1.18Pin|orig.time=6:00PM|orig.date=1841-06-30|atb=23R						
+1841	6	30	18	56	0	1010.3	orig=28.1.29Pin|orig.time=9:00PM|orig.date=1841-06-30|atb=22.6R						
 1841	7	1	6	56	0	1009.5	orig=28.1.34Pin|orig.time=9:00AM|orig.date=1841-07-01|atb=22.15R						
 1841	7	1	9	56	0	1009.4	orig=28.1.39Pin|orig.time=12:00AM|orig.date=1841-07-01|atb=23.25R						
 1841	7	1	13	56	0	1007.9	orig=28.0.92Pin|orig.time=4:00PM|orig.date=1841-07-01|atb=23.5R						
@@ -2900,11 +2900,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	8	4	13	56	0	1005.8	orig=27.11.86Pin|orig.time=4:00PM|orig.date=1841-08-04|atb=19R						
 1841	8	4	15	56	0	1005.8	orig=27.11.89Pin|orig.time=6:00PM|orig.date=1841-08-04|atb=19.15R						
 1841	8	4	18	56	0	1003.8	orig=27.11.8Pin|orig.time=9:00PM|orig.date=1841-08-04|atb=17.5R						
-1841	8	5	6	56	0	1005,7	orig=27.11.56Pin|orig.time=9:00AM|orig.date=1841-08-05|atb=19R						
-1841	8	5	9	56	0	1005,8	orig=27.11.65Pin|orig.time=12:00AM|orig.date=1841-08-05|atb=20R						
-1841	8	5	13	56	0	1004,3	orig=27.11.14Pin|orig.time=4:00PM|orig.date=1841-08-05|atb=20R						
-1841	8	5	15	56	0	1004,1	orig=27.11.06Pin|orig.time=6:00PM|orig.date=1841-08-05|atb=20R						
-1841	8	5	18	56	0	1004,4	orig=27.11.14Pin|orig.time=9:00PM|orig.date=1841-08-05|atb=19.33R						
+1841	8	5	6	56	0	1005.7	orig=27.11.56Pin|orig.time=9:00AM|orig.date=1841-08-05|atb=19R						
+1841	8	5	9	56	0	1005.8	orig=27.11.65Pin|orig.time=12:00AM|orig.date=1841-08-05|atb=20R						
+1841	8	5	13	56	0	1004.3	orig=27.11.14Pin|orig.time=4:00PM|orig.date=1841-08-05|atb=20R						
+1841	8	5	15	56	0	1004.1	orig=27.11.06Pin|orig.time=6:00PM|orig.date=1841-08-05|atb=20R						
+1841	8	5	18	56	0	1004.4	orig=27.11.14Pin|orig.time=9:00PM|orig.date=1841-08-05|atb=19.33R						
 1841	8	6	6	56	0	1006	orig=28.0.1Pin|orig.time=9:00AM|orig.date=1841-08-06|atb=19.75R						
 1841	8	6	9	56	0	1006.6	orig=28.0.26Pin|orig.time=12:00AM|orig.date=1841-08-06|atb=20.75R						
 1841	8	6	13	56	0	1006.6	orig=28.0.32Pin|orig.time=4:00PM|orig.date=1841-08-06|atb=21.33R						
@@ -3046,11 +3046,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	3	13	56	0	1001	orig=27.10.53Pin|orig.time=4:00PM|orig.date=1841-09-03|atb=22.25R						
 1841	9	3	15	56	0	1001.2	orig=27.10.56Pin|orig.time=6:00PM|orig.date=1841-09-03|atb=22R						
 1841	9	3	18	56	0	1001.5	orig=27.10.63Pin|orig.time=9:00PM|orig.date=1841-09-03|atb=21.5R						
-1841	9	4	6	56	0	1003,5	orig=27.10.86Pin|orig.time=9:00AM|orig.date=1841-09-04|atb=19.75R						
-1841	9	4	9	56	0	1003,5	orig=27.10.95Pin|orig.time=12:00AM|orig.date=1841-09-04|atb=21.25R						
-1841	9	4	13	56	0	1003,5	orig=27.11Pin|orig.time=4:00PM|orig.date=1841-09-04|atb=22R						
-1841	9	4	15	56	0	1003,7	orig=27.10.05Pin|orig.time=6:00PM|orig.date=1841-09-04|atb=22R						
-1841	9	4	18	56	0	1004,4	orig=27.11.25Pin|orig.time=9:00PM|orig.date=1841-09-04|atb=21R						
+1841	9	4	6	56	0	1003.5	orig=27.10.86Pin|orig.time=9:00AM|orig.date=1841-09-04|atb=19.75R						
+1841	9	4	9	56	0	1003.5	orig=27.10.95Pin|orig.time=12:00AM|orig.date=1841-09-04|atb=21.25R						
+1841	9	4	13	56	0	1003.5	orig=27.11Pin|orig.time=4:00PM|orig.date=1841-09-04|atb=22R						
+1841	9	4	15	56	0	1003.7	orig=27.10.05Pin|orig.time=6:00PM|orig.date=1841-09-04|atb=22R						
+1841	9	4	18	56	0	1004.4	orig=27.11.25Pin|orig.time=9:00PM|orig.date=1841-09-04|atb=21R						
 1841	9	5	6	56	0	1001.2	orig=27.10.39Pin|orig.time=9:00AM|orig.date=1841-09-05|atb=19.66R						
 1841	9	5	9	56	0	1004.9	orig=27.11.76Pin|orig.time=12:00AM|orig.date=1841-09-05|atb=21.5R						
 1841	9	5	13	56	0	1004.5	orig=27.11.68Pin|orig.time=4:00PM|orig.date=1841-09-05|atb=22.25R						
@@ -3106,11 +3106,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	15	13	56	0	1007.3	orig=28.0.41Pin|orig.time=4:00PM|orig.date=1841-09-15|atb=19.5R						
 1841	9	15	15	56	0	1006.3	orig=28.0.06Pin|orig.time=6:00PM|orig.date=1841-09-15|atb=19.15R						
 1841	9	15	18	56	0	1006.5	orig=28.0.08Pin|orig.time=9:00PM|orig.date=1841-09-15|atb=18.66R						
-1841	9	16	6	56	0	1004,2	orig=27.10.97Pin|orig.time=9:00AM|orig.date=1841-09-16|atb=17.75R						
-1841	9	16	9	56	0	1004,3	orig=27.11.04Pin|orig.time=12:00AM|orig.date=1841-09-16|atb=18.5R						
-1841	9	16	13	56	0	1003,8	orig=27.10.9Pin|orig.time=4:00PM|orig.date=1841-09-16|atb=19R						
+1841	9	16	6	56	0	1004.2	orig=27.10.97Pin|orig.time=9:00AM|orig.date=1841-09-16|atb=17.75R						
+1841	9	16	9	56	0	1004.3	orig=27.11.04Pin|orig.time=12:00AM|orig.date=1841-09-16|atb=18.5R						
+1841	9	16	13	56	0	1003.8	orig=27.10.9Pin|orig.time=4:00PM|orig.date=1841-09-16|atb=19R						
 1841	9	16	15	56	0	1004	orig=27.10.97Pin|orig.time=6:00PM|orig.date=1841-09-16|atb=18.75R						
-1841	9	16	18	56	0	1003,6	orig=27.10.8Pin|orig.time=9:00PM|orig.date=1841-09-16|atb=18.25R						
+1841	9	16	18	56	0	1003.6	orig=27.10.8Pin|orig.time=9:00PM|orig.date=1841-09-16|atb=18.25R						
 1841	9	17	6	56	0	1001.8	orig=27.10.43Pin|orig.time=9:00AM|orig.date=1841-09-17|atb=17.5R						
 1841	9	17	9	56	0	1000.9	orig=27.10.25Pin|orig.time=12:00AM|orig.date=1841-09-17|atb=19R						
 1841	9	17	13	56	0	1000.6	orig=27.10.14Pin|orig.time=4:00PM|orig.date=1841-09-17|atb=19.25R						
@@ -3146,11 +3146,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	9	23	13	56	0	1012.6	orig=28.1.94Pin|orig.time=4:00PM|orig.date=1841-09-23|atb=16.25R						
 1841	9	23	15	56	0	1012.1	orig=28.1.73Pin|orig.time=6:00PM|orig.date=1841-09-23|atb=16R						
 1841	9	23	18	56	0	1011.1	orig=28.1.34Pin|orig.time=9:00PM|orig.date=1841-09-23|atb=15R						
-1841	9	24	6	56	0	1007,2	orig=27.11.79Pin|orig.time=9:00AM|orig.date=1841-09-24|atb=15R						
-1841	9	24	9	56	0	1006,6	orig=27.11.7Pin|orig.time=12:00AM|orig.date=1841-09-24|atb=16.75R						
-1841	9	24	13	56	0	1006,2	orig=27.11.61Pin|orig.time=4:00PM|orig.date=1841-09-24|atb=17.25R						
-1841	9	24	15	56	0	1006,5	orig=27.11.65Pin|orig.time=6:00PM|orig.date=1841-09-24|atb=16.5R						
-1841	9	24	18	56	0	1007,2	orig=27.11.87Pin|orig.time=9:00PM|orig.date=1841-09-24|atb=16R						
+1841	9	24	6	56	0	1007.2	orig=27.11.79Pin|orig.time=9:00AM|orig.date=1841-09-24|atb=15R						
+1841	9	24	9	56	0	1006.6	orig=27.11.7Pin|orig.time=12:00AM|orig.date=1841-09-24|atb=16.75R						
+1841	9	24	13	56	0	1006.2	orig=27.11.61Pin|orig.time=4:00PM|orig.date=1841-09-24|atb=17.25R						
+1841	9	24	15	56	0	1006.5	orig=27.11.65Pin|orig.time=6:00PM|orig.date=1841-09-24|atb=16.5R						
+1841	9	24	18	56	0	1007.2	orig=27.11.87Pin|orig.time=9:00PM|orig.date=1841-09-24|atb=16R						
 1841	9	25	6	56	0	1009.5	orig=28.0.88Pin|orig.time=9:00AM|orig.date=1841-09-25|atb=16R						
 1841	9	25	9	56	0	1007.4	orig=28.0.29Pin|orig.time=12:00AM|orig.date=1841-09-25|atb=17.5R						
 1841	9	25	13	56	0	1007.9	orig=28.0.48Pin|orig.time=4:00PM|orig.date=1841-09-25|atb=17.75R						
@@ -3390,7 +3390,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	11	11	13	56	0	1006.4	orig=27.11.75Pin|orig.time=4:00PM|orig.date=1841-11-11|atb=15R						
 1841	11	11	15	56	0	1007.6	orig=28.0.03Pin|orig.time=6:00PM|orig.date=1841-11-11|atb=13.2R						
 1841	11	11	18	56	0	1007.4	orig=28.0.3Pin|orig.time=9:00PM|orig.date=1841-11-11|atb=14R						
-1841	11	12	6	56	0	1007,4	orig=27.11.82Pin|orig.time=9:00AM|orig.date=1841-11-12|atb=14R						
+1841	11	12	6	56	0	1007.4	orig=27.11.82Pin|orig.time=9:00AM|orig.date=1841-11-12|atb=14R						
 1841	11	12	9	56	0	1005	orig=27.11.34Pin|orig.time=12:00AM|orig.date=1841-11-12|atb=15.5R						
 1841	11	12	13	56	0	1003.5	orig=27.10.83Pin|orig.time=4:00PM|orig.date=1841-11-12|atb=15.5R						
 1841	11	12	15	56	0	1004.7	orig=27.11.21Pin|orig.time=6:00PM|orig.date=1841-11-12|atb=15R						
@@ -3529,11 +3529,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	12	10	13	56	0	1004	orig=27.10.94Pin|orig.time=4:00PM|orig.date=1841-12-10|atb=14.5R						
 1841	12	10	15	56	0	1003.7	orig=27.10.86Pin|orig.time=6:00PM|orig.date=1841-12-10|atb=15R						
 1841	12	10	18	56	0	1003.4	orig=27.10.76Pin|orig.time=9:00PM|orig.date=1841-12-10|atb=15R						
-1841	12	11	6	56	0	998,8	orig=27.8.94Pin|orig.time=9:00AM|orig.date=1841-12-11|atb=14R						
-1841	12	11	9	56	0	998,7	orig=27.8.97Pin|orig.time=12:00AM|orig.date=1841-12-11|atb=15R						
-1841	12	11	13	56	0	999,2	orig=27.9.12Pin|orig.time=4:00PM|orig.date=1841-12-11|atb=15R						
+1841	12	11	6	56	0	998.8	orig=27.8.94Pin|orig.time=9:00AM|orig.date=1841-12-11|atb=14R						
+1841	12	11	9	56	0	998.7	orig=27.8.97Pin|orig.time=12:00AM|orig.date=1841-12-11|atb=15R						
+1841	12	11	13	56	0	999.2	orig=27.9.12Pin|orig.time=4:00PM|orig.date=1841-12-11|atb=15R						
 1841	12	11	15	56	0	999	orig=27.9.06Pin|orig.time=6:00PM|orig.date=1841-12-11|atb=15R						
-1841	12	11	18	56	0	998,7	orig=27.8.96Pin|orig.time=9:00PM|orig.date=1841-12-11|atb=15R						
+1841	12	11	18	56	0	998.7	orig=27.8.96Pin|orig.time=9:00PM|orig.date=1841-12-11|atb=15R						
 1841	12	12	6	56	0	998.6	orig=27.9.15Pin|orig.time=9:00AM|orig.date=1841-12-12|atb=14.8R						
 1841	12	12	9	56	0	999.6	orig=27.9.54Pin|orig.time=12:00AM|orig.date=1841-12-12|atb=15.5R						
 1841	12	12	13	56	0	1001	orig=27.10Pin|orig.time=4:00PM|orig.date=1841-12-12|atb=15.5R						
@@ -3730,7 +3730,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	2	1	12	56	0	1010.7	orig=28.1.29Pin|orig.time=3:00PM|orig.date=1842-02-01|atb=16R						
 1842	2	1	18	56	0	1008.4	orig=28.0.44Pin|orig.time=9:00PM|orig.date=1842-02-01|atb=15R						
 1842	2	2	6	56	0	1006.6	orig=27.11.76Pin|orig.time=9:00AM|orig.date=1842-02-02|atb=14R						
-1842	2	2	12	56	0	1005,6	orig=27.11.26Pin|orig.time=3:00PM|orig.date=1842-02-02|atb=15R						
+1842	2	2	12	56	0	1005.6	orig=27.11.26Pin|orig.time=3:00PM|orig.date=1842-02-02|atb=15R						
 1842	2	2	18	56	0	1007.6	orig=28.0.14Pin|orig.time=9:00PM|orig.date=1842-02-02|atb=14.5R						
 1842	2	3	6	56	0	1013.5	orig=28.2.11Pin|orig.time=9:00AM|orig.date=1842-02-03|atb=14.5R						
 1842	2	3	12	56	0	1016	orig=28.3.06Pin|orig.time=3:00PM|orig.date=1842-02-03|atb=16R						
@@ -4021,7 +4021,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	5	10	18	56	0	1010	orig=28.1.04Pin|orig.time=9:00PM|orig.date=1842-05-10|atb=16R						
 1842	5	11	6	56	0	1007.5	orig=28.0.18Pin|orig.time=9:00AM|orig.date=1842-05-11|atb=15.75R						
 1842	5	11	12	56	0	1005.4	orig=27.11.58Pin|orig.time=3:00PM|orig.date=1842-05-11|atb=17R						
-1842	5	11	18	56	0	1005,5	orig=27.11.34Pin|orig.time=9:00PM|orig.date=1842-05-11|atb=16.5R						
+1842	5	11	18	56	0	1005.5	orig=27.11.34Pin|orig.time=9:00PM|orig.date=1842-05-11|atb=16.5R						
 1842	5	12	6	56	0	1003.4	orig=27.10.88Pin|orig.time=9:00AM|orig.date=1842-05-12|atb=16.5R						
 1842	5	12	12	56	0	1004	orig=27.11.12Pin|orig.time=3:00PM|orig.date=1842-05-12|atb=17R						
 1842	5	12	18	56	0	1005.1	orig=27.11.46Pin|orig.time=9:00PM|orig.date=1842-05-12|atb=16.75R						
@@ -4118,7 +4118,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	6	12	12	56	0	1014	orig=28.2.52Pin|orig.time=3:00PM|orig.date=1842-06-12|atb=18R						
 1842	6	12	18	56	0	1012.9	orig=28.2.16Pin|orig.time=9:00PM|orig.date=1842-06-12|atb=17.75R						
 1842	6	13	6	56	0	1009.4	orig=28.0.96Pin|orig.time=9:00AM|orig.date=1842-06-13|atb=17.5R						
-1842	6	13	12	56	0	1006,4	orig=27.11.74Pin|orig.time=3:00PM|orig.date=1842-06-13|atb=18.5R						
+1842	6	13	12	56	0	1006.4	orig=27.11.74Pin|orig.time=3:00PM|orig.date=1842-06-13|atb=18.5R						
 1842	6	13	18	56	0	1009.7	orig=28.1.11Pin|orig.time=9:00PM|orig.date=1842-06-13|atb=18.25R						
 1842	6	14	6	56	0	1002.3	orig=27.10.63Pin|orig.time=9:00AM|orig.date=1842-06-14|atb=18.25R						
 1842	6	14	12	56	0	1004.5	orig=27.11.41Pin|orig.time=3:00PM|orig.date=1842-06-14|atb=18.75R						
@@ -4175,8 +4175,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	7	1	12	56	0	1008.5	orig=28.0.89Pin|orig.time=3:00PM|orig.date=1842-07-01|atb=20.5R						
 1842	7	1	18	56	0	1007.4	orig=28.0.42Pin|orig.time=9:00PM|orig.date=1842-07-01|atb=19.33R						
 1842	7	2	6	56	0	1005.9	orig=27.11.94Pin|orig.time=9:00AM|orig.date=1842-07-02|atb=19.5R						
-1842	7	2	12	56	0	1006,1	orig=27.11.77Pin|orig.time=3:00PM|orig.date=1842-07-02|atb=20.5R						
-1842	7	2	18	56	0	1005,3	orig=27.11.48Pin|orig.time=9:00PM|orig.date=1842-07-02|atb=20R						
+1842	7	2	12	56	0	1006.1	orig=27.11.77Pin|orig.time=3:00PM|orig.date=1842-07-02|atb=20.5R						
+1842	7	2	18	56	0	1005.3	orig=27.11.48Pin|orig.time=9:00PM|orig.date=1842-07-02|atb=20R						
 1842	7	3	6	56	0	1002.5	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1842-07-03|atb=20.5R						
 1842	7	3	12	56	0	1001.7	orig=27.10.64Pin|orig.time=3:00PM|orig.date=1842-07-03|atb=21R						
 1842	7	3	18	56	0	1000.8	orig=27.10.35Pin|orig.time=9:00PM|orig.date=1842-07-03|atb=21R						
@@ -4198,8 +4198,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	7	9	6	56	0	999	orig=27.9.36Pin|orig.time=9:00AM|orig.date=1842-07-09|atb=16R						
 1842	7	9	12	56	0	997.5	orig=27.9.3Pin|orig.time=3:00PM|orig.date=1842-07-09|atb=18R						
 1842	7	9	18	56	0	997.6	orig=27.9.5Pin|orig.time=9:00PM|orig.date=1842-07-09|atb=17.9R						
-1842	7	10	6	56	0	997,7	orig=27.8.76Pin|orig.time=9:00AM|orig.date=1842-07-10|atb=17.25R						
-1842	7	10	12	56	0	998,5	orig=27.8.99Pin|orig.time=3:00PM|orig.date=1842-07-10|atb=16.66R						
+1842	7	10	6	56	0	997.7	orig=27.8.76Pin|orig.time=9:00AM|orig.date=1842-07-10|atb=17.25R						
+1842	7	10	12	56	0	998.5	orig=27.8.99Pin|orig.time=3:00PM|orig.date=1842-07-10|atb=16.66R						
 1842	7	10	18	56	0	1035.7	orig=28.9.74Pin|orig.time=9:00PM|orig.date=1842-07-10|atb=17.5R						
 1842	7	11	6	56	0	1004.8	orig=27.11.43Pin|orig.time=9:00AM|orig.date=1842-07-11|atb=17.5R						
 1842	7	11	12	56	0	1004.2	orig=27.11.27Pin|orig.time=3:00PM|orig.date=1842-07-11|atb=18.25R						
@@ -4210,12 +4210,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	7	13	6	56	0	1002.6	orig=27.10.75Pin|orig.time=9:00AM|orig.date=1842-07-13|atb=18.5R						
 1842	7	13	12	56	0	1001.7	orig=27.10.57Pin|orig.time=3:00PM|orig.date=1842-07-13|atb=19.75R						
 1842	7	13	18	56	0	1002.6	orig=27.10.77Pin|orig.time=9:00PM|orig.date=1842-07-13|atb=18.5R						
-1842	7	14	6	56	0	1003,4	orig=27.10.75Pin|orig.time=9:00AM|orig.date=1842-07-14|atb=18.5R						
-1842	7	14	12	56	0	1002,6	orig=27.10.57Pin|orig.time=3:00PM|orig.date=1842-07-14|atb=19.75R						
-1842	7	14	18	56	0	1003,2	orig=27.10.77Pin|orig.time=9:00PM|orig.date=1842-07-14|atb=19.75R						
-1842	7	15	6	56	0	1002,2	orig=27.10.38Pin|orig.time=9:00AM|orig.date=1842-07-15|atb=19R						
-1842	7	15	12	56	0	1001,3	orig=27.10.14Pin|orig.time=3:00PM|orig.date=1842-07-15|atb=20R						
-1842	7	15	18	56	0	1002,3	orig=27.10.44Pin|orig.time=9:00PM|orig.date=1842-07-15|atb=19.75R						
+1842	7	14	6	56	0	1003.4	orig=27.10.75Pin|orig.time=9:00AM|orig.date=1842-07-14|atb=18.5R						
+1842	7	14	12	56	0	1002.6	orig=27.10.57Pin|orig.time=3:00PM|orig.date=1842-07-14|atb=19.75R						
+1842	7	14	18	56	0	1003.2	orig=27.10.77Pin|orig.time=9:00PM|orig.date=1842-07-14|atb=19.75R						
+1842	7	15	6	56	0	1002.2	orig=27.10.38Pin|orig.time=9:00AM|orig.date=1842-07-15|atb=19R						
+1842	7	15	12	56	0	1001.3	orig=27.10.14Pin|orig.time=3:00PM|orig.date=1842-07-15|atb=20R						
+1842	7	15	18	56	0	1002.3	orig=27.10.44Pin|orig.time=9:00PM|orig.date=1842-07-15|atb=19.75R						
 1842	7	16	6	56	0	1002.7	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1842-07-16|atb=19.5R						
 1842	7	16	12	56	0	1002.9	orig=27.11Pin|orig.time=3:00PM|orig.date=1842-07-16|atb=20.25R						
 1842	7	16	18	56	0	1004.3	orig=27.11.43Pin|orig.time=9:00PM|orig.date=1842-07-16|atb=20R						
@@ -4397,7 +4397,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	9	13	12	56	0	1005.9	orig=27.11.88Pin|orig.time=3:00PM|orig.date=1842-09-13|atb=18.5R						
 1842	9	13	18	56	0	1009	orig=28.0.85Pin|orig.time=9:00PM|orig.date=1842-09-13|atb=18R						
 1842	9	14	6	56	0	1010.9	orig=28.1.51Pin|orig.time=9:00AM|orig.date=1842-09-14|atb=18R						
-1842	9	14	12	56	0	1011,4	orig=28.1.45Pin|orig.time=3:00PM|orig.date=1842-09-14|atb=19R						
+1842	9	14	12	56	0	1011.4	orig=28.1.45Pin|orig.time=3:00PM|orig.date=1842-09-14|atb=19R						
 1842	9	14	18	56	0	1011.5	orig=28.1.69Pin|orig.time=9:00PM|orig.date=1842-09-14|atb=18R						
 1842	9	15	6	56	0	1012.9	orig=28.2.14Pin|orig.time=9:00AM|orig.date=1842-09-15|atb=17.75R						
 1842	9	15	12	56	0	1012	orig=28.1.95Pin|orig.time=3:00PM|orig.date=1842-09-15|atb=19R						
@@ -4460,7 +4460,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	10	4	12	56	0	1005	orig=27.11.46Pin|orig.time=3:00PM|orig.date=1842-10-04|atb=17.25R						
 1842	10	4	18	56	0	1004.7	orig=27.11.27Pin|orig.time=9:00PM|orig.date=1842-10-04|atb=16R						
 1842	10	5	6	56	0	1006.8	orig=27.11.92Pin|orig.time=9:00AM|orig.date=1842-10-05|atb=15.33R						
-1842	10	5	12	56	0	1007,7	orig=28.0.06Pin|orig.time=3:00PM|orig.date=1842-10-05|atb=16.33R						
+1842	10	5	12	56	0	1007.7	orig=28.0.06Pin|orig.time=3:00PM|orig.date=1842-10-05|atb=16.33R						
 1842	10	5	18	56	0	1008.5	orig=28.0.48Pin|orig.time=9:00PM|orig.date=1842-10-05|atb=15.25R						
 1842	10	6	6	56	0	1009.3	orig=28.0.72Pin|orig.time=9:00AM|orig.date=1842-10-06|atb=14.66R						
 1842	10	6	12	56	0	1008.7	orig=28.0.58Pin|orig.time=3:00PM|orig.date=1842-10-06|atb=15.75R						
@@ -4480,9 +4480,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	10	11	5	56	0	1011.2	orig=28.1.01Pin|orig.time=08|orig.date=1842-10-11|atb=10.55R						
 1842	10	11	12	56	0	1010.3	orig=28.1.33Pin|orig.time=3:00PM|orig.date=1842-10-11|atb=18.5R						
 1842	10	11	18	56	0	1009.8	orig=28.0.65Pin|orig.time=9:00PM|orig.date=1842-10-11|atb=11.66R						
-1842	10	12	6	56	0	1003,3	orig=27.10.21Pin|orig.time=9:00AM|orig.date=1842-10-12|atb=10.33R						
-1842	10	12	12	56	0	999,5	orig=27.9.07Pin|orig.time=3:00PM|orig.date=1842-10-12|atb=12.45R						
-1842	10	12	18	56	0	996,7	orig=27.8.11Pin|orig.time=9:00PM|orig.date=1842-10-12|atb=11.66R						
+1842	10	12	6	56	0	1003.3	orig=27.10.21Pin|orig.time=9:00AM|orig.date=1842-10-12|atb=10.33R						
+1842	10	12	12	56	0	999.5	orig=27.9.07Pin|orig.time=3:00PM|orig.date=1842-10-12|atb=12.45R						
+1842	10	12	18	56	0	996.7	orig=27.8.11Pin|orig.time=9:00PM|orig.date=1842-10-12|atb=11.66R						
 1842	10	13	6	56	0	998.1	orig=27.8.78Pin|orig.time=9:00AM|orig.date=1842-10-13|atb=12R						
 1842	10	13	12	56	0	997.8	orig=27.8.96Pin|orig.time=3:00PM|orig.date=1842-10-13|atb=16R						
 1842	10	13	18	56	0	1000.1	orig=27.9.43Pin|orig.time=9:00PM|orig.date=1842-10-13|atb=12.15R						
@@ -4501,9 +4501,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1842	10	18	6	56	0	1012.2	orig=28.1.48Pin|orig.time=9:00AM|orig.date=1842-10-18|atb=12R						
 1842	10	18	12	56	0	1010.7	orig=28.0.99Pin|orig.time=3:00PM|orig.date=1842-10-18|atb=12.5R						
 1842	10	18	18	56	0	1007.9	orig=28.0.9Pin|orig.time=9:00PM|orig.date=1842-10-18|atb=12.55R						
-1842	10	19	6	56	0	1007,2	orig=27.11.64Pin|orig.time=9:00AM|orig.date=1842-10-19|atb=12.33R						
-1842	10	19	12	56	0	1003,7	orig=27.10.51Pin|orig.time=3:00PM|orig.date=1842-10-19|atb=13.25R						
-1842	10	19	18	56	0	1003,1	orig=27.10.33Pin|orig.time=9:00PM|orig.date=1842-10-19|atb=13.5R						
+1842	10	19	6	56	0	1007.2	orig=27.11.64Pin|orig.time=9:00AM|orig.date=1842-10-19|atb=12.33R						
+1842	10	19	12	56	0	1003.7	orig=27.10.51Pin|orig.time=3:00PM|orig.date=1842-10-19|atb=13.25R						
+1842	10	19	18	56	0	1003.1	orig=27.10.33Pin|orig.time=9:00PM|orig.date=1842-10-19|atb=13.5R						
 1842	10	20	6	56	0	1001.7	orig=27.10.6Pin|orig.time=9:00AM|orig.date=1842-10-20|atb=13.25R						
 1842	10	20	12	56	0	1002.3	orig=27.10.46Pin|orig.time=3:00PM|orig.date=1842-10-20|atb=16R						
 1842	10	20	18	56	0	1002.9	orig=27.10.53Pin|orig.time=9:00PM|orig.date=1842-10-20|atb=14R						
@@ -5033,8 +5033,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	4	13	12	56	0	1013.6	orig=28.2.16Pin|orig.time=3:00PM|orig.date=1843-04-13|atb=15R						
 1843	4	13	18	56	0	1015	orig=28.2.64Pin|orig.time=9:00PM|orig.date=1843-04-13|atb=15R						
 1843	4	14	6	56	0	1009.7	orig=28.0.87Pin|orig.time=9:00AM|orig.date=1843-04-14|atb=15.25R						
-1843	4	14	12	56	0	1000,2	orig=27.9.46Pin|orig.time=3:00PM|orig.date=1843-04-14|atb=15R						
-1843	4	14	18	56	0	993,6	orig=27.7.28Pin|orig.time=9:00PM|orig.date=1843-04-14|atb=15R						
+1843	4	14	12	56	0	1000.2	orig=27.9.46Pin|orig.time=3:00PM|orig.date=1843-04-14|atb=15R						
+1843	4	14	18	56	0	993.6	orig=27.7.28Pin|orig.time=9:00PM|orig.date=1843-04-14|atb=15R						
 1843	4	15	6	56	0	1003.9	orig=27.10.94Pin|orig.time=9:00AM|orig.date=1843-04-15|atb=15.25R						
 1843	4	15	12	56	0	999.1	orig=27.9.42Pin|orig.time=3:00PM|orig.date=1843-04-15|atb=16R						
 1843	4	15	18	56	0	999.2	orig=27.9.35Pin|orig.time=9:00PM|orig.date=1843-04-15|atb=14.75R						
@@ -5093,11 +5093,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	5	3	12	56	0	1001.7	orig=27.10.24Pin|orig.time=3:00PM|orig.date=1843-05-03|atb=15.75R						
 1843	5	3	18	56	0	999.9	orig=27.9.56Pin|orig.time=9:00PM|orig.date=1843-05-03|atb=14.5R						
 1843	5	4	6	56	0	997.5	orig=27.8.74Pin|orig.time=9:00AM|orig.date=1843-05-04|atb=14.5R						
-1843	5	4	12	56	0	998,2	orig=27.8.82Pin|orig.time=3:00PM|orig.date=1843-05-04|atb=15.5R						
-1843	5	4	18	56	0	998,6	orig=27.8.9Pin|orig.time=9:00PM|orig.date=1843-05-04|atb=14.5R						
-1843	5	5	6	56	0	1000,5	orig=27.9.5Pin|orig.time=9:00AM|orig.date=1843-05-05|atb=14R						
-1843	5	5	12	56	0	1001,8	orig=27.10.03Pin|orig.time=3:00PM|orig.date=1843-05-05|atb=15.25R						
-1843	5	5	18	56	0	1005,7	orig=27.11.26Pin|orig.time=9:00PM|orig.date=1843-05-05|atb=14.33R						
+1843	5	4	12	56	0	998.2	orig=27.8.82Pin|orig.time=3:00PM|orig.date=1843-05-04|atb=15.5R						
+1843	5	4	18	56	0	998.6	orig=27.8.9Pin|orig.time=9:00PM|orig.date=1843-05-04|atb=14.5R						
+1843	5	5	6	56	0	1000.5	orig=27.9.5Pin|orig.time=9:00AM|orig.date=1843-05-05|atb=14R						
+1843	5	5	12	56	0	1001.8	orig=27.10.03Pin|orig.time=3:00PM|orig.date=1843-05-05|atb=15.25R						
+1843	5	5	18	56	0	1005.7	orig=27.11.26Pin|orig.time=9:00PM|orig.date=1843-05-05|atb=14.33R						
 1843	5	6	6	56	0	1007.1	orig=27.11.93Pin|orig.time=9:00AM|orig.date=1843-05-06|atb=14R						
 1843	5	6	12	56	0	1004.9	orig=27.11.29Pin|orig.time=3:00PM|orig.date=1843-05-06|atb=15.5R						
 1843	5	6	18	56	0	1003.8	orig=27.10.86Pin|orig.time=9:00PM|orig.date=1843-05-06|atb=14.75R						
@@ -5185,7 +5185,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	6	3	6	56	0	1008.9	orig=28.0.62Pin|orig.time=9:00AM|orig.date=1843-06-03|atb=15.5R						
 1843	6	3	12	56	0	1009.1	orig=28.0.81Pin|orig.time=3:00PM|orig.date=1843-06-03|atb=17R						
 1843	6	3	18	56	0	1009.9	orig=28.1.04Pin|orig.time=9:00PM|orig.date=1843-06-03|atb=16.5R						
-1843	6	4	6	56	0	1009,6	orig=28.0.71Pin|orig.time=9:00AM|orig.date=1843-06-04|atb=16.75R						
+1843	6	4	6	56	0	1009.6	orig=28.0.71Pin|orig.time=9:00AM|orig.date=1843-06-04|atb=16.75R						
 1843	6	4	12	56	0	1006.2	orig=27.11.96Pin|orig.time=3:00PM|orig.date=1843-06-04|atb=18.25R						
 1843	6	4	18	56	0	1006.8	orig=28.0.11Pin|orig.time=9:00PM|orig.date=1843-06-04|atb=17.75R						
 1843	6	5	6	56	0	1007.2	orig=28.0.22Pin|orig.time=9:00AM|orig.date=1843-06-05|atb=17.5R						
@@ -5370,7 +5370,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	8	3	18	56	0	1008.7	orig=28.0.98Pin|orig.time=9:00PM|orig.date=1843-08-03|atb=20.75R						
 1843	8	4	6	56	0	1008	orig=28.0.71Pin|orig.time=9:00AM|orig.date=1843-08-04|atb=20.3R						
 1843	8	4	12	56	0	1005.8	orig=28.0.13Pin|orig.time=3:00PM|orig.date=1843-08-04|atb=22.25R						
-1843	8	4	18	56	0	1005,6	orig=27.11.65Pin|orig.time=9:00PM|orig.date=1843-08-04|atb=21.5R						
+1843	8	4	18	56	0	1005.6	orig=27.11.65Pin|orig.time=9:00PM|orig.date=1843-08-04|atb=21.5R						
 1843	8	5	6	56	0	1002	orig=27.10.78Pin|orig.time=9:00AM|orig.date=1843-08-05|atb=21.25R						
 1843	8	5	12	56	0	1002	orig=27.10.82Pin|orig.time=3:00PM|orig.date=1843-08-05|atb=21.75R						
 1843	8	5	18	56	0	1001.5	orig=27.10.55Pin|orig.time=9:00PM|orig.date=1843-08-05|atb=20.5R						
@@ -5681,7 +5681,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	11	15	12	56	0	996.3	orig=27.8.37Pin|orig.time=3:00PM|orig.date=1843-11-15|atb=14.5R						
 1843	11	15	18	56	0	994.2	orig=27.7.65Pin|orig.time=9:00PM|orig.date=1843-11-15|atb=14.33R						
 1843	11	16	6	56	0	996.1	orig=27.8.24Pin|orig.time=9:00AM|orig.date=1843-11-16|atb=13.75R						
-1843	11	16	12	56	0	1000,2	orig=27.9.42Pin|orig.time=3:00PM|orig.date=1843-11-16|atb=14.5R						
+1843	11	16	12	56	0	1000.2	orig=27.9.42Pin|orig.time=3:00PM|orig.date=1843-11-16|atb=14.5R						
 1843	11	16	18	56	0	1004	orig=28.10.68Pin|orig.time=9:00PM|orig.date=1843-11-16|atb=14.33R						
 1843	11	17	6	56	0	1009	orig=28.0.49Pin|orig.time=9:00AM|orig.date=1843-11-17|atb=13.25R						
 1843	11	17	12	56	0	1010.8	orig=28.1.33Pin|orig.time=3:00PM|orig.date=1843-11-17|atb=16.5R						
@@ -5777,8 +5777,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	12	17	12	56	0	1004.1	orig=27.11.3Pin|orig.time=3:00PM|orig.date=1843-12-17|atb=15.5R						
 1843	12	17	18	56	0	1004.2	orig=27.11.1Pin|orig.time=9:00PM|orig.date=1843-12-17|atb=14.75R						
 1843	12	18	6	56	0	1006.2	orig=27.11.53Pin|orig.time=9:00AM|orig.date=1843-12-18|atb=13R						
-1843	12	18	12	56	0	1009,1	orig=28.0.36Pin|orig.time=3:00PM|orig.date=1843-12-18|atb=14R						
-1843	12	18	18	56	0	1012,8	orig=28.1.62Pin|orig.time=9:00PM|orig.date=1843-12-18|atb=14R						
+1843	12	18	12	56	0	1009.1	orig=28.0.36Pin|orig.time=3:00PM|orig.date=1843-12-18|atb=14R						
+1843	12	18	18	56	0	1012.8	orig=28.1.62Pin|orig.time=9:00PM|orig.date=1843-12-18|atb=14R						
 1843	12	19	6	56	0	1018.6	orig=28.3.67Pin|orig.time=9:00AM|orig.date=1843-12-19|atb=12.75R						
 1843	12	19	12	56	0	1015.5	orig=28.2.73Pin|orig.time=3:00PM|orig.date=1843-12-19|atb=14R						
 1843	12	19	18	56	0	1010.9	orig=28.1.14Pin|orig.time=9:00PM|orig.date=1843-12-19|atb=13.5R						
@@ -5872,12 +5872,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	1	18	6	56	0	988.2	orig=27.5.46Pin|orig.time=9:00AM|orig.date=1844-01-18|atb=11.75R						
 1844	1	18	12	56	0	980.9	orig=27.3.09Pin|orig.time=3:00PM|orig.date=1844-01-18|atb=12.75R						
 1844	1	18	18	56	0	984	orig=27.4.8Pin|orig.time=9:00PM|orig.date=1844-01-18|atb=12R						
-1844	1	19	6	56	0	998,2	orig=27.8.56Pin|orig.time=9:00AM|orig.date=1844-01-19|atb=11.25R						
-1844	1	19	12	56	0	995,9	orig=27.7.97Pin|orig.time=3:00PM|orig.date=1844-01-19|atb=13.75R						
-1844	1	19	18	56	0	992,7	orig=27.6.8Pin|orig.time=9:00PM|orig.date=1844-01-19|atb=12R						
-1844	1	20	6	56	0	982,9	orig=27.3.47Pin|orig.time=9:00AM|orig.date=1844-01-20|atb=11R						
-1844	1	20	12	56	0	985,3	orig=27.4.3Pin|orig.time=3:00PM|orig.date=1844-01-20|atb=11.5R						
-1844	1	20	18	56	0	989,6	orig=27.5.75Pin|orig.time=9:00PM|orig.date=1844-01-20|atb=11.75R						
+1844	1	19	6	56	0	998.2	orig=27.8.56Pin|orig.time=9:00AM|orig.date=1844-01-19|atb=11.25R						
+1844	1	19	12	56	0	995.9	orig=27.7.97Pin|orig.time=3:00PM|orig.date=1844-01-19|atb=13.75R						
+1844	1	19	18	56	0	992.7	orig=27.6.8Pin|orig.time=9:00PM|orig.date=1844-01-19|atb=12R						
+1844	1	20	6	56	0	982.9	orig=27.3.47Pin|orig.time=9:00AM|orig.date=1844-01-20|atb=11R						
+1844	1	20	12	56	0	985.3	orig=27.4.3Pin|orig.time=3:00PM|orig.date=1844-01-20|atb=11.5R						
+1844	1	20	18	56	0	989.6	orig=27.5.75Pin|orig.time=9:00PM|orig.date=1844-01-20|atb=11.75R						
 1844	1	21	6	56	0	988.2	orig=27.5.36Pin|orig.time=9:00AM|orig.date=1844-01-21|atb=10.75R						
 1844	1	21	12	56	0	988.5	orig=27.5.62Pin|orig.time=3:00PM|orig.date=1844-01-21|atb=12.75R						
 1844	1	21	18	56	0	989.9	orig=27.6.4Pin|orig.time=9:00PM|orig.date=1844-01-21|atb=12R						
@@ -6034,9 +6034,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	3	12	6	56	0	995.1	orig=27.7.91Pin|orig.time=9:00AM|orig.date=1844-03-12|atb=13.75R						
 1844	3	12	12	56	0	993.3	orig=27.7.38Pin|orig.time=3:00PM|orig.date=1844-03-12|atb=15R						
 1844	3	12	18	56	0	992	orig=27.6.91Pin|orig.time=9:00PM|orig.date=1844-03-12|atb=14.5R						
-1844	3	13	6	56	0	988,1	orig=27.5.37Pin|orig.time=9:00AM|orig.date=1844-03-13|atb=14R						
-1844	3	13	12	56	0	985,8	orig=27.4.62Pin|orig.time=3:00PM|orig.date=1844-03-13|atb=14.25R						
-1844	3	13	18	56	0	986,7	orig=27.4.87Pin|orig.time=9:00PM|orig.date=1844-03-13|atb=13.5R						
+1844	3	13	6	56	0	988.1	orig=27.5.37Pin|orig.time=9:00AM|orig.date=1844-03-13|atb=14R						
+1844	3	13	12	56	0	985.8	orig=27.4.62Pin|orig.time=3:00PM|orig.date=1844-03-13|atb=14.25R						
+1844	3	13	18	56	0	986.7	orig=27.4.87Pin|orig.time=9:00PM|orig.date=1844-03-13|atb=13.5R						
 1844	3	14	6	56	0	991.2	orig=27.6.61Pin|orig.time=9:00AM|orig.date=1844-03-14|atb=13.75R						
 1844	3	14	12	56	0	996.1	orig=27.8.32Pin|orig.time=3:00PM|orig.date=1844-03-14|atb=15R						
 1844	3	14	18	56	0	1000.3	orig=27.9.62Pin|orig.time=9:00PM|orig.date=1844-03-14|atb=13.75R						
@@ -6334,8 +6334,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	6	20	6	56	0	1000.9	orig=27.10.18Pin|orig.time=9:00AM|orig.date=1844-06-20|atb=18.33R						
 1844	6	20	12	56	0	1000	orig=27.9.98Pin|orig.time=3:00PM|orig.date=1844-06-20|atb=19.75R						
 1844	6	20	18	56	0	1000.2	orig=27.10Pin|orig.time=9:00PM|orig.date=1844-06-20|atb=18.85R						
-1844	6	21	6	56	0	1001,1	orig=27.9.98Pin|orig.time=9:00AM|orig.date=1844-06-21|atb=18.5R						
-1844	6	21	12	56	0	1001,8	orig=27.10.3Pin|orig.time=3:00PM|orig.date=1844-06-21|atb=19.75R						
+1844	6	21	6	56	0	1001.1	orig=27.9.98Pin|orig.time=9:00AM|orig.date=1844-06-21|atb=18.5R						
+1844	6	21	12	56	0	1001.8	orig=27.10.3Pin|orig.time=3:00PM|orig.date=1844-06-21|atb=19.75R						
 1844	6	21	18	56	0	1003	orig=27.10.63Pin|orig.time=9:00PM|orig.date=1844-06-21|atb=19R						
 1844	6	22	6	56	0	1003.2	orig=27.11.1Pin|orig.time=9:00AM|orig.date=1844-06-22|atb=19R						
 1844	6	22	12	56	0	1003.5	orig=27.11.18Pin|orig.time=3:00PM|orig.date=1844-06-22|atb=20R						
@@ -6499,9 +6499,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	8	14	6	56	0	996.7	orig=27.8.85Pin|orig.time=9:00AM|orig.date=1844-08-14|atb=19.25R						
 1844	8	14	12	56	0	996.5	orig=27.8.93Pin|orig.time=3:00PM|orig.date=1844-08-14|atb=21R						
 1844	8	14	18	56	0	997.6	orig=27.9.24Pin|orig.time=9:00PM|orig.date=1844-08-14|atb=20.5R						
-1844	8	15	6	56	0	998,4	orig=27.9.19Pin|orig.time=9:00AM|orig.date=1844-08-15|atb=20.5R						
-1844	8	15	12	56	0	997,5	orig=27.8.95Pin|orig.time=3:00PM|orig.date=1844-08-15|atb=21.5R						
-1844	8	15	18	56	0	996,9	orig=27.8.7Pin|orig.time=9:00PM|orig.date=1844-08-15|atb=20.5R						
+1844	8	15	6	56	0	998.4	orig=27.9.19Pin|orig.time=9:00AM|orig.date=1844-08-15|atb=20.5R						
+1844	8	15	12	56	0	997.5	orig=27.8.95Pin|orig.time=3:00PM|orig.date=1844-08-15|atb=21.5R						
+1844	8	15	18	56	0	996.9	orig=27.8.7Pin|orig.time=9:00PM|orig.date=1844-08-15|atb=20.5R						
 1844	8	16	6	56	0	994.6	orig=27.8.24Pin|orig.time=9:00AM|orig.date=1844-08-16|atb=20.5R						
 1844	8	16	12	56	0	993.9	orig=27.8.13Pin|orig.time=3:00PM|orig.date=1844-08-16|atb=22.25R						
 1844	8	16	18	56	0	993.9	orig=27.8.2Pin|orig.time=9:00PM|orig.date=1844-08-16|atb=20.75R						
@@ -6511,8 +6511,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	8	18	6	56	0	1004.2	orig=27.11.31Pin|orig.time=9:00AM|orig.date=1844-08-18|atb=18.75R						
 1844	8	18	12	56	0	1004.2	orig=27.11.44Pin|orig.time=3:00PM|orig.date=1844-08-18|atb=20.33R						
 1844	8	18	18	56	0	1005.6	orig=27.11.81Pin|orig.time=9:00PM|orig.date=1844-08-18|atb=19.25R						
-1844	8	19	6	56	0	1006,9	orig=27.11.9Pin|orig.time=9:00AM|orig.date=1844-08-19|atb=18.5R						
-1844	8	19	12	56	0	1005,1	orig=27.11.43Pin|orig.time=3:00PM|orig.date=1844-08-19|atb=20.25R						
+1844	8	19	6	56	0	1006.9	orig=27.11.9Pin|orig.time=9:00AM|orig.date=1844-08-19|atb=18.5R						
+1844	8	19	12	56	0	1005.1	orig=27.11.43Pin|orig.time=3:00PM|orig.date=1844-08-19|atb=20.25R						
 1844	8	19	18	56	0	1005	orig=27.11.34Pin|orig.time=9:00PM|orig.date=1844-08-19|atb=19.33R						
 1844	8	20	6	56	0	1002	orig=27.10.62Pin|orig.time=9:00AM|orig.date=1844-08-20|atb=19.25R						
 1844	8	20	12	56	0	1000.5	orig=27.10.26Pin|orig.time=3:00PM|orig.date=1844-08-20|atb=21R						
@@ -6742,8 +6742,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	11	3	6	56	0	1010.5	orig=28.0.94Pin|orig.time=9:00AM|orig.date=1844-11-03|atb=12.5R						
 1844	11	3	12	56	0	1010.5	orig=28.1Pin|orig.time=3:00PM|orig.date=1844-11-03|atb=13.25R						
 1844	11	3	18	56	0	1012.5	orig=28.1.63Pin|orig.time=9:00PM|orig.date=1844-11-03|atb=12.75R						
-1844	11	4	12	56	0	1005,9	orig=27.11.22Pin|orig.time=3:00PM|orig.date=1844-11-04|atb=12.75R						
-1844	11	4	18	56	0	1001,2	orig=27.9.67Pin|orig.time=9:00PM|orig.date=1844-11-04|atb=13R						
+1844	11	4	12	56	0	1005.9	orig=27.11.22Pin|orig.time=3:00PM|orig.date=1844-11-04|atb=12.75R						
+1844	11	4	18	56	0	1001.2	orig=27.9.67Pin|orig.time=9:00PM|orig.date=1844-11-04|atb=13R						
 1844	11	5	6	56	0	989.9	orig=27.6.08Pin|orig.time=9:00AM|orig.date=1844-11-05|atb=12.5R						
 1844	11	5	12	56	0	993	orig=27.7.13Pin|orig.time=3:00PM|orig.date=1844-11-05|atb=12.75R						
 1844	11	5	18	56	0	999.3	orig=27.9.27Pin|orig.time=9:00PM|orig.date=1844-11-05|atb=13.25R						
@@ -6758,7 +6758,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	11	8	18	56	0	1013.1	orig=28.2Pin|orig.time=9:00PM|orig.date=1844-11-08|atb=15R						
 1844	11	9	6	56	0	1011.6	orig=28.1.51Pin|orig.time=9:00AM|orig.date=1844-11-09|atb=15R						
 1844	11	9	12	56	0	1007.7	orig=28.0.26Pin|orig.time=3:00PM|orig.date=1844-11-09|atb=16R						
-1844	11	9	18	56	0	1003,3	orig=27.10.5Pin|orig.time=9:00PM|orig.date=1844-11-09|atb=15R						
+1844	11	9	18	56	0	1003.3	orig=27.10.5Pin|orig.time=9:00PM|orig.date=1844-11-09|atb=15R						
 1844	11	10	6	56	0	996.8	orig=27.8.64Pin|orig.time=9:00AM|orig.date=1844-11-10|atb=16R						
 1844	11	10	12	56	0	994.9	orig=27.8.07Pin|orig.time=3:00PM|orig.date=1844-11-10|atb=17R						
 1844	11	10	18	56	0	1000.4	orig=27.9.84Pin|orig.time=9:00PM|orig.date=1844-11-10|atb=16R						
@@ -6773,7 +6773,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	11	13	18	56	0	1008	orig=28.0.29Pin|orig.time=9:00PM|orig.date=1844-11-13|atb=14.75R						
 1844	11	14	6	56	0	1001.5	orig=27.10.4Pin|orig.time=9:00AM|orig.date=1844-11-14|atb=13.66R						
 1844	11	14	12	56	0	1004.7	orig=27.11.19Pin|orig.time=3:00PM|orig.date=1844-11-14|atb=14.75R						
-1844	11	14	18	56	0	1012,5	orig=28.1.52Pin|orig.time=9:00PM|orig.date=1844-11-14|atb=14R						
+1844	11	14	18	56	0	1012.5	orig=28.1.52Pin|orig.time=9:00PM|orig.date=1844-11-14|atb=14R						
 1844	11	15	6	56	0	1011.6	orig=28.1.45Pin|orig.time=9:00AM|orig.date=1844-11-15|atb=14.5R						
 1844	11	15	12	56	0	1014.6	orig=28.2.58Pin|orig.time=3:00PM|orig.date=1844-11-15|atb=16R						
 1844	11	15	18	56	0	1019.1	orig=28.3.93Pin|orig.time=9:00PM|orig.date=1844-11-15|atb=14R						
@@ -6846,7 +6846,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	12	8	6	56	0	1023.6	orig=28.5.21Pin|orig.time=9:00AM|orig.date=1844-12-08|atb=11.33R						
 1844	12	8	12	56	0	1024.1	orig=28.5.58Pin|orig.time=3:00PM|orig.date=1844-12-08|atb=14R						
 1844	12	8	18	56	0	1025.8	orig=28.6Pin|orig.time=9:00PM|orig.date=1844-12-08|atb=12R						
-1844	12	9	6	56	0	1028,2	orig=28.6.53Pin|orig.time=9:00AM|orig.date=1844-12-09|atb=10.75R						
+1844	12	9	6	56	0	1028.2	orig=28.6.53Pin|orig.time=9:00AM|orig.date=1844-12-09|atb=10.75R						
 1844	12	9	12	56	0	1025.7	orig=28.6.4Pin|orig.time=3:00PM|orig.date=1844-12-09|atb=13R						
 1844	12	9	18	56	0	1025.9	orig=28.6.5Pin|orig.time=9:00PM|orig.date=1844-12-09|atb=12R						
 1844	12	10	6	56	0	1025.6	orig=28.5.81Pin|orig.time=9:00AM|orig.date=1844-12-10|atb=10.5R						
@@ -6993,20 +6993,20 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	1	26	6	56	0	1012.7	orig=28.1.82Pin|orig.time=9:00AM|orig.date=1845-01-26|atb=14.25R						
 1845	1	26	12	56	0	1010.6	orig=28.1.21Pin|orig.time=3:00PM|orig.date=1845-01-26|atb=15.5R						
 1845	1	26	18	56	0	1008.8	orig=28.0.57Pin|orig.time=9:00PM|orig.date=1845-01-26|atb=15R						
-1845	1	27	6	56	0	1004,5	orig=27.10.86Pin|orig.time=9:00AM|orig.date=1845-01-27|atb=14.5R						
-1845	1	27	12	56	0	1002,2	orig=27.10.15Pin|orig.time=3:00PM|orig.date=1845-01-27|atb=15.5R						
-1845	1	27	18	56	0	999,3	orig=27.9.16Pin|orig.time=9:00PM|orig.date=1845-01-27|atb=15R						
-1845	1	28	6	56	0	998,6	orig=27.8.87Pin|orig.time=9:00AM|orig.date=1845-01-28|atb=14R						
+1845	1	27	6	56	0	1004.5	orig=27.10.86Pin|orig.time=9:00AM|orig.date=1845-01-27|atb=14.5R						
+1845	1	27	12	56	0	1002.2	orig=27.10.15Pin|orig.time=3:00PM|orig.date=1845-01-27|atb=15.5R						
+1845	1	27	18	56	0	999.3	orig=27.9.16Pin|orig.time=9:00PM|orig.date=1845-01-27|atb=15R						
+1845	1	28	6	56	0	998.6	orig=27.8.87Pin|orig.time=9:00AM|orig.date=1845-01-28|atb=14R						
 1845	1	28	12	56	0	997	orig=27.8.42Pin|orig.time=3:00PM|orig.date=1845-01-28|atb=15.25R						
-1845	1	28	18	56	0	996,1	orig=27.8.11Pin|orig.time=9:00PM|orig.date=1845-01-28|atb=15R						
-1845	1	29	6	56	0	993,6	orig=27.7.21Pin|orig.time=9:00AM|orig.date=1845-01-29|atb=14R						
+1845	1	28	18	56	0	996.1	orig=27.8.11Pin|orig.time=9:00PM|orig.date=1845-01-28|atb=15R						
+1845	1	29	6	56	0	993.6	orig=27.7.21Pin|orig.time=9:00AM|orig.date=1845-01-29|atb=14R						
 1845	1	29	12	56	0	993	orig=27.7.08Pin|orig.time=3:00PM|orig.date=1845-01-29|atb=15.5R						
-1845	1	29	18	56	0	992,1	orig=27.6.77Pin|orig.time=9:00PM|orig.date=1845-01-29|atb=15R						
-1845	1	30	6	56	0	990,2	orig=27.6.07Pin|orig.time=9:00AM|orig.date=1845-01-30|atb=14R						
-1845	1	30	12	56	0	991,8	orig=27.6.72Pin|orig.time=3:00PM|orig.date=1845-01-30|atb=16R						
-1845	1	30	18	56	0	995,9	orig=27.8.02Pin|orig.time=9:00PM|orig.date=1845-01-30|atb=15R						
-1845	1	31	6	56	0	1004,1	orig=27.10.71Pin|orig.time=9:00AM|orig.date=1845-01-31|atb=14R						
-1845	1	31	12	56	0	1006,2	orig=27.11.59Pin|orig.time=3:00PM|orig.date=1845-01-31|atb=17R						
+1845	1	29	18	56	0	992.1	orig=27.6.77Pin|orig.time=9:00PM|orig.date=1845-01-29|atb=15R						
+1845	1	30	6	56	0	990.2	orig=27.6.07Pin|orig.time=9:00AM|orig.date=1845-01-30|atb=14R						
+1845	1	30	12	56	0	991.8	orig=27.6.72Pin|orig.time=3:00PM|orig.date=1845-01-30|atb=16R						
+1845	1	30	18	56	0	995.9	orig=27.8.02Pin|orig.time=9:00PM|orig.date=1845-01-30|atb=15R						
+1845	1	31	6	56	0	1004.1	orig=27.10.71Pin|orig.time=9:00AM|orig.date=1845-01-31|atb=14R						
+1845	1	31	12	56	0	1006.2	orig=27.11.59Pin|orig.time=3:00PM|orig.date=1845-01-31|atb=17R						
 1845	1	31	18	56	0	1008.8	orig=28.0.57Pin|orig.time=9:00PM|orig.date=1845-01-31|atb=15R						
 1845	2	1	6	56	0	1009	orig=28.0.63Pin|orig.time=9:00AM|orig.date=1845-02-01|atb=15R						
 1845	2	1	12	56	0	1008.3	orig=28.0.47Pin|orig.time=3:00PM|orig.date=1845-02-01|atb=16R						
@@ -7184,7 +7184,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	3	30	18	56	0	1001.1	orig=27.10.03Pin|orig.time=9:00PM|orig.date=1845-03-30|atb=15.25R						
 1845	3	31	6	56	0	1004.3	orig=27.11.6Pin|orig.time=9:00AM|orig.date=1845-03-31|atb=15R						
 1845	3	31	12	56	0	1004.4	orig=27.11.9Pin|orig.time=3:00PM|orig.date=1845-03-31|atb=15R						
-1845	3	31	18	56	0	1009,9	orig=28.0.7Pin|orig.time=9:00PM|orig.date=1845-03-31|atb=15R						
+1845	3	31	18	56	0	1009.9	orig=28.0.7Pin|orig.time=9:00PM|orig.date=1845-03-31|atb=15R						
 1845	4	1	6	56	0	1011.6	orig=28.1.51Pin|orig.time=9:00AM|orig.date=1845-04-01|atb=15R						
 1845	4	1	12	56	0	1013.6	orig=28.2.15Pin|orig.time=3:00PM|orig.date=1845-04-01|atb=15R						
 1845	4	1	18	56	0	1017.6	orig=28.3.51Pin|orig.time=9:00PM|orig.date=1845-04-01|atb=15.33R						
@@ -7215,9 +7215,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	4	10	6	56	0	1005.8	orig=27.11.59Pin|orig.time=9:00AM|orig.date=1845-04-10|atb=15.5R						
 1845	4	10	12	56	0	1000.8	orig=27.9.88Pin|orig.time=3:00PM|orig.date=1845-04-10|atb=15R						
 1845	4	10	18	56	0	1000.2	orig=27.9.72Pin|orig.time=9:00PM|orig.date=1845-04-10|atb=15.5R						
-1845	4	11	6	56	0	1001,3	orig=27.9.87Pin|orig.time=9:00AM|orig.date=1845-04-11|atb=15.5R						
-1845	4	11	12	56	0	999,5	orig=27.9.34Pin|orig.time=3:00PM|orig.date=1845-04-11|atb=16.75R						
-1845	4	11	18	56	0	999,7	orig=27.9.37Pin|orig.time=9:00PM|orig.date=1845-04-11|atb=16R						
+1845	4	11	6	56	0	1001.3	orig=27.9.87Pin|orig.time=9:00AM|orig.date=1845-04-11|atb=15.5R						
+1845	4	11	12	56	0	999.5	orig=27.9.34Pin|orig.time=3:00PM|orig.date=1845-04-11|atb=16.75R						
+1845	4	11	18	56	0	999.7	orig=27.9.37Pin|orig.time=9:00PM|orig.date=1845-04-11|atb=16R						
 1845	4	12	6	56	0	1001.5	orig=27.10.21Pin|orig.time=9:00AM|orig.date=1845-04-12|atb=16R						
 1845	4	12	12	56	0	1002.5	orig=27.10.66Pin|orig.time=3:00PM|orig.date=1845-04-12|atb=17.5R						
 1845	4	12	18	56	0	1003	orig=27.10.69Pin|orig.time=9:00PM|orig.date=1845-04-12|atb=16R						
@@ -7273,8 +7273,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	4	29	12	56	0	1008.4	orig=28.0.39Pin|orig.time=3:00PM|orig.date=1845-04-29|atb=14.33R						
 1845	4	29	18	56	0	1008.9	orig=28.0.53Pin|orig.time=9:00PM|orig.date=1845-04-29|atb=14R						
 1845	4	30	6	56	0	1008	orig=27.11.96Pin|orig.time=9:00AM|orig.date=1845-04-30|atb=13.5R						
-1845	4	30	12	56	0	1006,5	orig=27.11.5Pin|orig.time=3:00PM|orig.date=1845-04-30|atb=13.75R						
-1845	4	30	18	56	0	1006,1	orig=27.11.31Pin|orig.time=9:00PM|orig.date=1845-04-30|atb=13.25R						
+1845	4	30	12	56	0	1006.5	orig=27.11.5Pin|orig.time=3:00PM|orig.date=1845-04-30|atb=13.75R						
+1845	4	30	18	56	0	1006.1	orig=27.11.31Pin|orig.time=9:00PM|orig.date=1845-04-30|atb=13.25R						
 1845	5	1	6	56	0	1011.9	orig=28.1.46Pin|orig.time=9:00AM|orig.date=1845-05-01|atb=13R						
 1845	5	1	12	56	0	1014.6	orig=28.2.46Pin|orig.time=3:00PM|orig.date=1845-05-01|atb=14.5R						
 1845	5	1	18	56	0	1016.4	orig=28.3Pin|orig.time=9:00PM|orig.date=1845-05-01|atb=13.75R						
@@ -7317,8 +7317,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	5	14	6	56	0	993.3	orig=27.7.34Pin|orig.time=9:00AM|orig.date=1845-05-14|atb=14.33R						
 1845	5	14	12	56	0	990.5	orig=27.6.42Pin|orig.time=3:00PM|orig.date=1845-05-14|atb=14.66R						
 1845	5	14	18	56	0	986.9	orig=27.5.22Pin|orig.time=9:00PM|orig.date=1845-05-14|atb=14.5R						
-1845	5	15	6	56	0	993,1	orig=27.7.04Pin|orig.time=9:00AM|orig.date=1845-05-15|atb=14.25R						
-1845	5	15	12	56	0	997,8	orig=27.8.65Pin|orig.time=3:00PM|orig.date=1845-05-15|atb=14.5R						
+1845	5	15	6	56	0	993.1	orig=27.7.04Pin|orig.time=9:00AM|orig.date=1845-05-15|atb=14.25R						
+1845	5	15	12	56	0	997.8	orig=27.8.65Pin|orig.time=3:00PM|orig.date=1845-05-15|atb=14.5R						
 1845	5	15	18	56	0	1003	orig=27.10.57Pin|orig.time=9:00PM|orig.date=1845-05-15|atb=14.25R						
 1845	5	16	6	56	0	1009	orig=28.0.53Pin|orig.time=9:00AM|orig.date=1845-05-16|atb=13.75R						
 1845	5	16	12	56	0	1010.6	orig=28.1.18Pin|orig.time=3:00PM|orig.date=1845-05-16|atb=15R						
@@ -7413,7 +7413,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	6	15	6	56	0	1009.1	orig=28.1.15Pin|orig.time=9:00AM|orig.date=1845-06-15|atb=21.33R						
 1845	6	15	12	56	0	1007	orig=28.0.55Pin|orig.time=3:00PM|orig.date=1845-06-15|atb=22.5R						
 1845	6	15	18	56	0	1005.6	orig=28.0.1Pin|orig.time=9:00PM|orig.date=1845-06-15|atb=21.5R						
-1845	6	16	6	56	0	1005,5	orig=27.11.62Pin|orig.time=9:00AM|orig.date=1845-06-16|atb=21.5R						
+1845	6	16	6	56	0	1005.5	orig=27.11.62Pin|orig.time=9:00AM|orig.date=1845-06-16|atb=21.5R						
 1845	6	16	12	56	0	1002.4	orig=27.11.02Pin|orig.time=3:00PM|orig.date=1845-06-16|atb=22.75R						
 1845	6	16	18	56	0	1003.2	orig=27.11.15Pin|orig.time=9:00PM|orig.date=1845-06-16|atb=21R						
 1845	6	17	6	56	0	1001.4	orig=27.10.56Pin|orig.time=9:00AM|orig.date=1845-06-17|atb=21.25R						
@@ -7546,8 +7546,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	7	29	12	56	0	1004.9	orig=27.11.92Pin|orig.time=3:00PM|orig.date=1845-07-29|atb=23.75R						
 1845	7	29	18	56	0	1005.2	orig=28.0Pin|orig.time=9:00PM|orig.date=1845-07-29|atb=23.5R						
 1845	7	30	6	56	0	1005.5	orig=28.0.09Pin|orig.time=9:00AM|orig.date=1845-07-30|atb=23R						
-1845	7	30	12	56	0	1005,8	orig=27.11.86Pin|orig.time=3:00PM|orig.date=1845-07-30|atb=23.75R						
-1845	7	30	18	56	0	1006,1	orig=27.11.91Pin|orig.time=9:00PM|orig.date=1845-07-30|atb=23R						
+1845	7	30	12	56	0	1005.8	orig=27.11.86Pin|orig.time=3:00PM|orig.date=1845-07-30|atb=23.75R						
+1845	7	30	18	56	0	1006.1	orig=27.11.91Pin|orig.time=9:00PM|orig.date=1845-07-30|atb=23R						
 1845	7	31	6	56	0	1005.3	orig=28.0.01Pin|orig.time=9:00AM|orig.date=1845-07-31|atb=23R						
 1845	7	31	12	56	0	1004.6	orig=27.11.81Pin|orig.time=3:00PM|orig.date=1845-07-31|atb=23.66R						
 1845	7	31	18	56	0	1007.3	orig=28.0.63Pin|orig.time=9:00PM|orig.date=1845-07-31|atb=22.25R						
@@ -7758,16 +7758,16 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	10	8	6	56	0	1011.7	orig=28.1.69Pin|orig.time=9:00AM|orig.date=1845-10-08|atb=17R						
 1845	10	8	12	56	0	1009.7	orig=28.1.11Pin|orig.time=3:00PM|orig.date=1845-10-08|atb=18R						
 1845	10	8	18	56	0	1008	orig=28.0.48Pin|orig.time=9:00PM|orig.date=1845-10-08|atb=17.33R						
-1845	10	9	6	56	0	1005,9	orig=27.11.49Pin|orig.time=9:00AM|orig.date=1845-10-09|atb=16.75R						
-1845	10	9	12	56	0	1004,6	orig=27.11.05Pin|orig.time=3:00PM|orig.date=1845-10-09|atb=17R						
+1845	10	9	6	56	0	1005.9	orig=27.11.49Pin|orig.time=9:00AM|orig.date=1845-10-09|atb=16.75R						
+1845	10	9	12	56	0	1004.6	orig=27.11.05Pin|orig.time=3:00PM|orig.date=1845-10-09|atb=17R						
 1845	10	9	18	56	0	1010.2	orig=28.1.22Pin|orig.time=9:00PM|orig.date=1845-10-09|atb=17.25R						
 1845	10	10	6	56	0	1006	orig=27.11.77Pin|orig.time=9:00AM|orig.date=1845-10-10|atb=16.75R						
 1845	10	10	12	56	0	1006.7	orig=28.0Pin|orig.time=3:00PM|orig.date=1845-10-10|atb=17R						
 1845	10	10	18	56	0	1007.9	orig=28.0.43Pin|orig.time=9:00PM|orig.date=1845-10-10|atb=17R						
 1845	10	11	6	56	0	1007.3	orig=28.0.15Pin|orig.time=9:00AM|orig.date=1845-10-11|atb=16.25R						
 1845	10	11	12	56	0	1008.1	orig=28.0.47Pin|orig.time=3:00PM|orig.date=1845-10-11|atb=16.75R						
-1845	10	11	18	56	0	1003,9	orig=27.10.8Pin|orig.time=9:00PM|orig.date=1845-10-11|atb=16.75R						
-1845	10	12	6	56	0	1003,3	orig=27.10.55Pin|orig.time=9:00AM|orig.date=1845-10-12|atb=15.75R						
+1845	10	11	18	56	0	1003.9	orig=27.10.8Pin|orig.time=9:00PM|orig.date=1845-10-11|atb=16.75R						
+1845	10	12	6	56	0	1003.3	orig=27.10.55Pin|orig.time=9:00AM|orig.date=1845-10-12|atb=15.75R						
 1845	10	12	12	56	0	1002.5	orig=27.10.62Pin|orig.time=3:00PM|orig.date=1845-10-12|atb=17.25R						
 1845	10	12	18	56	0	1003.5	orig=27.10.94Pin|orig.time=9:00PM|orig.date=1845-10-12|atb=17R						
 1845	10	13	6	56	0	1003.8	orig=27.11Pin|orig.time=9:00AM|orig.date=1845-10-13|atb=16.5R						
@@ -7940,7 +7940,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	12	7	18	56	0	1010.1	orig=28.0.92Pin|orig.time=9:00PM|orig.date=1845-12-07|atb=14R						
 1845	12	8	6	56	0	1010.3	orig=28.0.94Pin|orig.time=9:00AM|orig.date=1845-12-08|atb=13.5R						
 1845	12	8	12	56	0	1008.5	orig=28.0.47Pin|orig.time=3:00PM|orig.date=1845-12-08|atb=15R						
-1845	12	8	18	56	0	1007,7	orig=27.11.9Pin|orig.time=9:00PM|orig.date=1845-12-08|atb=14R						
+1845	12	8	18	56	0	1007.7	orig=27.11.9Pin|orig.time=9:00PM|orig.date=1845-12-08|atb=14R						
 1845	12	9	6	56	0	1009.7	orig=28.0.71Pin|orig.time=9:00AM|orig.date=1845-12-09|atb=13R						
 1845	12	9	12	56	0	1009.8	orig=28.0.86Pin|orig.time=3:00PM|orig.date=1845-12-09|atb=14.5R						
 1845	12	9	18	56	0	1011.4	orig=28.1.35Pin|orig.time=9:00PM|orig.date=1845-12-09|atb=14R						
@@ -8159,7 +8159,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	2	18	18	56	0	988.6	orig=27.5.63Pin|orig.time=9:00PM|orig.date=1846-02-18|atb=12.5R						
 1846	2	19	6	56	0	998.8	orig=27.9.2Pin|orig.time=9:00AM|orig.date=1846-02-19|atb=12.25R						
 1846	2	19	12	56	0	1005.2	orig=27.11.28Pin|orig.time=3:00PM|orig.date=1846-02-19|atb=14R						
-1846	2	19	18	56	0	1013,3	orig=28.1.67Pin|orig.time=9:00PM|orig.date=1846-02-19|atb=12.5R						
+1846	2	19	18	56	0	1013.3	orig=28.1.67Pin|orig.time=9:00PM|orig.date=1846-02-19|atb=12.5R						
 1846	2	20	6	56	0	1010	orig=28.0.73Pin|orig.time=9:00AM|orig.date=1846-02-20|atb=12R						
 1846	2	20	12	56	0	1005.9	orig=27.11.41Pin|orig.time=3:00PM|orig.date=1846-02-20|atb=12.5R						
 1846	2	20	18	56	0	1008.3	orig=28.0.17Pin|orig.time=9:00PM|orig.date=1846-02-20|atb=12R						
@@ -8224,8 +8224,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	3	12	12	56	0	1012.8	orig=28.1.85Pin|orig.time=3:00PM|orig.date=1846-03-12|atb=14.5R						
 1846	3	12	18	56	0	1014.8	orig=28.2.48Pin|orig.time=9:00PM|orig.date=1846-03-12|atb=13.75R						
 1846	3	13	6	56	0	1010.4	orig=28.0.96Pin|orig.time=9:00AM|orig.date=1846-03-13|atb=13R						
-1846	3	13	12	56	0	1007,5	orig=27.11.85Pin|orig.time=3:00PM|orig.date=1846-03-13|atb=14R						
-1846	3	13	18	56	0	1007,5	orig=27.11.79Pin|orig.time=9:00PM|orig.date=1846-03-13|atb=13R						
+1846	3	13	12	56	0	1007.5	orig=27.11.85Pin|orig.time=3:00PM|orig.date=1846-03-13|atb=14R						
+1846	3	13	18	56	0	1007.5	orig=27.11.79Pin|orig.time=9:00PM|orig.date=1846-03-13|atb=13R						
 1846	3	14	6	56	0	1008.3	orig=28.0.26Pin|orig.time=9:00AM|orig.date=1846-03-14|atb=13.25R						
 1846	3	14	12	56	0	1008.2	orig=28.0.31Pin|orig.time=3:00PM|orig.date=1846-03-14|atb=14.25R						
 1846	3	14	18	56	0	1006.5	orig=27.11.63Pin|orig.time=9:00PM|orig.date=1846-03-14|atb=13R						
@@ -8488,8 +8488,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	6	8	12	56	0	1006.4	orig=27.11.68Pin|orig.time=3:00PM|orig.date=1846-06-08|atb=13.75R						
 1846	6	8	18	56	0	1007.7	orig=28.0.06Pin|orig.time=9:00PM|orig.date=1846-06-08|atb=13.3R						
 1846	6	9	6	56	0	1007.9	orig=28.0.16Pin|orig.time=9:00AM|orig.date=1846-06-09|atb=13.5R						
-1846	6	9	12	56	0	1007,3	orig=27.11.8Pin|orig.time=3:00PM|orig.date=1846-06-09|atb=14.5R						
-1846	6	9	18	56	0	1007,3	orig=27.11.79Pin|orig.time=9:00PM|orig.date=1846-06-09|atb=14.5R						
+1846	6	9	12	56	0	1007.3	orig=27.11.8Pin|orig.time=3:00PM|orig.date=1846-06-09|atb=14.5R						
+1846	6	9	18	56	0	1007.3	orig=27.11.79Pin|orig.time=9:00PM|orig.date=1846-06-09|atb=14.5R						
 1846	6	10	6	56	0	1007.3	orig=28.0.01Pin|orig.time=9:00AM|orig.date=1846-06-10|atb=14.25R						
 1846	6	10	12	56	0	1006.2	orig=27.11.73Pin|orig.time=3:00PM|orig.date=1846-06-10|atb=15.5R						
 1846	6	10	18	56	0	1006.4	orig=27.11.75Pin|orig.time=9:00PM|orig.date=1846-06-10|atb=15R						
@@ -8648,7 +8648,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	7	31	18	56	0	1005.5	orig=27.11.93Pin|orig.time=9:00PM|orig.date=1846-07-31|atb=21.25R						
 1846	8	1	6	56	0	1005.6	orig=28.0.1Pin|orig.time=9:00AM|orig.date=1846-08-01|atb=21.5R						
 1846	8	1	12	56	0	1004.9	orig=27.11.84Pin|orig.time=3:00PM|orig.date=1846-08-01|atb=22.5R						
-1846	8	1	18	56	0	1007,5	orig=28.0.3Pin|orig.time=9:00PM|orig.date=1846-08-01|atb=21.75R						
+1846	8	1	18	56	0	1007.5	orig=28.0.3Pin|orig.time=9:00PM|orig.date=1846-08-01|atb=21.75R						
 1846	8	2	6	56	0	1007.4	orig=28.0.58Pin|orig.time=9:00AM|orig.date=1846-08-02|atb=21.5R						
 1846	8	2	12	56	0	1006.1	orig=28.0.23Pin|orig.time=3:00PM|orig.date=1846-08-02|atb=22.5R						
 1846	8	2	18	56	0	1005.5	orig=28.0.5Pin|orig.time=9:00PM|orig.date=1846-08-02|atb=22.5R						
@@ -8713,7 +8713,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	8	22	12	56	0	1006.5	orig=28.0.27Pin|orig.time=3:00PM|orig.date=1846-08-22|atb=21.25R						
 1846	8	22	18	56	0	1005.8	orig=28.0.2Pin|orig.time=9:00PM|orig.date=1846-08-22|atb=20.75R						
 1846	8	23	6	56	0	1006.7	orig=28.0.32Pin|orig.time=9:00AM|orig.date=1846-08-23|atb=21.15R						
-1846	8	23	12	56	0	1006,3	orig=27.11.92Pin|orig.time=3:00PM|orig.date=1846-08-23|atb=22R						
+1846	8	23	12	56	0	1006.3	orig=27.11.92Pin|orig.time=3:00PM|orig.date=1846-08-23|atb=22R						
 1846	8	23	18	56	0	1005.7	orig=28.0.04Pin|orig.time=9:00PM|orig.date=1846-08-23|atb=21.5R						
 1846	8	24	6	56	0	1004.8	orig=27.11.66Pin|orig.time=9:00AM|orig.date=1846-08-24|atb=20.75R						
 1846	8	24	12	56	0	1002.9	orig=27.11.13Pin|orig.time=3:00PM|orig.date=1846-08-24|atb=22R						
@@ -8991,9 +8991,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	11	23	6	56	0	1013.7	orig=28.2.05Pin|orig.time=9:00AM|orig.date=1846-11-23|atb=13R						
 1846	11	23	12	56	0	1009.6	orig=28.0.83Pin|orig.time=3:00PM|orig.date=1846-11-23|atb=15R						
 1846	11	23	18	56	0	1008.1	orig=28.0.25Pin|orig.time=9:00PM|orig.date=1846-11-23|atb=14R						
-1846	11	24	6	56	0	1005,7	orig=27.11.18Pin|orig.time=9:00AM|orig.date=1846-11-24|atb=13R						
-1846	11	24	12	56	0	1005,1	orig=27.11.1Pin|orig.time=3:00PM|orig.date=1846-11-24|atb=15R						
-1846	11	24	18	56	0	1005,6	orig=27.11.21Pin|orig.time=9:00PM|orig.date=1846-11-24|atb=14R						
+1846	11	24	6	56	0	1005.7	orig=27.11.18Pin|orig.time=9:00AM|orig.date=1846-11-24|atb=13R						
+1846	11	24	12	56	0	1005.1	orig=27.11.1Pin|orig.time=3:00PM|orig.date=1846-11-24|atb=15R						
+1846	11	24	18	56	0	1005.6	orig=27.11.21Pin|orig.time=9:00PM|orig.date=1846-11-24|atb=14R						
 1846	11	25	6	56	0	1008	orig=28.0.23Pin|orig.time=9:00AM|orig.date=1846-11-25|atb=14R						
 1846	11	25	12	56	0	1007.1	orig=28.0.8Pin|orig.time=3:00PM|orig.date=1846-11-25|atb=16R						
 1846	11	25	18	56	0	1012.7	orig=28.1.87Pin|orig.time=9:00PM|orig.date=1846-11-25|atb=15R						
@@ -9282,9 +9282,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	2	28	6	56	0	998.9	orig=27.9Pin|orig.time=9:00AM|orig.date=1847-02-28|atb=11.5R						
 1847	2	28	12	56	0	1003.9	orig=27.10.78Pin|orig.time=3:00PM|orig.date=1847-02-28|atb=12.95R						
 1847	2	28	18	56	0	1013.5	orig=28.1.99Pin|orig.time=9:00PM|orig.date=1847-02-28|atb=13R						
-1847	3	1	6	56	0	1021,9	orig=28.4.53Pin|orig.time=9:00AM|orig.date=1847-03-01|atb=12R						
-1847	3	1	12	56	0	1021,7	orig=28.4.56Pin|orig.time=3:00PM|orig.date=1847-03-01|atb=14R						
-1847	3	1	18	56	0	1020,7	orig=28.4.19Pin|orig.time=9:00PM|orig.date=1847-03-01|atb=13R						
+1847	3	1	6	56	0	1021.9	orig=28.4.53Pin|orig.time=9:00AM|orig.date=1847-03-01|atb=12R						
+1847	3	1	12	56	0	1021.7	orig=28.4.56Pin|orig.time=3:00PM|orig.date=1847-03-01|atb=14R						
+1847	3	1	18	56	0	1020.7	orig=28.4.19Pin|orig.time=9:00PM|orig.date=1847-03-01|atb=13R						
 1847	3	2	6	56	0	1014.2	orig=28.2.22Pin|orig.time=9:00AM|orig.date=1847-03-02|atb=13R						
 1847	3	2	12	56	0	1010.4	orig=28.1.03Pin|orig.time=3:00PM|orig.date=1847-03-02|atb=14R						
 1847	3	2	18	56	0	1009.9	orig=28.0.78Pin|orig.time=9:00PM|orig.date=1847-03-02|atb=13R						
@@ -9533,7 +9533,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	5	22	18	56	0	1010.6	orig=28.1.29Pin|orig.time=9:00PM|orig.date=1847-05-22|atb=16.5R						
 1847	5	23	6	56	0	1013.5	orig=28.2.27Pin|orig.time=9:00AM|orig.date=1847-05-23|atb=17R						
 1847	5	23	12	56	0	1008.9	orig=28.0.82Pin|orig.time=3:00PM|orig.date=1847-05-23|atb=18R						
-1847	5	23	18	56	0	1006,7	orig=27.11.75Pin|orig.time=9:00PM|orig.date=1847-05-23|atb=17R						
+1847	5	23	18	56	0	1006.7	orig=27.11.75Pin|orig.time=9:00PM|orig.date=1847-05-23|atb=17R						
 1847	5	24	6	56	0	1005.5	orig=27.11.63Pin|orig.time=9:00AM|orig.date=1847-05-24|atb=17R						
 1847	5	24	12	56	0	1002	orig=27.10.51Pin|orig.time=3:00PM|orig.date=1847-05-24|atb=18R						
 1847	5	24	18	56	0	1004.1	orig=27.11.06Pin|orig.time=9:00PM|orig.date=1847-05-24|atb=16R						
@@ -9636,9 +9636,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	7	3	6	56	0	1001.7	orig=27.10.57Pin|orig.time=9:00AM|orig.date=1847-07-03|atb=19.75R						
 1847	7	3	12	56	0	1000.8	orig=27.10.31Pin|orig.time=3:00PM|orig.date=1847-07-03|atb=20.25R						
 1847	7	3	18	56	0	1000.4	orig=27.10.12Pin|orig.time=9:00PM|orig.date=1847-07-03|atb=19.5R						
-1847	7	4	6	56	0	1000,1	orig=27.9.71Pin|orig.time=9:00AM|orig.date=1847-07-04|atb=19.5R						
+1847	7	4	6	56	0	1000.1	orig=27.9.71Pin|orig.time=9:00AM|orig.date=1847-07-04|atb=19.5R						
 1847	7	4	12	56	0	999	orig=27.9.4Pin|orig.time=3:00PM|orig.date=1847-07-04|atb=20.5R						
-1847	7	4	18	56	0	1000,1	orig=27.9.73Pin|orig.time=9:00PM|orig.date=1847-07-04|atb=19.85R						
+1847	7	4	18	56	0	1000.1	orig=27.9.73Pin|orig.time=9:00PM|orig.date=1847-07-04|atb=19.85R						
 1847	7	5	6	56	0	1000.3	orig=27.9.86Pin|orig.time=9:00AM|orig.date=1847-07-05|atb=16.85R						
 1847	7	5	12	56	0	1000.6	orig=27.10.14Pin|orig.time=3:00PM|orig.date=1847-07-05|atb=19R						
 1847	7	5	18	56	0	1002.6	orig=27.10.81Pin|orig.time=9:00PM|orig.date=1847-07-05|atb=19R						
@@ -9748,7 +9748,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	8	9	12	56	0	1000.4	orig=27.10.34Pin|orig.time=3:00PM|orig.date=1847-08-09|atb=22.5R						
 1847	8	9	18	56	0	1000.8	orig=27.10.45Pin|orig.time=9:00PM|orig.date=1847-08-09|atb=22.25R						
 1847	8	10	6	56	0	1000.6	orig=27.10.35Pin|orig.time=9:00AM|orig.date=1847-08-10|atb=22R						
-1847	8	10	12	56	0	999,7	orig=27.9.78Pin|orig.time=3:00PM|orig.date=1847-08-10|atb=23.15R						
+1847	8	10	12	56	0	999.7	orig=27.9.78Pin|orig.time=3:00PM|orig.date=1847-08-10|atb=23.15R						
 1847	8	10	18	56	0	1000	orig=27.10.22Pin|orig.time=9:00PM|orig.date=1847-08-10|atb=22.75R						
 1847	8	11	6	56	0	1002	orig=27.10.94Pin|orig.time=9:00AM|orig.date=1847-08-11|atb=23.5R						
 1847	8	11	12	56	0	999.5	orig=27.10.7Pin|orig.time=3:00PM|orig.date=1847-08-11|atb=23R						
@@ -9817,7 +9817,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	9	1	12	56	0	999.6	orig=27.10.06Pin|orig.time=3:00PM|orig.date=1847-09-01|atb=22.5R						
 1847	9	1	18	56	0	1001	orig=27.10.41Pin|orig.time=9:00PM|orig.date=1847-09-01|atb=20.75R						
 1847	9	2	6	56	0	1003	orig=27.11.11Pin|orig.time=9:00AM|orig.date=1847-09-02|atb=21.5R						
-1847	9	2	12	56	0	1003,7	orig=27.11.04Pin|orig.time=3:00PM|orig.date=1847-09-02|atb=21.45R						
+1847	9	2	12	56	0	1003.7	orig=27.11.04Pin|orig.time=3:00PM|orig.date=1847-09-02|atb=21.45R						
 1847	9	2	18	56	0	1004	orig=27.11.41Pin|orig.time=9:00PM|orig.date=1847-09-02|atb=20.75R						
 1847	9	3	6	56	0	1001.7	orig=27.10.68Pin|orig.time=9:00AM|orig.date=1847-09-03|atb=21.15R						
 1847	9	3	12	56	0	999.7	orig=27.10.01Pin|orig.time=3:00PM|orig.date=1847-09-03|atb=21.5R						
@@ -9891,13 +9891,13 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	9	26	6	56	0	1004.5	orig=27.11.36Pin|orig.time=9:00AM|orig.date=1847-09-26|atb=18R						
 1847	9	26	12	56	0	1004.1	orig=27.11.24Pin|orig.time=3:00PM|orig.date=1847-09-26|atb=18.25R						
 1847	9	26	18	56	0	1004.6	orig=27.11.33Pin|orig.time=9:00PM|orig.date=1847-09-26|atb=17R						
-1847	9	27	6	56	0	1009,7	orig=28.0.85Pin|orig.time=9:00AM|orig.date=1847-09-27|atb=18.5R						
+1847	9	27	6	56	0	1009.7	orig=28.0.85Pin|orig.time=9:00AM|orig.date=1847-09-27|atb=18.5R						
 1847	9	27	12	56	0	1003.6	orig=27.11.13Pin|orig.time=3:00PM|orig.date=1847-09-27|atb=18.75R						
 1847	9	27	18	56	0	1004.4	orig=27.11.34Pin|orig.time=9:00PM|orig.date=1847-09-27|atb=18R						
 1847	9	28	6	56	0	1007	orig=28.0.19Pin|orig.time=9:00AM|orig.date=1847-09-28|atb=18R						
 1847	9	28	12	56	0	1007.4	orig=28.0.36Pin|orig.time=3:00PM|orig.date=1847-09-28|atb=18.25R						
 1847	9	28	18	56	0	1006.7	orig=28.0.4Pin|orig.time=9:00PM|orig.date=1847-09-28|atb=17.5R						
-1847	9	29	6	56	0	1006,6	orig=27.11.72Pin|orig.time=9:00AM|orig.date=1847-09-29|atb=17R						
+1847	9	29	6	56	0	1006.6	orig=27.11.72Pin|orig.time=9:00AM|orig.date=1847-09-29|atb=17R						
 1847	9	29	12	56	0	1007	orig=27.11.91Pin|orig.time=3:00PM|orig.date=1847-09-29|atb=18R						
 1847	9	29	18	56	0	1008.4	orig=28.0.57Pin|orig.time=9:00PM|orig.date=1847-09-29|atb=17R						
 1847	9	30	6	56	0	1004.8	orig=27.11.33Pin|orig.time=9:00AM|orig.date=1847-09-30|atb=16.5R						
@@ -9930,9 +9930,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	10	9	6	56	0	1018.5	orig=28.3.75Pin|orig.time=9:00AM|orig.date=1847-10-09|atb=14.5R						
 1847	10	9	12	56	0	1014.7	orig=28.2.52Pin|orig.time=3:00PM|orig.date=1847-10-09|atb=15R						
 1847	10	9	18	56	0	1011.3	orig=28.1.35Pin|orig.time=9:00PM|orig.date=1847-10-09|atb=14.5R						
-1847	10	10	6	56	0	1001,4	orig=27.9.79Pin|orig.time=9:00AM|orig.date=1847-10-10|atb=14R						
-1847	10	10	12	56	0	998,3	orig=27.8.81Pin|orig.time=3:00PM|orig.date=1847-10-10|atb=14.5R						
-1847	10	10	18	56	0	998,8	orig=27.8.96Pin|orig.time=9:00PM|orig.date=1847-10-10|atb=14.25R						
+1847	10	10	6	56	0	1001.4	orig=27.9.79Pin|orig.time=9:00AM|orig.date=1847-10-10|atb=14R						
+1847	10	10	12	56	0	998.3	orig=27.8.81Pin|orig.time=3:00PM|orig.date=1847-10-10|atb=14.5R						
+1847	10	10	18	56	0	998.8	orig=27.8.96Pin|orig.time=9:00PM|orig.date=1847-10-10|atb=14.25R						
 1847	10	11	6	56	0	1002.5	orig=27.10.39Pin|orig.time=9:00AM|orig.date=1847-10-11|atb=14R						
 1847	10	11	12	56	0	1004.1	orig=27.11Pin|orig.time=3:00PM|orig.date=1847-10-11|atb=15R						
 1847	10	11	18	56	0	1008.6	orig=28.0.45Pin|orig.time=9:00PM|orig.date=1847-10-11|atb=14.5R						
@@ -10103,12 +10103,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	12	5	18	56	0	1012.3	orig=28.1.51Pin|orig.time=9:00PM|orig.date=1847-12-05|atb=12.25R						
 1847	12	6	6	56	0	1009.7	orig=28.0.65Pin|orig.time=9:00AM|orig.date=1847-12-06|atb=12.25R						
 1847	12	6	12	56	0	1007.7	orig=28.0.03Pin|orig.time=3:00PM|orig.date=1847-12-06|atb=13R						
-1847	12	6	18	56	0	1007,5	orig=27.11.73Pin|orig.time=9:00PM|orig.date=1847-12-06|atb=12R						
-1847	12	7	6	56	0	1005,4	orig=27.11.04Pin|orig.time=9:00AM|orig.date=1847-12-07|atb=12.25R						
-1847	12	7	12	56	0	1004,2	orig=27.10.67Pin|orig.time=3:00PM|orig.date=1847-12-07|atb=13R						
-1847	12	7	18	56	0	1005,4	orig=27.11.06Pin|orig.time=9:00PM|orig.date=1847-12-07|atb=12.5R						
-1847	12	8	6	56	0	1005,6	orig=27.11.13Pin|orig.time=9:00AM|orig.date=1847-12-08|atb=12.75R						
-1847	12	8	12	56	0	1038,8	orig=27.11.24Pin|orig.time=3:00PM|orig.date=1847-12-08|atb=13.25R						
+1847	12	6	18	56	0	1007.5	orig=27.11.73Pin|orig.time=9:00PM|orig.date=1847-12-06|atb=12R						
+1847	12	7	6	56	0	1005.4	orig=27.11.04Pin|orig.time=9:00AM|orig.date=1847-12-07|atb=12.25R						
+1847	12	7	12	56	0	1004.2	orig=27.10.67Pin|orig.time=3:00PM|orig.date=1847-12-07|atb=13R						
+1847	12	7	18	56	0	1005.4	orig=27.11.06Pin|orig.time=9:00PM|orig.date=1847-12-07|atb=12.5R						
+1847	12	8	6	56	0	1005.6	orig=27.11.13Pin|orig.time=9:00AM|orig.date=1847-12-08|atb=12.75R						
+1847	12	8	12	56	0	1038.8	orig=27.11.24Pin|orig.time=3:00PM|orig.date=1847-12-08|atb=13.25R						
 1847	12	8	18	56	0	1008	orig=27.11.92Pin|orig.time=9:00PM|orig.date=1847-12-08|atb=12.85R						
 1847	12	9	6	56	0	1014.3	orig=28.2.19Pin|orig.time=9:00AM|orig.date=1847-12-09|atb=12.25R						
 1847	12	9	12	56	0	1017.6	orig=28.3.42Pin|orig.time=3:00PM|orig.date=1847-12-09|atb=14R						
@@ -10222,12 +10222,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	1	14	12	56	0	1001.8	orig=27.9.91Pin|orig.time=3:00PM|orig.date=1848-01-14|atb=11R						
 1848	1	14	18	56	0	1005	orig=27.10.96Pin|orig.time=9:00PM|orig.date=1848-01-14|atb=10.5R						
 1848	1	15	6	56	0	1005.5	orig=27.11.8Pin|orig.time=9:00AM|orig.date=1848-01-15|atb=10.15R						
-1848	1	15	12	56	0	1006,9	orig=27.11.47Pin|orig.time=3:00PM|orig.date=1848-01-15|atb=11.25R						
+1848	1	15	12	56	0	1006.9	orig=27.11.47Pin|orig.time=3:00PM|orig.date=1848-01-15|atb=11.25R						
 1848	1	15	18	56	0	1007	orig=27.11.46Pin|orig.time=9:00PM|orig.date=1848-01-15|atb=10.5R						
 1848	1	16	6	56	0	1005	orig=27.10.73Pin|orig.time=9:00AM|orig.date=1848-01-16|atb=9.5R						
-1848	1	16	12	56	0	1004,6	orig=27.10.7Pin|orig.time=3:00PM|orig.date=1848-01-16|atb=11R						
-1848	1	16	18	56	0	1005,4	orig=27.10.92Pin|orig.time=9:00PM|orig.date=1848-01-16|atb=10.5R						
-1848	1	17	6	56	0	1008,4	orig=27.11.89Pin|orig.time=9:00AM|orig.date=1848-01-17|atb=10R						
+1848	1	16	12	56	0	1004.6	orig=27.10.7Pin|orig.time=3:00PM|orig.date=1848-01-16|atb=11R						
+1848	1	16	18	56	0	1005.4	orig=27.10.92Pin|orig.time=9:00PM|orig.date=1848-01-16|atb=10.5R						
+1848	1	17	6	56	0	1008.4	orig=27.11.89Pin|orig.time=9:00AM|orig.date=1848-01-17|atb=10R						
 1848	1	17	12	56	0	1008.9	orig=28.0.35Pin|orig.time=3:00PM|orig.date=1848-01-17|atb=11.75R						
 1848	1	17	18	56	0	1010	orig=28.0.67Pin|orig.time=9:00PM|orig.date=1848-01-17|atb=11R						
 1848	1	18	6	56	0	1009.4	orig=28.0.45Pin|orig.time=9:00AM|orig.date=1848-01-18|atb=11R						
@@ -10263,12 +10263,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	1	28	6	56	0	1030.9	orig=28.7.45Pin|orig.time=9:00AM|orig.date=1848-01-28|atb=9R						
 1848	1	28	12	56	0	1029.1	orig=28.7.3Pin|orig.time=3:00PM|orig.date=1848-01-28|atb=11R						
 1848	1	28	18	56	0	1030.5	orig=28.7.41Pin|orig.time=9:00PM|orig.date=1848-01-28|atb=10R						
-1848	1	29	6	56	0	1027,5	orig=28.6.25Pin|orig.time=9:00AM|orig.date=1848-01-29|atb=10R						
-1848	1	29	12	56	0	1024,7	orig=28.5.39Pin|orig.time=3:00PM|orig.date=1848-01-29|atb=11R						
-1848	1	29	18	56	0	1028,9	orig=28.6.74Pin|orig.time=9:00PM|orig.date=1848-01-29|atb=10.5R						
-1848	1	30	6	56	0	1028,4	orig=28.6.55Pin|orig.time=9:00AM|orig.date=1848-01-30|atb=10R						
-1848	1	30	12	56	0	1028,6	orig=28.6.75Pin|orig.time=3:00PM|orig.date=1848-01-30|atb=12R						
-1848	1	30	18	56	0	1029,1	orig=28.6.86Pin|orig.time=9:00PM|orig.date=1848-01-30|atb=11R						
+1848	1	29	6	56	0	1027.5	orig=28.6.25Pin|orig.time=9:00AM|orig.date=1848-01-29|atb=10R						
+1848	1	29	12	56	0	1024.7	orig=28.5.39Pin|orig.time=3:00PM|orig.date=1848-01-29|atb=11R						
+1848	1	29	18	56	0	1028.9	orig=28.6.74Pin|orig.time=9:00PM|orig.date=1848-01-29|atb=10.5R						
+1848	1	30	6	56	0	1028.4	orig=28.6.55Pin|orig.time=9:00AM|orig.date=1848-01-30|atb=10R						
+1848	1	30	12	56	0	1028.6	orig=28.6.75Pin|orig.time=3:00PM|orig.date=1848-01-30|atb=12R						
+1848	1	30	18	56	0	1029.1	orig=28.6.86Pin|orig.time=9:00PM|orig.date=1848-01-30|atb=11R						
 1848	1	31	6	56	0	1025.6	orig=28.5.83Pin|orig.time=9:00AM|orig.date=1848-01-31|atb=10.5R						
 1848	1	31	12	56	0	1024	orig=28.5.41Pin|orig.time=3:00PM|orig.date=1848-01-31|atb=12R						
 1848	1	31	18	56	0	1021.6	orig=28.4.51Pin|orig.time=9:00PM|orig.date=1848-01-31|atb=11R						
@@ -10359,15 +10359,15 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	2	29	6	56	0	1002.3	orig=27.10.24Pin|orig.time=9:00AM|orig.date=1848-02-29|atb=13R						
 1848	2	29	12	56	0	1002.7	orig=27.10.48Pin|orig.time=3:00PM|orig.date=1848-02-29|atb=14.5R						
 1848	2	29	18	56	0	1003.5	orig=27.10.67Pin|orig.time=9:00PM|orig.date=1848-02-29|atb=13.25R						
-1848	3	1	6	56	0	997,9	orig=27.8.59Pin|orig.time=9:00AM|orig.date=1848-03-01|atb=13R						
-1848	3	1	12	56	0	991,2	orig=27.6.41Pin|orig.time=3:00PM|orig.date=1848-03-01|atb=14R						
-1848	3	1	18	56	0	993,3	orig=27.7.06Pin|orig.time=9:00PM|orig.date=1848-03-01|atb=13R						
-1848	3	2	6	56	0	998,3	orig=27.8.75Pin|orig.time=9:00AM|orig.date=1848-03-02|atb=13.5R						
-1848	3	2	12	56	0	995,9	orig=27.7.96Pin|orig.time=3:00PM|orig.date=1848-03-02|atb=14R						
+1848	3	1	6	56	0	997.9	orig=27.8.59Pin|orig.time=9:00AM|orig.date=1848-03-01|atb=13R						
+1848	3	1	12	56	0	991.2	orig=27.6.41Pin|orig.time=3:00PM|orig.date=1848-03-01|atb=14R						
+1848	3	1	18	56	0	993.3	orig=27.7.06Pin|orig.time=9:00PM|orig.date=1848-03-01|atb=13R						
+1848	3	2	6	56	0	998.3	orig=27.8.75Pin|orig.time=9:00AM|orig.date=1848-03-02|atb=13.5R						
+1848	3	2	12	56	0	995.9	orig=27.7.96Pin|orig.time=3:00PM|orig.date=1848-03-02|atb=14R						
 1848	3	2	18	56	0	996	orig=27.7.96Pin|orig.time=9:00PM|orig.date=1848-03-02|atb=13R						
-1848	3	3	6	56	0	1003,9	orig=27.10.59Pin|orig.time=9:00AM|orig.date=1848-03-03|atb=13R						
-1848	3	3	12	56	0	1005,4	orig=27.11.13Pin|orig.time=3:00PM|orig.date=1848-03-03|atb=14R						
-1848	3	3	18	56	0	1004,7	orig=27.10.83Pin|orig.time=9:00PM|orig.date=1848-03-03|atb=13R						
+1848	3	3	6	56	0	1003.9	orig=27.10.59Pin|orig.time=9:00AM|orig.date=1848-03-03|atb=13R						
+1848	3	3	12	56	0	1005.4	orig=27.11.13Pin|orig.time=3:00PM|orig.date=1848-03-03|atb=14R						
+1848	3	3	18	56	0	1004.7	orig=27.10.83Pin|orig.time=9:00PM|orig.date=1848-03-03|atb=13R						
 1848	3	4	6	56	0	1007.6	orig=28.0.5Pin|orig.time=9:00AM|orig.date=1848-03-04|atb=13.5R						
 1848	3	4	12	56	0	1013.1	orig=28.1.93Pin|orig.time=3:00PM|orig.date=1848-03-04|atb=14.25R						
 1848	3	4	18	56	0	1013.8	orig=28.2.08Pin|orig.time=9:00PM|orig.date=1848-03-04|atb=13R						
@@ -10548,15 +10548,15 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	5	2	6	56	0	1010.5	orig=28.1.7Pin|orig.time=9:00AM|orig.date=1848-05-02|atb=14.3R						
 1848	5	2	12	56	0	1010.3	orig=28.1.5Pin|orig.time=3:00PM|orig.date=1848-05-02|atb=15R						
 1848	5	2	18	56	0	1012.1	orig=28.1.62Pin|orig.time=9:00PM|orig.date=1848-05-02|atb=14.5R						
-1848	5	3	6	56	0	1013,2	orig=28.1.76Pin|orig.time=9:00AM|orig.date=1848-05-03|atb=14.33R						
+1848	5	3	6	56	0	1013.2	orig=28.1.76Pin|orig.time=9:00AM|orig.date=1848-05-03|atb=14.33R						
 1848	5	3	12	56	0	1011.4	orig=28.1.42Pin|orig.time=3:00PM|orig.date=1848-05-03|atb=15R						
 1848	5	3	18	56	0	1010.1	orig=28.0.97Pin|orig.time=9:00PM|orig.date=1848-05-03|atb=14.5R						
 1848	5	4	6	56	0	1006.5	orig=27.11.72Pin|orig.time=9:00AM|orig.date=1848-05-04|atb=14R						
 1848	5	4	12	56	0	1006.5	orig=27.11.76Pin|orig.time=3:00PM|orig.date=1848-05-04|atb=14.5R						
 1848	5	4	18	56	0	1007.2	orig=27.11.97Pin|orig.time=9:00PM|orig.date=1848-05-04|atb=14R						
 1848	5	5	6	56	0	1007.3	orig=28.0.1Pin|orig.time=9:00AM|orig.date=1848-05-05|atb=14.5R						
-1848	5	5	12	56	0	1006,9	orig=27.11.67Pin|orig.time=3:00PM|orig.date=1848-05-05|atb=14.5R						
-1848	5	5	18	56	0	1007,8	orig=27.11.95Pin|orig.time=9:00PM|orig.date=1848-05-05|atb=14.25R						
+1848	5	5	12	56	0	1006.9	orig=27.11.67Pin|orig.time=3:00PM|orig.date=1848-05-05|atb=14.5R						
+1848	5	5	18	56	0	1007.8	orig=27.11.95Pin|orig.time=9:00PM|orig.date=1848-05-05|atb=14.25R						
 1848	5	6	6	56	0	1008.5	orig=28.0.39Pin|orig.time=9:00AM|orig.date=1848-05-06|atb=14R						
 1848	5	6	12	56	0	1008.5	orig=28.0.47Pin|orig.time=3:00PM|orig.date=1848-05-06|atb=15R						
 1848	5	6	18	56	0	1010.6	orig=28.1.12Pin|orig.time=9:00PM|orig.date=1848-05-06|atb=14.5R						
@@ -10580,7 +10580,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	5	12	18	56	0	1010.5	orig=28.1.02Pin|orig.time=9:00PM|orig.date=1848-05-12|atb=13.5R						
 1848	5	13	6	56	0	1010.6	orig=28.1.15Pin|orig.time=9:00AM|orig.date=1848-05-13|atb=15R						
 1848	5	13	12	56	0	1007.7	orig=28.0.22Pin|orig.time=3:00PM|orig.date=1848-05-13|atb=15.5R						
-1848	5	13	18	56	0	1007,8	orig=27.11.97Pin|orig.time=9:00PM|orig.date=1848-05-13|atb=14.25R						
+1848	5	13	18	56	0	1007.8	orig=27.11.97Pin|orig.time=9:00PM|orig.date=1848-05-13|atb=14.25R						
 1848	5	14	6	56	0	1005.6	orig=27.11.48Pin|orig.time=9:00AM|orig.date=1848-05-14|atb=14.75R						
 1848	5	14	12	56	0	1004.5	orig=27.11.18Pin|orig.time=3:00PM|orig.date=1848-05-14|atb=15.5R						
 1848	5	14	18	56	0	1006.7	orig=27.11.85Pin|orig.time=9:00PM|orig.date=1848-05-14|atb=15R						
@@ -10754,7 +10754,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	7	9	18	56	0	1078.3	orig=30.0Pin|orig.time=9:00PM|orig.date=1848-07-09|atb=18R						
 1848	7	10	6	56	0	1069.5	orig=29.9.5Pin|orig.time=9:00AM|orig.date=1848-07-10|atb=18R						
 1848	7	10	12	56	0	1068.8	orig=29.8.85Pin|orig.time=3:00PM|orig.date=1848-07-10|atb=18.25R						
-1848	7	10	18	56	0	1009,6	orig=28.0.97Pin|orig.time=9:00PM|orig.date=1848-07-10|atb=21R						
+1848	7	10	18	56	0	1009.6	orig=28.0.97Pin|orig.time=9:00PM|orig.date=1848-07-10|atb=21R						
 1848	7	11	6	56	0	1005.6	orig=28.0.3Pin|orig.time=9:00AM|orig.date=1848-07-11|atb=22R						
 1848	7	11	12	56	0	1063.8	orig=29.7.33Pin|orig.time=3:00PM|orig.date=1848-07-11|atb=20R						
 1848	7	11	18	56	0	1063.1	orig=29.7.1Pin|orig.time=9:00PM|orig.date=1848-07-11|atb=19R						
@@ -10789,18 +10789,18 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	7	21	12	56	0	1066.4	orig=29.8.1Pin|orig.time=3:00PM|orig.date=1848-07-21|atb=18R						
 1848	7	21	18	56	0	1066.8	orig=29.8.15Pin|orig.time=9:00PM|orig.date=1848-07-21|atb=18R						
 1848	7	22	6	56	0	1010.2	orig=28.1.53Pin|orig.time=9:00AM|orig.date=1848-07-22|atb=21.5R						
-1848	7	22	12	56	0	1068,2	orig=29.8.35Pin|orig.time=3:00PM|orig.date=1848-07-22|atb=18.33R						
-1848	7	22	18	56	0	1068,4	orig=29.8.45Pin|orig.time=9:00PM|orig.date=1848-07-22|atb=19R						
+1848	7	22	12	56	0	1068.2	orig=29.8.35Pin|orig.time=3:00PM|orig.date=1848-07-22|atb=18.33R						
+1848	7	22	18	56	0	1068.4	orig=29.8.45Pin|orig.time=9:00PM|orig.date=1848-07-22|atb=19R						
 1848	7	23	6	56	0	1070	orig=29.9Pin|orig.time=9:00AM|orig.date=1848-07-23|atb=19R						
-1848	7	23	12	56	0	1068,5	orig=29.8.55Pin|orig.time=3:00PM|orig.date=1848-07-23|atb=20R						
-1848	7	23	18	56	0	1067,6	orig=29.8.25Pin|orig.time=9:00PM|orig.date=1848-07-23|atb=20R						
+1848	7	23	12	56	0	1068.5	orig=29.8.55Pin|orig.time=3:00PM|orig.date=1848-07-23|atb=20R						
+1848	7	23	18	56	0	1067.6	orig=29.8.25Pin|orig.time=9:00PM|orig.date=1848-07-23|atb=20R						
 1848	7	24	6	56	0	1069	orig=29.8.7Pin|orig.time=9:00AM|orig.date=1848-07-24|atb=19.75R						
-1848	7	24	12	56	0	1067,5	orig=29.8.25Pin|orig.time=3:00PM|orig.date=1848-07-24|atb=20.25R						
-1848	7	24	18	56	0	1067,7	orig=29.8.3Pin|orig.time=9:00PM|orig.date=1848-07-24|atb=20R						
+1848	7	24	12	56	0	1067.5	orig=29.8.25Pin|orig.time=3:00PM|orig.date=1848-07-24|atb=20.25R						
+1848	7	24	18	56	0	1067.7	orig=29.8.3Pin|orig.time=9:00PM|orig.date=1848-07-24|atb=20R						
 1848	7	25	6	56	0	1066	orig=29.8.6Pin|orig.time=9:00AM|orig.date=1848-07-25|atb=20R						
 1848	7	25	12	56	0	1066	orig=29.8.5Pin|orig.time=3:00PM|orig.date=1848-07-25|atb=20R						
 1848	7	25	18	56	0	1066.8	orig=29.8.33Pin|orig.time=9:00PM|orig.date=1848-07-25|atb=20R						
-1848	7	26	6	56	0	1011,1	orig=28.1.54Pin|orig.time=9:00AM|orig.date=1848-07-26|atb=22R						
+1848	7	26	6	56	0	1011.1	orig=28.1.54Pin|orig.time=9:00AM|orig.date=1848-07-26|atb=22R						
 1848	7	26	12	56	0	1066.8	orig=29.8.38Pin|orig.time=3:00PM|orig.date=1848-07-26|atb=20.75R						
 1848	7	26	18	56	0	1067.5	orig=29.8.55Pin|orig.time=9:00PM|orig.date=1848-07-26|atb=20R						
 1848	7	27	6	56	0	1068.7	orig=29.9.1Pin|orig.time=9:00AM|orig.date=1848-07-27|atb=20.5R						
@@ -10889,7 +10889,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	8	23	18	56	0	1065.9	orig=29.8.9Pin|orig.time=9:00PM|orig.date=1848-08-23|atb=21R						
 1848	8	24	6	56	0	1069	orig=29.9.15Pin|orig.time=9:00AM|orig.date=1848-08-24|atb=21R						
 1848	8	24	12	56	0	1067.8	orig=29.8.75Pin|orig.time=3:00PM|orig.date=1848-08-24|atb=21.25R						
-1848	8	24	18	56	0	1068,2	orig=29.8.5Pin|orig.time=9:00PM|orig.date=1848-08-24|atb=20.5R						
+1848	8	24	18	56	0	1068.2	orig=29.8.5Pin|orig.time=9:00PM|orig.date=1848-08-24|atb=20.5R						
 1848	8	25	6	56	0	1029.6	orig=28.8.4Pin|orig.time=9:00AM|orig.date=1848-08-25|atb=22R						
 1848	8	25	12	56	0	1065.6	orig=29.8Pin|orig.time=3:00PM|orig.date=1848-08-25|atb=21R						
 1848	8	25	18	56	0	1064.7	orig=29.7.75Pin|orig.time=9:00PM|orig.date=1848-08-25|atb=21.5R						
@@ -11030,7 +11030,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	10	9	18	56	0	1012.5	orig=28.1.83Pin|orig.time=9:00PM|orig.date=1848-10-09|atb=15.5R						
 1848	10	10	6	56	0	1011	orig=28.1.32Pin|orig.time=9:00AM|orig.date=1848-10-10|atb=15.25R						
 1848	10	10	12	56	0	1007.4	orig=28.0.18Pin|orig.time=3:00PM|orig.date=1848-10-10|atb=16R						
-1848	10	10	18	56	0	1006,5	orig=27.11.56Pin|orig.time=9:00PM|orig.date=1848-10-10|atb=15R						
+1848	10	10	18	56	0	1006.5	orig=27.11.56Pin|orig.time=9:00PM|orig.date=1848-10-10|atb=15R						
 1848	10	11	6	56	0	999	orig=27.9.28Pin|orig.time=9:00AM|orig.date=1848-10-11|atb=15R						
 1848	10	11	12	56	0	992.6	orig=27.7.23Pin|orig.time=3:00PM|orig.date=1848-10-11|atb=16R						
 1848	10	11	18	56	0	995.2	orig=27.8.04Pin|orig.time=9:00PM|orig.date=1848-10-11|atb=15R						
@@ -11096,13 +11096,13 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	10	31	18	56	0	1010.8	orig=28.1.12Pin|orig.time=9:00PM|orig.date=1848-10-31|atb=13.75R						
 1848	11	1	6	56	0	1007.8	orig=28.0.18Pin|orig.time=9:00AM|orig.date=1848-11-01|atb=14.25R						
 1848	11	1	12	56	0	1006	orig=27.11.41Pin|orig.time=3:00PM|orig.date=1848-11-01|atb=15R						
-1848	11	1	18	56	0	1005,6	orig=27.11.26Pin|orig.time=9:00PM|orig.date=1848-11-01|atb=15R						
+1848	11	1	18	56	0	1005.6	orig=27.11.26Pin|orig.time=9:00PM|orig.date=1848-11-01|atb=15R						
 1848	11	2	6	56	0	1005.6	orig=27.11.45Pin|orig.time=9:00AM|orig.date=1848-11-02|atb=14.5R						
 1848	11	2	12	56	0	1006.1	orig=27.11.65Pin|orig.time=3:00PM|orig.date=1848-11-02|atb=15R						
 1848	11	2	18	56	0	1007.5	orig=28.0.12Pin|orig.time=9:00PM|orig.date=1848-11-02|atb=14.66R						
 1848	11	3	6	56	0	1008.1	orig=28.0.29Pin|orig.time=9:00AM|orig.date=1848-11-03|atb=14.5R						
-1848	11	3	12	56	0	1005,3	orig=27.11.18Pin|orig.time=3:00PM|orig.date=1848-11-03|atb=15R						
-1848	11	3	18	56	0	1006,3	orig=27.11.47Pin|orig.time=9:00PM|orig.date=1848-11-03|atb=14.75R						
+1848	11	3	12	56	0	1005.3	orig=27.11.18Pin|orig.time=3:00PM|orig.date=1848-11-03|atb=15R						
+1848	11	3	18	56	0	1006.3	orig=27.11.47Pin|orig.time=9:00PM|orig.date=1848-11-03|atb=14.75R						
 1848	11	4	6	56	0	1004.4	orig=27.11.08Pin|orig.time=9:00AM|orig.date=1848-11-04|atb=14.66R						
 1848	11	4	12	56	0	1002.8	orig=27.10.55Pin|orig.time=3:00PM|orig.date=1848-11-04|atb=15R						
 1848	11	4	18	56	0	1003.2	orig=27.10.67Pin|orig.time=9:00PM|orig.date=1848-11-04|atb=14.5R						
@@ -11290,7 +11290,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	1	4	12	56	0	1016.9	orig=28.2.94Pin|orig.time=3:00PM|orig.date=1849-01-04|atb=10.66R						
 1849	1	4	18	56	0	1012.4	orig=28.1.38Pin|orig.time=9:00PM|orig.date=1849-01-04|atb=10R						
 1849	1	5	6	56	0	1005.4	orig=27.11.2Pin|orig.time=9:00AM|orig.date=1849-01-05|atb=9.85R						
-1849	1	5	12	56	0	1008,2	orig=27.11.86Pin|orig.time=3:00PM|orig.date=1849-01-05|atb=10.5R						
+1849	1	5	12	56	0	1008.2	orig=27.11.86Pin|orig.time=3:00PM|orig.date=1849-01-05|atb=10.5R						
 1849	1	5	18	56	0	1012	orig=28.1.29Pin|orig.time=9:00PM|orig.date=1849-01-05|atb=10.5R						
 1849	1	6	6	56	0	1008.3	orig=28.0.01Pin|orig.time=9:00AM|orig.date=1849-01-06|atb=10R						
 1849	1	6	12	56	0	1000.1	orig=27.9.36Pin|orig.time=3:00PM|orig.date=1849-01-06|atb=11R						
@@ -11347,7 +11347,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	1	23	12	56	0	1011.6	orig=28.1.33Pin|orig.time=3:00PM|orig.date=1849-01-23|atb=13R						
 1849	1	23	18	56	0	1011.5	orig=28.1.27Pin|orig.time=9:00PM|orig.date=1849-01-23|atb=12.5R						
 1849	1	24	6	56	0	1003	orig=27.10.46Pin|orig.time=9:00AM|orig.date=1849-01-24|atb=13R						
-1849	1	24	12	56	0	1004,4	orig=27.10.81Pin|orig.time=3:00PM|orig.date=1849-01-24|atb=14R						
+1849	1	24	12	56	0	1004.4	orig=27.10.81Pin|orig.time=3:00PM|orig.date=1849-01-24|atb=14R						
 1849	1	24	18	56	0	1005.1	orig=27.11.13Pin|orig.time=9:00PM|orig.date=1849-01-24|atb=12.5R						
 1849	1	25	6	56	0	995.2	orig=27.7.87Pin|orig.time=9:00AM|orig.date=1849-01-25|atb=13R						
 1849	1	25	12	56	0	989.4	orig=27.6.01Pin|orig.time=3:00PM|orig.date=1849-01-25|atb=14R						
@@ -11440,8 +11440,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	2	23	12	56	0	989.9	orig=27.6.18Pin|orig.time=3:00PM|orig.date=1849-02-23|atb=13.75R						
 1849	2	23	18	56	0	993.9	orig=27.7.45Pin|orig.time=9:00PM|orig.date=1849-02-23|atb=13R						
 1849	2	24	6	56	0	1004.7	orig=27.11.3Pin|orig.time=9:00AM|orig.date=1849-02-24|atb=13R						
-1849	2	24	12	56	0	1008,7	orig=28.0.25Pin|orig.time=3:00PM|orig.date=1849-02-24|atb=14R						
-1849	2	24	18	56	0	1012,5	orig=28.1.45Pin|orig.time=9:00PM|orig.date=1849-02-24|atb=13R						
+1849	2	24	12	56	0	1008.7	orig=28.0.25Pin|orig.time=3:00PM|orig.date=1849-02-24|atb=14R						
+1849	2	24	18	56	0	1012.5	orig=28.1.45Pin|orig.time=9:00PM|orig.date=1849-02-24|atb=13R						
 1849	2	25	6	56	0	1011.5	orig=28.1.31Pin|orig.time=9:00AM|orig.date=1849-02-25|atb=13R						
 1849	2	25	12	56	0	1008.1	orig=28.0.23Pin|orig.time=3:00PM|orig.date=1849-02-25|atb=13.5R						
 1849	2	25	18	56	0	1007.8	orig=28.0.3Pin|orig.time=9:00PM|orig.date=1849-02-25|atb=12.5R						
@@ -11757,7 +11757,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	6	9	6	56	0	1004.9	orig=27.11.56Pin|orig.time=9:00AM|orig.date=1849-06-09|atb=19R						
 1849	6	9	12	56	0	1002.4	orig=27.10.73Pin|orig.time=3:00PM|orig.date=1849-06-09|atb=19R						
 1849	6	9	18	56	0	1002.1	orig=27.10.65Pin|orig.time=9:00PM|orig.date=1849-06-09|atb=19R						
-1849	6	10	6	56	0	1004,6	orig=27.11.24Pin|orig.time=9:00AM|orig.date=1849-06-10|atb=20R						
+1849	6	10	6	56	0	1004.6	orig=27.11.24Pin|orig.time=9:00AM|orig.date=1849-06-10|atb=20R						
 1849	6	10	12	56	0	1004.1	orig=27.11.38Pin|orig.time=3:00PM|orig.date=1849-06-10|atb=20R						
 1849	6	10	18	56	0	1005.4	orig=27.11.75Pin|orig.time=9:00PM|orig.date=1849-06-10|atb=19R						
 1849	6	11	6	56	0	1007.1	orig=28.0.37Pin|orig.time=9:00AM|orig.date=1849-06-11|atb=20R						
@@ -11833,7 +11833,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	7	4	12	56	0	999.5	orig=27.10.01Pin|orig.time=3:00PM|orig.date=1849-07-04|atb=22R						
 1849	7	4	18	56	0	1001.9	orig=27.10.71Pin|orig.time=9:00PM|orig.date=1849-07-04|atb=21R						
 1849	7	5	6	56	0	1002.4	orig=27.10.95Pin|orig.time=9:00AM|orig.date=1849-07-05|atb=22R						
-1849	7	5	12	56	0	1003,7	orig=27.11.09Pin|orig.time=3:00PM|orig.date=1849-07-05|atb=22.5R						
+1849	7	5	12	56	0	1003.7	orig=27.11.09Pin|orig.time=3:00PM|orig.date=1849-07-05|atb=22.5R						
 1849	7	5	18	56	0	1003.6	orig=27.11.45Pin|orig.time=9:00PM|orig.date=1849-07-05|atb=23R						
 1849	7	6	6	56	0	1005.3	orig=27.11.96Pin|orig.time=9:00AM|orig.date=1849-07-06|atb=22.5R						
 1849	7	6	12	56	0	1006.1	orig=28.0.27Pin|orig.time=3:00PM|orig.date=1849-07-06|atb=23R						
@@ -11870,7 +11870,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	9	1	18	56	0	1002.6	orig=27.10.72Pin|orig.time=9:00PM|orig.date=1849-09-01|atb=18R						
 1849	9	2	6	56	0	1005.7	orig=27.11.77Pin|orig.time=9:00AM|orig.date=1849-09-02|atb=18.33R						
 1849	9	2	12	56	0	1005.7	orig=27.11.81Pin|orig.time=3:00PM|orig.date=1849-09-02|atb=18.5R						
-1849	9	2	18	56	0	1007,8	orig=28.0.17Pin|orig.time=9:00PM|orig.date=1849-09-02|atb=18R						
+1849	9	2	18	56	0	1007.8	orig=28.0.17Pin|orig.time=9:00PM|orig.date=1849-09-02|atb=18R						
 1849	9	3	6	56	0	1008.7	orig=28.0.68Pin|orig.time=9:00AM|orig.date=1849-09-03|atb=17R						
 1849	9	3	12	56	0	1007.9	orig=28.0.57Pin|orig.time=3:00PM|orig.date=1849-09-03|atb=19R						
 1849	9	3	18	56	0	1012.2	orig=28.1.96Pin|orig.time=9:00PM|orig.date=1849-09-03|atb=18.5R						
@@ -11978,12 +11978,12 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	10	7	18	56	0	1007	orig=28.0.03Pin|orig.time=9:00PM|orig.date=1849-10-07|atb=16R						
 1849	10	8	6	56	0	1008.1	orig=28.0.39Pin|orig.time=9:00AM|orig.date=1849-10-08|atb=15.75R						
 1849	10	8	12	56	0	1006	orig=27.11.46Pin|orig.time=3:00PM|orig.date=1849-10-08|atb=16.15R						
-1849	10	8	18	56	0	1004,9	orig=27.11.07Pin|orig.time=9:00PM|orig.date=1849-10-08|atb=15.5R						
-1849	10	9	6	56	0	1000,1	orig=27.9.5Pin|orig.time=9:00AM|orig.date=1849-10-09|atb=16.1R						
-1849	10	9	12	56	0	996,3	orig=27.8.28Pin|orig.time=3:00PM|orig.date=1849-10-09|atb=17R						
-1849	10	9	18	56	0	994,9	orig=27.7.78Pin|orig.time=9:00PM|orig.date=1849-10-09|atb=16.5R						
-1849	10	10	6	56	0	1004,2	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1849-10-10|atb=16R						
-1849	10	10	12	56	0	1006,6	orig=27.11.66Pin|orig.time=3:00PM|orig.date=1849-10-10|atb=16R						
+1849	10	8	18	56	0	1004.9	orig=27.11.07Pin|orig.time=9:00PM|orig.date=1849-10-08|atb=15.5R						
+1849	10	9	6	56	0	1000.1	orig=27.9.5Pin|orig.time=9:00AM|orig.date=1849-10-09|atb=16.1R						
+1849	10	9	12	56	0	996.3	orig=27.8.28Pin|orig.time=3:00PM|orig.date=1849-10-09|atb=17R						
+1849	10	9	18	56	0	994.9	orig=27.7.78Pin|orig.time=9:00PM|orig.date=1849-10-09|atb=16.5R						
+1849	10	10	6	56	0	1004.2	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1849-10-10|atb=16R						
+1849	10	10	12	56	0	1006.6	orig=27.11.66Pin|orig.time=3:00PM|orig.date=1849-10-10|atb=16R						
 1849	10	10	18	56	0	1009.7	orig=28.0.93Pin|orig.time=9:00PM|orig.date=1849-10-10|atb=15.75R						
 1849	10	11	6	56	0	1012.8	orig=28.2.6Pin|orig.time=9:00AM|orig.date=1849-10-11|atb=17R						
 1849	10	11	12	56	0	1011	orig=28.1.32Pin|orig.time=3:00PM|orig.date=1849-10-11|atb=15.5R						
@@ -11995,7 +11995,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	10	13	12	56	0	994.1	orig=27.7.85Pin|orig.time=3:00PM|orig.date=1849-10-13|atb=17.5R						
 1849	10	13	18	56	0	996.5	orig=27.8.53Pin|orig.time=9:00PM|orig.date=1849-10-13|atb=16R						
 1849	10	14	6	56	0	1000.5	orig=27.9.92Pin|orig.time=9:00AM|orig.date=1849-10-14|atb=16.75R						
-1849	10	14	12	56	0	1004,3	orig=27.10.9Pin|orig.time=3:00PM|orig.date=1849-10-14|atb=16R						
+1849	10	14	12	56	0	1004.3	orig=27.10.9Pin|orig.time=3:00PM|orig.date=1849-10-14|atb=16R						
 1849	10	14	18	56	0	1011.8	orig=28.1.58Pin|orig.time=9:00PM|orig.date=1849-10-14|atb=15R						
 1849	10	15	6	56	0	1020.2	orig=28.4.43Pin|orig.time=9:00AM|orig.date=1849-10-15|atb=16R						
 1849	10	15	12	56	0	1021.7	orig=28.4.84Pin|orig.time=3:00PM|orig.date=1849-10-15|atb=14.5R						
@@ -12097,7 +12097,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	11	17	12	56	0	1004.6	orig=27.11.05Pin|orig.time=3:00PM|orig.date=1849-11-17|atb=13.5R						
 1849	11	17	18	56	0	1005.4	orig=27.11.28Pin|orig.time=9:00PM|orig.date=1849-11-17|atb=13.25R						
 1849	11	18	6	56	0	1006.3	orig=27.11.59Pin|orig.time=9:00AM|orig.date=1849-11-18|atb=13R						
-1849	11	18	12	56	0	1009,5	orig=28.0.52Pin|orig.time=3:00PM|orig.date=1849-11-18|atb=14R						
+1849	11	18	12	56	0	1009.5	orig=28.0.52Pin|orig.time=3:00PM|orig.date=1849-11-18|atb=14R						
 1849	11	18	18	56	0	1011.7	orig=28.1.43Pin|orig.time=9:00PM|orig.date=1849-11-18|atb=13.5R						
 1849	11	19	6	56	0	1013.6	orig=28.2.8Pin|orig.time=9:00AM|orig.date=1849-11-19|atb=14R						
 1849	11	19	12	56	0	1015.3	orig=28.2.67Pin|orig.time=3:00PM|orig.date=1849-11-19|atb=14R						
@@ -12190,8 +12190,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1849	12	18	12	56	0	1003.8	orig=27.10.68Pin|orig.time=3:00PM|orig.date=1849-12-18|atb=12.25R						
 1849	12	18	18	56	0	1004.4	orig=27.10.89Pin|orig.time=9:00PM|orig.date=1849-12-18|atb=12.5R						
 1849	12	19	6	56	0	1002.8	orig=27.10.33Pin|orig.time=9:00AM|orig.date=1849-12-19|atb=12R						
-1849	12	19	12	56	0	1002,2	orig=27.9.96Pin|orig.time=3:00PM|orig.date=1849-12-19|atb=12R						
-1849	12	19	18	56	0	1003,6	orig=27.10.42Pin|orig.time=9:00PM|orig.date=1849-12-19|atb=12.25R						
+1849	12	19	12	56	0	1002.2	orig=27.9.96Pin|orig.time=3:00PM|orig.date=1849-12-19|atb=12R						
+1849	12	19	18	56	0	1003.6	orig=27.10.42Pin|orig.time=9:00PM|orig.date=1849-12-19|atb=12.25R						
 1849	12	20	6	56	0	1003.5	orig=27.10.56Pin|orig.time=9:00AM|orig.date=1849-12-20|atb=12R						
 1849	12	20	12	56	0	1002.4	orig=27.10.26Pin|orig.time=3:00PM|orig.date=1849-12-20|atb=13R						
 1849	12	20	18	56	0	1003.5	orig=27.10.65Pin|orig.time=9:00PM|orig.date=1849-12-20|atb=13R						
@@ -12352,7 +12352,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	2	10	12	56	0	1006.6	orig=27.11.67Pin|orig.time=3:00PM|orig.date=1850-02-10|atb=13R						
 1850	2	10	18	56	0	1005.5	orig=27.11.31Pin|orig.time=9:00PM|orig.date=1850-02-10|atb=13R						
 1850	2	11	6	56	0	1004.6	orig=27.10.92Pin|orig.time=9:00AM|orig.date=1850-02-11|atb=12R						
-1850	2	11	12	56	0	1006,2	orig=27.11.34Pin|orig.time=3:00PM|orig.date=1850-02-11|atb=13R						
+1850	2	11	12	56	0	1006.2	orig=27.11.34Pin|orig.time=3:00PM|orig.date=1850-02-11|atb=13R						
 1850	2	11	18	56	0	1008.1	orig=28.0.18Pin|orig.time=9:00PM|orig.date=1850-02-11|atb=13R						
 1850	2	12	6	56	0	1011.3	orig=28.1.16Pin|orig.time=9:00AM|orig.date=1850-02-12|atb=12R						
 1850	2	12	12	56	0	1010.1	orig=28.0.86Pin|orig.time=3:00PM|orig.date=1850-02-12|atb=13R						
@@ -12601,7 +12601,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	5	4	12	56	0	999.1	orig=27.9.19Pin|orig.time=3:00PM|orig.date=1850-05-04|atb=13R						
 1850	5	4	18	56	0	1001.7	orig=27.10.4Pin|orig.time=9:00PM|orig.date=1850-05-04|atb=13R						
 1850	5	5	6	56	0	1006.7	orig=27.11.66Pin|orig.time=9:00AM|orig.date=1850-05-05|atb=12.5R						
-1850	5	5	12	56	0	1011,9	orig=28.1.25Pin|orig.time=3:00PM|orig.date=1850-05-05|atb=13R						
+1850	5	5	12	56	0	1011.9	orig=28.1.25Pin|orig.time=3:00PM|orig.date=1850-05-05|atb=13R						
 1850	5	5	18	56	0	1011.1	orig=28.1.15Pin|orig.time=9:00PM|orig.date=1850-05-05|atb=12.5R						
 1850	5	6	6	56	0	1014.6	orig=28.2.39Pin|orig.time=9:00AM|orig.date=1850-05-06|atb=13.5R						
 1850	5	6	12	56	0	1014.9	orig=28.2.45Pin|orig.time=3:00PM|orig.date=1850-05-06|atb=13R						
@@ -12668,7 +12668,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	5	26	18	56	0	1004	orig=27.11.06Pin|orig.time=9:00PM|orig.date=1850-05-26|atb=16.33R						
 1850	5	27	6	56	0	1005.5	orig=27.11.53Pin|orig.time=9:00AM|orig.date=1850-05-27|atb=16R						
 1850	5	27	12	56	0	1006	orig=27.11.73Pin|orig.time=3:00PM|orig.date=1850-05-27|atb=16.5R						
-1850	5	27	18	56	0	1008,1	orig=28.0.15Pin|orig.time=9:00PM|orig.date=1850-05-27|atb=16R						
+1850	5	27	18	56	0	1008.1	orig=28.0.15Pin|orig.time=9:00PM|orig.date=1850-05-27|atb=16R						
 1850	5	28	6	56	0	1007.9	orig=28.0.33Pin|orig.time=9:00AM|orig.date=1850-05-28|atb=15.75R						
 1850	5	28	12	56	0	1008.4	orig=28.0.55Pin|orig.time=3:00PM|orig.date=1850-05-28|atb=16.5R						
 1850	5	28	18	56	0	1008.1	orig=28.0.42Pin|orig.time=9:00PM|orig.date=1850-05-28|atb=16R						
@@ -12706,11 +12706,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	6	8	12	56	0	1012.9	orig=28.2.21Pin|orig.time=3:00PM|orig.date=1850-06-08|atb=18.5R						
 1850	6	8	18	56	0	1012.4	orig=28.2.01Pin|orig.time=9:00PM|orig.date=1850-06-08|atb=18R						
 1850	6	9	6	56	0	1009.2	orig=28.0.98Pin|orig.time=9:00AM|orig.date=1850-06-09|atb=18.5R						
-1850	6	9	12	56	0	1006,2	orig=27.11.68Pin|orig.time=3:00PM|orig.date=1850-06-09|atb=18.5R						
+1850	6	9	12	56	0	1006.2	orig=27.11.68Pin|orig.time=3:00PM|orig.date=1850-06-09|atb=18.5R						
 1850	6	9	18	56	0	1006	orig=27.11.57Pin|orig.time=9:00PM|orig.date=1850-06-09|atb=18R						
-1850	6	10	6	56	0	1003,9	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1850-06-10|atb=17.75R						
-1850	6	10	12	56	0	1004,5	orig=27.11.1Pin|orig.time=3:00PM|orig.date=1850-06-10|atb=18R						
-1850	6	10	18	56	0	1006,5	orig=27.11.74Pin|orig.time=9:00PM|orig.date=1850-06-10|atb=18R						
+1850	6	10	6	56	0	1003.9	orig=27.10.87Pin|orig.time=9:00AM|orig.date=1850-06-10|atb=17.75R						
+1850	6	10	12	56	0	1004.5	orig=27.11.1Pin|orig.time=3:00PM|orig.date=1850-06-10|atb=18R						
+1850	6	10	18	56	0	1006.5	orig=27.11.74Pin|orig.time=9:00PM|orig.date=1850-06-10|atb=18R						
 1850	6	11	6	56	0	1007.2	orig=28.0.33Pin|orig.time=9:00AM|orig.date=1850-06-11|atb=19R						
 1850	6	11	12	56	0	1006.3	orig=28.0.5Pin|orig.time=3:00PM|orig.date=1850-06-11|atb=19R						
 1850	6	11	18	56	0	1009.1	orig=28.0.92Pin|orig.time=9:00PM|orig.date=1850-06-11|atb=18.5R						

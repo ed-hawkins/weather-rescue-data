@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Kyiv_arboretum						
-Name	Kyiv, arboretum						
-Lat	50,43						
-Lon	30,43						
+Name	Kyiv. arboretum						
+Lat	50.43						
+Lon	30.43						
 Alt	143						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -234,7 +234,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1858	3	15	11	57	0	1.6	orig=1.3R|orig.time=2:00PM|orig.date=1858-03-15
 1858	3	15	18	57	0	2.1	orig=1.7R|orig.time=9:00PM|orig.date=1858-03-15
 1858	3	16	4	57	0	1.4	orig=1.1R|orig.time=7:00AM|orig.date=1858-03-16
-1858	3	16	11	57	0	2,9	orig=2.3R|orig.time=2:00PM|orig.date=1858-03-16
+1858	3	16	11	57	0	2.9	orig=2.3R|orig.time=2:00PM|orig.date=1858-03-16
 1858	3	16	18	57	0	1	orig=0.8R|orig.time=9:00PM|orig.date=1858-03-16
 1858	3	17	4	57	0	-0.1	orig=-0.1R|orig.time=7:00AM|orig.date=1858-03-17
 1858	3	17	11	57	0	4.1	orig=3.3R|orig.time=2:00PM|orig.date=1858-03-17

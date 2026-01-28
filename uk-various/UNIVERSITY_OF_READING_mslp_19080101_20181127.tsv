@@ -1,10 +1,10 @@
 SEF	1.0.0
 ID	UNI_READING
 Name	UNIVERSITY OF READING
+Source	Roger Brugge
 Lat	51.4500
 Lon	-0.9620
 Alt	45.0
-Source	Roger Brugge
 Link	NA
 Vbl	mslp
 Stat	point

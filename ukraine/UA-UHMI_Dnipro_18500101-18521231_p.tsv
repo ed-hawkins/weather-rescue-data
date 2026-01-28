@@ -116,7 +116,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	2	4	7	39	0	993.2	orig=586.4R.s.l.|orig.time=10:00AM|orig.date=1850-02-04|atb=-0.5R
 1850	2	4	11	39	0	987.3	orig=583.2R.s.l.|orig.time=2:00PM|orig.date=1850-02-04|atb=2R
 1850	2	4	19	39	0	987.5	orig=583.3R.s.l.|orig.time=10:00PM|orig.date=1850-02-04|atb=1.5R
-1850	2	5	7	39	0	997,5	orig=587.8R.s.l.|orig.time=10:00AM|orig.date=1850-02-05|atb=-11R
+1850	2	5	7	39	0	997.5	orig=587.8R.s.l.|orig.time=10:00AM|orig.date=1850-02-05|atb=-11R
 1850	2	5	11	39	0	999.6	orig=588.9R.s.l.|orig.time=2:00PM|orig.date=1850-02-05|atb=-10R
 1850	2	5	19	39	0	1001.1	orig=589.1R.s.l.|orig.time=10:00PM|orig.date=1850-02-05|atb=-15R
 1850	2	6	7	39	0	997.3	orig=589R.s.l.|orig.time=10:00AM|orig.date=1850-02-06|atb=1R
@@ -639,7 +639,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	9	30	11	39	0	1000.7	orig=592.7R.s.l.|orig.time=2:00PM|orig.date=1850-09-30|atb=13.5R
 1850	9	30	19	39	0	999.7	orig=591.8R.s.l.|orig.time=10:00PM|orig.date=1850-09-30|atb=11.5R
 1850	10	1	7	39	0	1000.5	orig=592.3R.s.l.|orig.time=10:00AM|orig.date=1850-10-01|atb=11.5R
-1850	10	1	11	39	0	1000,9	orig=592.6R.s.l.|orig.time=2:00PM|orig.date=1850-10-01|atb=15R
+1850	10	1	11	39	0	1000.9	orig=592.6R.s.l.|orig.time=2:00PM|orig.date=1850-10-01|atb=15R
 1850	10	1	19	39	0	1002.4	orig=593.5R.s.l.|orig.time=10:00PM|orig.date=1850-10-01|atb=12R
 1850	10	2	7	39	0	1009.2	orig=597.5R.s.l.|orig.time=10:00AM|orig.date=1850-10-02|atb=12R
 1850	10	2	11	39	0	1007.2	orig=596.6R.s.l.|orig.time=2:00PM|orig.date=1850-10-02|atb=14R
@@ -734,7 +734,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1850	11	1	7	39	0	1004.4	orig=594R.s.l.|orig.time=10:00AM|orig.date=1850-11-01|atb=7R
 1850	11	1	11	39	0	1002.6	orig=593.5R.s.l.|orig.time=2:00PM|orig.date=1850-11-01|atb=11R
 1850	11	1	19	39	0	1003.6	orig=593.6R.s.l.|orig.time=10:00PM|orig.date=1850-11-01|atb=7.5R
-1850	11	2	7	39	0	1003,9	orig=593.5R.s.l.|orig.time=10:00AM|orig.date=1850-11-02|atb=7R
+1850	11	2	7	39	0	1003.9	orig=593.5R.s.l.|orig.time=10:00AM|orig.date=1850-11-02|atb=7R
 1850	11	2	11	39	0	1002.8	orig=593.3R.s.l.|orig.time=2:00PM|orig.date=1850-11-02|atb=9R
 1850	11	2	19	39	0	1003.2	orig=593.3R.s.l.|orig.time=10:00PM|orig.date=1850-11-02|atb=7R
 1850	11	3	7	39	0	1003.4	orig=593.4R.s.l.|orig.time=10:00AM|orig.date=1850-11-03|atb=7R
@@ -1390,7 +1390,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1851	6	8	19	39	0	996.7	orig=590.5R.s.l.|orig.time=10:00PM|orig.date=1851-06-08|atb=15R
 1851	6	9	7	39	0	995.5	orig=589.7R.s.l.|orig.time=10:00AM|orig.date=1851-06-09|atb=14R
 1851	6	9	11	39	0	994.3	orig=589.5R.s.l.|orig.time=2:00PM|orig.date=1851-06-09|atb=18R
-1851	6	9	19	39	0	995,9	orig=589.6R.s.l.|orig.time=10:00PM|orig.date=1851-06-09|atb=14.5R
+1851	6	9	19	39	0	995.9	orig=589.6R.s.l.|orig.time=10:00PM|orig.date=1851-06-09|atb=14.5R
 1851	6	10	7	39	0	996.5	orig=590.9R.s.l.|orig.time=10:00AM|orig.date=1851-06-10|atb=18.5R
 1851	6	10	11	39	0	995.8	orig=590.6R.s.l.|orig.time=2:00PM|orig.date=1851-06-10|atb=19.5R
 1851	6	10	19	39	0	999.1	orig=591R.s.l.|orig.time=10:00PM|orig.date=1851-06-10|atb=8R
@@ -2562,10 +2562,10 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1852	7	4	7	39	0	1002.2	orig=594.6R.s.l.|orig.time=10:00AM|orig.date=1852-07-04|atb=21R
 1852	7	4	11	39	0	1000	orig=594R.s.l.|orig.time=2:00PM|orig.date=1852-07-04|atb=26R
 1852	7	4	19	39	0	1002.6	orig=594.4R.s.l.|orig.time=10:00PM|orig.date=1852-07-04|atb=18R
-1852	7	5	7	39	0	1004,5	orig=595.4R.s.l.|orig.time=10:00AM|orig.date=1852-07-05|atb=21R
+1852	7	5	7	39	0	1004.5	orig=595.4R.s.l.|orig.time=10:00AM|orig.date=1852-07-05|atb=21R
 1852	7	5	11	39	0	1000.2	orig=593.7R.s.l.|orig.time=2:00PM|orig.date=1852-07-05|atb=23R
 1852	7	5	19	39	0	999.5	orig=592.6R.s.l.|orig.time=10:00PM|orig.date=1852-07-05|atb=18R
-1852	7	6	7	39	0	1000,2	orig=592.3R.s.l.|orig.time=10:00AM|orig.date=1852-07-06|atb=16R
+1852	7	6	7	39	0	1000.2	orig=592.3R.s.l.|orig.time=10:00AM|orig.date=1852-07-06|atb=16R
 1852	7	6	11	39	0	994.7	orig=590R.s.l.|orig.time=2:00PM|orig.date=1852-07-06|atb=20R
 1852	7	6	19	39	0	995.8	orig=590R.s.l.|orig.time=10:00PM|orig.date=1852-07-06|atb=15R
 1852	7	7	7	39	0	994.9	orig=589.6R.s.l.|orig.time=10:00AM|orig.date=1852-07-07|atb=16R

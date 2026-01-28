@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Dnipro						
 Name	Dnipro						
-Lat	48,45						
-Lon	35,05						
+Lat	48.45						
+Lon	35.05						
 Alt	98						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						

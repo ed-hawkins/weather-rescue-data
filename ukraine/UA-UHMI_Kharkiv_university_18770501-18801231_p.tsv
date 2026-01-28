@@ -1,6 +1,6 @@
 SEF	1.0.0						
 ID	Kharkiv_university						
-Name	Kharkiv, university						
+Name	Kharkiv. university						
 Lat	50						
 Lon	36.2333						
 Alt	140						
@@ -1779,7 +1779,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	3	18	10	35	0	1003.6	orig=752.5mmHg|orig.time=1:00PM|orig.date=1879-03-18|atb=0C
 1879	3	18	18	35	0	1003.2	orig=752.2mmHg|orig.time=9:00PM|orig.date=1879-03-18|atb=0C
 1879	3	19	4	35	0	1002.7	orig=751.8mmHg|orig.time=7:00AM|orig.date=1879-03-19|atb=0C
-1879	3	19	10	35	0	1001,8	orig=751.1mmHg|orig.time=1:00PM|orig.date=1879-03-19|atb=0C
+1879	3	19	10	35	0	1001.8	orig=751.1mmHg|orig.time=1:00PM|orig.date=1879-03-19|atb=0C
 1879	3	19	18	35	0	1003.4	orig=752.3mmHg|orig.time=9:00PM|orig.date=1879-03-19|atb=0C
 1879	3	20	4	35	0	1004.7	orig=753.3mmHg|orig.time=7:00AM|orig.date=1879-03-20|atb=0C
 1879	3	20	10	35	0	1003.1	orig=752.1mmHg|orig.time=1:00PM|orig.date=1879-03-20|atb=0C
@@ -1852,7 +1852,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	4	11	18	35	0	987.1	orig=740.1mmHg|orig.time=9:00PM|orig.date=1879-04-11|atb=0C
 1879	4	12	4	35	0	993	orig=744.5mmHg|orig.time=7:00AM|orig.date=1879-04-12|atb=0C
 1879	4	12	10	35	0	995.4	orig=746.3mmHg|orig.time=1:00PM|orig.date=1879-04-12|atb=0C
-1879	4	12	18	35	0	998,6	orig=748.7mmHg|orig.time=9:00PM|orig.date=1879-04-12|atb=0C
+1879	4	12	18	35	0	998.6	orig=748.7mmHg|orig.time=9:00PM|orig.date=1879-04-12|atb=0C
 1879	4	13	4	35	0	993.9	orig=745.2mmHg|orig.time=7:00AM|orig.date=1879-04-13|atb=0C
 1879	4	13	10	35	0	993.9	orig=745.2mmHg|orig.time=1:00PM|orig.date=1879-04-13|atb=0C
 1879	4	13	18	35	0	986.1	orig=739.4mmHg|orig.time=9:00PM|orig.date=1879-04-13|atb=0C
@@ -2319,7 +2319,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	9	14	10	35	0	1003.1	orig=752.1mmHg|orig.time=1:00PM|orig.date=1879-09-14|atb=0C
 1879	9	14	18	35	0	1002.7	orig=751.8mmHg|orig.time=9:00PM|orig.date=1879-09-14|atb=0C
 1879	9	15	4	35	0	1000.6	orig=750.2mmHg|orig.time=7:00AM|orig.date=1879-09-15|atb=0C
-1879	9	15	10	35	0	999,4	orig=749.3mmHg|orig.time=1:00PM|orig.date=1879-09-15|atb=0C
+1879	9	15	10	35	0	999.4	orig=749.3mmHg|orig.time=1:00PM|orig.date=1879-09-15|atb=0C
 1879	9	15	18	35	0	999.4	orig=749.3mmHg|orig.time=9:00PM|orig.date=1879-09-15|atb=0C
 1879	9	16	4	35	0	997.5	orig=747.9mmHg|orig.time=7:00AM|orig.date=1879-09-16|atb=0C
 1879	9	16	10	35	0	998.7	orig=748.8mmHg|orig.time=1:00PM|orig.date=1879-09-16|atb=0C
@@ -2475,11 +2475,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	11	5	10	35	0	993.4	orig=744.8mmHg|orig.time=1:00PM|orig.date=1879-11-05|atb=0C
 1879	11	5	18	35	0	1000.7	orig=750.3mmHg|orig.time=9:00PM|orig.date=1879-11-05|atb=0C
 1879	11	6	4	35	0	1005	orig=753.5mmHg|orig.time=7:00AM|orig.date=1879-11-06|atb=0C
-1879	11	6	10	35	0	1002,7	orig=751.8mmHg|orig.time=1:00PM|orig.date=1879-11-06|atb=0C
+1879	11	6	10	35	0	1002.7	orig=751.8mmHg|orig.time=1:00PM|orig.date=1879-11-06|atb=0C
 1879	11	6	18	35	0	1002	orig=751.3mmHg|orig.time=9:00PM|orig.date=1879-11-06|atb=0C
 1879	11	7	4	35	0	1001	orig=750.5mmHg|orig.time=7:00AM|orig.date=1879-11-07|atb=0C
 1879	11	7	10	35	0	1002.2	orig=751.4mmHg|orig.time=1:00PM|orig.date=1879-11-07|atb=0C
-1879	11	7	18	35	0	1005,2	orig=753.7mmHg|orig.time=9:00PM|orig.date=1879-11-07|atb=0C
+1879	11	7	18	35	0	1005.2	orig=753.7mmHg|orig.time=9:00PM|orig.date=1879-11-07|atb=0C
 1879	11	8	4	35	0	1006.3	orig=754.5mmHg|orig.time=7:00AM|orig.date=1879-11-08|atb=0C
 1879	11	8	10	35	0	1007.2	orig=755.2mmHg|orig.time=1:00PM|orig.date=1879-11-08|atb=0C
 1879	11	8	18	35	0	1002.6	orig=751.7mmHg|orig.time=9:00PM|orig.date=1879-11-08|atb=0C
@@ -2643,7 +2643,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	12	31	10	35	0	995.4	orig=746.3mmHg|orig.time=1:00PM|orig.date=1879-12-31|atb=0C
 1879	12	31	18	35	0	995.9	orig=746.7mmHg|orig.time=9:00PM|orig.date=1879-12-31|atb=0C
 1880	2	1	4	35	0	1021.1	orig=765.6mmHg|orig.time=7:00AM|orig.date=1880-02-01|atb=0C
-1880	2	1	10	35	0	1018,7	orig=763.8mmHg|orig.time=1:00PM|orig.date=1880-02-01|atb=0C
+1880	2	1	10	35	0	1018.7	orig=763.8mmHg|orig.time=1:00PM|orig.date=1880-02-01|atb=0C
 1880	2	1	18	35	0	1019.9	orig=764.7mmHg|orig.time=9:00PM|orig.date=1880-02-01|atb=0C
 1880	2	2	4	35	0	1019.6	orig=764.5mmHg|orig.time=7:00AM|orig.date=1880-02-02|atb=0C
 1880	2	2	10	35	0	1017	orig=762.5mmHg|orig.time=1:00PM|orig.date=1880-02-02|atb=0C
@@ -3143,8 +3143,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1880	7	16	4	35	0	992.6	orig=744.2mmHg|orig.time=7:00AM|orig.date=1880-07-16|atb=0C
 1880	7	16	10	35	0	991	orig=743mmHg|orig.time=1:00PM|orig.date=1880-07-16|atb=0C
 1880	7	16	18	35	0	993	orig=744.5mmHg|orig.time=9:00PM|orig.date=1880-07-16|atb=0C
-1880	7	17	4	35	0	995,5	orig=746.4mmHg|orig.time=7:00AM|orig.date=1880-07-17|atb=0C
-1880	7	17	10	35	0	995,4	orig=746.3mmHg|orig.time=1:00PM|orig.date=1880-07-17|atb=0C
+1880	7	17	4	35	0	995.5	orig=746.4mmHg|orig.time=7:00AM|orig.date=1880-07-17|atb=0C
+1880	7	17	10	35	0	995.4	orig=746.3mmHg|orig.time=1:00PM|orig.date=1880-07-17|atb=0C
 1880	7	17	18	35	0	995.2	orig=746.2mmHg|orig.time=9:00PM|orig.date=1880-07-17|atb=0C
 1880	7	18	4	35	0	995	orig=746mmHg|orig.time=7:00AM|orig.date=1880-07-18|atb=0C
 1880	7	18	10	35	0	991.9	orig=743.7mmHg|orig.time=1:00PM|orig.date=1880-07-18|atb=0C

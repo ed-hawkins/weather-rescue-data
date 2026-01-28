@@ -339,7 +339,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1866	3	19	12	13	0	11	orig=8.8R|orig.time=2:00PM|orig.date=1866-03-19
 1866	3	19	19	13	0	10.2	orig=8.2R|orig.time=9:00PM|orig.date=1866-03-19
 1866	3	20	5	13	0	6	orig=4.8R|orig.time=7:00AM|orig.date=1866-03-20
-1866	3	20	12	13	0	16,5	orig=13.2R|orig.time=2:00PM|orig.date=1866-03-20
+1866	3	20	12	13	0	16.5	orig=13.2R|orig.time=2:00PM|orig.date=1866-03-20
 1866	3	20	19	13	0	12.2	orig=9.8R|orig.time=9:00PM|orig.date=1866-03-20
 1866	3	21	5	13	0	8.4	orig=6.7R|orig.time=7:00AM|orig.date=1866-03-21
 1866	3	21	12	13	0	20	orig=16R|orig.time=2:00PM|orig.date=1866-03-21

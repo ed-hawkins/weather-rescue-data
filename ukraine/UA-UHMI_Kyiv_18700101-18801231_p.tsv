@@ -670,7 +670,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1870	8	7	18	58	0	984.3	orig=738mmHg|orig.time=9:00PM|orig.date=1870-08-07|atb=0.0C
 1870	8	8	4	58	0	984.4	orig=738.1mmHg|orig.time=7:00AM|orig.date=1870-08-08|atb=0.0C
 1870	8	8	10	58	0	985.5	orig=738.9mmHg|orig.time=1:00PM|orig.date=1870-08-08|atb=0.0C
-1870	8	8	18	58	0	987,6	orig=740.5mmHg|orig.time=9:00PM|orig.date=1870-08-08|atb=0.0C
+1870	8	8	18	58	0	987.6	orig=740.5mmHg|orig.time=9:00PM|orig.date=1870-08-08|atb=0.0C
 1870	8	9	4	58	0	990.6	orig=742.7mmHg|orig.time=7:00AM|orig.date=1870-08-09|atb=0.0C
 1870	8	9	10	58	0	992	orig=743.8mmHg|orig.time=1:00PM|orig.date=1870-08-09|atb=0.0C
 1870	8	9	18	58	0	995.4	orig=746.3mmHg|orig.time=9:00PM|orig.date=1870-08-09|atb=0.0C
@@ -828,7 +828,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1870	9	29	10	58	0	998	orig=748.3mmHg|orig.time=1:00PM|orig.date=1870-09-29|atb=0.0C
 1870	9	29	18	58	0	998.2	orig=748.4mmHg|orig.time=9:00PM|orig.date=1870-09-29|atb=0.0C
 1870	9	30	4	58	0	1007.6	orig=755.5mmHg|orig.time=7:00AM|orig.date=1870-09-30|atb=0.0C
-1870	9	30	10	58	0	1009,9	orig=757.2mmHg|orig.time=1:00PM|orig.date=1870-09-30|atb=0.0C
+1870	9	30	10	58	0	1009.9	orig=757.2mmHg|orig.time=1:00PM|orig.date=1870-09-30|atb=0.0C
 1870	9	30	18	58	0	1012.3	orig=759mmHg|orig.time=9:00PM|orig.date=1870-09-30|atb=0.0C
 1870	10	1	4	58	0	1014.1	orig=760.3mmHg|orig.time=7:00AM|orig.date=1870-10-01|atb=0.0C
 1870	10	1	10	58	0	1015.1	orig=761.1mmHg|orig.time=1:00PM|orig.date=1870-10-01|atb=0.0C
@@ -1535,7 +1535,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1871	5	23	4	58	0	992.2	orig=743.9mmHg|orig.time=7:00AM|orig.date=1871-05-23|atb=0.0C
 1871	5	23	10	58	0	994.7	orig=745.8mmHg|orig.time=1:00PM|orig.date=1871-05-23|atb=0.0C
 1871	5	23	18	58	0	996.8	orig=747.4mmHg|orig.time=9:00PM|orig.date=1871-05-23|atb=0.0C
-1871	5	24	4	58	0	999,2	orig=749.2mmHg|orig.time=7:00AM|orig.date=1871-05-24|atb=0.0C
+1871	5	24	4	58	0	999.2	orig=749.2mmHg|orig.time=7:00AM|orig.date=1871-05-24|atb=0.0C
 1871	5	24	10	58	0	1002.7	orig=751.8mmHg|orig.time=1:00PM|orig.date=1871-05-24|atb=0.0C
 1871	5	24	18	58	0	1001.8	orig=751.1mmHg|orig.time=9:00PM|orig.date=1871-05-24|atb=0.0C
 1871	5	25	4	58	0	1002.7	orig=751.8mmHg|orig.time=7:00AM|orig.date=1871-05-25|atb=0.0C
@@ -1557,7 +1557,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1871	5	30	10	58	0	983.9	orig=737.7mmHg|orig.time=1:00PM|orig.date=1871-05-30|atb=0.0C
 1871	5	30	18	58	0	984.7	orig=738.3mmHg|orig.time=9:00PM|orig.date=1871-05-30|atb=0.0C
 1871	5	31	4	58	0	981.2	orig=735.7mmHg|orig.time=7:00AM|orig.date=1871-05-31|atb=0.0C
-1871	5	31	10	58	0	979,6	orig=734.5mmHg|orig.time=1:00PM|orig.date=1871-05-31|atb=0.0C
+1871	5	31	10	58	0	979.6	orig=734.5mmHg|orig.time=1:00PM|orig.date=1871-05-31|atb=0.0C
 1871	5	31	18	58	0	978.6	orig=733.7mmHg|orig.time=9:00PM|orig.date=1871-05-31|atb=0.0C
 1871	6	1	4	58	0	981.4	orig=735.8mmHg|orig.time=7:00AM|orig.date=1871-06-01|atb=0.0C
 1871	6	1	10	58	0	984.2	orig=737.9mmHg|orig.time=1:00PM|orig.date=1871-06-01|atb=0.0C
@@ -1612,7 +1612,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1871	6	17	18	58	0	999.6	orig=749.5mmHg|orig.time=9:00PM|orig.date=1871-06-17|atb=0.0C
 1871	6	18	4	58	0	1000.3	orig=750mmHg|orig.time=7:00AM|orig.date=1871-06-18|atb=0.0C
 1871	6	18	10	58	0	999.4	orig=749.3mmHg|orig.time=1:00PM|orig.date=1871-06-18|atb=0.0C
-1871	6	18	18	58	0	999,4	orig=749.3mmHg|orig.time=9:00PM|orig.date=1871-06-18|atb=0.0C
+1871	6	18	18	58	0	999.4	orig=749.3mmHg|orig.time=9:00PM|orig.date=1871-06-18|atb=0.0C
 1871	6	19	4	58	0	999	orig=749mmHg|orig.time=7:00AM|orig.date=1871-06-19|atb=0.0C
 1871	6	19	10	58	0	997.1	orig=747.6mmHg|orig.time=1:00PM|orig.date=1871-06-19|atb=0.0C
 1871	6	19	18	58	0	994	orig=745.3mmHg|orig.time=9:00PM|orig.date=1871-06-19|atb=0.0C
@@ -1682,7 +1682,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1871	7	11	4	58	0	996.8	orig=747.4mmHg|orig.time=7:00AM|orig.date=1871-07-11|atb=0.0C
 1871	7	11	10	58	0	992.3	orig=744mmHg|orig.time=1:00PM|orig.date=1871-07-11|atb=0.0C
 1871	7	11	18	58	0	991.9	orig=743.7mmHg|orig.time=9:00PM|orig.date=1871-07-11|atb=0.0C
-1871	7	12	4	58	0	992,3	orig=744mmHg|orig.time=7:00AM|orig.date=1871-07-12|atb=0.0C
+1871	7	12	4	58	0	992.3	orig=744mmHg|orig.time=7:00AM|orig.date=1871-07-12|atb=0.0C
 1871	7	12	10	58	0	992	orig=743.8mmHg|orig.time=1:00PM|orig.date=1871-07-12|atb=0.0C
 1871	7	12	18	58	0	993	orig=744.5mmHg|orig.time=9:00PM|orig.date=1871-07-12|atb=0.0C
 1871	7	13	4	58	0	994.4	orig=745.6mmHg|orig.time=7:00AM|orig.date=1871-07-13|atb=0.0C
@@ -3157,7 +3157,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1872	11	14	4	58	0	1005	orig=753.5mmHg|orig.time=7:00AM|orig.date=1872-11-14|atb=0.0C
 1872	11	14	10	58	0	1007	orig=755mmHg|orig.time=1:00PM|orig.date=1872-11-14|atb=0.0C
 1872	11	14	18	58	0	1013	orig=759.5mmHg|orig.time=9:00PM|orig.date=1872-11-14|atb=0.0C
-1872	11	15	4	58	0	1014,9	orig=760.9mmHg|orig.time=7:00AM|orig.date=1872-11-15|atb=0.0C
+1872	11	15	4	58	0	1014.9	orig=760.9mmHg|orig.time=7:00AM|orig.date=1872-11-15|atb=0.0C
 1872	11	15	10	58	0	1014.9	orig=760.9mmHg|orig.time=1:00PM|orig.date=1872-11-15|atb=0.0C
 1872	11	15	18	58	0	1015.4	orig=761.3mmHg|orig.time=9:00PM|orig.date=1872-11-15|atb=0.0C
 1872	11	16	4	58	0	1014.3	orig=760.5mmHg|orig.time=7:00AM|orig.date=1872-11-16|atb=0.0C
@@ -5540,7 +5540,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	1	17	10	58	0	982.4	orig=736.6mmHg|orig.time=1:00PM|orig.date=1875-01-17|atb=0.0C
 1875	1	17	18	58	0	978.3	orig=733.5mmHg|orig.time=9:00PM|orig.date=1875-01-17|atb=0.0C
 1875	1	18	4	58	0	978.3	orig=733.5mmHg|orig.time=7:00AM|orig.date=1875-01-18|atb=0.0C
-1875	1	18	10	58	0	981,4	orig=735.8mmHg|orig.time=1:00PM|orig.date=1875-01-18|atb=0.0C
+1875	1	18	10	58	0	981.4	orig=735.8mmHg|orig.time=1:00PM|orig.date=1875-01-18|atb=0.0C
 1875	1	18	18	58	0	987.4	orig=740.3mmHg|orig.time=9:00PM|orig.date=1875-01-18|atb=0.0C
 1875	1	19	4	58	0	991.2	orig=743.2mmHg|orig.time=7:00AM|orig.date=1875-01-19|atb=0.0C
 1875	1	19	10	58	0	987.5	orig=740.4mmHg|orig.time=1:00PM|orig.date=1875-01-19|atb=0.0C
@@ -6018,7 +6018,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	6	25	18	58	0	991.2	orig=743.2mmHg|orig.time=9:00PM|orig.date=1875-06-25|atb=0.0C
 1875	6	26	4	58	0	993.5	orig=744.9mmHg|orig.time=7:00AM|orig.date=1875-06-26|atb=0.0C
 1875	6	26	10	58	0	991.9	orig=743.7mmHg|orig.time=1:00PM|orig.date=1875-06-26|atb=0.0C
-1875	6	26	18	58	0	991,1	orig=743.1mmHg|orig.time=9:00PM|orig.date=1875-06-26|atb=0.0C
+1875	6	26	18	58	0	991.1	orig=743.1mmHg|orig.time=9:00PM|orig.date=1875-06-26|atb=0.0C
 1875	6	27	4	58	0	993.6	orig=745mmHg|orig.time=7:00AM|orig.date=1875-06-27|atb=0.0C
 1875	6	27	10	58	0	992.2	orig=743.9mmHg|orig.time=1:00PM|orig.date=1875-06-27|atb=0.0C
 1875	6	27	18	58	0	992.2	orig=743.9mmHg|orig.time=9:00PM|orig.date=1875-06-27|atb=0.0C
@@ -6241,7 +6241,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	9	8	4	58	0	994.6	orig=745.7mmHg|orig.time=7:00AM|orig.date=1875-09-08|atb=0.0C
 1875	9	8	10	58	0	994.3	orig=745.5mmHg|orig.time=1:00PM|orig.date=1875-09-08|atb=0.0C
 1875	9	8	18	58	0	994.6	orig=745.7mmHg|orig.time=9:00PM|orig.date=1875-09-08|atb=0.0C
-1875	9	9	4	58	0	992,8	orig=744.4mmHg|orig.time=7:00AM|orig.date=1875-09-09|atb=0.0C
+1875	9	9	4	58	0	992.8	orig=744.4mmHg|orig.time=7:00AM|orig.date=1875-09-09|atb=0.0C
 1875	9	9	10	58	0	992	orig=743.8mmHg|orig.time=1:00PM|orig.date=1875-09-09|atb=0.0C
 1875	9	9	18	58	0	991.6	orig=743.5mmHg|orig.time=9:00PM|orig.date=1875-09-09|atb=0.0C
 1875	9	10	4	58	0	991.4	orig=743.3mmHg|orig.time=7:00AM|orig.date=1875-09-10|atb=0.0C
@@ -6426,7 +6426,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	11	8	18	58	0	984	orig=737.8mmHg|orig.time=9:00PM|orig.date=1875-11-08|atb=0.0C
 1875	11	9	4	58	0	979.6	orig=734.5mmHg|orig.time=7:00AM|orig.date=1875-11-09|atb=0.0C
 1875	11	9	10	58	0	977.5	orig=732.9mmHg|orig.time=1:00PM|orig.date=1875-11-09|atb=0.0C
-1875	11	9	18	58	0	980,8	orig=735.4mmHg|orig.time=9:00PM|orig.date=1875-11-09|atb=0.0C
+1875	11	9	18	58	0	980.8	orig=735.4mmHg|orig.time=9:00PM|orig.date=1875-11-09|atb=0.0C
 1875	11	10	4	58	0	986.3	orig=739.5mmHg|orig.time=7:00AM|orig.date=1875-11-10|atb=0.0C
 1875	11	10	10	58	0	987.6	orig=740.5mmHg|orig.time=1:00PM|orig.date=1875-11-10|atb=0.0C
 1875	11	10	18	58	0	984	orig=737.8mmHg|orig.time=9:00PM|orig.date=1875-11-10|atb=0.0C
@@ -6879,7 +6879,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1876	4	7	18	58	0	980.8	orig=735.4mmHg|orig.time=9:00PM|orig.date=1876-04-07|atb=0.0C
 1876	4	8	4	58	0	985.8	orig=739.1mmHg|orig.time=7:00AM|orig.date=1876-04-08|atb=0.0C
 1876	4	8	10	58	0	991	orig=743mmHg|orig.time=1:00PM|orig.date=1876-04-08|atb=0.0C
-1876	4	8	18	58	0	994,6	orig=745.7mmHg|orig.time=9:00PM|orig.date=1876-04-08|atb=0.0C
+1876	4	8	18	58	0	994.6	orig=745.7mmHg|orig.time=9:00PM|orig.date=1876-04-08|atb=0.0C
 1876	4	9	4	58	0	995.8	orig=746.6mmHg|orig.time=7:00AM|orig.date=1876-04-09|atb=0.0C
 1876	4	9	10	58	0	995.4	orig=746.3mmHg|orig.time=1:00PM|orig.date=1876-04-09|atb=0.0C
 1876	4	9	18	58	0	993	orig=744.5mmHg|orig.time=9:00PM|orig.date=1876-04-09|atb=0.0C
@@ -7197,7 +7197,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1876	7	22	18	58	0	983.5	orig=737.4mmHg|orig.time=9:00PM|orig.date=1876-07-22|atb=0.0C
 1876	7	23	4	58	0	982.2	orig=736.4mmHg|orig.time=7:00AM|orig.date=1876-07-23|atb=0.0C
 1876	7	23	10	58	0	982.3	orig=736.5mmHg|orig.time=1:00PM|orig.date=1876-07-23|atb=0.0C
-1876	7	23	18	58	0	980,8	orig=735.4mmHg|orig.time=9:00PM|orig.date=1876-07-23|atb=0.0C
+1876	7	23	18	58	0	980.8	orig=735.4mmHg|orig.time=9:00PM|orig.date=1876-07-23|atb=0.0C
 1876	7	24	4	58	0	978.4	orig=733.6mmHg|orig.time=7:00AM|orig.date=1876-07-24|atb=0.0C
 1876	7	24	10	58	0	977.4	orig=732.8mmHg|orig.time=1:00PM|orig.date=1876-07-24|atb=0.0C
 1876	7	24	18	58	0	976.7	orig=732.3mmHg|orig.time=9:00PM|orig.date=1876-07-24|atb=0.0C
@@ -8360,7 +8360,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1877	8	14	10	58	0	1003.6	orig=752.5mmHg|orig.time=1:00PM|orig.date=1877-08-14|atb=0.0C
 1877	8	14	18	58	0	1003.2	orig=752.2mmHg|orig.time=9:00PM|orig.date=1877-08-14|atb=0.0C
 1877	8	15	4	58	0	1002.8	orig=751.9mmHg|orig.time=7:00AM|orig.date=1877-08-15|atb=0.0C
-1877	8	15	10	58	0	1001,4	orig=750.8mmHg|orig.time=1:00PM|orig.date=1877-08-15|atb=0.0C
+1877	8	15	10	58	0	1001.4	orig=750.8mmHg|orig.time=1:00PM|orig.date=1877-08-15|atb=0.0C
 1877	8	15	18	58	0	999	orig=749mmHg|orig.time=9:00PM|orig.date=1877-08-15|atb=0.0C
 1877	8	16	4	58	0	998	orig=748.3mmHg|orig.time=7:00AM|orig.date=1877-08-16|atb=0.0C
 1877	8	16	10	58	0	997.2	orig=747.7mmHg|orig.time=1:00PM|orig.date=1877-08-16|atb=0.0C
@@ -9338,7 +9338,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1878	8	6	10	58	0	995	orig=746mmHg|orig.time=1:00PM|orig.date=1878-08-06|atb=0.0C
 1878	8	6	18	58	0	995.4	orig=746.3mmHg|orig.time=9:00PM|orig.date=1878-08-06|atb=0.0C
 1878	8	7	4	58	0	995.6	orig=746.5mmHg|orig.time=7:00AM|orig.date=1878-08-07|atb=0.0C
-1878	8	7	10	58	0	994,6	orig=745.7mmHg|orig.time=1:00PM|orig.date=1878-08-07|atb=0.0C
+1878	8	7	10	58	0	994.6	orig=745.7mmHg|orig.time=1:00PM|orig.date=1878-08-07|atb=0.0C
 1878	8	7	18	58	0	993.4	orig=744.8mmHg|orig.time=9:00PM|orig.date=1878-08-07|atb=0.0C
 1878	8	8	4	58	0	992.6	orig=744.2mmHg|orig.time=7:00AM|orig.date=1878-08-08|atb=0.0C
 1878	8	8	10	58	0	992.4	orig=744.1mmHg|orig.time=1:00PM|orig.date=1878-08-08|atb=0.0C
@@ -9801,7 +9801,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	1	7	18	58	0	997.6	orig=748mmHg|orig.time=9:00PM|orig.date=1879-01-07|atb=0.0C
 1879	1	8	4	58	0	994	orig=745.3mmHg|orig.time=7:00AM|orig.date=1879-01-08|atb=0.0C
 1879	1	8	10	58	0	992.4	orig=744.1mmHg|orig.time=1:00PM|orig.date=1879-01-08|atb=0.0C
-1879	1	8	18	58	0	986,7	orig=739.8mmHg|orig.time=9:00PM|orig.date=1879-01-08|atb=0.0C
+1879	1	8	18	58	0	986.7	orig=739.8mmHg|orig.time=9:00PM|orig.date=1879-01-08|atb=0.0C
 1879	1	9	4	58	0	983	orig=737mmHg|orig.time=7:00AM|orig.date=1879-01-09|atb=0.0C
 1879	1	9	10	58	0	986.2	orig=739.4mmHg|orig.time=1:00PM|orig.date=1879-01-09|atb=0.0C
 1879	1	9	18	58	0	993	orig=744.5mmHg|orig.time=9:00PM|orig.date=1879-01-09|atb=0.0C
@@ -9834,7 +9834,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	1	18	18	58	0	1002.2	orig=751.4mmHg|orig.time=9:00PM|orig.date=1879-01-18|atb=0.0C
 1879	1	19	4	58	0	1002.4	orig=751.6mmHg|orig.time=7:00AM|orig.date=1879-01-19|atb=0.0C
 1879	1	19	10	58	0	1001.4	orig=750.8mmHg|orig.time=1:00PM|orig.date=1879-01-19|atb=0.0C
-1879	1	19	18	58	0	1000,3	orig=750mmHg|orig.time=9:00PM|orig.date=1879-01-19|atb=0.0C
+1879	1	19	18	58	0	1000.3	orig=750mmHg|orig.time=9:00PM|orig.date=1879-01-19|atb=0.0C
 1879	1	20	4	58	0	998	orig=748.3mmHg|orig.time=7:00AM|orig.date=1879-01-20|atb=0.0C
 1879	1	20	10	58	0	996	orig=746.8mmHg|orig.time=1:00PM|orig.date=1879-01-20|atb=0.0C
 1879	1	20	18	58	0	991.8	orig=743.6mmHg|orig.time=9:00PM|orig.date=1879-01-20|atb=0.0C
@@ -10087,7 +10087,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	4	13	4	58	0	981.9	orig=736.2mmHg|orig.time=7:00AM|orig.date=1879-04-13|atb=0.0C
 1879	4	13	10	58	0	975.8	orig=731.6mmHg|orig.time=1:00PM|orig.date=1879-04-13|atb=0.0C
 1879	4	13	18	58	0	968.7	orig=726.3mmHg|orig.time=9:00PM|orig.date=1879-04-13|atb=0.0C
-1879	4	14	4	58	0	963,6	orig=722.5mmHg|orig.time=7:00AM|orig.date=1879-04-14|atb=0.0C
+1879	4	14	4	58	0	963.6	orig=722.5mmHg|orig.time=7:00AM|orig.date=1879-04-14|atb=0.0C
 1879	4	14	10	58	0	967	orig=725mmHg|orig.time=1:00PM|orig.date=1879-04-14|atb=0.0C
 1879	4	14	18	58	0	973.9	orig=730.2mmHg|orig.time=9:00PM|orig.date=1879-04-14|atb=0.0C
 1879	4	15	4	58	0	980.7	orig=735.3mmHg|orig.time=7:00AM|orig.date=1879-04-15|atb=0.0C
@@ -10482,7 +10482,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	8	22	18	58	0	997.1	orig=747.6mmHg|orig.time=9:00PM|orig.date=1879-08-22|atb=0.0C
 1879	8	23	4	58	0	999.5	orig=749.4mmHg|orig.time=7:00AM|orig.date=1879-08-23|atb=0.0C
 1879	8	23	10	58	0	1000	orig=749.8mmHg|orig.time=1:00PM|orig.date=1879-08-23|atb=0.0C
-1879	8	23	18	58	0	999,4	orig=749.3mmHg|orig.time=9:00PM|orig.date=1879-08-23|atb=0.0C
+1879	8	23	18	58	0	999.4	orig=749.3mmHg|orig.time=9:00PM|orig.date=1879-08-23|atb=0.0C
 1879	8	24	4	58	0	999	orig=749mmHg|orig.time=7:00AM|orig.date=1879-08-24|atb=0.0C
 1879	8	24	10	58	0	997.4	orig=747.8mmHg|orig.time=1:00PM|orig.date=1879-08-24|atb=0.0C
 1879	8	24	18	58	0	993.9	orig=745.2mmHg|orig.time=9:00PM|orig.date=1879-08-24|atb=0.0C
@@ -10644,7 +10644,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	10	15	18	58	0	984.8	orig=738.4mmHg|orig.time=9:00PM|orig.date=1879-10-15|atb=0.0C
 1879	10	16	4	58	0	992.6	orig=744.2mmHg|orig.time=7:00AM|orig.date=1879-10-16|atb=0.0C
 1879	10	16	10	58	0	994.4	orig=745.6mmHg|orig.time=1:00PM|orig.date=1879-10-16|atb=0.0C
-1879	10	16	18	58	0	995,9	orig=746.7mmHg|orig.time=9:00PM|orig.date=1879-10-16|atb=0.0C
+1879	10	16	18	58	0	995.9	orig=746.7mmHg|orig.time=9:00PM|orig.date=1879-10-16|atb=0.0C
 1879	10	17	4	58	0	990.2	orig=742.4mmHg|orig.time=7:00AM|orig.date=1879-10-17|atb=0.0C
 1879	10	17	10	58	0	985.2	orig=738.7mmHg|orig.time=1:00PM|orig.date=1879-10-17|atb=0.0C
 1879	10	17	18	58	0	976.4	orig=732.1mmHg|orig.time=9:00PM|orig.date=1879-10-17|atb=0.0C
@@ -10740,7 +10740,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1879	11	16	18	58	0	998.3	orig=748.5mmHg|orig.time=9:00PM|orig.date=1879-11-16|atb=0.0C
 1879	11	17	4	58	0	996.3	orig=747mmHg|orig.time=7:00AM|orig.date=1879-11-17|atb=0.0C
 1879	11	17	10	58	0	989.4	orig=741.8mmHg|orig.time=1:00PM|orig.date=1879-11-17|atb=0.0C
-1879	11	17	18	58	0	982,6	orig=736.7mmHg|orig.time=9:00PM|orig.date=1879-11-17|atb=0.0C
+1879	11	17	18	58	0	982.6	orig=736.7mmHg|orig.time=9:00PM|orig.date=1879-11-17|atb=0.0C
 1879	11	18	4	58	0	990.3	orig=742.5mmHg|orig.time=7:00AM|orig.date=1879-11-18|atb=0.0C
 1879	11	18	10	58	0	993.4	orig=744.8mmHg|orig.time=1:00PM|orig.date=1879-11-18|atb=0.0C
 1879	11	18	18	58	0	997.1	orig=747.6mmHg|orig.time=9:00PM|orig.date=1879-11-18|atb=0.0C
@@ -11607,7 +11607,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1880	8	31	18	58	0	999	orig=749mmHg|orig.time=9:00PM|orig.date=1880-08-31|atb=0.0C
 1880	9	1	4	58	0	1003.5	orig=752.4mmHg|orig.time=7:00AM|orig.date=1880-09-01|atb=0.0C
 1880	9	1	10	58	0	1004.8	orig=753.4mmHg|orig.time=1:00PM|orig.date=1880-09-01|atb=0.0C
-1880	9	1	18	58	0	1005,9	orig=754.2mmHg|orig.time=9:00PM|orig.date=1880-09-01|atb=0.0C
+1880	9	1	18	58	0	1005.9	orig=754.2mmHg|orig.time=9:00PM|orig.date=1880-09-01|atb=0.0C
 1880	9	2	4	58	0	1007.1	orig=755.1mmHg|orig.time=7:00AM|orig.date=1880-09-02|atb=0.0C
 1880	9	2	10	58	0	1005.4	orig=753.8mmHg|orig.time=1:00PM|orig.date=1880-09-02|atb=0.0C
 1880	9	2	18	58	0	1001.5	orig=750.9mmHg|orig.time=9:00PM|orig.date=1880-09-02|atb=0.0C

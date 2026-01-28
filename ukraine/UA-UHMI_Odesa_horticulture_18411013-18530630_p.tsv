@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_horticulture						
-Name	Odesa, horticulture						
-Lat	46,46						
-Lon	30,68						
+Name	Odesa. horticulture						
+Lat	46.46						
+Lon	30.68						
 Alt	35						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -41,7 +41,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1841	10	22	7	56	0	1005.7	orig=595.8R.s.l.|orig.time=10:00AM|orig.date=1841-10-22|atb=14R
 1841	10	22	13	56	0	1014.2	orig=600.8R.s.l.|orig.time=4:00PM|orig.date=1841-10-22|atb=13.7R
 1841	10	22	19	56	0	1019.5	orig=603.9R.s.l.|orig.time=10:00PM|orig.date=1841-10-22|atb=13.4R
-1841	10	23	7	56	0	1008,4	orig=596.9R.s.l.|orig.time=10:00AM|orig.date=1841-10-23|atb=12.6R
+1841	10	23	7	56	0	1008.4	orig=596.9R.s.l.|orig.time=10:00AM|orig.date=1841-10-23|atb=12.6R
 1841	10	23	13	56	0	1022.3	orig=605.5R.s.l.|orig.time=4:00PM|orig.date=1841-10-23|atb=12.7R
 1841	10	23	19	56	0	1021.2	orig=604.7R.s.l.|orig.time=10:00PM|orig.date=1841-10-23|atb=12R
 1841	10	24	7	56	0	1016.5	orig=602R.s.l.|orig.time=10:00AM|orig.date=1841-10-24|atb=12.5R
@@ -3075,7 +3075,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	1	26	13	56	0	1011.4	orig=598.7R.s.l.|orig.time=4:00PM|orig.date=1845-01-26|atb=10.3R
 1845	1	26	19	56	0	1009.1	orig=597.3R.s.l.|orig.time=10:00PM|orig.date=1845-01-26|atb=10.2R
 1845	1	27	7	56	0	1004.4	orig=594.5R.s.l.|orig.time=10:00AM|orig.date=1845-01-27|atb=10R
-1845	1	27	13	56	0	1002,3	orig=593R.s.l.|orig.time=4:00PM|orig.date=1845-01-27|atb=10.1R
+1845	1	27	13	56	0	1002.3	orig=593R.s.l.|orig.time=4:00PM|orig.date=1845-01-27|atb=10.1R
 1845	1	27	19	56	0	1001.3	orig=592.7R.s.l.|orig.time=10:00PM|orig.date=1845-01-27|atb=10R
 1845	1	28	7	56	0	998.3	orig=590.9R.s.l.|orig.time=10:00AM|orig.date=1845-01-28|atb=10.1R
 1845	1	28	13	56	0	997.2	orig=590.4R.s.l.|orig.time=4:00PM|orig.date=1845-01-28|atb=11R
@@ -3762,7 +3762,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1846	1	13	13	56	0	1011	orig=598.5R.s.l.|orig.time=4:00PM|orig.date=1846-01-13|atb=10.8R
 1846	1	13	19	56	0	1012.3	orig=599.3R.s.l.|orig.time=10:00PM|orig.date=1846-01-13|atb=11R
 1846	1	14	7	56	0	1009.6	orig=597.7R.s.l.|orig.time=10:00AM|orig.date=1846-01-14|atb=10.9R
-1846	1	14	13	56	0	1003,9	orig=594.1R.s.l.|orig.time=4:00PM|orig.date=1846-01-14|atb=11.7R
+1846	1	14	13	56	0	1003.9	orig=594.1R.s.l.|orig.time=4:00PM|orig.date=1846-01-14|atb=11.7R
 1846	1	14	19	56	0	1001.3	orig=592.8R.s.l.|orig.time=10:00PM|orig.date=1846-01-14|atb=11.1R
 1846	1	15	7	56	0	1015.4	orig=601R.s.l.|orig.time=10:00AM|orig.date=1846-01-15|atb=10R
 1846	1	15	13	56	0	1015.1	orig=600.8R.s.l.|orig.time=4:00PM|orig.date=1846-01-15|atb=9.8R
@@ -5187,7 +5187,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	5	3	13	56	0	1010.2	orig=598.3R.s.l.|orig.time=4:00PM|orig.date=1847-05-03|atb=12.8R
 1847	5	3	19	56	0	1012.6	orig=599.7R.s.l.|orig.time=10:00PM|orig.date=1847-05-03|atb=12.5R
 1847	5	4	7	56	0	1015.2	orig=601.3R.s.l.|orig.time=10:00AM|orig.date=1847-05-04|atb=13R
-1847	5	4	13	56	0	1015,4	orig=601.1R.s.l.|orig.time=4:00PM|orig.date=1847-05-04|atb=13.4R
+1847	5	4	13	56	0	1015.4	orig=601.1R.s.l.|orig.time=4:00PM|orig.date=1847-05-04|atb=13.4R
 1847	5	4	19	56	0	1014.9	orig=601.1R.s.l.|orig.time=10:00PM|orig.date=1847-05-04|atb=12.6R
 1847	5	5	7	56	0	1013.4	orig=600.3R.s.l.|orig.time=10:00AM|orig.date=1847-05-05|atb=13.3R
 1847	5	5	13	56	0	1011.2	orig=599.1R.s.l.|orig.time=4:00PM|orig.date=1847-05-05|atb=14R
@@ -5244,7 +5244,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	5	22	13	56	0	1010.5	orig=598.8R.s.l.|orig.time=4:00PM|orig.date=1847-05-22|atb=15.2R
 1847	5	22	19	56	0	1012.4	orig=599.8R.s.l.|orig.time=10:00PM|orig.date=1847-05-22|atb=14.2R
 1847	5	23	7	56	0	1013.7	orig=600.7R.s.l.|orig.time=10:00AM|orig.date=1847-05-23|atb=15R
-1847	5	23	13	56	0	1010,8	orig=598.6R.s.l.|orig.time=4:00PM|orig.date=1847-05-23|atb=15.3R
+1847	5	23	13	56	0	1010.8	orig=598.6R.s.l.|orig.time=4:00PM|orig.date=1847-05-23|atb=15.3R
 1847	5	23	19	56	0	1007.2	orig=596.8R.s.l.|orig.time=10:00PM|orig.date=1847-05-23|atb=14.7R
 1847	5	24	7	56	0	1006.3	orig=596.4R.s.l.|orig.time=10:00AM|orig.date=1847-05-24|atb=15.5R
 1847	5	24	13	56	0	1003	orig=594.4R.s.l.|orig.time=4:00PM|orig.date=1847-05-24|atb=15.5R
@@ -5523,7 +5523,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	8	23	13	56	0	1003.9	orig=595.4R.s.l.|orig.time=4:00PM|orig.date=1847-08-23|atb=18.9R
 1847	8	23	19	56	0	1004.7	orig=595.8R.s.l.|orig.time=10:00PM|orig.date=1847-08-23|atb=18.4R
 1847	8	24	7	56	0	1004.2	orig=595.7R.s.l.|orig.time=10:00AM|orig.date=1847-08-24|atb=19.8R
-1847	8	24	13	56	0	1004,5	orig=595.4R.s.l.|orig.time=4:00PM|orig.date=1847-08-24|atb=20R
+1847	8	24	13	56	0	1004.5	orig=595.4R.s.l.|orig.time=4:00PM|orig.date=1847-08-24|atb=20R
 1847	8	24	19	56	0	1005.5	orig=596.4R.s.l.|orig.time=10:00PM|orig.date=1847-08-24|atb=19.3R
 1847	8	25	7	56	0	1007.7	orig=597.8R.s.l.|orig.time=10:00AM|orig.date=1847-08-25|atb=20R
 1847	8	25	13	56	0	1007.1	orig=597.5R.s.l.|orig.time=4:00PM|orig.date=1847-08-25|atb=20.2R
@@ -5599,7 +5599,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	9	17	19	56	0	999.5	orig=592.6R.s.l.|orig.time=10:00PM|orig.date=1847-09-17|atb=17.2R
 1847	9	18	7	56	0	1006.4	orig=596.7R.s.l.|orig.time=10:00AM|orig.date=1847-09-18|atb=17.3R
 1847	9	18	13	56	0	1008.5	orig=597.8R.s.l.|orig.time=4:00PM|orig.date=1847-09-18|atb=16.3R
-1847	9	18	19	56	0	1010,4	orig=598.5R.s.l.|orig.time=10:00PM|orig.date=1847-09-18|atb=16.3R
+1847	9	18	19	56	0	1010.4	orig=598.5R.s.l.|orig.time=10:00PM|orig.date=1847-09-18|atb=16.3R
 1847	9	19	7	56	0	1011.4	orig=599.6R.s.l.|orig.time=10:00AM|orig.date=1847-09-19|atb=17R
 1847	9	19	13	56	0	1012.1	orig=600R.s.l.|orig.time=4:00PM|orig.date=1847-09-19|atb=16.9R
 1847	9	19	19	56	0	1013.2	orig=600.6R.s.l.|orig.time=10:00PM|orig.date=1847-09-19|atb=16.4R
@@ -5816,7 +5816,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	11	29	7	56	0	1013.5	orig=600R.s.l.|orig.time=10:00AM|orig.date=1847-11-29|atb=10.9R
 1847	11	29	13	56	0	1014.5	orig=600.7R.s.l.|orig.time=4:00PM|orig.date=1847-11-29|atb=11.5R
 1847	11	29	19	56	0	1015.1	orig=601R.s.l.|orig.time=10:00PM|orig.date=1847-11-29|atb=11R
-1847	11	30	7	56	0	1017,2	orig=601.9R.s.l.|orig.time=10:00AM|orig.date=1847-11-30|atb=11R
+1847	11	30	7	56	0	1017.2	orig=601.9R.s.l.|orig.time=10:00AM|orig.date=1847-11-30|atb=11R
 1847	11	30	13	56	0	1017.5	orig=602.4R.s.l.|orig.time=4:00PM|orig.date=1847-11-30|atb=11.1R
 1847	11	30	19	56	0	1017.4	orig=602.4R.s.l.|orig.time=10:00PM|orig.date=1847-11-30|atb=11.4R
 1847	12	1	7	56	0	1016.8	orig=602.1R.s.l.|orig.time=10:00AM|orig.date=1847-12-01|atb=11.7R
@@ -6086,7 +6086,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	2	27	7	56	0	995.6	orig=589.4R.s.l.|orig.time=10:00AM|orig.date=1848-02-27|atb=10.6R
 1848	2	27	13	56	0	995.4	orig=589.3R.s.l.|orig.time=4:00PM|orig.date=1848-02-27|atb=10.7R
 1848	2	27	19	56	0	999	orig=591.3R.s.l.|orig.time=10:00PM|orig.date=1848-02-27|atb=10.1R
-1848	2	28	7	56	0	1000,4	orig=591.9R.s.l.|orig.time=10:00AM|orig.date=1848-02-28|atb=10.3R
+1848	2	28	7	56	0	1000.4	orig=591.9R.s.l.|orig.time=10:00AM|orig.date=1848-02-28|atb=10.3R
 1848	2	28	13	56	0	998.3	orig=590.9R.s.l.|orig.time=4:00PM|orig.date=1848-02-28|atb=10.2R
 1848	2	28	19	56	0	999.3	orig=591.5R.s.l.|orig.time=10:00PM|orig.date=1848-02-28|atb=10R
 1848	2	29	7	56	0	1002.2	orig=593.2R.s.l.|orig.time=10:00AM|orig.date=1848-02-29|atb=10.1R

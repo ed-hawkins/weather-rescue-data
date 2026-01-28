@@ -1,7 +1,7 @@
 SEF	1.0.0						
 ID	Luhansk						
 Name	Luhansk						
-Lat	48,5667						
+Lat	48.5667						
 Lon	39.25						
 Alt	62						
 Source	UA-UHMI						
@@ -4062,7 +4062,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1833	5	29	9	22	0	1016.9	orig=30.02In|orig.time=Noon|orig.date=1833-05-17
 1833	5	29	NA	NA	0	1015.8	orig=29.99In|orig.time=Evening|orig.date=1833-05-17
 1833	5	30	NA	NA	0	1014.5	orig=29.95In|orig.time=Morning|orig.date=1833-05-18
-1833	5	30	9	22	0	1011,4	orig=29.93In|orig.time=Noon|orig.date=1833-05-18
+1833	5	30	9	22	0	1011.4	orig=29.93In|orig.time=Noon|orig.date=1833-05-18
 1833	5	30	NA	NA	0	1012.8	orig=29.9In|orig.time=Evening|orig.date=1833-05-18
 1833	5	31	NA	NA	0	1012.5	orig=29.89In|orig.time=Morning|orig.date=1833-05-19
 1833	5	31	9	22	0	1011.4	orig=29.86In|orig.time=Noon|orig.date=1833-05-19
@@ -4713,7 +4713,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1834	1	13	9	33	0	1038.2	orig=30.65In|orig.time=Noon|orig.date=1834-01-01
 1834	1	13	NA	NA	0	1038.9	orig=30.67In|orig.time=Evening|orig.date=1834-01-01
 1834	1	14	NA	NA	0	1040.2	orig=30.71In|orig.time=Morning|orig.date=1834-01-02
-1834	1	14	9	34	0	1039,1	orig=30.75In|orig.time=Noon|orig.date=1834-01-02
+1834	1	14	9	34	0	1039.1	orig=30.75In|orig.time=Noon|orig.date=1834-01-02
 1834	1	14	NA	NA	0	1041.9	orig=30.76In|orig.time=Evening|orig.date=1834-01-02
 1834	1	15	NA	NA	0	1036.8	orig=30.61In|orig.time=Morning|orig.date=1834-01-03
 1834	1	15	9	34	0	1036.2	orig=30.59In|orig.time=Noon|orig.date=1834-01-03
@@ -5946,7 +5946,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1835	3	4	9	35	0	1026	orig=30.29In|orig.time=Noon|orig.date=1835-02-20
 1835	3	4	NA	NA	0	1046	orig=30.88In|orig.time=Evening|orig.date=1835-02-20
 1835	3	5	NA	NA	0	1010.1	orig=29.82In|orig.time=Morning|orig.date=1835-02-21
-1835	3	5	9	35	0	1006,6	orig=29.79In|orig.time=Noon|orig.date=1835-02-21
+1835	3	5	9	35	0	1006.6	orig=29.79In|orig.time=Noon|orig.date=1835-02-21
 1835	3	5	NA	NA	0	1007.4	orig=29.74In|orig.time=Evening|orig.date=1835-02-21
 1835	3	6	NA	NA	0	1005	orig=29.67In|orig.time=Morning|orig.date=1835-02-22
 1835	3	6	9	35	0	1003.3	orig=29.62In|orig.time=Noon|orig.date=1835-02-22

@@ -18,7 +18,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	13	13	23	0	1003.7	orig=594.8R.s.l.|orig.time=4:00PM|orig.date=1839-01-01|atb=16R
 1839	1	13	15	23	0	1003.4	orig=594.6R.s.l.|orig.time=6:00PM|orig.date=1839-01-01|atb=16R
 1839	1	13	17	23	0	1003.6	orig=594.6R.s.l.|orig.time=8:00PM|orig.date=1839-01-01|atb=15R
-1839	1	13	19	23	0	1002,9	orig=593.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-01|atb=15R
+1839	1	13	19	23	0	1002.9	orig=593.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-01|atb=15R
 1839	1	14	5	23	0	995.9	orig=590.4R.s.l.|orig.time=8:00AM|orig.date=1839-01-02|atb=17.5R
 1839	1	14	7	23	0	995.7	orig=590.2R.s.l.|orig.time=10:00AM|orig.date=1839-01-02|atb=17R
 1839	1	14	9	23	0	993.1	orig=588.6R.s.l.|orig.time=12:00AM|orig.date=1839-01-02|atb=16.5R
@@ -26,7 +26,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	14	13	23	0	991.7	orig=587.6R.s.l.|orig.time=4:00PM|orig.date=1839-01-02|atb=15.5R
 1839	1	14	15	23	0	990.4	orig=586.8R.s.l.|orig.time=6:00PM|orig.date=1839-01-02|atb=15R
 1839	1	14	17	23	0	990.4	orig=586.8R.s.l.|orig.time=8:00PM|orig.date=1839-01-02|atb=15R
-1839	1	14	19	23	0	990,8	orig=586.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-02|atb=17R
+1839	1	14	19	23	0	990.8	orig=586.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-02|atb=17R
 1839	1	15	5	23	0	987.1	orig=585.2R.s.l.|orig.time=8:00AM|orig.date=1839-01-03|atb=18R
 1839	1	15	7	23	0	987.4	orig=585.4R.s.l.|orig.time=10:00AM|orig.date=1839-01-03|atb=18R
 1839	1	15	9	23	0	987.1	orig=585.2R.s.l.|orig.time=12:00AM|orig.date=1839-01-03|atb=18R
@@ -34,7 +34,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	15	13	23	0	987.6	orig=585.4R.s.l.|orig.time=4:00PM|orig.date=1839-01-03|atb=17R
 1839	1	15	15	23	0	987.7	orig=585.4R.s.l.|orig.time=6:00PM|orig.date=1839-01-03|atb=16.5R
 1839	1	15	17	23	0	988.6	orig=586R.s.l.|orig.time=8:00PM|orig.date=1839-01-03|atb=17R
-1839	1	15	19	23	0	989,4	orig=586R.s.l.|orig.time=10:00PM|orig.date=1839-01-03|atb=17R
+1839	1	15	19	23	0	989.4	orig=586R.s.l.|orig.time=10:00PM|orig.date=1839-01-03|atb=17R
 1839	1	16	5	23	0	980.9	orig=581.4R.s.l.|orig.time=8:00AM|orig.date=1839-01-04|atb=17R
 1839	1	16	7	23	0	984.8	orig=583.8R.s.l.|orig.time=10:00AM|orig.date=1839-01-04|atb=17.75R
 1839	1	16	9	23	0	980.8	orig=581.4R.s.l.|orig.time=12:00AM|orig.date=1839-01-04|atb=17.5R
@@ -42,7 +42,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	16	13	23	0	994.4	orig=589.4R.s.l.|orig.time=4:00PM|orig.date=1839-01-04|atb=17R
 1839	1	16	15	23	0	984.1	orig=583.2R.s.l.|orig.time=6:00PM|orig.date=1839-01-04|atb=16R
 1839	1	16	17	23	0	984.9	orig=583.8R.s.l.|orig.time=8:00PM|orig.date=1839-01-04|atb=17R
-1839	1	16	19	23	0	985,7	orig=583.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-04|atb=17R
+1839	1	16	19	23	0	985.7	orig=583.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-04|atb=17R
 1839	1	17	5	23	0	985.9	orig=584.4R.s.l.|orig.time=8:00AM|orig.date=1839-01-05|atb=17R
 1839	1	17	7	23	0	985.9	orig=584.4R.s.l.|orig.time=10:00AM|orig.date=1839-01-05|atb=17R
 1839	1	17	9	23	0	986.2	orig=584.6R.s.l.|orig.time=12:00AM|orig.date=1839-01-05|atb=17.5R
@@ -50,7 +50,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	17	13	23	0	988	orig=585.6R.s.l.|orig.time=4:00PM|orig.date=1839-01-05|atb=17R
 1839	1	17	15	23	0	989.5	orig=586.4R.s.l.|orig.time=6:00PM|orig.date=1839-01-05|atb=16R
 1839	1	17	17	23	0	991	orig=587.4R.s.l.|orig.time=8:00PM|orig.date=1839-01-05|atb=17R
-1839	1	17	19	23	0	991,8	orig=587.4R.s.l.|orig.time=10:00PM|orig.date=1839-01-05|atb=17R
+1839	1	17	19	23	0	991.8	orig=587.4R.s.l.|orig.time=10:00PM|orig.date=1839-01-05|atb=17R
 1839	1	18	5	23	0	995.4	orig=590.2R.s.l.|orig.time=8:00AM|orig.date=1839-01-06|atb=18.5R
 1839	1	18	7	23	0	995.4	orig=590.2R.s.l.|orig.time=10:00AM|orig.date=1839-01-06|atb=18.5R
 1839	1	18	9	23	0	995.4	orig=590.2R.s.l.|orig.time=12:00AM|orig.date=1839-01-06|atb=18.5R
@@ -58,7 +58,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	18	13	23	0	993.7	orig=589R.s.l.|orig.time=4:00PM|orig.date=1839-01-06|atb=17R
 1839	1	18	15	23	0	992.2	orig=588R.s.l.|orig.time=6:00PM|orig.date=1839-01-06|atb=16R
 1839	1	18	17	23	0	992.9	orig=588.4R.s.l.|orig.time=8:00PM|orig.date=1839-01-06|atb=16R
-1839	1	18	19	23	0	990,3	orig=586.4R.s.l.|orig.time=10:00PM|orig.date=1839-01-06|atb=16R
+1839	1	18	19	23	0	990.3	orig=586.4R.s.l.|orig.time=10:00PM|orig.date=1839-01-06|atb=16R
 1839	1	19	5	23	0	989.3	orig=585.6R.s.l.|orig.time=8:00AM|orig.date=1839-01-07|atb=11R
 1839	1	19	7	23	0	992.8	orig=588.2R.s.l.|orig.time=10:00AM|orig.date=1839-01-07|atb=15R
 1839	1	19	9	23	0	994.3	orig=589.2R.s.l.|orig.time=12:00AM|orig.date=1839-01-07|atb=16R
@@ -74,7 +74,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	20	13	23	0	1003	orig=594.4R.s.l.|orig.time=4:00PM|orig.date=1839-01-08|atb=16R
 1839	1	20	15	23	0	1003.6	orig=594.6R.s.l.|orig.time=6:00PM|orig.date=1839-01-08|atb=15R
 1839	1	20	17	23	0	1004.4	orig=595.2R.s.l.|orig.time=8:00PM|orig.date=1839-01-08|atb=16R
-1839	1	20	19	23	0	1010,1	orig=598.2R.s.l.|orig.time=10:00PM|orig.date=1839-01-08|atb=16.5R
+1839	1	20	19	23	0	1010.1	orig=598.2R.s.l.|orig.time=10:00PM|orig.date=1839-01-08|atb=16.5R
 1839	1	21	5	23	0	1005.8	orig=596.2R.s.l.|orig.time=8:00AM|orig.date=1839-01-09|atb=17R
 1839	1	21	7	23	0	1005.8	orig=596.2R.s.l.|orig.time=10:00AM|orig.date=1839-01-09|atb=17R
 1839	1	21	9	23	0	996.2	orig=590.4R.s.l.|orig.time=12:00AM|orig.date=1839-01-09|atb=16.5R
@@ -82,7 +82,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	21	13	23	0	996.2	orig=590.2R.s.l.|orig.time=4:00PM|orig.date=1839-01-09|atb=15R
 1839	1	21	15	23	0	1005.7	orig=595.8R.s.l.|orig.time=6:00PM|orig.date=1839-01-09|atb=14.5R
 1839	1	21	17	23	0	1005.4	orig=595.8R.s.l.|orig.time=8:00PM|orig.date=1839-01-09|atb=16R
-1839	1	21	19	23	0	1005,9	orig=595.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-09|atb=17R
+1839	1	21	19	23	0	1005.9	orig=595.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-09|atb=17R
 1839	1	22	5	23	0	1002.9	orig=594.4R.s.l.|orig.time=8:00AM|orig.date=1839-01-10|atb=16.5R
 1839	1	22	7	23	0	1002.8	orig=594.4R.s.l.|orig.time=10:00AM|orig.date=1839-01-10|atb=17R
 1839	1	22	9	23	0	1001.3	orig=593.4R.s.l.|orig.time=12:00AM|orig.date=1839-01-10|atb=16R
@@ -90,7 +90,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	22	13	23	0	1001.2	orig=593.2R.s.l.|orig.time=4:00PM|orig.date=1839-01-10|atb=15R
 1839	1	22	15	23	0	1001.4	orig=593.2R.s.l.|orig.time=6:00PM|orig.date=1839-01-10|atb=14.5R
 1839	1	22	17	23	0	1001	orig=593.2R.s.l.|orig.time=8:00PM|orig.date=1839-01-10|atb=16R
-1839	1	22	19	23	0	1001,6	orig=593.2R.s.l.|orig.time=10:00PM|orig.date=1839-01-10|atb=17R
+1839	1	22	19	23	0	1001.6	orig=593.2R.s.l.|orig.time=10:00PM|orig.date=1839-01-10|atb=17R
 1839	1	23	5	23	0	1002	orig=593.8R.s.l.|orig.time=8:00AM|orig.date=1839-01-11|atb=16R
 1839	1	23	7	23	0	1002.2	orig=594.2R.s.l.|orig.time=10:00AM|orig.date=1839-01-11|atb=18R
 1839	1	23	9	23	0	1002.7	orig=594.4R.s.l.|orig.time=12:00AM|orig.date=1839-01-11|atb=17.5R
@@ -98,7 +98,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	1	23	13	23	0	1004.5	orig=595.2R.s.l.|orig.time=4:00PM|orig.date=1839-01-11|atb=15.5R
 1839	1	23	15	23	0	1004.6	orig=595.2R.s.l.|orig.time=6:00PM|orig.date=1839-01-11|atb=15R
 1839	1	23	17	23	0	1006.4	orig=596.4R.s.l.|orig.time=8:00PM|orig.date=1839-01-11|atb=16R
-1839	1	23	19	23	0	1007,6	orig=596.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-11|atb=17R
+1839	1	23	19	23	0	1007.6	orig=596.8R.s.l.|orig.time=10:00PM|orig.date=1839-01-11|atb=17R
 1839	1	24	5	23	0	1006.3	orig=596.6R.s.l.|orig.time=8:00AM|orig.date=1839-01-12|atb=18R
 1839	1	24	7	23	0	1006.3	orig=596.6R.s.l.|orig.time=10:00AM|orig.date=1839-01-12|atb=18R
 1839	1	24	9	23	0	1005.6	orig=596.2R.s.l.|orig.time=12:00AM|orig.date=1839-01-12|atb=18R
@@ -267,7 +267,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	2	13	15	23	0	1003.5	orig=594.4R.s.l.|orig.time=6:00PM|orig.date=1839-02-01|atb=14R
 1839	2	13	17	23	0	1001.7	orig=593.6R.s.l.|orig.time=8:00PM|orig.date=1839-02-01|atb=16R
 1839	2	13	19	23	0	1000.4	orig=593R.s.l.|orig.time=10:00PM|orig.date=1839-02-01|atb=17R
-1839	2	14	5	23	0	994,1	orig=588.8R.s.l.|orig.time=8:00AM|orig.date=1839-02-02|atb=17R
+1839	2	14	5	23	0	994.1	orig=588.8R.s.l.|orig.time=8:00AM|orig.date=1839-02-02|atb=17R
 1839	2	14	7	23	0	992.7	orig=588.4R.s.l.|orig.time=10:00AM|orig.date=1839-02-02|atb=17R
 1839	2	14	9	23	0	990.8	orig=587.4R.s.l.|orig.time=12:00AM|orig.date=1839-02-02|atb=18R
 1839	2	14	11	23	0	990.1	orig=587R.s.l.|orig.time=2:00PM|orig.date=1839-02-02|atb=18R
@@ -459,7 +459,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	3	10	7	23	0	1015.5	orig=601.8R.s.l.|orig.time=10:00AM|orig.date=1839-02-26|atb=16R
 1839	3	10	9	23	0	1015.2	orig=601.6R.s.l.|orig.time=12:00AM|orig.date=1839-02-26|atb=16R
 1839	3	10	11	23	0	1016	orig=601.4R.s.l.|orig.time=2:00PM|orig.date=1839-02-26|atb=14R
-1839	3	10	13	23	0	1015,8	orig=601.2R.s.l.|orig.time=4:00PM|orig.date=1839-02-26|atb=13R
+1839	3	10	13	23	0	1015.8	orig=601.2R.s.l.|orig.time=4:00PM|orig.date=1839-02-26|atb=13R
 1839	3	10	15	23	0	1015.3	orig=601.2R.s.l.|orig.time=6:00PM|orig.date=1839-02-26|atb=12.5R
 1839	3	10	17	23	0	1014.4	orig=601.4R.s.l.|orig.time=8:00PM|orig.date=1839-02-26|atb=18R
 1839	3	10	19	23	0	1014.4	orig=601.4R.s.l.|orig.time=10:00PM|orig.date=1839-02-26|atb=18R
@@ -680,7 +680,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	4	6	17	23	0	1006.6	orig=596.4R.s.l.|orig.time=8:00PM|orig.date=1839-03-25|atb=15R
 1839	4	6	19	23	0	1007	orig=596.8R.s.l.|orig.time=10:00PM|orig.date=1839-03-25|atb=16.5R
 1839	4	7	5	23	0	1008.1	orig=597.6R.s.l.|orig.time=8:00AM|orig.date=1839-03-26|atb=17.25R
-1839	4	7	7	23	0	1009,3	orig=597.8R.s.l.|orig.time=10:00AM|orig.date=1839-03-26|atb=17R
+1839	4	7	7	23	0	1009.3	orig=597.8R.s.l.|orig.time=10:00AM|orig.date=1839-03-26|atb=17R
 1839	4	7	9	23	0	1008.8	orig=597.8R.s.l.|orig.time=12:00AM|orig.date=1839-03-26|atb=16R
 1839	4	7	11	23	0	1008.9	orig=597.8R.s.l.|orig.time=2:00PM|orig.date=1839-03-26|atb=15.5R
 1839	4	7	13	23	0	1009.1	orig=597.8R.s.l.|orig.time=4:00PM|orig.date=1839-03-26|atb=14.5R
@@ -729,9 +729,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	4	12	19	23	0	996.5	orig=590.8R.s.l.|orig.time=10:00PM|orig.date=1839-03-31|atb=18R
 1839	4	13	5	23	0	997.7	orig=591.4R.s.l.|orig.time=8:00AM|orig.date=1839-04-01|atb=17R
 1839	4	13	7	23	0	997.7	orig=591.4R.s.l.|orig.time=10:00AM|orig.date=1839-04-01|atb=17R
-1839	4	13	9	23	0	998,5	orig=591.4R.s.l.|orig.time=12:00AM|orig.date=1839-04-01|atb=17R
-1839	4	13	11	23	0	998,6	orig=591.4R.s.l.|orig.time=2:00PM|orig.date=1839-04-01|atb=16.5R
-1839	4	13	13	23	0	998,6	orig=591.4R.s.l.|orig.time=4:00PM|orig.date=1839-04-01|atb=16.75R
+1839	4	13	9	23	0	998.5	orig=591.4R.s.l.|orig.time=12:00AM|orig.date=1839-04-01|atb=17R
+1839	4	13	11	23	0	998.6	orig=591.4R.s.l.|orig.time=2:00PM|orig.date=1839-04-01|atb=16.5R
+1839	4	13	13	23	0	998.6	orig=591.4R.s.l.|orig.time=4:00PM|orig.date=1839-04-01|atb=16.75R
 1839	4	13	15	23	0	998.1	orig=591.4R.s.l.|orig.time=6:00PM|orig.date=1839-04-01|atb=15.5R
 1839	4	13	17	23	0	998.2	orig=591.6R.s.l.|orig.time=8:00PM|orig.date=1839-04-01|atb=16.5R
 1839	4	13	19	23	0	999.1	orig=592.2R.s.l.|orig.time=10:00PM|orig.date=1839-04-01|atb=17R
@@ -1403,7 +1403,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	6	7	23	0	1001.9	orig=593.8R.s.l.|orig.time=10:00AM|orig.date=1839-06-24|atb=16.5R
 1839	7	6	9	23	0	1001.8	orig=593.8R.s.l.|orig.time=12:00AM|orig.date=1839-06-24|atb=17R
 1839	7	6	11	23	0	1001.8	orig=593.8R.s.l.|orig.time=2:00PM|orig.date=1839-06-24|atb=17R
-1839	7	6	13	23	0	1002,9	orig=594R.s.l.|orig.time=4:00PM|orig.date=1839-06-24|atb=17R
+1839	7	6	13	23	0	1002.9	orig=594R.s.l.|orig.time=4:00PM|orig.date=1839-06-24|atb=17R
 1839	7	6	15	23	0	1002.5	orig=594.2R.s.l.|orig.time=6:00PM|orig.date=1839-06-24|atb=17R
 1839	7	6	17	23	0	1002.8	orig=594.4R.s.l.|orig.time=8:00PM|orig.date=1839-06-24|atb=17R
 1839	7	6	19	23	0	1002.9	orig=594.4R.s.l.|orig.time=10:00PM|orig.date=1839-06-24|atb=16.5R
@@ -1686,8 +1686,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	8	10	17	23	0	993.2	orig=589.8R.s.l.|orig.time=8:00PM|orig.date=1839-07-29|atb=25R
 1839	8	10	19	23	0	993.5	orig=589.8R.s.l.|orig.time=10:00PM|orig.date=1839-07-29|atb=24R
 1839	8	11	5	23	0	991.3	orig=588.4R.s.l.|orig.time=8:00AM|orig.date=1839-07-30|atb=23R
-1839	8	11	7	23	0	992,2	orig=588.4R.s.l.|orig.time=10:00AM|orig.date=1839-07-30|atb=24R
-1839	8	11	9	23	0	992,2	orig=588.4R.s.l.|orig.time=12:00AM|orig.date=1839-07-30|atb=24R
+1839	8	11	7	23	0	992.2	orig=588.4R.s.l.|orig.time=10:00AM|orig.date=1839-07-30|atb=24R
+1839	8	11	9	23	0	992.2	orig=588.4R.s.l.|orig.time=12:00AM|orig.date=1839-07-30|atb=24R
 1839	8	11	11	23	0	990.5	orig=588.2R.s.l.|orig.time=2:00PM|orig.date=1839-07-30|atb=25R
 1839	8	11	13	23	0	990.9	orig=588.4R.s.l.|orig.time=4:00PM|orig.date=1839-07-30|atb=25R
 1839	8	11	15	23	0	990.6	orig=588.2R.s.l.|orig.time=6:00PM|orig.date=1839-07-30|atb=24.5R
@@ -2486,7 +2486,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	11	18	17	23	0	1012	orig=599.6R.s.l.|orig.time=8:00PM|orig.date=1839-11-06|atb=15R
 1839	11	18	19	23	0	1011.8	orig=599.6R.s.l.|orig.time=10:00PM|orig.date=1839-11-06|atb=16R
 1839	11	19	5	23	0	1011.5	orig=599.2R.s.l.|orig.time=8:00AM|orig.date=1839-11-07|atb=14.5R
-1839	11	19	7	23	0	1012,2	orig=599.2R.s.l.|orig.time=10:00AM|orig.date=1839-11-07|atb=14R
+1839	11	19	7	23	0	1012.2	orig=599.2R.s.l.|orig.time=10:00AM|orig.date=1839-11-07|atb=14R
 1839	11	19	9	23	0	1010	orig=598.2R.s.l.|orig.time=12:00AM|orig.date=1839-11-07|atb=13.5R
 1839	11	19	11	23	0	1009.1	orig=597.6R.s.l.|orig.time=2:00PM|orig.date=1839-11-07|atb=13R
 1839	11	19	13	23	0	1008.1	orig=597R.s.l.|orig.time=4:00PM|orig.date=1839-11-07|atb=13R
@@ -2536,7 +2536,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	11	25	5	23	0	997.5	orig=591R.s.l.|orig.time=8:00AM|orig.date=1839-11-13|atb=15R
 1839	11	25	7	23	0	996.9	orig=590.6R.s.l.|orig.time=10:00AM|orig.date=1839-11-13|atb=15R
 1839	11	25	9	23	0	995.5	orig=589.8R.s.l.|orig.time=12:00AM|orig.date=1839-11-13|atb=15R
-1839	11	25	11	23	0	995,8	orig=589.6R.s.l.|orig.time=2:00PM|orig.date=1839-11-13|atb=15R
+1839	11	25	11	23	0	995.8	orig=589.6R.s.l.|orig.time=2:00PM|orig.date=1839-11-13|atb=15R
 1839	11	25	13	23	0	994.8	orig=589.4R.s.l.|orig.time=4:00PM|orig.date=1839-11-13|atb=15R
 1839	11	25	15	23	0	994.8	orig=589.4R.s.l.|orig.time=6:00PM|orig.date=1839-11-13|atb=15R
 1839	11	25	17	23	0	994.4	orig=589.2R.s.l.|orig.time=8:00PM|orig.date=1839-11-13|atb=15.5R
@@ -2695,7 +2695,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	12	14	19	23	0	994.6	orig=589.2R.s.l.|orig.time=10:00PM|orig.date=1839-12-02|atb=14.5R
 1839	12	15	5	23	0	991	orig=587R.s.l.|orig.time=8:00AM|orig.date=1839-12-03|atb=14R
 1839	12	15	7	23	0	991	orig=587R.s.l.|orig.time=10:00AM|orig.date=1839-12-03|atb=14R
-1839	12	15	9	23	0	991,5	orig=587R.s.l.|orig.time=12:00AM|orig.date=1839-12-03|atb=14.5R
+1839	12	15	9	23	0	991.5	orig=587R.s.l.|orig.time=12:00AM|orig.date=1839-12-03|atb=14.5R
 1839	12	15	11	23	0	990	orig=586.4R.s.l.|orig.time=2:00PM|orig.date=1839-12-03|atb=14R
 1839	12	15	13	23	0	990	orig=586.4R.s.l.|orig.time=4:00PM|orig.date=1839-12-03|atb=14R
 1839	12	15	15	23	0	990.2	orig=586.6R.s.l.|orig.time=6:00PM|orig.date=1839-12-03|atb=14.5R
@@ -2793,7 +2793,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	12	27	7	23	0	1006	orig=595.8R.s.l.|orig.time=10:00AM|orig.date=1839-12-15|atb=13.5R
 1839	12	27	9	23	0	1005	orig=595.2R.s.l.|orig.time=12:00AM|orig.date=1839-12-15|atb=13.5R
 1839	12	27	11	23	0	1004.7	orig=595R.s.l.|orig.time=2:00PM|orig.date=1839-12-15|atb=13R
-1839	12	27	13	23	0	1005,1	orig=594.8R.s.l.|orig.time=4:00PM|orig.date=1839-12-15|atb=12.5R
+1839	12	27	13	23	0	1005.1	orig=594.8R.s.l.|orig.time=4:00PM|orig.date=1839-12-15|atb=12.5R
 1839	12	27	15	23	0	1005.4	orig=595R.s.l.|orig.time=6:00PM|orig.date=1839-12-15|atb=10R
 1839	12	27	17	23	0	1004.5	orig=594.6R.s.l.|orig.time=8:00PM|orig.date=1839-12-15|atb=11R
 1839	12	27	19	23	0	1004.7	orig=594.8R.s.l.|orig.time=10:00PM|orig.date=1839-12-15|atb=11.5R
@@ -2816,7 +2816,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	12	30	5	23	0	999.8	orig=592.2R.s.l.|orig.time=8:00AM|orig.date=1839-12-18|atb=14R
 1839	12	30	7	23	0	999.9	orig=592.2R.s.l.|orig.time=10:00AM|orig.date=1839-12-18|atb=13.5R
 1839	12	30	9	23	0	998.8	orig=591.4R.s.l.|orig.time=12:00AM|orig.date=1839-12-18|atb=12.5R
-1839	12	30	11	23	0	999,1	orig=591.2R.s.l.|orig.time=2:00PM|orig.date=1839-12-18|atb=12R
+1839	12	30	11	23	0	999.1	orig=591.2R.s.l.|orig.time=2:00PM|orig.date=1839-12-18|atb=12R
 1839	12	30	13	23	0	998.4	orig=591R.s.l.|orig.time=4:00PM|orig.date=1839-12-18|atb=11R
 1839	12	30	15	23	0	998.7	orig=591R.s.l.|orig.time=6:00PM|orig.date=1839-12-18|atb=10R
 1839	12	30	17	23	0	998.7	orig=591R.s.l.|orig.time=8:00PM|orig.date=1839-12-18|atb=10R
@@ -2869,8 +2869,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	1	5	15	23	0	994	orig=588.4R.s.l.|orig.time=6:00PM|orig.date=1839-12-24|atb=11R
 1840	1	5	17	23	0	996.2	orig=589.6R.s.l.|orig.time=8:00PM|orig.date=1839-12-24|atb=10.25R
 1840	1	5	19	23	0	992.9	orig=587.6R.s.l.|orig.time=10:00PM|orig.date=1839-12-24|atb=10R
-1840	1	6	5	23	0	991,6	orig=587R.s.l.|orig.time=8:00AM|orig.date=1839-12-25|atb=14R
-1840	1	6	7	23	0	991,7	orig=587R.s.l.|orig.time=10:00AM|orig.date=1839-12-25|atb=13.5R
+1840	1	6	5	23	0	991.6	orig=587R.s.l.|orig.time=8:00AM|orig.date=1839-12-25|atb=14R
+1840	1	6	7	23	0	991.7	orig=587R.s.l.|orig.time=10:00AM|orig.date=1839-12-25|atb=13.5R
 1840	1	6	9	23	0	990.9	orig=586.8R.s.l.|orig.time=12:00AM|orig.date=1839-12-25|atb=13R
 1840	1	6	11	23	0	990.7	orig=586.6R.s.l.|orig.time=2:00PM|orig.date=1839-12-25|atb=12.5R
 1840	1	6	13	23	0	1007.8	orig=596.6R.s.l.|orig.time=4:00PM|orig.date=1839-12-25|atb=11.5R
@@ -2903,7 +2903,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	1	9	19	23	0	999.2	orig=591.2R.s.l.|orig.time=10:00PM|orig.date=1839-12-28|atb=9R
 1840	1	10	5	23	0	997.9	orig=590.6R.s.l.|orig.time=8:00AM|orig.date=1839-12-29|atb=10.5R
 1840	1	10	7	23	0	998.8	orig=591.2R.s.l.|orig.time=10:00AM|orig.date=1839-12-29|atb=11R
-1840	1	10	9	23	0	999,5	orig=591.2R.s.l.|orig.time=12:00AM|orig.date=1839-12-29|atb=10R
+1840	1	10	9	23	0	999.5	orig=591.2R.s.l.|orig.time=12:00AM|orig.date=1839-12-29|atb=10R
 1840	1	10	11	23	0	999.3	orig=591.2R.s.l.|orig.time=2:00PM|orig.date=1839-12-29|atb=8.5R
 1840	1	10	13	23	0	999.3	orig=591.2R.s.l.|orig.time=4:00PM|orig.date=1839-12-29|atb=8.5R
 1840	1	10	15	23	0	1001.5	orig=592.4R.s.l.|orig.time=6:00PM|orig.date=1839-12-29|atb=8R
@@ -2924,4 +2924,4 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	1	12	13	23	0	1004.4	orig=594.4R.s.l.|orig.time=4:00PM|orig.date=1839-12-31|atb=10R
 1840	1	12	15	23	0	1004.3	orig=594.2R.s.l.|orig.time=6:00PM|orig.date=1839-12-31|atb=9R
 1840	1	12	17	23	0	1004	orig=594.4R.s.l.|orig.time=8:00PM|orig.date=1839-12-31|atb=12R
-1840	1	12	19	23	0	1004,7	orig=594.6R.s.l.|orig.time=10:00PM|orig.date=1839-12-31|atb=12.5R
+1840	1	12	19	23	0	1004.7	orig=594.6R.s.l.|orig.time=10:00PM|orig.date=1839-12-31|atb=12.5R

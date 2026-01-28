@@ -2447,10 +2447,10 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1845	12	12	10	13	0	2	orig=1.6R|orig.time=12:00AM|orig.date=1845-11-30
 1845	12	12	14	13	0	1.2	orig=1R|orig.time=4:00PM|orig.date=1845-11-30
 1845	12	12	18	13	0	0	orig=0R|orig.time=8:00PM|orig.date=1845-11-30
-1845	12	13	6	13	0	-1,9	orig=-1.5R|orig.time=8:00AM|orig.date=1845-12-01
-1845	12	13	10	13	0	0,0	orig=0R|orig.time=12:00AM|orig.date=1845-12-01
-1845	12	13	14	13	0	-1,0	orig=-0.8R|orig.time=4:00PM|orig.date=1845-12-01
-1845	12	13	18	13	0	-2,5	orig=-2R|orig.time=8:00PM|orig.date=1845-12-01
+1845	12	13	6	13	0	-1.9	orig=-1.5R|orig.time=8:00AM|orig.date=1845-12-01
+1845	12	13	10	13	0	0.0	orig=0R|orig.time=12:00AM|orig.date=1845-12-01
+1845	12	13	14	13	0	-1.0	orig=-0.8R|orig.time=4:00PM|orig.date=1845-12-01
+1845	12	13	18	13	0	-2.5	orig=-2R|orig.time=8:00PM|orig.date=1845-12-01
 1845	12	14	6	13	0	2.5	orig=2R|orig.time=8:00AM|orig.date=1845-12-02
 1845	12	14	10	13	0	-1.9	orig=-1.5R|orig.time=12:00AM|orig.date=1845-12-02
 1845	12	14	14	13	0	-2.5	orig=-2R|orig.time=4:00PM|orig.date=1845-12-02
@@ -4106,9 +4106,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	1	31	10	13	0	-2.5	orig=-2R|orig.time=12:00AM|orig.date=1847-01-19
 1847	1	31	14	13	0	-2.5	orig=-2R|orig.time=4:00PM|orig.date=1847-01-19
 1847	1	31	18	13	0	-6.2	orig=-5R|orig.time=8:00PM|orig.date=1847-01-19
-1847	2	1	6	13	0	0,3	orig=0.2R|orig.time=8:00AM|orig.date=1847-01-20
-1847	2	1	10	13	0	9,4	orig=7.5R|orig.time=12:00AM|orig.date=1847-01-20
-1847	2	1	14	13	0	5,3	orig=4.2R|orig.time=4:00PM|orig.date=1847-01-20
+1847	2	1	6	13	0	0.3	orig=0.2R|orig.time=8:00AM|orig.date=1847-01-20
+1847	2	1	10	13	0	9.4	orig=7.5R|orig.time=12:00AM|orig.date=1847-01-20
+1847	2	1	14	13	0	5.3	orig=4.2R|orig.time=4:00PM|orig.date=1847-01-20
 1847	2	1	18	13	0	0	orig=0R|orig.time=8:00PM|orig.date=1847-01-20
 1847	2	2	6	13	0	2.2	orig=1.8R|orig.time=8:00AM|orig.date=1847-01-21
 1847	2	2	10	13	0	5	orig=4R|orig.time=12:00AM|orig.date=1847-01-21
@@ -4966,7 +4966,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1847	9	3	10	13	0	26	orig=20.8R|orig.time=12:00AM|orig.date=1847-08-22
 1847	9	3	14	13	0	27.1	orig=21.7R|orig.time=4:00PM|orig.date=1847-08-22
 1847	9	3	18	13	0	17.5	orig=14R|orig.time=8:00PM|orig.date=1847-08-22
-1847	9	4	6	13	0	12,5	orig=10R|orig.time=8:00AM|orig.date=1847-08-23
+1847	9	4	6	13	0	12.5	orig=10R|orig.time=8:00AM|orig.date=1847-08-23
 1847	9	4	10	13	0	15.1	orig=13R|orig.time=12:00AM|orig.date=1847-08-23
 1847	9	4	14	13	0	17.1	orig=14.5R|orig.time=4:00PM|orig.date=1847-08-23
 1847	9	4	18	13	0	14.1	orig=12R|orig.time=8:00PM|orig.date=1847-08-23
@@ -6176,7 +6176,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1848	7	1	18	13	0	22.2	orig=17.8R|orig.time=8:00PM|orig.date=1848-06-19
 1848	7	2	6	13	0	25	orig=20R|orig.time=8:00AM|orig.date=1848-06-20
 1848	7	2	10	13	0	31.2	orig=25R|orig.time=12:00AM|orig.date=1848-06-20
-1848	7	2	14	13	0	35,8	orig=28.6R|orig.time=4:00PM|orig.date=1848-06-20
+1848	7	2	14	13	0	35.8	orig=28.6R|orig.time=4:00PM|orig.date=1848-06-20
 1848	7	2	18	13	0	25	orig=20R|orig.time=8:00PM|orig.date=1848-06-20
 1848	7	3	6	13	0	22.5	orig=18R|orig.time=8:00AM|orig.date=1848-06-21
 1848	7	3	10	13	0	22.5	orig=18R|orig.time=12:00AM|orig.date=1848-06-21

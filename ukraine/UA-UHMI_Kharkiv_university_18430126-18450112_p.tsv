@@ -1,6 +1,6 @@
 SEF	1.0.0						
 ID	Kharkiv_university						
-Name	Kharkiv, university						
+Name	Kharkiv. university						
 Lat	50						
 Lon	36.2333						
 Alt	140						
@@ -50,7 +50,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	2	1	3	35	0	990.1	orig=586.32R.s.l.|orig.time=6:00AM|orig.date=1843-01-20|atb=13.33R
 1843	2	1	6	35	0	992.3	orig=587.6R.s.l.|orig.time=9:00AM|orig.date=1843-01-20|atb=13.33R
 1843	2	1	9	35	0	994.3	orig=588.78R.s.l.|orig.time=12:00AM|orig.date=1843-01-20|atb=13.33R
-1843	2	1	12	35	0	996,9	orig=589.98R.s.l.|orig.time=3:00PM|orig.date=1843-01-20|atb=13.33R
+1843	2	1	12	35	0	996.9	orig=589.98R.s.l.|orig.time=3:00PM|orig.date=1843-01-20|atb=13.33R
 1843	2	1	15	35	0	999.7	orig=591.99R.s.l.|orig.time=6:00PM|orig.date=1843-01-20|atb=13.33R
 1843	2	1	18	35	0	1001.4	orig=592.98R.s.l.|orig.time=9:00PM|orig.date=1843-01-20|atb=13.33R
 1843	2	2	3	35	0	1005.8	orig=595.59R.s.l.|orig.time=6:00AM|orig.date=1843-01-21|atb=13.33R
@@ -546,7 +546,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1843	4	27	9	35	0	1009.2	orig=597.6R.s.l.|orig.time=12:00AM|orig.date=1843-04-15|atb=13.33R
 1843	4	27	12	35	0	1009.4	orig=597.73R.s.l.|orig.time=3:00PM|orig.date=1843-04-15|atb=13.33R
 1843	4	27	15	35	0	1010.4	orig=598.35R.s.l.|orig.time=6:00PM|orig.date=1843-04-15|atb=13.33R
-1843	4	27	18	35	0	1010,2	orig=597.84R.s.l.|orig.time=9:00PM|orig.date=1843-04-15|atb=13.33R
+1843	4	27	18	35	0	1010.2	orig=597.84R.s.l.|orig.time=9:00PM|orig.date=1843-04-15|atb=13.33R
 1843	4	28	3	35	0	1009.3	orig=597.71R.s.l.|orig.time=6:00AM|orig.date=1843-04-16|atb=13.33R
 1843	4	28	6	35	0	1009	orig=597.5R.s.l.|orig.time=9:00AM|orig.date=1843-04-16|atb=13.33R
 1843	4	28	9	35	0	1006.6	orig=596.11R.s.l.|orig.time=12:00AM|orig.date=1843-04-16|atb=13.33R
@@ -3391,7 +3391,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	8	24	3	35	0	1003.2	orig=594.06R.s.l.|orig.time=6:00AM|orig.date=1844-08-12|atb=13.33R
 1844	8	24	6	35	0	1003.1	orig=593.99R.s.l.|orig.time=9:00AM|orig.date=1844-08-12|atb=13.33R
 1844	8	24	9	35	0	1003.2	orig=594.06R.s.l.|orig.time=12:00AM|orig.date=1844-08-12|atb=13.33R
-1844	8	24	12	35	0	1003,6	orig=593.93R.s.l.|orig.time=3:00PM|orig.date=1844-08-12|atb=13.33R
+1844	8	24	12	35	0	1003.6	orig=593.93R.s.l.|orig.time=3:00PM|orig.date=1844-08-12|atb=13.33R
 1844	8	24	18	35	0	1003.1	orig=594.03R.s.l.|orig.time=9:00PM|orig.date=1844-08-12|atb=13.33R
 1844	8	25	3	35	0	1003.2	orig=594.1R.s.l.|orig.time=6:00AM|orig.date=1844-08-13|atb=13.33R
 1844	8	25	6	35	0	1003	orig=593.95R.s.l.|orig.time=9:00AM|orig.date=1844-08-13|atb=13.33R
@@ -3472,7 +3472,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	9	9	6	35	0	1011.8	orig=599.19R.s.l.|orig.time=9:00AM|orig.date=1844-08-28|atb=13.33R
 1844	9	9	9	35	0	1011	orig=598.33R.s.l.|orig.time=12:00AM|orig.date=1844-08-28|atb=13.33R
 1844	9	9	12	35	0	1008.8	orig=597.37R.s.l.|orig.time=3:00PM|orig.date=1844-08-28|atb=13.33R
-1844	9	9	18	35	0	1008,7	orig=596.97R.s.l.|orig.time=9:00PM|orig.date=1844-08-28|atb=13.33R
+1844	9	9	18	35	0	1008.7	orig=596.97R.s.l.|orig.time=9:00PM|orig.date=1844-08-28|atb=13.33R
 1844	9	10	3	35	0	1008.2	orig=597.03R.s.l.|orig.time=6:00AM|orig.date=1844-08-29|atb=13.33R
 1844	9	10	6	35	0	1008.2	orig=597.03R.s.l.|orig.time=9:00AM|orig.date=1844-08-29|atb=13.33R
 1844	9	10	9	35	0	1006.4	orig=595.97R.s.l.|orig.time=12:00AM|orig.date=1844-08-29|atb=13.33R
@@ -3620,7 +3620,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	10	7	6	35	0	995	orig=589.23R.s.l.|orig.time=9:00AM|orig.date=1844-09-25|atb=13.33R
 1844	10	7	9	35	0	995.4	orig=589.44R.s.l.|orig.time=12:00AM|orig.date=1844-09-25|atb=13.33R
 1844	10	7	12	35	0	996.3	orig=589.97R.s.l.|orig.time=3:00PM|orig.date=1844-09-25|atb=13.33R
-1844	10	7	15	35	0	996,9	orig=589.99R.s.l.|orig.time=6:00PM|orig.date=1844-09-25|atb=13.33R
+1844	10	7	15	35	0	996.9	orig=589.99R.s.l.|orig.time=6:00PM|orig.date=1844-09-25|atb=13.33R
 1844	10	7	18	35	0	999	orig=591.57R.s.l.|orig.time=9:00PM|orig.date=1844-09-25|atb=13.33R
 1844	10	8	3	35	0	994.6	orig=589R.s.l.|orig.time=6:00AM|orig.date=1844-09-26|atb=13.33R
 1844	10	8	6	35	0	991.1	orig=586.88R.s.l.|orig.time=9:00AM|orig.date=1844-09-26|atb=13.33R
@@ -3914,7 +3914,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	11	25	18	35	0	1026.4	orig=607.8R.s.l.|orig.time=9:00PM|orig.date=1844-11-13|atb=13.33R
 1844	11	26	3	35	0	1023.6	orig=606.13R.s.l.|orig.time=6:00AM|orig.date=1844-11-14|atb=13.33R
 1844	11	26	6	35	0	1023.5	orig=606.12R.s.l.|orig.time=9:00AM|orig.date=1844-11-14|atb=13.33R
-1844	11	26	9	35	0	1024,3	orig=606.19R.s.l.|orig.time=12:00AM|orig.date=1844-11-14|atb=13.33R
+1844	11	26	9	35	0	1024.3	orig=606.19R.s.l.|orig.time=12:00AM|orig.date=1844-11-14|atb=13.33R
 1844	11	26	12	35	0	1023.5	orig=606.09R.s.l.|orig.time=3:00PM|orig.date=1844-11-14|atb=13.33R
 1844	11	26	15	35	0	1024	orig=606.39R.s.l.|orig.time=6:00PM|orig.date=1844-11-14|atb=13.33R
 1844	11	26	18	35	0	1024.7	orig=606.8R.s.l.|orig.time=9:00PM|orig.date=1844-11-14|atb=13.33R
@@ -4097,7 +4097,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1844	12	26	9	35	0	1009.4	orig=597.75R.s.l.|orig.time=12:00AM|orig.date=1844-12-14|atb=13.33R
 1844	12	26	12	35	0	1008.8	orig=597.4R.s.l.|orig.time=3:00PM|orig.date=1844-12-14|atb=13.33R
 1844	12	26	15	35	0	1009.3	orig=597.71R.s.l.|orig.time=6:00PM|orig.date=1844-12-14|atb=13.33R
-1844	12	26	18	35	0	1011,1	orig=598.41R.s.l.|orig.time=9:00PM|orig.date=1844-12-14|atb=13.33R
+1844	12	26	18	35	0	1011.1	orig=598.41R.s.l.|orig.time=9:00PM|orig.date=1844-12-14|atb=13.33R
 1844	12	27	3	35	0	1012	orig=599.28R.s.l.|orig.time=6:00AM|orig.date=1844-12-15|atb=13.33R
 1844	12	27	6	35	0	1012	orig=599.26R.s.l.|orig.time=9:00AM|orig.date=1844-12-15|atb=13.33R
 1844	12	27	9	35	0	1010.7	orig=598.54R.s.l.|orig.time=12:00AM|orig.date=1844-12-15|atb=13.33R

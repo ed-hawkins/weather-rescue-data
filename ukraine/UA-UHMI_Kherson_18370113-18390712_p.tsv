@@ -1219,7 +1219,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1838	10	23	NA	NA	0	1007.5	orig=29.75In|orig.time=Evening|orig.date=1838-10-11
 1838	10	24	NA	NA	0	1012.6	orig=29.9In|orig.time=Morning|orig.date=1838-10-12
 1838	10	24	9	34	0	1015	orig=29.97In|orig.time=Noon|orig.date=1838-10-12
-1838	10	24	NA	NA	0	1011,9	orig=29.95In|orig.time=Evening|orig.date=1838-10-12
+1838	10	24	NA	NA	0	1011.9	orig=29.95In|orig.time=Evening|orig.date=1838-10-12
 1838	10	25	NA	NA	0	1016	orig=30In|orig.time=Morning|orig.date=1838-10-13
 1838	10	25	9	34	0	1033	orig=30.5In|orig.time=Noon|orig.date=1838-10-13
 1838	10	25	NA	NA	0	1033	orig=30.5In|orig.time=Evening|orig.date=1838-10-13

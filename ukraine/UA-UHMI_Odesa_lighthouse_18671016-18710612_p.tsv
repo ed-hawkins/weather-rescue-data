@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_lighthouse						
-Name	Odesa, lighthouse						
-Lat	46,4						
-Lon	30,75						
+Name	Odesa. lighthouse						
+Lat	46.4						
+Lon	30.75						
 Alt	45						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -462,7 +462,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	4	18	15	56	0	1008.5	orig=29.82In|orig.time=6:00PM|orig.date=1868-04-06|atb=6R
 1868	4	19	3	56	0	1009.5	orig=29.85In|orig.time=6:00AM|orig.date=1868-04-07|atb=6R
 1868	4	19	11	56	0	1009.5	orig=29.85In|orig.time=2:00PM|orig.date=1868-04-07|atb=6R
-1868	4	19	15	56	0	1008,1	orig=29.8In|orig.time=6:00PM|orig.date=1868-04-07|atb=6R
+1868	4	19	15	56	0	1008.1	orig=29.8In|orig.time=6:00PM|orig.date=1868-04-07|atb=6R
 1868	4	20	3	56	0	1008.1	orig=29.8In|orig.time=6:00AM|orig.date=1868-04-08|atb=5R
 1868	4	20	11	56	0	1008.1	orig=29.8In|orig.time=2:00PM|orig.date=1868-04-08|atb=5R
 1868	4	20	15	56	0	1008.1	orig=29.8In|orig.time=6:00PM|orig.date=1868-04-08|atb=5R
@@ -489,7 +489,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	4	27	15	56	0	1023.6	orig=30.28In|orig.time=6:00PM|orig.date=1868-04-15|atb=8R
 1868	4	28	3	56	0	1025.5	orig=30.33In|orig.time=6:00AM|orig.date=1868-04-16|atb=7R
 1868	4	28	11	56	0	1025.6	orig=30.34In|orig.time=2:00PM|orig.date=1868-04-16|atb=8R
-1868	4	28	15	56	0	1026,3	orig=30.35In|orig.time=6:00PM|orig.date=1868-04-16|atb=8R
+1868	4	28	15	56	0	1026.3	orig=30.35In|orig.time=6:00PM|orig.date=1868-04-16|atb=8R
 1868	4	29	3	56	0	1009	orig=29.84In|orig.time=6:00AM|orig.date=1868-04-17|atb=7R
 1868	4	29	11	56	0	1009	orig=29.84In|orig.time=2:00PM|orig.date=1868-04-17|atb=7R
 1868	4	29	15	56	0	1010	orig=29.87In|orig.time=6:00PM|orig.date=1868-04-17|atb=7R
@@ -569,8 +569,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	5	24	11	56	0	1020.5	orig=30.23In|orig.time=2:00PM|orig.date=1868-05-12|atb=14R
 1868	5	24	15	56	0	1020.5	orig=30.23In|orig.time=6:00PM|orig.date=1868-05-12|atb=14R
 1868	5	25	3	56	0	1020.8	orig=30.23In|orig.time=6:00AM|orig.date=1868-05-13|atb=13R
-1868	5	25	11	56	0	1021,2	orig=30.23In|orig.time=2:00PM|orig.date=1868-05-13|atb=14R
-1868	5	25	15	56	0	1021,2	orig=30.23In|orig.time=6:00PM|orig.date=1868-05-13|atb=14R
+1868	5	25	11	56	0	1021.2	orig=30.23In|orig.time=2:00PM|orig.date=1868-05-13|atb=14R
+1868	5	25	15	56	0	1021.2	orig=30.23In|orig.time=6:00PM|orig.date=1868-05-13|atb=14R
 1868	5	26	3	56	0	1017.4	orig=30.13In|orig.time=6:00AM|orig.date=1868-05-14|atb=13R
 1868	5	26	11	56	0	1019.2	orig=30.19In|orig.time=2:00PM|orig.date=1868-05-14|atb=14R
 1868	5	26	15	56	0	1019.2	orig=30.19In|orig.time=6:00PM|orig.date=1868-05-14|atb=14R
@@ -647,7 +647,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1868	6	19	11	56	0	1014.4	orig=30.09In|orig.time=2:00PM|orig.date=1868-06-07|atb=20R
 1868	6	19	15	56	0	1014.4	orig=30.09In|orig.time=6:00PM|orig.date=1868-06-07|atb=20R
 1868	6	20	3	56	0	1014.4	orig=30.09In|orig.time=6:00AM|orig.date=1868-06-08|atb=20R
-1868	6	20	11	56	0	1015,3	orig=30.1In|orig.time=2:00PM|orig.date=1868-06-08|atb=22R
+1868	6	20	11	56	0	1015.3	orig=30.1In|orig.time=2:00PM|orig.date=1868-06-08|atb=22R
 1868	6	20	15	56	0	1014.3	orig=30.1In|orig.time=6:00PM|orig.date=1868-06-08|atb=22R
 1868	6	21	3	56	0	1016	orig=30.13In|orig.time=6:00AM|orig.date=1868-06-09|atb=19R
 1868	6	21	11	56	0	1016	orig=30.13In|orig.time=2:00PM|orig.date=1868-06-09|atb=19R
@@ -778,34 +778,34 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1869	12	30	15	56	0	1029.6	orig=30.5In|orig.time=6:00PM|orig.date=1869-12-18|atb=14R
 1869	12	31	3	56	0	1031.6	orig=30.55In|orig.time=6:00AM|orig.date=1869-12-19|atb=13R
 1869	12	31	11	56	0	1031.6	orig=30.55In|orig.time=2:00PM|orig.date=1869-12-19|atb=13R
-1869	12	31	15	56	0	1030,3	orig=30.5In|orig.time=6:00PM|orig.date=1869-12-19|atb=14R
-1870	1	1	3	56	0	1011,5	orig=29.95In|orig.time=6:00AM|orig.date=1869-12-20|atb=15R
+1869	12	31	15	56	0	1030.3	orig=30.5In|orig.time=6:00PM|orig.date=1869-12-19|atb=14R
+1870	1	1	3	56	0	1011.5	orig=29.95In|orig.time=6:00AM|orig.date=1869-12-20|atb=15R
 1870	1	1	11	56	0	1010.8	orig=29.95In|orig.time=2:00PM|orig.date=1869-12-20|atb=15R
-1870	1	1	15	56	0	1009,8	orig=29.9In|orig.time=6:00PM|orig.date=1869-12-20|atb=15R
-1870	1	2	3	56	0	1030,3	orig=30.5In|orig.time=6:00AM|orig.date=1869-12-21|atb=14R
-1870	1	2	11	56	0	1016,8	orig=30.1In|orig.time=2:00PM|orig.date=1869-12-21|atb=14R
+1870	1	1	15	56	0	1009.8	orig=29.9In|orig.time=6:00PM|orig.date=1869-12-20|atb=15R
+1870	1	2	3	56	0	1030.3	orig=30.5In|orig.time=6:00AM|orig.date=1869-12-21|atb=14R
+1870	1	2	11	56	0	1016.8	orig=30.1In|orig.time=2:00PM|orig.date=1869-12-21|atb=14R
 1870	1	2	15	56	0	1015.9	orig=30.1In|orig.time=6:00PM|orig.date=1869-12-21|atb=15R
-1870	1	3	3	56	0	1018,3	orig=30.15In|orig.time=6:00AM|orig.date=1869-12-22|atb=15R
+1870	1	3	3	56	0	1018.3	orig=30.15In|orig.time=6:00AM|orig.date=1869-12-22|atb=15R
 1870	1	3	11	56	0	1017.4	orig=30.15In|orig.time=2:00PM|orig.date=1869-12-22|atb=16R
 1870	1	3	15	56	0	1017.4	orig=30.15In|orig.time=6:00PM|orig.date=1869-12-22|atb=16R
-1870	1	4	3	56	0	1030,1	orig=30.5In|orig.time=6:00AM|orig.date=1869-12-23|atb=15R
-1870	1	4	11	56	0	1016,6	orig=30.1In|orig.time=2:00PM|orig.date=1869-12-23|atb=15R
-1870	1	4	15	56	0	1018,5	orig=30.15In|orig.time=6:00PM|orig.date=1869-12-23|atb=14R
+1870	1	4	3	56	0	1030.1	orig=30.5In|orig.time=6:00AM|orig.date=1869-12-23|atb=15R
+1870	1	4	11	56	0	1016.6	orig=30.1In|orig.time=2:00PM|orig.date=1869-12-23|atb=15R
+1870	1	4	15	56	0	1018.5	orig=30.15In|orig.time=6:00PM|orig.date=1869-12-23|atb=14R
 1870	1	5	3	56	0	1018.1	orig=30.15In|orig.time=6:00AM|orig.date=1869-12-24|atb=13R
-1870	1	5	11	56	0	1020,2	orig=30.2In|orig.time=2:00PM|orig.date=1869-12-24|atb=14R
-1870	1	5	15	56	0	1021,8	orig=30.25In|orig.time=6:00PM|orig.date=1869-12-24|atb=14R
-1870	1	6	3	56	0	1023,4	orig=30.3In|orig.time=6:00AM|orig.date=1869-12-25|atb=15R
+1870	1	5	11	56	0	1020.2	orig=30.2In|orig.time=2:00PM|orig.date=1869-12-24|atb=14R
+1870	1	5	15	56	0	1021.8	orig=30.25In|orig.time=6:00PM|orig.date=1869-12-24|atb=14R
+1870	1	6	3	56	0	1023.4	orig=30.3In|orig.time=6:00AM|orig.date=1869-12-25|atb=15R
 1870	1	6	11	56	0	1022.6	orig=30.3In|orig.time=2:00PM|orig.date=1869-12-25|atb=15R
 1870	1	6	15	56	0	1022.9	orig=30.3In|orig.time=6:00PM|orig.date=1869-12-25|atb=14R
-1870	1	7	3	56	0	1021,8	orig=30.25In|orig.time=6:00AM|orig.date=1869-12-26|atb=14R
+1870	1	7	3	56	0	1021.8	orig=30.25In|orig.time=6:00AM|orig.date=1869-12-26|atb=14R
 1870	1	7	11	56	0	1020	orig=30.2In|orig.time=2:00PM|orig.date=1869-12-26|atb=15R
-1870	1	7	15	56	0	1016,6	orig=30.1In|orig.time=6:00PM|orig.date=1869-12-26|atb=15R
+1870	1	7	15	56	0	1016.6	orig=30.1In|orig.time=6:00PM|orig.date=1869-12-26|atb=15R
 1870	1	8	3	56	0	1015.9	orig=30.1In|orig.time=6:00AM|orig.date=1869-12-27|atb=15R
-1870	1	8	11	56	0	1018,3	orig=30.15In|orig.time=2:00PM|orig.date=1869-12-27|atb=15R
+1870	1	8	11	56	0	1018.3	orig=30.15In|orig.time=2:00PM|orig.date=1869-12-27|atb=15R
 1870	1	8	15	56	0	1017.6	orig=30.15In|orig.time=6:00PM|orig.date=1869-12-27|atb=15R
 1870	1	9	3	56	0	1020	orig=30.2In|orig.time=6:00AM|orig.date=1869-12-28|atb=15R
-1870	1	9	11	56	0	1021,5	orig=30.24In|orig.time=2:00PM|orig.date=1869-12-28|atb=14R
-1870	1	9	15	56	0	1023,5	orig=30.3In|orig.time=6:00PM|orig.date=1869-12-28|atb=14R
+1870	1	9	11	56	0	1021.5	orig=30.24In|orig.time=2:00PM|orig.date=1869-12-28|atb=14R
+1870	1	9	15	56	0	1023.5	orig=30.3In|orig.time=6:00PM|orig.date=1869-12-28|atb=14R
 1870	1	10	3	56	0	1020	orig=30.2In|orig.time=6:00AM|orig.date=1869-12-29|atb=15R
 1870	1	10	11	56	0	1019	orig=30.2In|orig.time=2:00PM|orig.date=1869-12-29|atb=16R
 1870	1	10	15	56	0	1019	orig=30.2In|orig.time=6:00PM|orig.date=1869-12-29|atb=16R
@@ -891,7 +891,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1870	2	6	11	56	0	1027.1	orig=30.39In|orig.time=2:00PM|orig.date=1870-01-25|atb=9R
 1870	2	6	15	56	0	1027.1	orig=30.39In|orig.time=6:00PM|orig.date=1870-01-25|atb=9R
 1870	2	7	3	56	0	1027.1	orig=30.39In|orig.time=6:00AM|orig.date=1870-01-26|atb=9R
-1870	2	7	11	56	0	1026,7	orig=30.37In|orig.time=2:00PM|orig.date=1870-01-26|atb=10R
+1870	2	7	11	56	0	1026.7	orig=30.37In|orig.time=2:00PM|orig.date=1870-01-26|atb=10R
 1870	2	7	15	56	0	1026.7	orig=30.37In|orig.time=6:00PM|orig.date=1870-01-26|atb=8R
 1870	2	8	3	56	0	1025	orig=30.32In|orig.time=6:00AM|orig.date=1870-01-27|atb=8R
 1870	2	8	11	56	0	1024.7	orig=30.32In|orig.time=2:00PM|orig.date=1870-01-27|atb=9R
@@ -1137,29 +1137,29 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1870	4	29	15	56	0	1009.1	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-17|atb=15R
 1870	4	30	3	56	0	1009.4	orig=29.9In|orig.time=6:00AM|orig.date=1870-04-18|atb=14R
 1870	4	30	11	56	0	1009.1	orig=29.9In|orig.time=2:00PM|orig.date=1870-04-18|atb=15R
-1870	4	30	15	56	0	1009,8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-18|atb=15R
+1870	4	30	15	56	0	1009.8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-18|atb=15R
 1870	5	1	3	56	0	1008	orig=29.85In|orig.time=6:00AM|orig.date=1870-04-19|atb=16R
 1870	5	1	11	56	0	1009.1	orig=29.9In|orig.time=2:00PM|orig.date=1870-04-19|atb=15R
-1870	5	1	15	56	0	1009,8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-19|atb=15R
+1870	5	1	15	56	0	1009.8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-19|atb=15R
 1870	5	2	3	56	0	1022	orig=30.25In|orig.time=6:00AM|orig.date=1870-04-20|atb=13R
-1870	5	2	11	56	0	1015,4	orig=30.06In|orig.time=2:00PM|orig.date=1870-04-20|atb=14R
-1870	5	2	15	56	0	1015,1	orig=30.05In|orig.time=6:00PM|orig.date=1870-04-20|atb=14R
-1870	5	3	3	56	0	1012,4	orig=29.97In|orig.time=6:00AM|orig.date=1870-04-21|atb=14R
-1870	5	3	11	56	0	1011,5	orig=29.95In|orig.time=2:00PM|orig.date=1870-04-21|atb=15R
-1870	5	3	15	56	0	1009,8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-21|atb=15R
-1870	5	4	3	56	0	1011,5	orig=29.95In|orig.time=6:00AM|orig.date=1870-04-22|atb=15R
-1870	5	4	11	56	0	1010,7	orig=29.93In|orig.time=2:00PM|orig.date=1870-04-22|atb=16R
-1870	5	4	15	56	0	1010,2	orig=29.91In|orig.time=6:00PM|orig.date=1870-04-22|atb=15R
-1870	5	5	3	56	0	1013,9	orig=30.02In|orig.time=6:00AM|orig.date=1870-04-23|atb=15R
+1870	5	2	11	56	0	1015.4	orig=30.06In|orig.time=2:00PM|orig.date=1870-04-20|atb=14R
+1870	5	2	15	56	0	1015.1	orig=30.05In|orig.time=6:00PM|orig.date=1870-04-20|atb=14R
+1870	5	3	3	56	0	1012.4	orig=29.97In|orig.time=6:00AM|orig.date=1870-04-21|atb=14R
+1870	5	3	11	56	0	1011.5	orig=29.95In|orig.time=2:00PM|orig.date=1870-04-21|atb=15R
+1870	5	3	15	56	0	1009.8	orig=29.9In|orig.time=6:00PM|orig.date=1870-04-21|atb=15R
+1870	5	4	3	56	0	1011.5	orig=29.95In|orig.time=6:00AM|orig.date=1870-04-22|atb=15R
+1870	5	4	11	56	0	1010.7	orig=29.93In|orig.time=2:00PM|orig.date=1870-04-22|atb=16R
+1870	5	4	15	56	0	1010.2	orig=29.91In|orig.time=6:00PM|orig.date=1870-04-22|atb=15R
+1870	5	5	3	56	0	1013.9	orig=30.02In|orig.time=6:00AM|orig.date=1870-04-23|atb=15R
 1870	5	5	11	56	0	1014	orig=30.03In|orig.time=2:00PM|orig.date=1870-04-23|atb=16R
-1870	5	5	15	56	0	1011,3	orig=29.95In|orig.time=6:00PM|orig.date=1870-04-23|atb=16R
-1870	5	6	3	56	0	1014,9	orig=30.05In|orig.time=6:00AM|orig.date=1870-04-24|atb=15R
+1870	5	5	15	56	0	1011.3	orig=29.95In|orig.time=6:00PM|orig.date=1870-04-23|atb=16R
+1870	5	6	3	56	0	1014.9	orig=30.05In|orig.time=6:00AM|orig.date=1870-04-24|atb=15R
 1870	5	6	11	56	0	1014.7	orig=30.07In|orig.time=2:00PM|orig.date=1870-04-24|atb=16R
-1870	5	6	15	56	0	1015,4	orig=30.07In|orig.time=6:00PM|orig.date=1870-04-24|atb=16R
+1870	5	6	15	56	0	1015.4	orig=30.07In|orig.time=6:00PM|orig.date=1870-04-24|atb=16R
 1870	5	7	3	56	0	1015.3	orig=30.09In|orig.time=6:00AM|orig.date=1870-04-25|atb=16R
 1870	5	7	11	56	0	1015.3	orig=30.09In|orig.time=2:00PM|orig.date=1870-04-25|atb=16R
 1870	5	7	15	56	0	1016	orig=30.09In|orig.time=6:00PM|orig.date=1870-04-25|atb=16.5R
-1870	5	8	3	56	0	1014,9	orig=30.05In|orig.time=6:00AM|orig.date=1870-04-26|atb=15R
+1870	5	8	3	56	0	1014.9	orig=30.05In|orig.time=6:00AM|orig.date=1870-04-26|atb=15R
 1870	5	8	11	56	0	1010.6	orig=29.95In|orig.time=2:00PM|orig.date=1870-04-26|atb=16R
 1870	5	8	15	56	0	1010.4	orig=29.95In|orig.time=6:00PM|orig.date=1870-04-26|atb=17R
 1870	5	9	3	56	0	1012.2	orig=30.01In|orig.time=6:00AM|orig.date=1870-04-27|atb=18R
@@ -2262,7 +2262,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1871	6	8	11	56	0	1002.6	orig=29.73In|orig.time=2:00PM|orig.date=1871-05-27|atb=18.5R
 1871	6	8	15	56	0	998.2	orig=29.6In|orig.time=6:00PM|orig.date=1871-05-27|atb=18.5R
 1871	6	9	3	56	0	992.6	orig=29.44In|orig.time=6:00AM|orig.date=1871-05-28|atb=19.5R
-1871	6	9	11	56	0	991,3	orig=29.37In|orig.time=2:00PM|orig.date=1871-05-28|atb=18.5R
+1871	6	9	11	56	0	991.3	orig=29.37In|orig.time=2:00PM|orig.date=1871-05-28|atb=18.5R
 1871	6	10	3	56	0	995.3	orig=29.5In|orig.time=6:00AM|orig.date=1871-05-29|atb=16.5R
 1871	6	10	11	56	0	997.7	orig=29.57In|orig.time=2:00PM|orig.date=1871-05-29|atb=16.5R
 1871	6	10	15	56	0	997.1	orig=29.55In|orig.time=6:00PM|orig.date=1871-05-29|atb=16R

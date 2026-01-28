@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Kyiv_arboretum						
-Name	Kyiv, arboretum						
-Lat	50,43						
-Lon	30,43						
+Name	Kyiv. arboretum						
+Lat	50.43						
+Lon	30.43						
 Alt	143						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -499,7 +499,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1862	1	11	18	57	0	999.1	orig=589.9R.s.l.|orig.time=9:00PM|orig.date=1862-01-11|atb=0.5R
 1862	1	12	4	57	0	987.5	orig=583R.s.l.|orig.time=7:00AM|orig.date=1862-01-12|atb=0.3R
 1862	1	12	11	57	0	987.3	orig=583.4R.s.l.|orig.time=2:00PM|orig.date=1862-01-12|atb=4.2R
-1862	1	12	18	57	0	989,3	orig=584.3R.s.l.|orig.time=9:00PM|orig.date=1862-01-12|atb=2.5R
+1862	1	12	18	57	0	989.3	orig=584.3R.s.l.|orig.time=9:00PM|orig.date=1862-01-12|atb=2.5R
 1862	1	13	4	57	0	991.6	orig=585.5R.s.l.|orig.time=7:00AM|orig.date=1862-01-13|atb=0.9R
 1862	1	13	11	57	0	993.1	orig=586.6R.s.l.|orig.time=2:00PM|orig.date=1862-01-13|atb=2.2R
 1862	1	13	18	57	0	998.1	orig=589.4R.s.l.|orig.time=9:00PM|orig.date=1862-01-13|atb=1.2R
@@ -559,7 +559,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1862	1	31	18	57	0	976.9	orig=576.9R.s.l.|orig.time=9:00PM|orig.date=1862-01-31|atb=1.4R
 1862	2	1	4	57	0	978	orig=577.7R.s.l.|orig.time=7:00AM|orig.date=1862-02-01|atb=2.3R
 1862	2	1	11	57	0	977.7	orig=577.8R.s.l.|orig.time=2:00PM|orig.date=1862-02-01|atb=4.5R
-1862	2	1	18	57	0	978,9	orig=578.4R.s.l.|orig.time=9:00PM|orig.date=1862-02-01|atb=4.9R
+1862	2	1	18	57	0	978.9	orig=578.4R.s.l.|orig.time=9:00PM|orig.date=1862-02-01|atb=4.9R
 1862	2	2	4	57	0	980.5	orig=579.5R.s.l.|orig.time=7:00AM|orig.date=1862-02-02|atb=5R
 1862	2	2	11	57	0	984.2	orig=582R.s.l.|orig.time=2:00PM|orig.date=1862-02-02|atb=7.3R
 1862	2	2	18	57	0	989.1	orig=584.8R.s.l.|orig.time=9:00PM|orig.date=1862-02-02|atb=6.4R
@@ -584,7 +584,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1862	2	9	4	57	0	1012.3	orig=598.1R.s.l.|orig.time=7:00AM|orig.date=1862-02-09|atb=3.3R
 1862	2	9	11	57	0	1012.9	orig=599.4R.s.l.|orig.time=2:00PM|orig.date=1862-02-09|atb=10.3R
 1862	2	9	18	57	0	1014.4	orig=600R.s.l.|orig.time=9:00PM|orig.date=1862-02-09|atb=8.4R
-1862	2	10	4	57	0	1014,4	orig=599.2R.s.l.|orig.time=7:00AM|orig.date=1862-02-10|atb=2.9R
+1862	2	10	4	57	0	1014.4	orig=599.2R.s.l.|orig.time=7:00AM|orig.date=1862-02-10|atb=2.9R
 1862	2	10	11	57	0	1012.4	orig=598.3R.s.l.|orig.time=2:00PM|orig.date=1862-02-10|atb=4.4R
 1862	2	10	18	57	0	1010.1	orig=596.8R.s.l.|orig.time=9:00PM|orig.date=1862-02-10|atb=3.5R
 1862	2	11	4	57	0	1005.8	orig=594.1R.s.l.|orig.time=7:00AM|orig.date=1862-02-11|atb=2.2R
@@ -677,7 +677,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1862	3	12	4	57	0	1012.8	orig=599.2R.s.l.|orig.time=7:00AM|orig.date=1862-03-12|atb=9.2R
 1862	3	12	11	57	0	1012.7	orig=599.5R.s.l.|orig.time=2:00PM|orig.date=1862-03-12|atb=12.1R
 1862	3	12	18	57	0	1010.8	orig=598.1R.s.l.|orig.time=9:00PM|orig.date=1862-03-12|atb=9.9R
-1862	3	13	4	57	0	1009,2	orig=596.7R.s.l.|orig.time=7:00AM|orig.date=1862-03-13|atb=8.5R
+1862	3	13	4	57	0	1009.2	orig=596.7R.s.l.|orig.time=7:00AM|orig.date=1862-03-13|atb=8.5R
 1862	3	13	11	57	0	1006.9	orig=596.2R.s.l.|orig.time=2:00PM|orig.date=1862-03-13|atb=12.8R
 1862	3	13	18	57	0	1005.8	orig=595.2R.s.l.|orig.time=9:00PM|orig.date=1862-03-13|atb=10.5R
 1862	3	14	4	57	0	1003.6	orig=593.7R.s.l.|orig.time=7:00AM|orig.date=1862-03-14|atb=9R

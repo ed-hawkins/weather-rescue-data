@@ -2439,7 +2439,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1838	10	23	5	23	0	2.1	orig=1.7R|orig.time=8:00AM|orig.date=1838-10-11
 1838	10	23	7	23	0	5	orig=4R|orig.time=10:00AM|orig.date=1838-10-11
 1838	10	23	9	23	0	4.6	orig=3.7R|orig.time=12:00AM|orig.date=1838-10-11
-1838	10	23	11	23	0	4,8	orig=3.8R|orig.time=2:00PM|orig.date=1838-10-11
+1838	10	23	11	23	0	4.8	orig=3.8R|orig.time=2:00PM|orig.date=1838-10-11
 1838	10	23	13	23	0	3.2	orig=2.6R|orig.time=4:00PM|orig.date=1838-10-11
 1838	10	23	15	23	0	1.8	orig=1.4R|orig.time=6:00PM|orig.date=1838-10-11
 1838	10	23	17	23	0	2	orig=1.6R|orig.time=8:00PM|orig.date=1838-10-11
@@ -2885,8 +2885,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1838	12	17	17	23	0	-7.2	orig=-5.8R|orig.time=8:00PM|orig.date=1838-12-05
 1838	12	17	19	23	0	-7.8	orig=-6.2R|orig.time=10:00PM|orig.date=1838-12-05
 1838	12	18	5	23	0	-11.5	orig=-9.2R|orig.time=8:00AM|orig.date=1838-12-06
-1838	12	18	7	23	0	-10,9	orig=-8.7R|orig.time=10:00AM|orig.date=1838-12-06
-1838	12	18	9	23	0	-10,5	orig=-8.4R|orig.time=12:00AM|orig.date=1838-12-06
+1838	12	18	7	23	0	-10.9	orig=-8.7R|orig.time=10:00AM|orig.date=1838-12-06
+1838	12	18	9	23	0	-10.5	orig=-8.4R|orig.time=12:00AM|orig.date=1838-12-06
 1838	12	18	11	23	0	-10.5	orig=-8.4R|orig.time=2:00PM|orig.date=1838-12-06
 1838	12	18	13	23	0	-11.8	orig=-9.4R|orig.time=4:00PM|orig.date=1838-12-06
 1838	12	18	15	23	0	-11.8	orig=-9.4R|orig.time=6:00PM|orig.date=1838-12-06

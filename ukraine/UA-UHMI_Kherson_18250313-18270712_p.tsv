@@ -338,7 +338,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1825	8	22	7	49	0	995.7	orig=29.4In|orig.time=10AM|orig.date=1825-08-10
 1825	8	22	19	49	0	995.7	orig=29.4In|orig.time=10PM|orig.date=1825-08-10
 1825	8	23	7	49	0	995.7	orig=29.4In|orig.time=10AM|orig.date=1825-08-11
-1825	8	23	19	49	0	991,6	orig=29.35In|orig.time=10PM|orig.date=1825-08-11
+1825	8	23	19	49	0	991.6	orig=29.35In|orig.time=10PM|orig.date=1825-08-11
 1825	8	24	7	49	0	992.3	orig=29.3In|orig.time=10AM|orig.date=1825-08-12
 1825	8	24	19	49	0	992.3	orig=29.3In|orig.time=10PM|orig.date=1825-08-12
 1825	8	25	7	49	0	992.3	orig=29.3In|orig.time=10AM|orig.date=1825-08-13
@@ -383,10 +383,10 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1825	9	13	19	49	0	995.7	orig=29.4In|orig.time=10PM|orig.date=1825-09-01
 1825	9	14	7	49	0	995.7	orig=29.4In|orig.time=10AM|orig.date=1825-09-02
 1825	9	14	19	49	0	990.3	orig=29.24In|orig.time=10PM|orig.date=1825-09-02
-1825	9	15	7	49	0	987,2	orig=29.22In|orig.time=10AM|orig.date=1825-09-03
+1825	9	15	7	49	0	987.2	orig=29.22In|orig.time=10AM|orig.date=1825-09-03
 1825	9	15	19	49	0	988.9	orig=29.2In|orig.time=10PM|orig.date=1825-09-03
 1825	9	16	7	49	0	988.9	orig=29.2In|orig.time=10AM|orig.date=1825-09-04
-1825	9	16	19	49	0	989,9	orig=29.3In|orig.time=10PM|orig.date=1825-09-04
+1825	9	16	19	49	0	989.9	orig=29.3In|orig.time=10PM|orig.date=1825-09-04
 1825	9	17	7	49	0	1009.2	orig=29.8In|orig.time=10AM|orig.date=1825-09-05
 1825	9	17	19	49	0	1009.2	orig=29.8In|orig.time=10PM|orig.date=1825-09-05
 1825	9	18	7	49	0	1009.2	orig=29.8In|orig.time=10AM|orig.date=1825-09-06
@@ -674,7 +674,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1826	2	6	7	49	0	1016	orig=30In|orig.time=10AM|orig.date=1826-01-25
 1826	2	6	19	49	0	1016	orig=30In|orig.time=10PM|orig.date=1826-01-25
 1826	2	7	7	49	0	1016	orig=30In|orig.time=10AM|orig.date=1826-01-26
-1826	2	7	19	49	0	1003,4	orig=29.7In|orig.time=10PM|orig.date=1826-01-26
+1826	2	7	19	49	0	1003.4	orig=29.7In|orig.time=10PM|orig.date=1826-01-26
 1826	2	8	7	49	0	1012.6	orig=29.9In|orig.time=10AM|orig.date=1826-01-27
 1826	2	8	19	49	0	1012.6	orig=29.9In|orig.time=10PM|orig.date=1826-01-27
 1826	2	9	7	49	0	1012.6	orig=29.9In|orig.time=10AM|orig.date=1826-01-28
@@ -1523,7 +1523,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1827	4	6	19	49	0	993	orig=29.32In|orig.time=10PM|orig.date=1827-03-25
 1827	4	7	7	49	0	992.3	orig=29.3In|orig.time=10AM|orig.date=1827-03-26
 1827	4	7	19	49	0	991	orig=29.26In|orig.time=10PM|orig.date=1827-03-26
-1827	4	8	7	49	0	990,6	orig=29.32In|orig.time=10AM|orig.date=1827-03-27
+1827	4	8	7	49	0	990.6	orig=29.32In|orig.time=10AM|orig.date=1827-03-27
 1827	4	8	19	49	0	998.4	orig=29.48In|orig.time=10PM|orig.date=1827-03-27
 1827	4	9	7	49	0	1001.5	orig=29.57In|orig.time=10AM|orig.date=1827-03-28
 1827	4	9	19	49	0	1005.9	orig=29.7In|orig.time=10PM|orig.date=1827-03-28

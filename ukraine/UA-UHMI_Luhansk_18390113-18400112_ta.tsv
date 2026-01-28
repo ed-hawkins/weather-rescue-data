@@ -233,11 +233,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	2	9	11	23	0	-15	orig=-12R|orig.time=2:00PM|orig.date=1839-01-28
 1839	2	9	13	23	0	-15.9	orig=-12.7R|orig.time=4:00PM|orig.date=1839-01-28
 1839	2	9	15	23	0	-16.5	orig=-13.2R|orig.time=6:00PM|orig.date=1839-01-28
-1839	2	9	17	23	0	-16,5	orig=-13.2R|orig.time=8:00PM|orig.date=1839-01-28
+1839	2	9	17	23	0	-16.5	orig=-13.2R|orig.time=8:00PM|orig.date=1839-01-28
 1839	2	9	19	23	0	-15.8	orig=-12.6R|orig.time=10:00PM|orig.date=1839-01-28
 1839	2	10	5	23	0	-16.2	orig=-13R|orig.time=8:00AM|orig.date=1839-01-29
 1839	2	10	7	23	0	-14.2	orig=-11.4R|orig.time=10:00AM|orig.date=1839-01-29
-1839	2	10	9	23	0	-13,8	orig=-11R|orig.time=12:00AM|orig.date=1839-01-29
+1839	2	10	9	23	0	-13.8	orig=-11R|orig.time=12:00AM|orig.date=1839-01-29
 1839	2	10	11	23	0	-12.2	orig=-9.8R|orig.time=2:00PM|orig.date=1839-01-29
 1839	2	10	13	23	0	-12.2	orig=-9.8R|orig.time=4:00PM|orig.date=1839-01-29
 1839	2	10	15	23	0	-11.2	orig=-9R|orig.time=6:00PM|orig.date=1839-01-29

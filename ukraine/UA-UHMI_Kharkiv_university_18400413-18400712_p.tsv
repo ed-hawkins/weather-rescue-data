@@ -1,6 +1,6 @@
 SEF	1.0.0						
 ID	Kharkiv_university						
-Name	Kharkiv, university						
+Name	Kharkiv. university						
 Lat	50						
 Lon	36.2333						
 Alt	140						
@@ -295,7 +295,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	6	2	7	35	0	996.6	orig=590.16R.s.l.|orig.time=10:00AM|orig.date=1840-05-21|atb=13.33R
 1840	6	2	9	35	0	995.8	orig=589.7R.s.l.|orig.time=noon|orig.date=1840-05-21|atb=13.33R
 1840	6	2	11	35	0	993.5	orig=588.32R.s.l.|orig.time=2:00PM|orig.date=1840-05-21|atb=13.33R
-1840	6	2	13	35	0	993,4	orig=587.92R.s.l.|orig.time=4:00PM|orig.date=1840-05-21|atb=13.33R
+1840	6	2	13	35	0	993.4	orig=587.92R.s.l.|orig.time=4:00PM|orig.date=1840-05-21|atb=13.33R
 1840	6	2	15	35	0	993	orig=588.04R.s.l.|orig.time=6:00PM|orig.date=1840-05-21|atb=13.33R
 1840	6	2	17	35	0	993.5	orig=588.3R.s.l.|orig.time=8:00PM|orig.date=1840-05-21|atb=13.33R
 1840	6	2	19	35	0	993.2	orig=588.16R.s.l.|orig.time=10:00PM|orig.date=1840-05-21|atb=13.33R
@@ -510,9 +510,9 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1840	6	26	5	35	0	993.3	orig=588.23R.s.l.|orig.time=8:00AM|orig.date=1840-06-14|atb=13.33R
 1840	6	26	7	35	0	993.5	orig=588.31R.s.l.|orig.time=10:00AM|orig.date=1840-06-14|atb=13.33R
 1840	6	26	9	35	0	994.5	orig=588.91R.s.l.|orig.time=noon|orig.date=1840-06-14|atb=13.33R
-1840	6	26	11	35	0	995,6	orig=589.2R.s.l.|orig.time=2:00PM|orig.date=1840-06-14|atb=13.33R
-1840	6	26	13	35	0	995,6	orig=589.2R.s.l.|orig.time=4:00PM|orig.date=1840-06-14|atb=13.33R
-1840	6	26	15	35	0	995,6	orig=589.2R.s.l.|orig.time=6:00PM|orig.date=1840-06-14|atb=13.33R
+1840	6	26	11	35	0	995.6	orig=589.2R.s.l.|orig.time=2:00PM|orig.date=1840-06-14|atb=13.33R
+1840	6	26	13	35	0	995.6	orig=589.2R.s.l.|orig.time=4:00PM|orig.date=1840-06-14|atb=13.33R
+1840	6	26	15	35	0	995.6	orig=589.2R.s.l.|orig.time=6:00PM|orig.date=1840-06-14|atb=13.33R
 1840	6	26	17	35	0	993.5	orig=588.31R.s.l.|orig.time=8:00PM|orig.date=1840-06-14|atb=13.33R
 1840	6	26	19	35	0	993.5	orig=588.31R.s.l.|orig.time=10:00PM|orig.date=1840-06-14|atb=13.33R
 1840	6	27	3	35	0	992.2	orig=587.57R.s.l.|orig.time=6:00AM|orig.date=1840-06-15|atb=13.33R

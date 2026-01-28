@@ -2885,7 +2885,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1830	10	12	9	10	0	10.4	orig=8.3R|orig.time=Noon|orig.date=1830-09-30
 1830	10	12	NA	NA	0	4.5	orig=3.6R|orig.time=Evening|orig.date=1830-09-30
 1830	10	13	NA	NA	0	2.9	orig=2.3R|orig.time=Morning|orig.date=1830-10-01
-1830	10	13	9	9	0	17,9	orig=14.3R|orig.time=Noon|orig.date=1830-10-01
+1830	10	13	9	9	0	17.9	orig=14.3R|orig.time=Noon|orig.date=1830-10-01
 1830	10	13	NA	NA	0	5	orig=4R|orig.time=Evening|orig.date=1830-10-01
 1830	10	14	NA	NA	0	1.4	orig=1.1R|orig.time=Morning|orig.date=1830-10-02
 1830	10	14	9	9	0	13.1	orig=10.5R|orig.time=Noon|orig.date=1830-10-02
@@ -5290,7 +5290,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1832	12	26	9	26	0	-10	orig=-8R|orig.time=Noon|orig.date=1832-12-14
 1832	12	26	NA	NA	0	-10	orig=-8R|orig.time=Evening|orig.date=1832-12-14
 1832	12	27	NA	NA	0	-9.6	orig=-7.7R|orig.time=Morning|orig.date=1832-12-15
-1832	12	27	9	26	0	-5,1	orig=-4.1R|orig.time=Noon|orig.date=1832-12-15
+1832	12	27	9	26	0	-5.1	orig=-4.1R|orig.time=Noon|orig.date=1832-12-15
 1832	12	27	NA	NA	0	-5.2	orig=-4.2R|orig.time=Evening|orig.date=1832-12-15
 1832	12	28	NA	NA	0	-7.5	orig=-6R|orig.time=Morning|orig.date=1832-12-16
 1832	12	28	9	27	0	-12.2	orig=-9.8R|orig.time=Noon|orig.date=1832-12-16
@@ -7307,7 +7307,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1834	11	14	9	9	0	-2.6	orig=-2.1R|orig.time=Noon|orig.date=1834-11-02
 1834	11	14	NA	NA	0	-2.5	orig=-2R|orig.time=Evening|orig.date=1834-11-02
 1834	11	15	NA	NA	0	-5	orig=-4R|orig.time=Morning|orig.date=1834-11-03
-1834	11	15	9	9	0	-2,4	orig=-1.9R|orig.time=Noon|orig.date=1834-11-03
+1834	11	15	9	9	0	-2.4	orig=-1.9R|orig.time=Noon|orig.date=1834-11-03
 1834	11	15	NA	NA	0	-1.9	orig=-1.5R|orig.time=Evening|orig.date=1834-11-03
 1834	11	16	NA	NA	0	-2.1	orig=-1.7R|orig.time=Morning|orig.date=1834-11-04
 1834	11	16	9	9	0	0.6	orig=0.5R|orig.time=Noon|orig.date=1834-11-04

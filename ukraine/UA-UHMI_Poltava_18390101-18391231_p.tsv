@@ -1,7 +1,7 @@
 SEF	1.0.0						
 ID	Poltava						
 Name	Poltava						
-Lat	49,6						
+Lat	49.6						
 Lon	34.55						
 Alt	160						
 Source	UA-UHMI						
@@ -202,7 +202,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	3	4	18	41	0	1002	orig=29.58In|orig.time=9|orig.date=1839-03-04
 1839	3	5	4	41	0	1002	orig=29.58In|orig.time=7|orig.date=1839-03-05
 1839	3	5	11	41	0	1004.7	orig=29.66In|orig.time=2|orig.date=1839-03-05
-1839	3	5	18	41	0	1003,6	orig=29.7In|orig.time=9|orig.date=1839-03-05
+1839	3	5	18	41	0	1003.6	orig=29.7In|orig.time=9|orig.date=1839-03-05
 1839	3	6	4	41	0	1011.2	orig=29.85In|orig.time=7|orig.date=1839-03-06
 1839	3	6	11	41	0	1012.2	orig=29.88In|orig.time=2|orig.date=1839-03-06
 1839	3	6	18	41	0	1012.9	orig=29.9In|orig.time=9|orig.date=1839-03-06
@@ -330,11 +330,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	4	16	11	41	0	1008.8	orig=29.78In|orig.time=2|orig.date=1839-04-16
 1839	4	16	18	41	0	1008.1	orig=29.76In|orig.time=9|orig.date=1839-04-16
 1839	4	17	4	41	0	1001.3	orig=29.56In|orig.time=7|orig.date=1839-04-17
-1839	4	17	11	41	0	999,6	orig=29.58In|orig.time=2|orig.date=1839-04-17
+1839	4	17	11	41	0	999.6	orig=29.58In|orig.time=2|orig.date=1839-04-17
 1839	4	17	18	41	0	1002.7	orig=29.6In|orig.time=9|orig.date=1839-04-17
 1839	4	18	4	41	0	1005	orig=29.74In|orig.time=7|orig.date=1839-04-18
-1839	4	18	11	41	0	1005,7	orig=29.76In|orig.time=2|orig.date=1839-04-18
-1839	4	18	18	41	0	1006,3	orig=29.78In|orig.time=9|orig.date=1839-04-18
+1839	4	18	11	41	0	1005.7	orig=29.76In|orig.time=2|orig.date=1839-04-18
+1839	4	18	18	41	0	1006.3	orig=29.78In|orig.time=9|orig.date=1839-04-18
 1839	4	19	4	41	0	1011.2	orig=29.85In|orig.time=7|orig.date=1839-04-19
 1839	4	19	11	41	0	1011.2	orig=29.85In|orig.time=2|orig.date=1839-04-19
 1839	4	19	18	41	0	1011.2	orig=29.85In|orig.time=9|orig.date=1839-04-19
@@ -561,7 +561,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	2	11	41	0	991.2	orig=29.26In|orig.time=2|orig.date=1839-07-02
 1839	7	2	18	41	0	991.2	orig=29.26In|orig.time=9|orig.date=1839-07-02
 1839	7	3	4	41	0	997.6	orig=29.45In|orig.time=7|orig.date=1839-07-03
-1839	7	3	11	41	0	992,2	orig=29.36In|orig.time=2|orig.date=1839-07-03
+1839	7	3	11	41	0	992.2	orig=29.36In|orig.time=2|orig.date=1839-07-03
 1839	7	3	18	41	0	997.6	orig=29.45In|orig.time=9|orig.date=1839-07-03
 1839	7	4	4	41	0	997.3	orig=29.44In|orig.time=7|orig.date=1839-07-04
 1839	7	4	11	41	0	994.9	orig=29.37In|orig.time=2|orig.date=1839-07-04
@@ -569,14 +569,14 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	5	4	41	0	998.3	orig=29.47In|orig.time=7|orig.date=1839-07-05
 1839	7	5	11	41	0	997.6	orig=29.45In|orig.time=2|orig.date=1839-07-05
 1839	7	5	18	41	0	994.6	orig=29.36In|orig.time=9|orig.date=1839-07-05
-1839	7	6	4	41	0	998,9	orig=29.56In|orig.time=7|orig.date=1839-07-06
+1839	7	6	4	41	0	998.9	orig=29.56In|orig.time=7|orig.date=1839-07-06
 1839	7	6	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-06
 1839	7	6	18	41	0	998	orig=29.46In|orig.time=9|orig.date=1839-07-06
 1839	7	7	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-07
 1839	7	7	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-07
 1839	7	7	18	41	0	998	orig=29.46In|orig.time=9|orig.date=1839-07-07
 1839	7	8	4	41	0	1001.3	orig=29.56In|orig.time=7|orig.date=1839-07-08
-1839	7	8	11	41	0	998,9	orig=29.56In|orig.time=2|orig.date=1839-07-08
+1839	7	8	11	41	0	998.9	orig=29.56In|orig.time=2|orig.date=1839-07-08
 1839	7	8	18	41	0	1001.3	orig=29.56In|orig.time=9|orig.date=1839-07-08
 1839	7	9	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-09
 1839	7	9	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-09
@@ -593,11 +593,11 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	13	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-13
 1839	7	13	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-13
 1839	7	13	18	41	0	998.3	orig=29.47In|orig.time=9|orig.date=1839-07-13
-1839	7	14	4	41	0	999,6	orig=29.58In|orig.time=7|orig.date=1839-07-14
+1839	7	14	4	41	0	999.6	orig=29.58In|orig.time=7|orig.date=1839-07-14
 1839	7	14	11	41	0	1001.3	orig=29.56In|orig.time=2|orig.date=1839-07-14
 1839	7	14	18	41	0	1001.3	orig=29.56In|orig.time=9|orig.date=1839-07-14
 1839	7	15	4	41	0	1000.7	orig=29.54In|orig.time=7|orig.date=1839-07-15
-1839	7	15	11	41	0	998,6	orig=29.55In|orig.time=2|orig.date=1839-07-15
+1839	7	15	11	41	0	998.6	orig=29.55In|orig.time=2|orig.date=1839-07-15
 1839	7	15	18	41	0	1001	orig=29.55In|orig.time=9|orig.date=1839-07-15
 1839	7	16	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-16
 1839	7	16	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-16
@@ -609,8 +609,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	18	11	41	0	1000.7	orig=29.54In|orig.time=2|orig.date=1839-07-18
 1839	7	18	18	41	0	1000.7	orig=29.54In|orig.time=9|orig.date=1839-07-18
 1839	7	19	4	41	0	999.3	orig=29.5In|orig.time=7|orig.date=1839-07-19
-1839	7	19	11	41	0	995,5	orig=29.46In|orig.time=2|orig.date=1839-07-19
-1839	7	19	18	41	0	996,9	orig=29.5In|orig.time=9|orig.date=1839-07-19
+1839	7	19	11	41	0	995.5	orig=29.46In|orig.time=2|orig.date=1839-07-19
+1839	7	19	18	41	0	996.9	orig=29.5In|orig.time=9|orig.date=1839-07-19
 1839	7	20	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-20
 1839	7	20	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-20
 1839	7	20	18	41	0	998	orig=29.46In|orig.time=9|orig.date=1839-07-20
@@ -625,22 +625,22 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	7	23	18	41	0	997.6	orig=29.45In|orig.time=9|orig.date=1839-07-23
 1839	7	24	4	41	0	994.6	orig=29.36In|orig.time=7|orig.date=1839-07-24
 1839	7	24	11	41	0	998	orig=29.46In|orig.time=2|orig.date=1839-07-24
-1839	7	24	18	41	0	992,2	orig=29.36In|orig.time=9|orig.date=1839-07-24
+1839	7	24	18	41	0	992.2	orig=29.36In|orig.time=9|orig.date=1839-07-24
 1839	7	25	4	41	0	998.3	orig=29.47In|orig.time=7|orig.date=1839-07-25
 1839	7	25	11	41	0	998.3	orig=29.47In|orig.time=2|orig.date=1839-07-25
-1839	7	25	18	41	0	995,9	orig=29.47In|orig.time=9|orig.date=1839-07-25
+1839	7	25	18	41	0	995.9	orig=29.47In|orig.time=9|orig.date=1839-07-25
 1839	7	26	4	41	0	1004.1	orig=29.64In|orig.time=7|orig.date=1839-07-26
 1839	7	26	11	41	0	1004.1	orig=29.64In|orig.time=2|orig.date=1839-07-26
 1839	7	26	18	41	0	1004.4	orig=29.65In|orig.time=9|orig.date=1839-07-26
 1839	7	27	4	41	0	1004.1	orig=29.64In|orig.time=7|orig.date=1839-07-27
 1839	7	27	11	41	0	1004.1	orig=29.64In|orig.time=2|orig.date=1839-07-27
 1839	7	27	18	41	0	1004.1	orig=29.64In|orig.time=9|orig.date=1839-07-27
-1839	7	28	4	41	0	1001,6	orig=29.64In|orig.time=7|orig.date=1839-07-28
-1839	7	28	11	41	0	1001,6	orig=29.64In|orig.time=2|orig.date=1839-07-28
+1839	7	28	4	41	0	1001.6	orig=29.64In|orig.time=7|orig.date=1839-07-28
+1839	7	28	11	41	0	1001.6	orig=29.64In|orig.time=2|orig.date=1839-07-28
 1839	7	28	18	41	0	1004.1	orig=29.64In|orig.time=9|orig.date=1839-07-28
 1839	7	29	4	41	0	1004.1	orig=29.64In|orig.time=7|orig.date=1839-07-29
 1839	7	29	11	41	0	1004.1	orig=29.64In|orig.time=2|orig.date=1839-07-29
-1839	7	29	18	41	0	1001,6	orig=29.64In|orig.time=9|orig.date=1839-07-29
+1839	7	29	18	41	0	1001.6	orig=29.64In|orig.time=9|orig.date=1839-07-29
 1839	7	30	4	41	0	998	orig=29.46In|orig.time=7|orig.date=1839-07-30
 1839	7	30	11	41	0	998.3	orig=29.47In|orig.time=2|orig.date=1839-07-30
 1839	7	30	18	41	0	998.6	orig=29.48In|orig.time=9|orig.date=1839-07-30
@@ -737,8 +737,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1839	8	30	4	41	0	1004.4	orig=29.65In|orig.time=7|orig.date=1839-08-30
 1839	8	30	11	41	0	1007.4	orig=29.74In|orig.time=2|orig.date=1839-08-30
 1839	8	30	18	41	0	1004.4	orig=29.65In|orig.time=9|orig.date=1839-08-30
-1839	8	31	4	41	0	1005,3	orig=29.75In|orig.time=7|orig.date=1839-08-31
-1839	8	31	11	41	0	1001,6	orig=29.64In|orig.time=2|orig.date=1839-08-31
+1839	8	31	4	41	0	1005.3	orig=29.75In|orig.time=7|orig.date=1839-08-31
+1839	8	31	11	41	0	1001.6	orig=29.64In|orig.time=2|orig.date=1839-08-31
 1839	8	31	18	41	0	1004.1	orig=29.64In|orig.time=9|orig.date=1839-08-31
 1839	9	1	4	41	0	1002.7	orig=29.6In|orig.time=7|orig.date=1839-09-01
 1839	9	1	11	41	0	1002.7	orig=29.6In|orig.time=2|orig.date=1839-09-01

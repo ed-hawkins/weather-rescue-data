@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_lighthouse						
-Name	Odesa, lighthouse						
-Lat	46,4						
-Lon	30,75						
+Name	Odesa. lighthouse						
+Lat	46.4						
+Lon	30.75						
 Alt	45						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -179,7 +179,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1865	7	7	3	56	0	17.5	orig=14R|orig.time=6:00AM|orig.date=1865-06-25
 1865	7	7	11	56	0	17.5	orig=14R|orig.time=2:00PM|orig.date=1865-06-25
 1865	7	7	15	56	0	17.5	orig=14R|orig.time=6:00PM|orig.date=1865-06-25
-1865	7	8	3	56	0	17,5	orig=14R|orig.time=6:00AM|orig.date=1865-06-26
+1865	7	8	3	56	0	17.5	orig=14R|orig.time=6:00AM|orig.date=1865-06-26
 1865	7	8	11	56	0	26.2	orig=21R|orig.time=2:00PM|orig.date=1865-06-26
 1865	7	8	15	56	0	25.6	orig=20.5R|orig.time=6:00PM|orig.date=1865-06-26
 1865	7	9	3	56	0	21.2	orig=17R|orig.time=6:00AM|orig.date=1865-06-27
@@ -1629,8 +1629,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1866	11	3	3	56	0	5	orig=4R|orig.time=6:00AM|orig.date=1866-10-22
 1866	11	3	11	56	0	5	orig=4R|orig.time=2:00PM|orig.date=1866-10-22
 1866	11	3	15	56	0	5	orig=4R|orig.time=6:00PM|orig.date=1866-10-22
-1866	11	4	3	56	0	7,5	orig=6R|orig.time=6:00AM|orig.date=1866-10-23
-1866	11	4	11	56	0	8,8	orig=7R|orig.time=2:00PM|orig.date=1866-10-23
+1866	11	4	3	56	0	7.5	orig=6R|orig.time=6:00AM|orig.date=1866-10-23
+1866	11	4	11	56	0	8.8	orig=7R|orig.time=2:00PM|orig.date=1866-10-23
 1866	11	4	15	56	0	8.8	orig=7R|orig.time=6:00PM|orig.date=1866-10-23
 1866	11	5	3	56	0	8.8	orig=7R|orig.time=6:00AM|orig.date=1866-10-24
 1866	11	5	11	56	0	8.8	orig=7R|orig.time=2:00PM|orig.date=1866-10-24
@@ -2068,7 +2068,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1867	3	29	11	56	0	3.8	orig=3R|orig.time=2:00PM|orig.date=1867-03-17
 1867	3	29	15	56	0	3.8	orig=3R|orig.time=6:00PM|orig.date=1867-03-17
 1867	3	30	3	56	0	2.5	orig=2R|orig.time=6:00AM|orig.date=1867-03-18
-1867	3	30	11	56	0	4,4	orig=3.5R|orig.time=2:00PM|orig.date=1867-03-18
+1867	3	30	11	56	0	4.4	orig=3.5R|orig.time=2:00PM|orig.date=1867-03-18
 1867	3	30	15	56	0	4.4	orig=3.5R|orig.time=6:00PM|orig.date=1867-03-18
 1867	3	31	3	56	0	5	orig=4R|orig.time=6:00AM|orig.date=1867-03-19
 1867	3	31	11	56	0	8.8	orig=7R|orig.time=2:00PM|orig.date=1867-03-19
@@ -4653,7 +4653,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1869	8	9	3	56	0	28.8	orig=23R|orig.time=6:00AM|orig.date=1869-07-28
 1869	8	9	11	56	0	31.2	orig=25R|orig.time=2:00PM|orig.date=1869-07-28
 1869	8	9	15	56	0	25	orig=20R|orig.time=6:00PM|orig.date=1869-07-28
-1869	8	10	3	56	0	23,8	orig=19R|orig.time=6:00AM|orig.date=1869-07-29
+1869	8	10	3	56	0	23.8	orig=19R|orig.time=6:00AM|orig.date=1869-07-29
 1869	8	10	11	56	0	30	orig=24R|orig.time=2:00PM|orig.date=1869-07-29
 1869	8	10	15	56	0	27.5	orig=22R|orig.time=6:00PM|orig.date=1869-07-29
 1869	8	11	3	56	0	22.5	orig=18R|orig.time=6:00AM|orig.date=1869-07-30

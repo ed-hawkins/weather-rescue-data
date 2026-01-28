@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_Vorontsov_lighthouse						
-Name	Odesa, Vorontsov lighthouse						
-Lat	46,5						
-Lon	30,77						
+Name	Odesa. Vorontsov lighthouse						
+Lat	46.5						
+Lon	30.77						
 Alt	0						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -855,7 +855,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	2	15	14	56	0	1005.7	orig=757mmHg|orig.time=5:00PM|orig.date=1875-02-03|atb=16R
 1875	2	15	18	56	0	1003	orig=755mmHg|orig.time=9:00PM|orig.date=1875-02-03|atb=16R
 1875	2	16	4	56	0	1003.3	orig=755mmHg|orig.time=7:00AM|orig.date=1875-02-04|atb=14.5R
-1875	2	16	10	56	0	1002,6	orig=754mmHg|orig.time=1:00PM|orig.date=1875-02-04|atb=15R
+1875	2	16	10	56	0	1002.6	orig=754mmHg|orig.time=1:00PM|orig.date=1875-02-04|atb=15R
 1875	2	16	14	56	0	1001.9	orig=754mmHg|orig.time=5:00PM|orig.date=1875-02-04|atb=15R
 1875	2	16	18	56	0	1001.8	orig=754mmHg|orig.time=9:00PM|orig.date=1875-02-04|atb=15.5R
 1875	2	17	4	56	0	1003.1	orig=755mmHg|orig.time=7:00AM|orig.date=1875-02-05|atb=15.5R
@@ -3217,7 +3217,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1876	9	28	4	56	0	996.7	orig=751mmHg|orig.time=7:00AM|orig.date=1876-09-16|atb=20.5R
 1876	9	28	10	56	0	999.2	orig=753mmHg|orig.time=1:00PM|orig.date=1876-09-16|atb=21R
 1876	9	28	14	56	0	999.4	orig=753mmHg|orig.time=5:00PM|orig.date=1876-09-16|atb=20R
-1876	9	28	18	56	0	1001,5	orig=754mmHg|orig.time=9:00PM|orig.date=1876-09-16|atb=21R
+1876	9	28	18	56	0	1001.5	orig=754mmHg|orig.time=9:00PM|orig.date=1876-09-16|atb=21R
 1876	9	29	4	56	0	1002.1	orig=755mmHg|orig.time=7:00AM|orig.date=1876-09-17|atb=20R
 1876	9	29	10	56	0	999	orig=753mmHg|orig.time=1:00PM|orig.date=1876-09-17|atb=22R
 1876	9	29	14	56	0	997.8	orig=752mmHg|orig.time=5:00PM|orig.date=1876-09-17|atb=21.5R

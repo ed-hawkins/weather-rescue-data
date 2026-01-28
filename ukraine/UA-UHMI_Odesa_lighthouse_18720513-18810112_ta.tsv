@@ -1,8 +1,8 @@
 SEF	1.0.0						
 ID	Odesa_lighthouse						
-Name	Odesa, lighthouse						
-Lat	46,4						
-Lon	30,75						
+Name	Odesa. lighthouse						
+Lat	46.4						
+Lon	30.75						
 Alt	45						
 Source	UA-UHMI						
 Link	https://doi.org/10.15407/uhmi.report.01						
@@ -2207,7 +2207,7 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1873	12	15	14	56	0	2.5	orig=2R|orig.time=5:00PM|orig.date=1873-12-03
 1873	12	15	18	56	0	1.9	orig=1.5R|orig.time=9:00PM|orig.date=1873-12-03
 1873	12	16	4	56	0	1.2	orig=1R|orig.time=7:00AM|orig.date=1873-12-04
-1873	12	16	10	56	0	4,4	orig=3.5R|orig.time=1:00PM|orig.date=1873-12-04
+1873	12	16	10	56	0	4.4	orig=3.5R|orig.time=1:00PM|orig.date=1873-12-04
 1873	12	16	14	56	0	3.8	orig=3R|orig.time=5:00PM|orig.date=1873-12-04
 1873	12	16	18	56	0	3.8	orig=3R|orig.time=9:00PM|orig.date=1873-12-04
 1873	12	17	4	56	0	-1.9	orig=-1.5R|orig.time=7:00AM|orig.date=1873-12-05
@@ -3897,8 +3897,8 @@ Year	Month	Day	Hour	Minute	Period	Value	Meta
 1875	2	22	18	56	0	-6.2	orig=-5R|orig.time=9:00PM|orig.date=1875-02-10
 1875	2	23	4	56	0	-6.2	orig=-5R|orig.time=7:00AM|orig.date=1875-02-11
 1875	2	23	10	56	0	-3.1	orig=-2.5R|orig.time=1:00PM|orig.date=1875-02-11
-1875	2	23	14	56	0	-3,1	orig=-2.5R|orig.time=5:00PM|orig.date=1875-02-11
-1875	2	23	18	56	0	3,8	orig=3R|orig.time=9:00PM|orig.date=1875-02-11
+1875	2	23	14	56	0	-3.1	orig=-2.5R|orig.time=5:00PM|orig.date=1875-02-11
+1875	2	23	18	56	0	3.8	orig=3R|orig.time=9:00PM|orig.date=1875-02-11
 1875	2	24	4	56	0	-0.6	orig=-0.5R|orig.time=7:00AM|orig.date=1875-02-12
 1875	2	24	10	56	0	-5	orig=-4R|orig.time=1:00PM|orig.date=1875-02-12
 1875	2	24	14	56	0	-5	orig=-4R|orig.time=5:00PM|orig.date=1875-02-12
