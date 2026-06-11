@@ -1,0 +1,22 @@
+SEF	1.0.0
+ID	Hiddensee-Vitte
+Name	Hiddensee-Vitte
+Lat	54.5681
+Lon	13.1061
+Alt	1.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 02201
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1958	10	29	6	8	0	1025.20	qc=1
+1958	10	29	13	8	0	1026.60	qc=1
+1958	10	29	20	8	0	1025.20	qc=1
+1958	10	30	6	8	0	1021.20	qc=1
+1958	10	30	13	8	0	1021.20	qc=1
+1958	10	30	20	8	0	1019.90	qc=1
+1958	10	31	6	8	0	1015.90	qc=1
+1958	10	31	13	8	0	1015.90	qc=1
+1958	10	31	20	8	0	1013.30	qc=1

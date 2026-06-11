@@ -1,0 +1,14 @@
+SEF	1.0.0
+ID	Bernburg-Saale-Nord
+Name	Bernburg-Saale-Nord
+Lat	51.8216
+Lon	11.7083
+Alt	83.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 00445
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1963	2	27	20	13	0	1.00	qc=1

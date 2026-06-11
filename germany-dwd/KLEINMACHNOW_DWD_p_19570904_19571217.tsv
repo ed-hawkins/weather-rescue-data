@@ -1,0 +1,17 @@
+SEF	1.0.0
+ID	Kleinmachnow
+Name	Kleinmachnow
+Lat	52.4044
+Lon	13.2225
+Alt	41.0
+Source	DWD
+Link	
+Vbl	p
+Stat	point
+Units	hPa
+Meta	PTC=?|PGC=?|DWD Station number 02621
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1957	9	4	6	7	0	946.60	qc=5
+1957	10	30	6	7	0	999.90	qc=5
+1957	10	31	6	7	0	999.90	qc=5
+1957	12	17	6	7	0	945.20	qc=5
